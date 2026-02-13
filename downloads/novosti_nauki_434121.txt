@@ -1,0 +1,3623 @@
+<!DOCTYPE html>
+<html lang='ru' prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+<head>
+<title>На протяжении «скучного миллиарда» на Земле доминировала переходная «протостероловая» биота • Елена Наймарк • Новости науки на «Элементах» • Эволюция, Геология, Микробиология</title>
+<noscript><meta name="viewport" content="width=device-width, initial-scale=1.0"></noscript>
+<script type='text/javascript'>if (!document.cookie.match(/\bdesktop_mode=1/)) document.write('<meta name="viewport" content="width=device-width, initial-scale=1.0">');</script>
+
+
+<META name="description" content="Геохимические исследования открыли целый новый мир, существовавший в древности на Земле: тогда доминантами планеты были уже не бактерии, но еще и не настоящие эукариоты. Эти организмы населяли планету не менее миллиарда лет в течение всего протерозоя. Их присутствие выявилось по специфическим биомаркерам стеролов, по которым принято судить о былом существовании эукариот.
+"/>
+
+
+
+<link rel="canonical" href="https://elementy.ru/novosti_nauki/434121/Na_protyazhenii_skuchnogo_milliarda_na_Zemle_dominirovala_perekhodnaya_protosterolovaya_biota" />
+
+
+<base href="//elementy.ru/">
+
+
+
+<meta property="og:title" content="На протяжении «скучного миллиарда» на Земле доминировала переходная «протостероловая» биота • Новости науки"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Геохимические исследования открыли целый новый мир, существовавший в&nbsp;древности на Земле: тогда доминантами планеты были уже не бактерии, но еще и не настоящие эукариоты. Эти организмы населяли планету не менее миллиарда лет в&nbsp;течение всего протерозоя. Их присутствие выявилось по специфическим биомаркерам стеролов, по которым принято судить о&nbsp;былом существовании эукариот. "/>
+<meta property="og:url" content="https://elementy.ru/novosti_nauki/434121/Na_protyazhenii_skuchnogo_milliarda_na_Zemle_dominirovala_perekhodnaya_protosterolovaya_biota"/>
+<meta property="og:image" content="https://elementy.ru/images/news/protosterol_biota_1_703.jpg"/>
+
+<meta property="article:section" content="Наука" />
+<meta property="article:tag" content="Эволюция"/><meta property="article:tag" content="Микробиология"/><meta property="article:tag" content="Геология"/>
+<meta property="og:site_name" content="«Элементы»"/>
+<meta property="og:locale" content="ru_RU"/>
+
+
+<link rel="manifest" href="/downloads/js/manifest.json?v=1.02">
+
+
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo16bw.png"  sizes="16x16"/>
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo32bw.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo48bw.png" sizes="48x48" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo64bw.png" sizes="64x64" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo128bw.png" sizes="128x128" />
+<link rel="shortcut icon" type="image/png" href="/images/eltnewdesign/logo32bw.png"/>
+
+<meta content='Элементы' name='apple-mobile-web-app-title'>
+
+<link rel="apple-touch-icon" type="image/png" href="/images/eltnewdesign/logo128bw.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/eltnewdesign/logo57bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/eltnewdesign/logo114bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/eltnewdesign/logo72wb.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/eltnewdesign/logo120bw.png" />
+
+<meta name="application-name" content="Элементы"/>
+<meta name="msapplication-TileColor" content="#001034" />
+<meta name="msapplication-TileImage" content="/images/eltnewdesign/logo128bw.png" />
+
+<meta name="yandex-tableau-widget" content="logo=https://elementy.ru/images/eltnewdesign/logo128bw.png, color=#001034" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://elementy.ru/rss"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/style2.css?v=1.125"/>
+
+<noscript>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>
+</noscript>
+<script type='text/javascript'>
+if (!document.cookie.match(/\bdesktop_mode=1/))
+   document.write(
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>');
+</script>
+
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-print.css?v=1.09"/>
+
+<script type="text/javascript" src="/download/mathjax_2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" async></script>
+<script src="//yastatic.net/share2/share.js" async></script>
+<script type="text/javascript" src='/downloads/js/menu.js?v=1.10'></script>
+<script type="text/javascript" src='/downloads/js/hor.js' async></script>
+<script type='text/javascript' src='/downloads/js/request.js' async></script>
+<script type='text/javascript' src='/downloads/js/scroll.js?v=1.03'></script>
+<script type='text/javascript' src='/downloads/js/more.js?v=1.02'></script>
+<script type='text/javascript' src='/downloads/js/ttlhover.js' async></script>
+<script type='text/javascript' src='/downloads/js/rfilters.js'></script>
+
+<script type="text/javascript">
+function pict_popup(src,title) {
+        var w = window.open(src,'','channelmode=no,toolbar=no,location=no,status=no,directories=no,menubar=no,');
+        if(navigator.appName=='Microsoft Internet Explorer') w.document.write('<title>'+title+'</title><img src="'+src+'" onLoad="i=document.images[0]; window.resizeTo(i.width+50,i.height+100)">')
+        return false
+}
+</script>
+
+
+
+
+</head>
+
+<body class="xrub-novosti_nauki xrubpage-no">
+<div class='allarea'  id='pgarea'>
+<a id="page_top"></a>
+
+<div class='mainmenublock hmenu' id='mmenubody' >
+     <div class='mbshading' id='mshading' onclick='toggleHMenu("mmenubody")'></div> 
+     <div class='hmenu'>
+      <div class='menuarea' id='mmenuarea'>
+       <a href='/' class='close' onclick='return toggleHMenu("mmenubody")'><span class='icon close'></span><span class='hint'>Закрыть</span></a>
+       <script type='text/javascript'>
+            var desktop_mode = document.cookie.match(/\bdesktop_mode=1/); 
+            if (!desktop_mode) document.write('<div class="oldlink hide_other"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div><hr class="hide_other">');
+       </script>
+       <ul class="level0"><li class="level0 selected">
+  <div><a href='/novosti_nauki'>Новости науки</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/kartinka_dnya'>Картинка дня</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/events'>Календарь событий</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/problems'>Задачи</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/email'>Детские вопросы</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/LHC'>Большой адронный коллайдер</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/LHC/novosti_BAK'>Новости LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/monitory_bolshogo_adronnogo_kollajdera'>Мониторы LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/LHC_results'>Результаты LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/zagadki_lhc'>Загадки LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_s_mu_mu'>Распад b→sμμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_1'>Распад B<sup>+</sup>→K<sup>+</sup>ll</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_2'>Распад B→Dlν</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_mu_mu'>Распад B→μμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/raspad_higgsa_na_muon_i_tau'>Распад H→μτ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/top_antitop_higgs'>Комбинация топ-антитоп-хиггс</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/zaryazhennyj_bozon_higgsa'>Заряженный бозон Хиггса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/dvuhfotonnyj_vsplesk_pri_750_gev'>Двухфотонный всплеск 750&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptony_odnogo_znaka_na_atlas'>Лептоны одного знака на ATLAS</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/eejj-otklonenije'>eejj-отклонение</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/sobytije_2.9tev'>Событие при 2,9 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_2_tev_atlas'>WZ-пик при 2 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_1.8_tev_cms'>WH-пик при 1,8 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_CMS'>Поиск суперсимметрии — 1</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_ATLAS'>Поиск суперсимметрии — 2</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_iii'>Поиск суперсимметрии — 3</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_results/beyondSM'>Отклонения от Стандартной модели</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/susy_search'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/exotic_search'>Экзотические частицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_search'>Поиск бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_study'>Изучение бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/top-quark'>Свойства топ-кварка</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/hadrons'>Рождение и распады адронов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/rare_decays'>Редкие распады B-мезонов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/difraction'>Адронная дифракция</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/nuclei'>Ядерные столкновения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/astro'>Астрофизика</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC_working'>LHC в работе</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lhc/timeline'>Хронология создания и работы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/general_schedule'>Общее расписание</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/what-to-check'>Как следить за новостями с LHC</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/working_cycle'>Рабочий цикл коллайдера</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/initial'>Ранние этапы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2008'>2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/incident'>Авария 19.09.2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009'>2009</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009/results_2009'>Результаты работы LHC в&nbsp;2009&nbsp;году</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_1'>Сеанс LHC Run&nbsp;1</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010'>2010</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010/results_2010'>Результаты работы LHC в&nbsp;2010&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011'>2011</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011/results_2011'>Результаты работы LHC в&nbsp;2011&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2012'>2012</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/schedule_2015'>Техническая пауза LS1</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_2'>Сеанс LHC Run&nbsp;2</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2015'>2015</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2016'>2016</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2017'>2017</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2018'>2018</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_3'>Сеанс LHC Run&nbsp;3</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_3/2022'>2022</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC'>Устройство и задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/LHC/about'>LHC: ключевые факты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/accelerator'>Устройство LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/beams'>Протонные пучки</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnets'>Магнитная система</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnet_training'>Как тренируют магниты</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/detectors'>Детекторы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ATLAS'>ATLAS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/CMS'>CMS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ALICE'>ALICE</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCb'>LHCb</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/TOTEM'>TOTEM</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCf'>LHCf</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/MoEDAL'>MoEDAL</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/why'>Зачем нужен LHC?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/tasks'>Задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/hadrons'>Свойства адронов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/decays'>Адронные распады</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/higgs'>Поиск бозона Хиггса</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/production_decay'>Рождение и распад</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/search_strategies'>Стратегии поиска</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/top-quark'>Топ-кварк</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/SUSY'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/exotic'>Экзотические теории</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/nuclei'>Ядерные столкновения</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/safety'>Безопасность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/estimates'>Вероятность катастрофы</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/black_holes'>Микроскопические черные дыры</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/phrases'>Толковый словарик журналистских штампов</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/HEP'>Физика элементарных частиц</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/HEP/educational'>Образовательные онлайн-ресурсы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/HEP/measures'>Величины и единицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/cross-section'>Сечение процесса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/luminosity'>Светимость</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/invariant-mass'>Инвариантная масса</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/study'>Как изучают частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/detecting'>Принципы детектирования</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/errors'>Погрешности</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/statistical'>Статистическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/systematic'>Систематическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/theoretical'>Теория и моделирование</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/sigma'>Сигма</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/subtleties'>Тонкости анализа</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/experiments'>Эксперименты на коллайдерах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/quark_model'>Классификация адронов</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/partonic_densities'>Партоны</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/hadronization'>Конфайнмент и адронизация</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/rapidity-angle_diagram'>Быстрота–угол</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/analysis_methods'>Приемы анализа</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/SM'>Стандартная модель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/problems'>Трудности</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/beyondSM'>За пределами СМ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/SUSY'>Суперсимметрия</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/higgs_theory'>Хиггсовский механизм</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/explanations'>Аналогии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/SM_Higgs'>Хиггс с&nbsp;массой 125&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/nonminimal'>Неминимальные варианты</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/gallery'>Галерея</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly'>В популярных журналах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/vmirenauki'>«В мире науки»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/znanijesila'>«Знание — сила»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvant'>«Квант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvantik'>«Квантик»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kommersant_nauka'>«Коммерсантъ Наука»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kot_shryodingera'>«Кот Шрёдингера»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_i_zhizn'>«Наука и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_iz_pervyh_ruk'>«Наука из первых рук»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/popularnaja_mehanika'>«Популярная механика»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_himija_biologija_meditsina'>«Потенциал»: Химия. Биология. Медицина</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_matematika_fizika_informatika'>«Потенциал»: Математика. Физика. Информатика</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda'>«Природа»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/o_zhurnale'>О журнале</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/priroda_v_internete'>«Природа» в интернете</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/kak_podpisatsya'>Как подписаться</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/gazeta_troitskiy_variant'>«Троицкий вариант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/khimiya_i_zhizn'>«Химия и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/chto_novogo_v_nauke_i_tekhnike'>«Что нового в науке и технике»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/ecologiya_i_zhizn'>«Экология и жизнь»</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/izbrannoe'>Избранное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/lektsii_dlya_shkolnikov'>Лекции для школьников</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/interview'>Интервью</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/vystavka_vse_v_mire_otnositelno'>Выставка «Всё в мире относительно»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lib/exhibition/authors'>О художниках</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/lib/exhibition/about'>О выставке</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/video'>Видеотека</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/bookclub'>Книжный клуб</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/bookclub/book'>Книги</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/author'>Авторы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/chapters'>Главы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/bookclub/chapters/knigi_opublikovannyje_polnostju'>Опубликовано полностью</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera'>Происхождение жизни</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/evolutsija_i_priroda_nauki'>Глава 1</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/svidetelstva_biologicheskoj_evolutsii'>Глава 2</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/vzglyady_kreatsionistov'>Глава 3</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/FAQ'>Заключение</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/bookclub/publisher'>Издательства</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/series'>Серии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review'>Рецензии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review_users'>Отзывы</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/time'>Масштабы: времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/time/estimating'>В помощь читателю</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-1.html'>Как оценивать типичные времена</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-2.html'>Как применять формулы&nbsp;— иллюстрация</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-3.html'>Тонкости и предостережения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-4.html'>Опорные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-5.html'>Колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-6.html'>Гармонические колебания и их период</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-7.html'>Волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-8.html'>Закон распада</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/milli'>Миллисекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/milli/milli-1.html'>Миллисекунды в нашей жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-2.html'>Фото вместо видео</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-3.html'>Мерцающие огоньки</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-4.html'>Скрытые возможности невооруженного взгляда</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/micro'>Микросекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/micro/micro-1.html'>Остановившийся мир</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-2.html'>И всё-таки он движется!</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-3.html'>Пределы механического затвора</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nano'>Наносекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nano/nano-1.html'>От предметов к веществу</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-2.html'>Коллективные явления</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-3.html'>Электромагнитные колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-4.html'>Информационная емкость радиоволны</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/pico'>Пикосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/pico/pico-1.html'>Атомное движение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-2.html'>Пределы звука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-3.html'>Как начинается плавление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-4.html'>Пределы электроники</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-5.html'>Электромагнитные волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-6.html'>Элементарные частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/femto'>Фемтосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/femto/femto-1.html'>Мир электронов и света</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-2.html'>Оптические вычислительные технологии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-3.html'>Фемтохимия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-4.html'>Фемтобиология</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/atto'>Аттосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/atto/atto-1.html'>Личная жизнь атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-2.html'>Самые внутренние электроны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-3.html'>Как взрезать атом</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-4.html'>Электроны на службе аттофизики</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/zepto'>Зептосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-1.html'>Жизнь атомных ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-2.html'>Энергия, время и соотношение неопределенностей</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/yocto'>Йоктосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-1.html'>На границе известного</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-2.html'>Столкновение тяжелых ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-3.html'>Вглубь йоктосекунды</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/year'>От секунды до года</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/year/year-1.html'>Семь с половиной порядков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-2.html'>Искусственные спутники Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-3.html'>Эхо землетрясений</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-4.html'>Астероид-убийца</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-5.html'>Как растекается тепло</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/very-long'>Астрономические времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-1.html'>Солнечная система</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-2.html'>Солнечная система на больших временах</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-3.html'>Глубокий космос</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-4.html'>Межгалактические отношения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-5.html'>Танец земного климата</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-6.html'>Тектоническая жизнь Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-7.html'>Сверхдолгоживущие частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/sonoluminescence'>Сонолюминесценция</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-1.html'>Свечение, порожденное звуком</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-2.html'>Поведение пузырька</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-3.html'>Последние мгновения коллапса</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/biophysics'>Фолдинг белков</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-1.html'>Физическая основа жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-2.html'>Главная и боковые цепи</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-3.html'>«Жизнь» белковой молекулы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-4.html'>Компьютерное моделирование фолдинга</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/excited'>Возбужденные атомы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-1.html'>Возбужденные атомы: кто такие и где встречаются</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-2.html'>Быстротечная жизнь возбужденных атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-3.html'>Миллионы безуспешных попыток</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-4.html'>Ридберговские атомы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-5.html'>Атомы-долгожители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-6.html'>Водородная линия 21&nbsp;см</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nuclear'>Ядерные распады</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-1.html'>«Ядерная секунда»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-2.html'>Альфа-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-3.html'>Тяжелые элементы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-4.html'>Бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-5.html'>Двойной бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-6.html'>Ядерные изомеры</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/particles'>Элементарные частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/particles/particles-1.html'>Законы элементарных частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-2.html'>Два руководящих принципа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-3.html'>Сильные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-4.html'>Электромагнитные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-5.html'>Слабые распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-6.html'>Повышенная жизнеспособность на&nbsp;околосветовых скоростях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-7.html'>На переднем крае физики элементарных частиц</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/continents'>Движение континентов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/continents/continents-1.html'>Такты тектонической жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-2.html'>Возраст Гималаев</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-3.html'>Когда задышал Северный Ледовитый океан?</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/posters'>Плакаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/posters/moment'>Мгновение</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/posters/fractals'>Фракталы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/fractals/fractals'>Что такое фракталы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/geometric'>Геометрические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Koch'>Снежинка Коха</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/T-square'>Т-квадрат</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/H-fractal'>H-фрактал</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Sierpinski'>Треугольник Серпинского</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Pythagoras'>Дерево Пифагора</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Levy'>Кривая Леви</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/dragon'>Дракон</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/dynamic'>Динамические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Mandelbrot'>Множество Мандельброта</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Julia'>Множества Жюлиа</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Halley'>Фрактал Галлея</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Newton'>Фрактал Ньютона</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/complex_numbers'>Комплексные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/dimensions'>Фрактальные размерности</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/how_to_draw'>Как это рисовать</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/nature'>Фракталы в природе</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/about'>О плакате</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/collider'>Ускоритель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/collider/1'>Зачем нужен ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/2'>Единицы измерения расстояний, энергий и масс</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/3'>Краткая история ускорителей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/4'>Как работает ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/5'>Детектор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/6'>Как на ускорителе изучают свойства частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/7'>Природные ускорители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/8'>Применение ускорителей и детекторов в медицине</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/aviation'>Покорение воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/aviation/light'>Аппараты легче воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/light/balloons'>Аэростаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/montgolfiere'>Первый аппарат легче воздуха, способный поднять человека</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/today'>Шары-монгольфьеры сегодня</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/light/dirigibles'>Дирижабли</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/france'>Типичный дирижабль конца XIX&nbsp;века рыбообразной формы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/tsiolkovsky'>Цельнометаллический бескаркасный дирижабль с&nbsp;изменением объема в&nbsp;полете и с&nbsp;подогревом газа</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/zeppelin'>Серийный дирижабль Германии времен Первой мировой войны</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/akron'>Гелиевые дирижабли США</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/hindenburg_disaster'>Гибель «Гинденбурга» 6&nbsp;мая 1937&nbsp;года</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/today'>Дирижабли сегодня</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/heavy'>Аппараты тяжелее воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/helicopters'>Вертолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/sikorskys1'>Первый вертолет И.&nbsp;И.&nbsp;Сикорского</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/cagi_1-ea'>Первый летающий аппарат классической схемы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/mi-26'>Тяжелый военно-транспортный вертолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/an-64'>Ударный вертолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans'>Экранопланы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/km'>Самый крупный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/orlenok'>Единственный российский серийный десантный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/bartini'>Экраноплан Бартини</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/lun'>Летающий госпиталь</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/planes'>Самолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/theory'>Теоретические основы полета аппаратов тяжелее воздуха</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mozhajskij'>Первый реализованный проект, однако достоверных сведений о полете нет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/wrights'>Первый самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ilya_muromec'>Первый «тяжелый самолет»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/newport17'>Первый самолет с «зализанными» обводами</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ant-6'>Тяжелый бомбардировщик-моноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/messerschmitt'>Самый массовый истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/yak-1'>Самый легкий и маневренный истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/supermarine_spitfire'>Лучший истребитель битвы за Британию в 1940&nbsp;г.</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mosquito'>Цельнодеревянный скоростной бомбардировщик «Мечта термита»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mitsubishi_a6m_reisen'>Истребитель&nbsp;— символ японской авиации</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/il-2'>Тяжелый штурмовик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-15'>Фронтовой истребитель, один из первых серийных реактивных самолетов</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-86_sabre'>Многоцелевой истребитель, противник МиГ-15 в корейской войне</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-21'>Выдающийся сверхзвуковой истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/lockheed'>Высотный разведывательный самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_b-52'>Стратегический бомбардировщик с велосипедным шасси</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-144'>Сверхзвуковой пассажирский самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_747_jumbo'>«Реактивный слон»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-15_eagle'>Тактический истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/su-27'>Маневренный истребитель-перехватчик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-160'>Стратегический бомбардировщик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/an-124_ruslan'>Тяжелый военно-транспортный самолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/terms'>Основные параметры самолетов, указанные на плакате</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/literature'>Список литературы</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/light_version'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/gravity'>Гравитация</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/gravity/1'>Парабола или прямая?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/2'>Все дома стоят криво</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/3'>Из Москвы в&nbsp;Питер за&nbsp;полчаса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/4'>На Луну в комфортных условиях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/5'>Скоростной спутник Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/6'>Перевернутый небоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/7'>Супернебоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/8'>Запуск спутника без затрат энергии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/9'>Раскрутим Землю</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/perpetuum'>Вечный двигатель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/first'>Вечный двигатель первого рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/second'>Вечный двигатель второго рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/third'>Вечный двигатель «третьего рода»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/1'>Колесо и&nbsp;шары</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/2'>Цепочка шаров</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/3'>«Птичка Хоттабыча»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/4'>Цепочка поплавков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/5'>Архимедов винт</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/6'>Машина Орфиреуса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/7'>Магнит и желоба</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/8'>«Вечный водопровод»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/9'>Автоматический подзавод часов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/10'>Подъем масла по&nbsp;фитилям</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/11'>Колесо и&nbsp;грузы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/12'>Установка Потапова</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/13'>Луна и планеты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/spectrum'>Электромагнитное излучение</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/spectrum/nature'>Природа электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/wave'>Частота и длина волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/history'>История открытия электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/union'>Великое объединение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/energy'>Энергия кванта</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/temperature'>Температура излучения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/diapasons'>Диапазоны излучения и вещество</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/about'>Что изображено на плакате</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/units'>Соотношения и единицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/gamma'>Гамма-излучение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/roentgen'>Рентген</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/ultraviolet'>Ультрафиолет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/visible'>Видимый диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/infrared'>Инфракрасный диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/radio'>Радиоизлучение и микроволны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/other'>За пределами спектра</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/human'>Возможности человека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/human/muscular'>Сила</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/mind'>Мышление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/science'>Наука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/evolution'>Эволюционный принцип</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/factor'>Человеческий фактор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/weight'>Поднятие тяжестей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/flight'>Полет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/walk'>Бег</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/swim'>Плавание</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/trefil'>200 законов мироздания</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/trefil/introduction'><i>Введение</i></a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/physics'>Физика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/astronomy'>Астрономия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/maths'>Математика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/chemistry'>Химия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biology'>Науки о жизни</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/geo'>Науки о Земле</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/misc'>Разное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/rvm'>Взгляд в прошлое</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biography'><i>Биографии</i></a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/genbio'>Журнал общей биологии</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/genbio/english'>In English</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/genbio/english/all'>All Issues</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/genbio/abstracts'>All Abstracts</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/genbio/last'>Свежий выпуск</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/all'>Все выпуски</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/resume'>Статьи</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/synopsis'>Синопсисы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about'>О журнале</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about/rules'>Авторам</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/law'>Наука, образование и право</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/law/organ.htm'>Федеральные органы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/program.htm'>Федеральные программы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/intellectual.htm'>Интеллектуальная собственность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/law/intellectual/international.htm'>Международное законодательство</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/russian.htm'>Законодательство РФ </a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/patent.htm'>Патентование</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/contact.htm'>Сделки и договоры</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/payment.htm'>Вознаграждение</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/law/degree.htm'>Ученые степени</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nostr.htm'>Нострификация</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/vuz.htm'>Образование, вузы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nii.htm'>Научные организации</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/prize.htm'>Премии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/grant.htm'>Гранты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/work.htm'>Трудовое законодательство </a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/kodex.htm'>Конституция и кодексы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/other.htm'>Другие нормативные акты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/all_laws.htm'>Все нормативные акты</a>
+  </div></li>
+
+  </li></ul></ul>
+       <script type='text/javascript'>
+            document.write('<hr'+(!desktop_mode?"  class='hide_main'":"")+'>');
+            document.write('<div class="oldlink hide_main"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div>');
+            if (desktop_mode )
+               document.write('<div class="chmod mob hide_main"><a href="/" onclick="return setDesktopMode(false)">Мобильная версия сайта</a></div>');
+            else
+               document.write('<div class="chmod dsk hide_main"><a href="/" onclick="return setDesktopMode(true)">Полная версия сайта</a></div>');
+       </script>
+       <hr>
+       <ul class='img'>
+        <li class='first'><a class='facebook' href='https://www.facebook.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'></a></li>
+        <li><a class='instagram' href='https://www.instagram.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'></a></li>
+        <li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'></a></li>
+        <li><a class='rss' href='/rss/news' target='_blank'></a></li>
+       </ul>
+      </div>
+     </div>
+</div>
+
+<div class='print_logo hide_screen'><script type='text/javascript'>document.write("<img src='/images/eltnewdesign/logo_wpr.png'>");</script></div>
+
+<div class='hhead' id='pghead'>
+  <div class='hmenu'>
+    <div class='lmenu' id='hmainmenu'>
+      <a href='/' class='item' onclick='return toggleHMenu("mmenubody")'><span class='icon menu'></span><span class='hint'>Меню</span></a>
+    </div>
+    <div class='rmenu' id='rmenu'>
+       <a href='/' class='item' onclick='return toggleHMenu(this, true)'><span class='icon search'></span><span class='hint'>Поиск</span></a>
+       <a href='/' class='close' onclick='return toggleHMenu(this)'><span class='icon close2'></span><span class='hint'>Закрыть</span></a>
+       <div class='menuarea'>
+         <div class='menusearch xform'> 
+         <form action="find">
+             <input type="text" class="search" name="words" value="" placeholder="Поиск">
+             <input type="image" name="search" src="images/eltnewdesign/search_b.png">
+         </form>
+         </div> 
+       </div>
+    </div>
+    <div class='logo'><a href="/" onclick='return checkHMScroll()'><span>&nbsp;</span></a></div>
+  </div>  
+</div>
+
+
+<div class='body'  id='pgbody'>
+
+  
+   <div class='mblock chead'>
+     
+     
+<div class='rubpath'><span class='first last'><a href='/novosti_nauki'>Новости науки</a></span> </div>
+
+</div>
+   
+  
+
+   
+       <div class='mblock nogap'>
+<div class='mb itemhead newslist'><h1>На протяжении «скучного миллиарда» на Земле доминировала переходная «протостероловая» биота</h1>
+<div class="sublink"><span class="date">13.07.2023</span>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/454741/Elena_Naymark">Елена Наймарк</a>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/2253632/Evolyutsiya">Эволюция</a><span class="comma">,</span> <a href="/novosti_nauki/t/2584639/Mikrobiologiya">Микробиология</a><span class="comma">,</span> <a href="/novosti_nauki/t/98045/Geologiya">Геология</a>&nbsp;<span class='break'>•</span> <a href="/novosti_nauki/434121#forum" onclick="forum_goto(); return false;">51&nbsp;комментарий</a></div></div>
+</div>
+
+<div class='mblock'>
+
+<div class='socnetblock'><script src="/downloads/js/snfly.js?v=1.04"></script>
+<div  id="socnets_share">
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter=""></div>
+<div id='forum_topsocnet_button' style='display:none' title='Написать комментарий'><span class='fmicon'></span><div class='counter' id='forum_topsocnet_count'></div></div>
+</div>
+</div>
+
+<div class='itemblock'><div class='memo'>
+    <!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/protosterol_biota_1_703.jpg" alt="Рис. 1. Древнейшие бесспорные ископаемые эукариоты" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 1.</b> Древнейшие бесспорные ископаемые эукариоты возрастом не менее 1,6 млрд лет, найденные в Китае в формации Бейдажань (Beidajian formation): <b>А</b> — <i><a href="https://en.wikipedia.org/wiki/Tappania" target=_blank>Tappania plana</a></i>, <b>B</b> — <i><a href="https://en.wikipedia.org/wiki/Shuiyousphaeridium" target=_blank>Shuiyousphaeridium macroreticulatum</a></i>. Фото из статьи N. J. Butterfield, 2014. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12139" target=_blank>Early evolution of the Eukaryota</a></p></div>
+
+
+</div>
+
+    <p><b>Геохимические исследования открыли целый новый мир, существовавший в&nbsp;древности на Земле: тогда доминантами планеты были уже не бактерии, но еще и не настоящие эукариоты. Эти организмы населяли планету не менее миллиарда лет в&nbsp;течение всего протерозоя. Их присутствие выявилось по специфическим биомаркерам стеролов, по которым принято судить о&nbsp;былом существовании эукариот. Ученые предположили, что в&nbsp;клеточных оболочках предшественников эукариот мог присутствовать не тот холестерол, который обычен сейчас в&nbsp;клеточных мембранах, а протостерол, который синтезируется на первых этапах многоступенчатого синтеза холестерола. Они разработали химический протокол поиска протостерола и применили его к&nbsp;образцам различных протерозойских пород. Протостерол обнаружился везде, во всех протерозойских образцах, а начиная с&nbsp;пород эдиакарского возраста протостеролы исчезают. Ученые заключили, что в&nbsp;протерозое процветала особая биота&nbsp;— протостероловая. Протостероловое население составляли предшественники эукариот с&nbsp;несовершенной клеточной мембраной. По ходу их эволюции синтез стеролов совершенствовался, что привело к&nbsp;появлению холестерола и настоящей эукариотической мембраны. В&nbsp;этом исследовании мы видим второй яркий пример важного палеонтологического открытия, сделанного на основе молекулярных находок (первым было открытие денисовского человека по ДНК).</b></p>
+
+<p>Блестящее исследование международной группы ученых под руководством специалиста-геохимика Йохена Брокса (<a href="https://earthsciences.anu.edu.au/people/academics/professor-jochen-j-brocks" target=_blank>Jochen&nbsp;J. Brocks</a>) из <a href="https://earthsciences.anu.edu.au/" target=_blank>Австралийского государственного университета</a> посвящено изучению протерозойской жизни в так называемом <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D1%83%D1%87%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D1%80%D0%B4" target=_blank>«скучном миллиарде»</a>&nbsp;— промежутке времени между 1,8&nbsp;млрд лет и 800&nbsp;млн лет назад. В&nbsp;то время на планете были относительно стабильные условия, замедлилась вулканическая деятельность, уровень кислорода мало-помалу увеличивался, а планету населяли различные бактерии и археи со своими вирусами. Этот период принято считать временем становления <a href="https://ru.wikipedia.org/wiki/%D0%AD%D1%83%D0%BA%D0%B0%D1%80%D0%B8%D0%BE%D1%82%D1%8B" target=_blank>эукариот</a>, организмов с&nbsp;оформленным клеточным ядром, митохондриями и гибкой двуслойной клеточной мембраной. И так&nbsp;— целый миллиард лет: никаких особых свершений на планете, кажется, не происходило, захватывающий ролик снять не о чем&nbsp;— ни метеоритов, ни колоссальных извержений, ни оледенений, ни зарождения новых ярких форм жизни. Однако, как выясняется, это представление сложилось от недостатка знаний. Эукариотическая жизнь как раз развивалась, вырабатывая элементы будущего разнообразия форм.</p>
+
+<p>Мы можем судить о&nbsp;существовании древних эукариот на планете по находкам ископаемых клеток с&nbsp;характерными признаками, а также по ископаемым <a href="https://old.bigenc.ru/geology/text/1867388" target=_blank>биомаркерам</a>, свойственным только эукариотам.</p>
+
+<p>Древнейшими ископаемыми эукариотами иногда называют фоссилии карельской Хизоваарской группы возрастом 2,8&nbsp;млрд лет (см.&nbsp;М.&nbsp;Астафьева, 2019. <a href="https://www.researchgate.net/publication/334561053_Iskopaemye_mikroorganizmy_arhea" target=_blank>Ископаемые микроорганизмы архея</a>). Однако более аккуратный морфологический фильтр (относительно крупный размер + сложная оболочка с&nbsp;орнаментом) и исключение возможных загрязнений заставляют сильно омолодить бесспорных эукариот до возраста 1600&nbsp;млрд лет. Они представляют собой пустые органические оболочки&nbsp;— или гладкие, или с&nbsp;выростами (рис.&nbsp;1). Родственные связи этих древнейших организмов пока не понятны.</p>
+
+<p>В более поздних протерозойских отложениях нередки находки как одноклеточных, так и многоклеточных эукариот. В&nbsp;этой связи обязательно упоминается многоклеточная <a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B8" target=_blank>красная водоросль</a>, найденная на севере Канады в&nbsp;отложениях возрастом 1,2–1,1&nbsp;млрд&nbsp;лет (рис.&nbsp;2),&nbsp;— самый древний многоклеточный организм.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/protosterol_biota_2_1220.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/protosterol_biota_2_1220.jpg','Рис. 2. Ископаемая красная водоросль Bangiomorpha pubescens')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/protosterol_biota_2_703.jpg" alt="Рис. 2. Ископаемая красная водоросль Bangiomorpha pubescens" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 2.</b> <i>Слева</i>&nbsp;— ископаемая красная водоросль <i><a href="https://en.wikipedia.org/wiki/Bangiomorpha" target=_blank>Bangiomorpha pubescens</a></i> возрастом 1,2–1,1&nbsp;млрд лет найденная в&nbsp;Канаде в&nbsp;формации Хантинг (Hunting formation). <i>Справа</i>&nbsp;— Многоклеточный эукариотический организм <i>Aimonema ramosa</i> возрастом 1,05&nbsp;млрд лет, Сибирь, лахандинская биота. Фото из статьи N.&nbsp;J.&nbsp;Butterfield, 2014. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12139" target=_blank>Early evolution of the Eukaryota</a></p></div>
+
+
+</div>
+
+<p>Эта портретная галерея становится относительной разнообразной в&nbsp;неопротерозое (около 800&nbsp;млн лет назад, рис.&nbsp;3), а до того стены галереи сплошь пустые.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/protosterol_biota_3_1309.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/protosterol_biota_3_1309.jpg','Рис. 3. Многоклеточные эукариотические организмы неясной природы')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/protosterol_biota_3_703.jpg" alt="Рис. 3. Многоклеточные эукариотические организмы неясной природы" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 3.</b> Многоклеточные эукариотические организмы неясной природы. <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D1%80%D0%BE%D0%B7%D0%BE%D0%B9" target=_blank>Неопротерозой</a>, 850&ndash;820&nbsp;млн лет. <b>A</b>&nbsp;&mdash; <i>Cheilofilum hysteriopsis,</i> <b>B</b>&nbsp;&mdash; <i>Tappania</i>&nbsp;sp., <b>C</b>&nbsp;&mdash; <i>Jacutianema solubila</i>, <b>D</b>&nbsp;&mdash; <i>Valkyria borealis</i>, <b>E</b>&nbsp;&mdash; <i>Proterocladus major</i> (возможный представитель зеленых водорослей), <b>F</b>&nbsp;&mdash; <i>Palaeastrum dyptocranum</i> (возможный представитель зеленых водорослей). Фото из статьи N.&nbsp;J.&nbsp;Butterfield, 2014. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12139" target=_blank>Early evolution of the Eukaryota</a></p></div>
+
+
+</div>
+
+<p>Согласно молекулярным реконструкциям, последний общий предок эукариот существовал 1,4–1,2&nbsp;млрд лет назад, а эукариоты появились еще раньше, на заре протерозоя. Где портреты ранних эукариот и почему ископаемая летопись столь скудна? Возможно, эукариот в&nbsp;раннем и среднем протерозое было так мало и они настолько терялись среди бактериального мира в&nbsp;редких местообитаниях, что их просто мало шансов найти. Примерно так и рассуждали специалисты, выстраивая историю органического мира.</p>
+
+<p>Параллельно развивался сюжет с&nbsp;биомаркерами эукариот. Основными биомаркерными молекулами для них считаются <a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%80%D0%B0%D0%BD" target=_blank>стераны</a>. Это продукты разложения <a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D1%8B" target=_blank>стеролов</a>, которые являются необходимым функциональным и конструктивным элементом мембраны эукариотической клетки. Стераны относительно нетрудно обнаружить в&nbsp;вытяжках из органической составляющей осадков. Для этого требуется выдержать порошок каменной породы в&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%85%D0%BB%D0%BE%D1%80%D0%BC%D0%B5%D1%82%D0%B0%D0%BD" target=_blank>дихлорметане</a> и исследовать раствор (химики могут заглянуть в&nbsp;раздел «Методы» обсуждаемой статьи). Если их находят в&nbsp;породах, то для специалиста это прямое указание на эукариотическую жизнь в&nbsp;данном месте и в&nbsp;данное время. Все анализы показывали, что в&nbsp;породах старше 800&nbsp;млн лет стеранов в&nbsp;подавляющем большинстве нет. Хотя при этом биомаркеры бактериальных мембран&nbsp;— гопаны&nbsp;— находят в&nbsp;протерозойских породах везде. Так что, если палеонтологи гадали, где ископаемые эукариоты старше 1&nbsp;млрд лет, то биохимики спрашивали, где стераны старше 800&nbsp;млн лет. Молекулярные реконструкции, уводящие гораздо глубже в&nbsp;прошлое, настоятельно требуют ответов на оба вопроса.</p>
+
+<p>И вот ответы найдены. Для этого Йохену Броксу и его команде потребовалось нестандартно осмыслить существо дела и отойти от стандартных процедур анализа проб. Их поиск строился на известной гипотезе <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D1%85,_%D0%9A%D0%BE%D0%BD%D1%80%D0%B0%D0%B4_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C" target=_blank>Конрада Блоха</a> о&nbsp;предшественниках <a href="https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%BD" target=_blank>холестерина</a> у&nbsp;возможных предков эукариот.</p>
+
+<p>Синтез холестерина у&nbsp;современных эукариот проходит через 19 промежуточных этапов. Уже на первых этапах получаются молекулы стеролов, пригодные так или иначе для выполнения «холестериновых» функций в&nbsp;мембранах. Это стартовые молекулы для данного синтеза: протостеролы (<a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%BB" target=_blank>ланостерол</a> у&nbsp;животных и <a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D1%82%D0%BE%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D1%8B" target=_blank>циклоартенол</a> у&nbsp;растений), а также урстеролы. Урстеролами Блох назвал промежуточные стадии синтеза холестерина&nbsp;— метилированные протостеролы. Согласно гипотезе Блоха, в&nbsp;мембранах эукариот на начальных этапах их эволюции функции холестерина выполняли протостероиды и урстеролы. Эту гипотезу нетрудно проверить&nbsp;— проанализировать весь спектр ископаемых стероидов в&nbsp;геологических осадках. Но это было сделано только теперь. Почему, если эта идея прямо-таки напрашивается? Авторы обсуждаемой работы считают, что раньше все работы велись по отработанному протоколу, в&nbsp;котором не было пункта «выделить протостеролы (протостераны)». Иными словами, мешала наезженная колея. Сами авторы решили включить этот пункт в&nbsp;свой протокол, хотя пришлось, конечно, отработать его по-новому и расширить референсные библиотеки (в&nbsp;«Методах» подробно описаны все эти усовершенствования).</p>
+
+<p>Итак, что дали организованные по-новому анализы собранных геологических проб? Нужно подчеркнуть, что проб было много и они охватывали весь протерозой (88&nbsp;образцов возрастом от 635&nbsp;млн лет до 1,8&nbsp;млн лет), а также все возможные экологические обстановки на всех континентах. Также приведены и обновленные данные для <a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%BD%D0%B5%D1%80%D0%BE%D0%B7%D0%BE%D0%B9" target=_blank>фанерозоя</a>.</p>
+
+<p>В породах возрастом 1640–820&nbsp;млн лет (палео- и мезопротерозой) обнаружились протостераны. Авторы подчеркивают, что они были найдены во всех пробах, которые они изучали: из всех палеоэкотопов и на всех континентах. На рис.&nbsp;4 они изображены фиолетовым цветом. В&nbsp;пробах <a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BD%D0%B8%D0%B9" target=_blank>тонийского</a> периода (начало неопротерозоя, 820–717&nbsp;млн лет назад) преобладает один из типов стероидов&nbsp;— холестан (на рис.&nbsp;4 показан красным). Вместе с&nbsp;ним регистрируется небольшое количество эргостана (синий цвет на рис.&nbsp;4, около 5%). Подобная смесь&nbsp;— холестеролы с&nbsp;небольшой добавкой эргостерола, но без существенных добавок третьего из основных стеролов, стигмастерерола (зеленый цвет на рис.&nbsp;4)&nbsp;— указывает на доминирование красных водорослей в&nbsp;экосистемах. В&nbsp;достаточном количестве в&nbsp;породах этого времени определяются и протостераны.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/protosterol_biota_4_1800.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/protosterol_biota_4_1800.jpg','Рис. 4. Результаты анализа стероидов в протерозойских и фанерозойских породах')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/protosterol_biota_4_703.jpg" alt="Рис. 4. Результаты анализа стероидов в протерозойских и фанерозойских породах" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 4.</b> <b>a</b>&nbsp;&mdash; результаты анализа стероидов в&nbsp;протерозойских и фанерозойских породах. Цифрами 1&ndash;11 на стратиграфической колонке обозначены различные формации, из которых происходят образцы. <b>b</b>&nbsp;&mdash; гипотетическая схема становления эукариот: протостероловая биота отмечена <i>фиолетовыми ветвями</i>. <b>c</b>&nbsp;&mdash; изображения древнейших ископаемых эукариот (номера животных не связаны с&nbsp;номерами формаций). Рисунок из обсуждаемой статьи в&nbsp;<i>Nature</i></p></div>
+
+
+</div>
+
+<p>Доминирование холестерола хорошо заметно вплоть до начала эдиакарского периода, когда в&nbsp;пробах в&nbsp;заметных количествах появляются все типы стероидов, включая и стигмастан. Стигмастан означает появление зеленых водорослей. Отсюда мы понимаем, что зеленые водоросли в&nbsp;эдиакарском периоде потеснили красные водоросли; авторы статьи назвали это явление «зеленой революцией». А протостеролы совсем исчезли (или их стало меньше, чем возможно определить современными методами). Следовательно, с&nbsp;этого момента эукариоты современного облика завоевали планету.</p>
+
+<p>Авторы дали специальное название обнаруженному явлению (широкому присутствию протостероидов в&nbsp;древнейших осадках)&nbsp;— протостероловая биота. В&nbsp;этом названии много эволюционного смысла, который проиллюстрирован средней частью (b) рис.&nbsp;4. Предок эукариот в&nbsp;начале своей эволюции дал букет ветвей. Эти первые эукариоты имели клеточную мембрану, укрепленную протостеролами. Опыты с&nbsp;искусственными мембранами показывают, что с&nbsp;предшественниками холестерина мембрана работает, но становится более проницаемой и неупорядоченной, и в ней не образуются функциональные домены, так называемые <a href="https://biomolecula.ru/articles/lipidnyi-fundament-zhizni" target=_blank>рафты</a>. Модификации протостеролов пошагово улучшают функционирование мембраны, однако эти шаги потребовали значительное время. Обладатели протостероловой мембраны процветали на протяжении всего протерозоя, пока их не сменили их «холестероловые» последователи. Почему произошла эта смена, понять трудно. Это мог быть результат случайного дрейфа, но также и эффект большей жизнестойкости обладателей холестероловых мембран и их лучшей приспособленности к&nbsp;новым кислородным условиям.</p>
+
+<p>Так или иначе, перед нами целая биота древних эукариот, не похожих на современных обитателей планеты, открытая по их молекулярному наследию. Подобно открытию денисовских людей по ДНК, этот мир открыт только по их биомолекулам. Это новый древний мир, о&nbsp;котором мы пока знаем только то, что у&nbsp;них были другие, еще несовершенные клеточные мембраны.</p>
+
+<p>В перспективе этого открытия лежат ключевые дискуссии о возможности <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81_%D0%B3%D0%B5%D0%BD%D0%BE%D0%B2" target=_blank>горизонтального переноса</a> и <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BC%D0%B1%D0%B8%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D0%B7" target=_blank>симбиогенеза</a> среди обладателей протостероловых мембран. Ведь именно они были теми организмы, которые наладили сожительство с&nbsp;предками митохондрий и сформировавшие ядро тем или иным образом. В&nbsp;недавно опубликованной <a href="https://www.nature.com/articles/s41564-023-01378-y" target=_blank>статье</a> <a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BD%D0%B8%D0%BD,_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87" target=_blank>Евгения Кунина</a> с&nbsp;коллегами об эукариотном предке говорится о&nbsp;возможном бактериальном предшественнике эукариот, одомашнившим асгардархею в&nbsp;качестве будущего ядра и <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D0%BE%D0%B1%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D0%B8#%D0%90%D0%BB%D1%8C%D1%84%D0%B0-%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D0%BE%D0%B1%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D0%B8" target=_blank>альфа-протеобактерию</a> в&nbsp;качестве будущих митохондрий. Вопрос о&nbsp;механизме одомашнивания упирается в&nbsp;устройство мембраны. Новые данные о&nbsp;протостероловой биоте позволяют рассуждать о&nbsp;событиях одомашнивания с&nbsp;новой неожиданной стороны.</p>
+
+<p>Кроме того, в связи с&nbsp;открытием протостероловой биоты получает новое звучание еще одна важнейшая дискуссия: о&nbsp;возможности сохранения клеточных структур в&nbsp;ископаемой летописи. Что такого особенного в&nbsp;современных эукариотических мембранах, что они могут фоссилизироваться, а протостероловые, по-видимому, не могут? Иначе мы бы их во множестве находили в&nbsp;древнейших протерозойских породах. И тут пока никаких ответов нет.</p>
+
+<p class="small"><b>Источник:</b> Jochen&nbsp;J. Brocks, Benjamin&nbsp;J. Nettersheim, Pierre Adam, Philippe Schaeffer, Amber&nbsp;J.&nbsp;M. Jarrett, Nur Güneli, Tharika Liyanage, Lennart&nbsp;M. van&nbsp;Maldegem, Christian Hallmann & Janet&nbsp;M. Hope. <a href="https://www.nature.com/articles/s41586-023-06170-w" target=_blank>Lost world of complex life and the late rise of the eukaryotic crown</a>&nbsp;// <i>Nature</i>. 2023. DOI:&nbsp;10.1038/s41586-023-06170-w.</p>
+
+<p><i>Елена Наймарк</i></p>
+
+
+    
+</div>
+
+<div class='cl'></div>
+<hr>
+<div class='toggle'>
+
+<div class='forum_topctrl '>
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter="" id="forum_socnets_share"></div><div class='forum_icon' onclick='toggleClick(this)' title='Комментарии'><span class='fmicon'></span><span class='fmcounter'>51</span></div>
+  
+     <div class='goto toggle_hide'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this)'><span class='hide_other'>Показать </span>комментарии (51)</span></div>
+     <div class='goto toggle_body'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this); socnetsFly();'><span class='hide_other'>Свернуть </span>комментарии <span class='hide_main'>(51)</span></span></div>
+  
+
+</div>
+
+<div class='forum toggle_body' id='forum_block'>
+<hr>
+<ul class="level0"><li class="level0 parent" id='forum_node_5349913'>
+   <div class='fmnode'>
+   <a name='fm5349913'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>olegov</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349913'>13.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>14:52
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Реально открытие сделанное на ровном месте, всего лишь проанализировать и улучшить методику. Когда мы занимались мембранами аналогичная была история теоретики давали что мембрана должна быть с бимодальным распределением пор, а все статьи и эксперименты не подтверждали этой теории давая одномодальное распределение. Улучшив стандартную методику увидели вторую моду, причем обсчитав данные получили распределение близкое к предсказанному. А всего лишь потребовалось не послушать начлаба и модифицировать методику, в итоге громкий цикл статей.<br><br>Соглашусь с авторами самое интересное теперь применить открытие к моделям образования эукариот, очень даже верится что это или будет прорывом или резко улучшит понимание процесса. Как видится несовершенная мембрана позволяет больше свободы для образования симбиота.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5349950'>
+   <div class='fmnode'>
+   <a name='fm5349950'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Alef</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>olegov</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349950'>16.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>23:45
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Там куда меньше свершений. Всё что касается геохимии, да. Доминирование, то же. А вот эволюционные древо и остальное таки потянуто за уши и всё таки креационизм.<br><br>Зелёные водоросли не происходит от красных, которые даже более эволюционно специализировались чем большинства зелёных.<br>Тут начало надо посмотреть, какие стеролы у базальных ветвей эукариотов. И у глаукофитов, самых базальных эукариотических водорослей. (наверное, это не известно.) А потом можно строить дерево. Что то маловероятно, что какая то огромная доминирующая одноклеточная биота не сохранилась в каких то рефюгиумах или того и её ещё не нашли.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2 parent" id='forum_node_5349957'>
+   <div class='fmnode'>
+   <a name='fm5349957'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>olegov</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Alef</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349957'>17.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>11:27
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>А может она сохранилась как неандертальцы? В генах и все. С горизонтальным то переносом одноклеточных не заиметь от соседей улучшенную мембрану?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3 parent" id='forum_node_5349959'>
+   <div class='fmnode'>
+   <a name='fm5349959'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Alef</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>olegov</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349959'>17.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>12:04
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Одноклеточные как бы не слишком повержены вымиранию, в отличии от неандертальцев и мамонтов, какой то соленный безкислородный пруд всегда найдётся. Может какие нибудь https://en.wikipedia.org/wiki/Jakobida может претендовать на неизвестную биоту.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level4">
+<li class="level4 parent" id='forum_node_5349962'>
+   <div class='fmnode'>
+   <a name='fm5349962'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>olegov</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Alef</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349962'>17.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>13:59
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Разве я говорил о вымирании? Неандертальцы живут в виде их потомков с сапиенсами. Так и тут менее приспособленные протоэукариоты за счет горизонтального переноса заимели у своих же потомков более совершенную мембрану и стали обычными эукариотами. А в соленом бескислородном пруду желающих архей полно будет. Ну и такая штука как соленый пруд тоже не вечна. Более вероятно океаническое дно тогда, оно гораздо устойчивее. С якобидами все еще не исследовано как я понял.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level5">
+<li class="level5 parent" id='forum_node_5349977'>
+   <div class='fmnode'>
+   <a name='fm5349977'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Alef</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>olegov</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349977'>18.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:37
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Там только одно соединение из мембраны. Но хорошо сохраняется. И то не принципиально другое. Горизонтальный перенос генов возможен. Но возможно просто не известен состав стероидов базальных эукариотов.<br>У растений доминирует бэта- ситостерол, как раз старое средство для понижение холестерина.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level6">
+<li class="level6 parent" id='forum_node_5349980'>
+   <div class='fmnode'>
+   <a name='fm5349980'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>olegov</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Alef</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349980'>19.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>11:56
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Если честно устройство мембран что у бактерий что у эукариот очень сложное, и совершенно не очевидно почему такие именно соединения оказались полезными для мембраны. Когда бактерия синтезирует сахоролипидофосфаты в принципе все понятно это естественное ответвление основных циклов клетки, но стеролы начиная со сквалена огромные молекулы которыми непросто управлять а эффект от них еще не полезный для клетки. Пока не понимаю как этот синтез пошел.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level7">
+<li class="level7 parent" id='forum_node_5349990'>
+   <div class='fmnode'>
+   <a name='fm5349990'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>antiximik</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>olegov</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349990'>20.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>15:19
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>но стеролы начиная со сквалена огромные молекулы которыми непросто управлять а эффект от них еще не полезный для клетки. Пока не понимаю как этот синтез пошел.</blockquote>Внеклеточные везикулы?..</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level8">
+<li class="level8" id='forum_node_5349999'>
+   <div class='fmnode'>
+   <a name='fm5349999'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>olegov</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>antiximik</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349999'>20.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>18:51
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>кстати да, очень правильная мысль, и тогда прослеживается цепочка к самым ранним процессам. Надо бы посмотреть гиперциклы где все это можно пристроить.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level7" id='forum_node_5350015'>
+   <div class='fmnode'>
+   <a name='fm5350015'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Alef</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>olegov</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5350015'>21.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>14:17
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Возможно причина химическая, в простоте синтеза, стабильности или просто в наличие химического механизма. Там же обширнейший класс, жёлчные кислоты, сердечные гликозиды, сапонины, стероидные гормоны, с похожей структурой. Которые входят в класс терпенов. Среди которых каротин, природные пигменты, ароматные соединения и каучук. В итоге всё состоит из единиц изопрена и опирается на мевалоновой кислоты.<br><br>Скучный миллиард таки стабильность, этак на миллиард.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul><li class="level4 parent" id='forum_node_5349964'>
+   <div class='fmnode'>
+   <a name='fm5349964'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>nal</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Alef</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349964'>17.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>14:13
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Одноклеточные как бы не слишком повержены вымиранию</blockquote>Очень смелое утверждение, учитывая то, что в ископаемом виде известна лишь малая часть их разнообразия. А из тех, что сохраняются есть вымершие хитинозои<br>https://www.researchgate.net/publication/343755609_Fossilize<wbr>d_reproductive_modes_reveal_a_protistan_affinity_of_Chitinoz<wbr>oa<blockquote>в отличии от неандертальцев и мамонтов,</blockquote>Неудачная аналогия. Неандертальцы - вымер вид, а род Homo благоденствует. Мамонты - вымер род, но семейстово слоновых никуда не делось.<br>Числу вымерших видов и родов одноклеточных нет числа.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level5">
+<li class="level5" id='forum_node_5349978'>
+   <div class='fmnode'>
+   <a name='fm5349978'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Alef</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>nal</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349978'>18.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:40
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Да, наверное таки вымирает. А то были бы и переходные формы и какие то особо примитивные предки бактерий и архей.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul><li class="level0 parent" id='forum_node_5349914'>
+   <div class='fmnode'>
+   <a name='fm5349914'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Tautren</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349914'>13.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>15:59
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Правильно ли я понимаю, что отложений возрастом более 1,6-1,8 млрд. лет не исследовали на наличие данного маркера? Это бы ответило сразу на два вопроса: когда появились первые эукариоты с таким видом мембраны (или вариант продвинутых бактерий) и не является ли это каким-либо естественным фоновым отложением, характерных для протерозоя. Ведь если найдут маркеры данного типа мембран в слое 2,5 - 3,0 млрд лет, то вряд-ли будут утверждать, что тогда уже жили первые эукариоты.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5349916'>
+   <div class='fmnode'>
+   <a name='fm5349916'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>olegov</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Tautren</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349916'>13.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>16:52
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Там же написано что обнаружили только с 1,64 и младше, а исследовали до 1,8, логично что смысла исследовать старше 1,8 уже нет. Не обнаружили с 1,64 до 1,8 вы же не думаете что после 1,8 они вдруг резко появятся до 2,5?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2 parent" id='forum_node_5349920'>
+   <div class='fmnode'>
+   <a name='fm5349920'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Tautren</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>olegov</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349920'>13.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>19:24
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Нигде не написано, что в пробах от 1,8 до 1,64 млрд. лет не найдено протостеранов. А если верить графику, то они там есть. Поэтому я и спрашиваю - когда они появляются.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3 parent" id='forum_node_5349921'>
+   <div class='fmnode'>
+   <a name='fm5349921'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>andrey30</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Tautren</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349921'>13.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:19
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Ну как же, помилуйте. Может вам стоит еще раз перечитать?<br><br>&gt; проб было много и они охватывали весь протерозой (88 образцов возрастом от 635 млн лет до 1,8 млрд лет).<br>&gt; В породах возрастом 1640–820 млн лет (палео- и мезопротерозой) обнаружились протостераны.<br><br>(соответственно в других - не обнаружились).<br><br>На рис.4а указано то же самое, цифра 1 в кружке стоит на ~1.64. И ниже её ничего они не обнаружили.<br><br>&gt; когда они появляются<br>В этом исследовании - в 1640 млн лет, при том что само исследование охватывает период до 1,8 млрд лет.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level4">
+<li class="level4 parent" id='forum_node_5349922'>
+   <div class='fmnode'>
+   <a name='fm5349922'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Tautren</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>andrey30</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349922'>13.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:50
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Тем не менее ниже указано: &quot;Авторы подчеркивают, что они были найдены во всех пробах, которые они изучали: из всех палеоэкотопов и на всех континентах&quot;. И из контекста не очевидно, что это касается только проб возрастом от 1,64 млрд лет.<br>Также на графике есть серые зоны, как до возраста 1,64, так и после. И по цветовой гамме они не отличаются. Скорее всего по этим зонам нет данных.<br>Также на графике протостерановая биота обозначена с возраста 1,8 или около того, но не с возраста 1,64.<br>Просто хочется прояснить однозначно этот момент.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level5">
+<li class="level5 parent" id='forum_node_5349928'>
+   <div class='fmnode'>
+   <a name='fm5349928'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>nal</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Tautren</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349928'>14.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>18:32
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Смотрим оригинальную статью (доступные для свободного доступа дополнительные материалы). Таблица исследованных образцов:<br>- https://static-content.springer.com/esm/art%3A10.1038%2Fs415<wbr>86-023-06170-w/MediaObjects/41586_2023_6170_MOESM4_ESM.xlsx<br><br>Самые старые проанализированы образцы имеют возраст 1640 млн. лет. На рис 4. сиреневая окраска на узком цветном столбике ниже этого возраста - просто экстраполяция.<blockquote>Нужно подчеркнуть, что проб было много и они охватывали весь протерозой (88 образцов возрастом от 635 млн лет до 1,8 млн лет)</blockquote>Видимо, Елена дает временные рамки, округленные до границ периодов. Терминальный период палеопротерозоя - статерийский период - имеет временный рамки 1800-1600 млн лет. 635 млн. лет - верхняя граница криогенная, нижняя граница эдиакария.<br><br>На рис. 4 для микрофоссилий 6-11 не дана точная привязка к шкале, как для фоссилий 1-5. Они просто помещены возле датировки 1600 млн. лет, это их примерный возраст (см. подпись к Рис. 1).</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level6">
+<li class="level6 parent" id='forum_node_5349929'>
+   <div class='fmnode'>
+   <a name='fm5349929'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>andrey30</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>nal</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349929'>14.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>18:46
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Согласен, что надо лезть в исходную статью, но справедливости ради замечу, что приведенная таблица Excel содержит (судя по заголовку), не список исследованных образцов, а список образцов, использованных для построения Fig. 1a и 3b. Это не то же самое.<br><br>Косвенно, указание на то, что количество исследованных образцов больше, чем в этой таблице Excel, содержится в подсчете числа образцов: таблица содержит только 79 образцов в интервале от 635 до 1640 млн.лет, а Елена оперирует 88-ю образцами в интервале 635-1800 млн.лет. Логично предположить, что 9 образцов относятся к периоду 1640-1800 млн.лет, но они не использовались в построении рисунков.<br><br>(Всего же в таблице упоминается 121 образец.)</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level7">
+<li class="level7" id='forum_node_5349930'>
+   <div class='fmnode'>
+   <a name='fm5349930'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>nal</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>andrey30</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349930'>14.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>18:58
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Смотрим главу 1. Geology and samples с подглавами в дополнительных материалах к статье<br>https://static-content.springer.com/esm/art%3A10.1038%2Fs415<wbr>86-023-06170-w/MediaObjects/41586_2023_6170_MOESM1_ESM.pdf</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul><li class="level0" id='forum_node_5349915'>
+   <div class='fmnode'>
+   <a name='fm5349915'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Kostja</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349915'>13.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>16:13
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Спасибо, интересно.<br><br>Наверно же целый миллиард не мог быть в реальности скучным.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level0" id='forum_node_5349918'>
+   <div class='fmnode'>
+   <a name='fm5349918'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>nal</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349918'>13.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>18:49
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>красная водоросль, найденная на севере Канады в отложениях возрастом 1,2–1,1 млрд лет (рис. 2), — самый древний многоклеточный организм.</blockquote>Ой ли? А как же китайские многоклеточные остатки и талломы возрастом ~1570 млн. лет.?<br>https://www.nature.com/articles/ncomms11500<br><br>А вот свежая статья с их описанием.<br>https://www.sciencedirect.com/science/article/abs/pii/S03019<wbr>26823001146</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level0 parent" id='forum_node_5349925'>
+   <div class='fmnode'>
+   <a name='fm5349925'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>erwins</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349925'>14.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>12:00
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Как я понял протостеролы наблюдаются и сейчас? А клеток с ним нет?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1" id='forum_node_5349951'>
+   <div class='fmnode'>
+   <a name='fm5349951'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Alef</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>erwins</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349951'>17.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>00:01
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Наверное, просто не известны. Наверно какие то ветви эукариот им то пользуются. Амёбы не самые базальные эукариоты, как показано в этой картинке.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level0 parent" id='forum_node_5349935'>
+   <div class='fmnode'>
+   <a name='fm5349935'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Сэм</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349935'>15.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>21:12
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>&quot;Почему произошла эта смена, понять трудно.&quot; - ответ лежит на поверхности. Мембраны с протостеролом &quot;жиже&quot;, чем с холестеролом, проэтому преимущество получают протостероловые организмы, хивущие в холодных условиях. &quot;Жидкость&quot; их протостероловых мембран компенсируется, в среднем, более низкими температурами раннего и среднего протерозоя. Холестерол им просто был не нужен. Теперь смотрим на стратиграфию: когда же заканчивается последнее (Мариноанское) оледенение Земля-снежок? Вуа-ля! 635 млн лет назад. Собственно, +/- именно тогда толучают преимущество организмы с более &quot;тугоплавкими&quot; холестериновыми мембранами. Протостерановые не исчезают вовсе - они присутствуют в небольшом количестве в течение всего фанерозоя (Рис. 4а). Осталось найти этих &quot;реликтов&quot;. Хотя по всей вероятности оставшиеся протостерановые должны были все поголовно быть вытеснеными холестериновыми организмами при глобальных потеплениях, коих за весь период последующего существования Земли было множество.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5349936'>
+   <div class='fmnode'>
+   <a name='fm5349936'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>NikeByNike</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Сэм</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349936'>15.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>21:24
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>А назад оно разве не может откатиться? Холестерин требует долгой цепочки превращений.<br>Для проверки можно посмотреть состав мембран у антарктических эукариот.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2 parent" id='forum_node_5349937'>
+   <div class='fmnode'>
+   <a name='fm5349937'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Сэм</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>NikeByNike</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349937'>15.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>22:03
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Назад? Ну человек же в обезьяну не откатывается как бы ни старался)) Единожды погибнув все целиком, протостерановые организмы вряд ли где-либо появлялись. А появившиеся холестериновые организмы &quot;научились&quot; менять жесткость своих мембран другими способами, если попадают в холодные условия. Мембраны антарктических эукариот ничего не дадут, потому что Антарктида ранее, в другие геологические времена, хорошо прогревалась, в том числе побывала и на экваторе, а замерзла в последний раз всего несколько десятков миллионов лет назад.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3" id='forum_node_5349938'>
+   <div class='fmnode'>
+   <a name='fm5349938'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>NikeByNike</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Сэм</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349938'>15.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>22:18
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Было бы выгодно - откатился бы. 10 миллионов лет для эволюции одноклеточных - всё-равно, что вся история планеты.<br>Думаю, что либо холестирин даёт качественно-лучшие параметры, либо на него жёстко завязаны какие-то другие важные свойства.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level3 parent" id='forum_node_5349945'>
+   <div class='fmnode'>
+   <a name='fm5349945'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Kostja</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Сэм</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349945'>16.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>17:57
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Антарктида ранее, в другие геологические времена, хорошо прогревалась, в том числе побывала и на экваторе</blockquote>На данный момент средняя температура мирового океана +4 градуса. Это достаточно холодно?<br><br>Еще на высоких горах всегда холодно.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level4">
+<li class="level4 parent" id='forum_node_5349948'>
+   <div class='fmnode'>
+   <a name='fm5349948'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Сэм</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Kostja</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349948'>16.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>21:58
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Чего о Луне не вспомнили? Там -260 в кратерах на полюсах. Вот где раздолье-то для протостерановых! А ещё на Марсе, Энцеладе и Титане тоже не выше средней по океану.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level5">
+<li class="level5" id='forum_node_5349949'>
+   <div class='fmnode'>
+   <a name='fm5349949'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Kostja</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Сэм</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349949'>16.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>22:53
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Вы имеете ввиду лунные моря? Там воды нет, их просто так назвали. А океан на Земле почти ледяной.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul><li class="level3" id='forum_node_5349960'>
+   <div class='fmnode'>
+   <a name='fm5349960'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Rattus</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Сэм</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349960'>17.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>13:01
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Назад? Ну человек же в обезьяну не откатывается как бы ни старался</blockquote>https://ru.wikipedia.org/wiki/%D0%A7%D0<wbr>%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA_%D1%84%D0%BB%D0%BE%D1%80%D<wbr>0%B5%D1%81%D1%81%D0%BA%D0%B8%D0%B9<blockquote>Единожды погибнув все целиком, протостерановые организмы вряд ли где-либо появлялись.</blockquote>В чём принципиальная проблема сломаться мутациями или вообще делетироваться генам последующих ферментов стеролового пути у относительно простых одноклеточных эукариот в подходящих условиях без утраты жизнеспособности?<br>Сейчас вполне существуют эукариоты, напрочь утратившие митохондриии и эукариоты с остатками митохондрий, напрочь лишившихся своей ДНК. Почему именно с холестеролом дело должно обстоять иначе?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul><li class="level1 parent" id='forum_node_5349942'>
+   <div class='fmnode'>
+   <a name='fm5349942'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Сэм</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349942'>16.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>04:46
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Мембраны с протостеролом &quot;жиже&quot;, чем с холестеролом, проэтому преимущество получают протостероловые организмы, хивущие в холодных условиях.</blockquote>Гопанойды у бактерий выполняют туже роль что и стерины (холестерин) у эукариотов. Все нормально и мембраны не &quot;жыдкие&quot;.<br><br>Если вы внимательно посмотрите на биосентез гопана, протостеролов и холитерина, то заметите, что для синтеза гопана не нужен кислород, для синтеза протостеролов нужен, но мало, а для синтеза холистерина нужно больше кислорода.<br>Как только на земле упадет концентрация кислорода, все холестериновые организмы сразу вымрут не смотря на потепление или похолодание - они не смогут синтезировать холестерин.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2 parent" id='forum_node_5349944'>
+   <div class='fmnode'>
+   <a name='fm5349944'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Сэм</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349944'>16.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>10:27
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Аэробные прокариоты были уже тогда, когда в атмосфере кислорода ещё не было, среди сообщества цианобактериальных матов, например. И что-то не появилось у них стеролов. Пониженная вязкость их мембран компенсируется плотной и прочной клеточной стенкой и другими компонентами, собственно как и у растений - холестерина в их мембранах чрезвычайно мало, в отличие от аэробных животных. Ну и до кучи, есть масса анаэробных многоклеточных эукариот, паразитические глисты и амёбы, к примеру, у которых холестерин прекрасно синтезируется практически в отсутствие кислорода, но они и не думают вымирать!</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3 parent" id='forum_node_5349946'>
+   <div class='fmnode'>
+   <a name='fm5349946'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Сэм</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349946'>16.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>18:02
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote> у которых холестерин прекрасно синтезируется практически в отсутствие кислорода, но они и не думают вымирать!</blockquote>Практически, теоретически... ха-ха-ха )))) Химически!<br>Вы можете написать химические реакции био-синтеза холистерина без кислорода или вы филолух и в химические формулы не умеете?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level4">
+<li class="level4 parent" id='forum_node_5349947'>
+   <div class='fmnode'>
+   <a name='fm5349947'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Сэм</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349947'>16.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:08
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Я всё сказал. Если есть что по делу написать - пишите, если нет - то нечего ярлыки развешивать направо и налево. Глядя на вашу упертость, совершенно нетрудно будет подобрать, какого сорта олухом вы являетесь. Био-синтеза... Все холестериновые сразу вымрут... &quot;Синтез эргостерина начинается при 0,03%-ном содержании О2 в газовой фазе&quot; - речь шла об этом https://geum.ru/next/art-185248.leaf-6.php Напомню, это к вашему же спичу &quot;Как только на земле упадет концентрация кислорода, все холестериновые организмы сразу вымрут&quot;. И, к слову, на синтез холестерина кислорода нужно ещё меньше, чем на эргостерина. Такими темпами ещё до Гурона, будь там эукариоты, а уж тем более после него, были все предпосылки для синтеза у них холестерина. Так что не в кислороде было дело однозначно.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level5">
+<li class="level5 parent" id='forum_node_5349954'>
+   <div class='fmnode'>
+   <a name='fm5349954'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Сэм</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349954'>17.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>07:00
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Я всё сказал.</blockquote>То-есть НЕ можете написать химические реакции био-синтеза холистерина без кислорода. Слив защитан.<blockquote>Синтез эргостерина начинается при 0,03%-ном содержании О2 в газовой фазе</blockquote>Брюки превращаюися, брюки превращаются.... Потребность в эргостерине на порядки меньше, чем в холистерине.<blockquote>И, к слову, на синтез холестерина кислорода нужно ещё меньше, чем на эргостерина.</blockquote>На одну молекулу возможно, а на необходимое для клеточных мембран количествах холестерина по сравнению с необходимым для организма количеством эргостерина наоборот, поэтому синтез холистерина в потребном для клеточных мембран количествах там не начинается.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level6">
+<li class="level6 parent" id='forum_node_5349955'>
+   <div class='fmnode'>
+   <a name='fm5349955'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Сэм</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349955'>17.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>08:57
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Уберите этот пост, не позорьтесь) Да и предыдущий тоже. Выглядеть спесивым надутым индюком-дилетантом ещё никому не шло.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level7">
+<li class="level7 parent" id='forum_node_5349963'>
+   <div class='fmnode'>
+   <a name='fm5349963'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Сэм</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349963'>17.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>14:02
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>химические реакции био-синтеза холистерина без кислорода. Слив защитан.</blockquote>Идите в библиотеку ищите химические реакции био-синтеза холистерина без кислорода. Как найдете так и приходите, а пока<br>Слив защитан.<br><br>Переход на личности позорит только вас, если вы не &quot;записное хамло&quot; в чем я пока глубоко сомневаюсь, однако.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level8">
+<li class="level8" id='forum_node_5349968'>
+   <div class='fmnode'>
+   <a name='fm5349968'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>olegov</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349968'>17.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>17:41
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>по моему последние стадии деметилирования еще плохо изучены?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level8 parent" id='forum_node_5349970'>
+   <div class='fmnode'>
+   <a name='fm5349970'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Сэм</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349970'>17.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>22:19
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Вы бы, батенька, привели цитату, где я говорю о синтезе холестерина без кислорода. Если моя фраза &quot;практически без кислорода&quot; = &quot;без кислорода&quot;, то тогда да, хлопаю в ладоши, фантазия у вас работает. И где вы тут увидели личность? Зрелые личности не кичаться, что они химики-биохимики (с высшим ли образованием?), но при этом с завидным упорством пишут холИстирин, био-синтез через дефис, &quot;потребность в эргостерине на порядки меньше&quot;, заставляя вдобавок всех вокруг требовать химические реакции с конденсированными кольцами, прекрасная понимая, что формат форума их написание не поддерживает. И при этом радоваться как малое дитя: &quot;я победил! слив засчитан!&quot; Как назвать взрослого человека, впавшего в детсво? Придумайте термин сами, раз вы химик-биохимик, но, разочарую, это ну никак не личность)</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level9">
+<li class="level9 parent" id='forum_node_5349971'>
+   <div class='fmnode'>
+   <a name='fm5349971'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Сэм</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349971'>18.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>04:20
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>холИстирин, био-синтез через дефис,</blockquote>Это тест на то что вы филолух и в первую очередь видите не химический смысл написанного , а случайные опечатки. Химический смысл от вас ускользнул.<blockquote>Если моя фраза &quot;практически без кислорода&quot; = &quot;без кислорода&quot;,</blockquote>Филолухический смысл слова &quot;практически&quot; я разбирать не буду, а вот его химический смысл вам придется объяснить, сможете?<blockquote>заставляя вдобавок всех вокруг требовать химические реакции с конденсированными кольцами, прекрасная понимая, что формат форума их написание не поддерживает.</blockquote>Для вас, филолуха, могу дать подсказку. Не нужно писать химические формулы тут в комментариях, достаточно дать ссылку на научную статью.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level10">
+<li class="level10 parent" id='forum_node_5349974'>
+   <div class='fmnode'>
+   <a name='fm5349974'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>olegov</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349974'>18.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>10:51
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>на самом деле самое интересно понять почему процесс образования данных веществ оказался нужен на этапе абиогенеза, в какой то момент видимо существовала органоминеральная матрица воспроизводящая гиперциклы и погруженная в слой начальных веществ биосинтеза холестерина. Не очень понятно т.к. начальные вещества водорастворимы и защищать от размывания осадками протоклетку не могли. Однако отбор способствовал их сохранению и эволюции.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level11">
+<li class="level11 parent" id='forum_node_5349979'>
+   <div class='fmnode'>
+   <a name='fm5349979'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>olegov</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349979'>19.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>08:43
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Нециклический предшесвенник холестерина сквален - углеводород тритерпенового ряда образуется в огромных количествах у человека (кожное сало человека содержит 13 % сквалена).<br>При синтезе холестерина происходит эпоксидирование сквалена, чтобы заморозить конфигурацию последнего сегмента и циклизация в ланостерин и далее.<br>Сквален может циклизоваться различным способами<br>https://www.sciencedirect.com/science/article/pii/S001457930<wbr>7012938<br>Циклизация сквалена - энергетически выгодный процесс,мог идти не селективно без матрицы. Возможно первоначально было несколько матриц или одна не очень селективная, а потом естественный отбор выбрал лучшую</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level12">
+<li class="level12 parent" id='forum_node_5349981'>
+   <div class='fmnode'>
+   <a name='fm5349981'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>olegov</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349981'>19.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>12:18
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Как образуется сквален понятно, не понятно зачем были нужны предшествующие ему реагенты в клетке, ну это не сахара и не участники циклов типа Креббса, ни производные галловой кислоты чтобы &quot;всегда пригодится&quot;. Очевидно что предковая мембрана без гопаноидов обходилась как то, но потом пошел синтез, не на пустом же месте. То что циклизация сквалена могла идти самостоятельно скорее всего так и есть такие молекулы часто такому подвержены. Там другой нюанс с растворимостью соединений после какого то момента управлять синтезом можно только с помощью белков т.к. продукты не растворимы.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level13">
+<li class="level13 parent" id='forum_node_5349983'>
+   <div class='fmnode'>
+   <a name='fm5349983'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>olegov</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349983'>19.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>15:07
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>сквален - углеводород тритерпенового ряда</blockquote>сквален - углеводород тритерпенового ряда, различные терпены синтезируются многими организмами:<br>http://www.bio.bsu.by/biohim/files/presentation2_lr.pdf<br>включая полимерные формы: каучук и гуттаперчу</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level14">
+<li class="level14 parent" id='forum_node_5349987'>
+   <div class='fmnode'>
+   <a name='fm5349987'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>olegov</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349987'>20.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>11:13
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>терпены весьма химически разнообразные вещества имеющие весьма сложный функционал в живой природе, но очевидно что это позднейшая настройка, вопрос для чего они были нужны первым клеткам?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level15">
+<li class="level15 parent" id='forum_node_5349991'>
+   <div class='fmnode'>
+   <a name='fm5349991'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>antiximik</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>olegov</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349991'>20.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>15:42
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>терпены весьма химически разнообразные вещества имеющие весьма сложный функционал в живой природе</blockquote>Добавлю к сказанному kbob: терпеновые соединения используются археями в их клеточных стенках.<blockquote>вопрос для чего они были нужны первым клеткам?</blockquote>Гипотетически, абиогенные алканы/алкены (и их спирты/кислоты) трудно поделить, тем более длинноцепочечные да &quot;на коленке&quot;... Но вот в хозяйстве пригодилось... Пришлось, правда, мутить гидроксильную/карбоксильную группу на конце, сугубо для удобства... И тут всё заверте... :з</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level16">
+<li class="level16" id='forum_node_5350000'>
+   <div class='fmnode'>
+   <a name='fm5350000'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>olegov</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>antiximik</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5350000'>20.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>19:13
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Да-да думаю пригодились случайно поэтому и поддержались отбором а дальнейшее разнообразие вызвано как раз случайностью. Возможно сахаролипидная мембрана просто включала в себя эти побочные продукты за счет сродства но оказалось что они ее полезно модифицируют</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul><li class="level3 parent" id='forum_node_5349965'>
+   <div class='fmnode'>
+   <a name='fm5349965'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Rattus</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Сэм</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349965'>17.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>14:33
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>есть масса анаэробных многоклеточных эукариот, паразитические глисты и амёбы, к примеру, у которых холестерин прекрасно синтезируется практически в отсутствие кислорода</blockquote>Вы так уверены в их анаэробности?<blockquote>И что-то не появилось у них стеролов.</blockquote>У них много чего не появилось. Равно как и наоборот. Адаптации у архитектурно довольно сильно различных линий к тому или иному фактору вовсе не обязаны совпадать.<blockquote>Пониженная вязкость их мембран</blockquote>Это далеко не единственная и возможно даже не главная проблема сама по себе, для которой синтезируются стеролы у эукариот.<br>https://academic.oup.com/evolut/article/64/7/2179/6854096?lo<wbr>gin=true</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level4">
+<li class="level4" id='forum_node_5349972'>
+   <div class='fmnode'>
+   <a name='fm5349972'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Rattus</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434121#fm5349972'>18.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>04:23
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>https://academic.oup.com/evolut/article/64/7/217<wbr>9/6854096?login=true</blockquote>Кстати интересная мысль.<blockquote>Synthesis of cholesterol is an extremely oxygen-intensive process and requires sufficient terrestrial oxygen to proceed. In turn, several lines of evidence support the argument that cholesterol evolved at least in part as an adaptation to the hazards of oxygen.</blockquote></div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul></ul>
+<div class='fmctrl fl' id='forum_btm_btn'>Написать комментарий</div>
+
+
+<div class='cl'></div>
+</div>
+</div>
+
+<div class='forumctrls' style='display:none'>
+
+<div id='forum_edit_block'>
+<form action="/novosti_nauki/434121" method=post onsubmit="return forum_checkMsgForm(this)">
+
+<input type='hidden' name='msgedit' id='forum_msg_id'>
+<div class='xform'>
+	<textarea id='forum_edit_textarea' name=memo placeholder="Комментарий"></textarea>
+	
+	<input type='submit' value='Сохранить' name='accept'> <input type=submit name=delete onclick='return confirm("Удалить сообщение?");' value="Удалить">
+        <div class='gap'></div>
+</div>
+</form>
+</div>
+
+<div id='forum_input_block' class='fmnode toggle'>
+
+        <div class='fmhead'><span class="nodepoint"></span>Вход в систему</div>
+	<div class='xform beige'>
+        <div class='smallform'>
+        
+		<form action="/novosti_nauki/434121" method=post>
+                
+                <input type='hidden' name='answerto' id='forum_prev_id'>
+		<input type=text name=LOGIN  value="" maxlength=50 placeholder='Имя' id='forum_login'></td>
+		<input type=password name="PASSWD" value="" maxlength=50 placeholder='Пароль'></td></tr>
+                <div class="label fl"><span class="xcheckbox"><input id='rpw_chk' type="checkbox" name=PERSIST onclick="resetXCheck(this)"></span> <label for='rpw_chk'>запомнить пароль</label></div>
+                <input type="submit" class='right' name="accept_auth" value="   ok   ">
+                <div class='cl'></div>
+		</form>
+        <div class='goto fl'><a href="/reguser">Зарегистрироваться</a></div>
+        <div class='goto fr'><a href="/restore_password">Забыли пароль?</a></div><div class='cl'></div>
+	</div>
+        </div>
+        <div class='gap'></div>
+
+</div>
+
+</div>
+
+<script type='text/javascript'>
+var forum_user ="";
+var forum_mode = "simple";
+var forum_answerto = ""; 
+var forum_msgcnt = "51"; 
+
+
+var topbtn = document.getElementById('forum_topsocnet_button');
+if (topbtn) topbtn.style.display='';
+</script>
+<script type='text/javascript' src='/downloads/js/forum.js?v=1.10' charset="utf-8"></script>
+</div>
+
+<div class='crblock'>
+
+<div class='storyline important'>
+
+
+
+	<div class='hide_main hide_hpad'><hr><div class='gap'></div><h2>Сюжет</h2></div>
+ 
+
+<hr class='hide_main hide_hpad'>
+<div class='toggle'>
+<div class='subtitle hide_main hide_hpad' onclick='toggleClick(this)'><span class='toggle_button'></span><span class='toggle_label'>Жизнь до кембрия</span></div>
+<h2 class='hide_vpad hide_phone'><a href="/suzhet/55/Zhizn_do_kembriya">Жизнь до кембрия</a></h2>
+
+<div class='phone_toggle_body vpad_toggle_body'>
+<hr class='nogap'>
+
+
+
+<ul class='storyline vtype0'>
+
+<li class='story current'>
+
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/protosterol_biota_logo_200.jpg" alt="Рис. 1. Древнейшие бесспорные ископаемые эукариоты"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>13.07.2023</div>
+
+      <div class='title'>На протяжении «скучного миллиарда» на Земле доминировала переходная «протостероловая» биота</div>
+      <div class='sublink'>Елена Наймарк&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433884/Schitavshiesya_proterozoyskimi_khody_v_avstraliyskikh_kvartsitakh_byli_proryty_vsego_50_millionov_let_nazad?story=55'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/eocene_animal_trace_fossils_logo_200.jpg" alt="Ходы неизвестных животных в кварцитах группы Маунт-Баррен на юго-западе Австралии"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>25.10.2021</div>
+
+      <div class='title'>Считавшиеся протерозойскими ходы в&nbsp;австралийских кварцитах были прорыты всего 50&nbsp;миллионов лет назад</div>
+      <div class='sublink'>Владислав Стрекопытов&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433856/Vyvody_o_nakhodke_gubok_vozrastom_890_mln_let_pravdopodobny_no_trebuyut_vesomykh_dokazatelstv?story=55'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/neoproterozoic_poriferan_logo_200.jpg" alt="Рис. 1. Остатки, возможно, принадлежащие губкам тониевого возраста"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>31.08.2021</div>
+
+      <div class='title'>Выводы о&nbsp;находке губок возрастом 890&nbsp;млн лет правдоподобны, но требуют весомых доказательств</div>
+      <div class='sublink'>Сергей Ястребов&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433767/Griby_zhili_na_sushe_uzhe_635_millionov_let_nazad?story=55'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/terrestrial_ediacaran_fungi_logo_200.jpg" alt="Рис. 1. Исходный материал, в котором ученые нашли ранние сухопутные грибы"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>10.02.2021</div>
+
+      <div class='title'>Грибы жили на суше уже 635&nbsp;миллионов лет назад</div>
+      <div class='sublink'>Елена Наймарк&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433546/Poristyy_pirit_eshche_odin_argument_v_polzu_organicheskoy_prirody_stromatolitov_iz_Pilbary?story=55'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/nanoporous_pyrite_and_organic_matter_from_pilbara_fig0_200.jpg" alt="Образцы керна с самыми древними строматолитами"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>08.10.2019</div>
+
+      <div class='title'>Пористый пирит&nbsp;— еще один аргумент в&nbsp;пользу органической природы строматолитов из Пилбары</div>
+      <div class='sublink'>Елена Наймарк&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433534/V_pozdneediakarskikh_otlozheniyakh_Kitaya_naydeny_otpechatki_segmentirovannykh_polzayushchikh_bilateriy?story=55'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/death_march_of_yilingia_logo_200.jpg" alt="Yilingia spiciformis"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>16.09.2019</div>
+
+      <div class='title'>В позднеэдиакарских отложениях Китая найдены отпечатки сегментированных ползающих билатерий</div>
+      <div class='sublink'>Александр Марков&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433509/Svoystvo_bakterialnykh_matov_nakaplivat_kaliy_pomozhet_iskat_sledy_drevney_zhizni?story=55'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/microbially_induced_potassium_enrichment_logo_200.jpg" alt="Глинистые сланцы раннепротерозойской формации Франсвиль"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>23.07.2019</div>
+
+      <div class='title'>Свойство бактериальных матов накапливать калий поможет искать следы древней жизни</div>
+      <div class='sublink'>Владислав Стрекопытов&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433481/Iskopaemye_griby_vozrastom_milliard_let_blizki_k_tochke_raskhozhdeniya_gribov_i_zhivotnykh?story=55'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/early_fungi_from_the_proterozoic_era_logo_200.jpg" alt="Типичное строение клеточной стенки грибов"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>22.05.2019</div>
+
+      <div class='title'>Ископаемые грибы возрастом миллиард лет близки к&nbsp;точке расхождения грибов и животных</div>
+      <div class='sublink'>Елена Наймарк&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433443/Prelyudiya_istinnoy_mnogokletochnosti_ili_rannie_evolyutsionnye_eksperimenty?story=55'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/organism_motility_in_an_oxygenated_shallow-marine_environment_2.1_billion_years_ago_1_200.jpg" alt="Рис.&nbsp;1. Миксомицет Physarum, амёбоподобное простейшее, при необходимости формирующее растущие подвижные многоклеточные агрегаты"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>12.03.2019</div>
+
+      <div class='title'>Прелюдия истинной многоклеточности или ранние эволюционные эксперименты?</div>
+      <div class='sublink'>Елена Наймарк&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433413/Osadochnye_porody_s_otpechatkami_dokembriyskikh_mnogokletochnykh_mogli_obrazovyvatsya_na_sushe?story=55'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/ediakarskie_vendobionty_1_200_200.jpg" alt="Осадочные породы с отпечатками докембрийских многоклеточных могли образовываться на&nbsp;суше"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>25.01.2019</div>
+
+      <div class='title'>Осадочные породы с отпечатками докембрийских многоклеточных могли образовываться на&nbsp;суше</div>
+      <div class='sublink'>Владислав Стрекопытов&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+
+</li>
+<li class='story prebreak'></li><li class='story break hr'><div><hr></div></li><li class='story prebreak'></li>
+
+</ul>
+
+
+
+
+<div class='goto'><a href="/suzhet/55/Zhizn_do_kembriya">Весь сюжет</a></div>
+
+
+
+<div class='gap2 hide_vpad hide_phone'></div>
+</div>
+</div>
+
+</div>
+
+
+
+     <h2><a href="/novosti_nauki">Последние новости</a></h2>
+     <hr class='nogap'>
+
+
+    <a href="/novosti_nauki/434407/Kukolki_zarazhennye_opasnym_parazitom_posylayut_rabochim_muravyam_signal_ubey_menya" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/altruistic-disease-signalling-in-ant-colonies_logo_200.jpg" alt="Рабочие муравьи Lasius neglectus проводят «разрушающую дезинфекцию»"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Куколки, зараженные опасным паразитом, посылают рабочим муравьям сигнал «убей меня»</div>
+    <div class="sublink"><span class="date">12.02</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434406/U_pervykh_pozvonochnykh_bylo_dve_pary_glaz" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/myllokunmingia_200.jpg" alt="У первых позвоночных было две пары глаз"></div>
+    
+    <div class='ib_text'>
+    <div class="title">У первых позвоночных было две пары глаз</div>
+    <div class="sublink"><span class="date">09.02</span>&nbsp;<span class='break'
+>•</span> Сергей Ястребов</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434405/Infrakrasnoe_izluchenie_drevneyshiy_signal_dlya_privlecheniya_opyliteley" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/infrared-radiation-is-an-ancient-pollination-signal_1_200.jpg" alt="Открытая шишка саговникового растения. (B) Тепловизионное изображение мужской шишки саговника в&nbsp;момент нагревания во&nbsp;время выброса пыльцы"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Инфракрасное излучение&nbsp;— древнейший сигнал для привлечения опылителей</div>
+    <div class="sublink"><span class="date">04.02</span>&nbsp;<span class='break'
+>•</span> Елена Устинова</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434404/Dazhe_krupnye_mozazavry_mogli_zhit_v_rekakh" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/260118_novikovskaya_mosasaurus_200.jpg" alt="Некоторые виды мозазавров могли быть пресноводными"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Даже крупные мозазавры могли жить в реках</div>
+    <div class="sublink"><span class="date">19.01</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+<div class='goto'><a href="/novosti_nauki">Все новости</a></div>
+<div class='gap2'></div>
+
+
+<!-- Здесь был блок картинки дня: KLBLOCK id="eltdpicture" page_size="1" template="dpicture_R_v2" page="" calendar="" features="v2" dpicture_title="Картинка дня" dpicture_th_title="*" gotoxrub="19"/ -->
+
+<div class='important'>
+
+
+<hr class='hide_main hide_hpad'><div class='gap hide_main hide_hpad'></div>
+<div class='rxblock eltpub'>
+<h2>См. также</h2><hr class='nogap'>
+
+
+
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/433446/Kislorodnaya_revolyutsiya_i_Zemlya_snezhok?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/eltpub/zemlya-snezhok_logo_345.jpg" alt=""></div>
+    
+    <div class="title">Кислородная революция и&nbsp;Земля-снежок</div>
+    
+    <div class="sublink">Сергей Ястребов&nbsp;<span class='break'>•</span> Библиотека&nbsp;<span class='break'>•</span> «Химия и жизнь» №9, 2016</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/432756/V_Kitae_naydeny_drevneyshie_mnogokletochnye_vodorosli?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/drevnie_vodorosli_markov_logo_390.jpg" alt=""></div>
+    
+    <div class="title">В Китае найдены древнейшие многоклеточные водоросли</div>
+    
+    <div class="sublink"><span class="date">23.05.2016</span>&nbsp;<span class='break'>•</span> Александр Марков&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433536/Naydeny_svidetelstva_massovogo_vymiraniya_v_nachale_proterozoya?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/productivity_collapse_to_end_goe_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Найдены свидетельства массового вымирания в&nbsp;начале протерозоя</div>
+    
+    <div class="sublink"><span class="date">17.09.2019</span>&nbsp;<span class='break'>•</span> Владислав Стрекопытов&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltpub'>
+
+
+
+
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/433448/Zhizn_na_sushe_rastsvet_krizis_vozrozhdenie?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/eltpub/zhizn_na_sushe_logo_345.jpg" alt=""></div>
+    
+    <div class="title">Жизнь на суше: расцвет, кризис, возрождение </div>
+    
+    <div class="sublink">Сергей Ястребов&nbsp;<span class='break'>•</span> Библиотека&nbsp;<span class='break'>•</span> «Химия и жизнь» №11, 2016</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltpub'>
+
+
+
+
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/434611/Veroyatnost_zarozhdeniya_zhizni?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/eltpub/veroyatnost_zarozhdeniya_zhizni_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Вероятность зарождения жизни</div>
+    
+    <div class="sublink">Борис Штерн<span class="comma">,</span> Александр Марков<span class="comma">,</span> Армен Мулкиджанян<span class="comma">,</span> Евгений Кунин<span class="comma">,</span> Михаил Никитин&nbsp;<span class='break'>•</span> Библиотека&nbsp;<span class='break'>•</span> «Троицкий вариант» №6(275),  2019</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/432202/Velikoe_kislorodnoe_sobytie_na_rubezhe_arkheya_i_proterozoya_ne_bylo_ni_velikim_ni_sobytiem?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/great_oxidation_event_1_390.jpg" alt=""></div>
+    
+    <div class="title">«Великое кислородное событие» на рубеже архея и протерозоя не было ни великим, ни событием</div>
+    
+    <div class="sublink"><span class="date">02.03.2014</span>&nbsp;<span class='break'>•</span> Елена Наймарк&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433920/Stimulom_dlya_poyavleniya_mnogokletochnoy_zhizni_na_Zemle_mog_stat_defitsit_biodostupnogo_zheleza?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/iron_as_a_driver_of_evolution_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Стимулом для появления многоклеточной жизни на Земле мог стать дефицит биодоступного железа</div>
+    
+    <div class="sublink"><span class="date">10.01.2022</span>&nbsp;<span class='break'>•</span> Владислав Стрекопытов&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<div class='gap2'></div>
+
+</div>
+
+
+<div class='storyline important'>
+
+</div>
+
+</div>
+
+<div class='cl'></div>
+
+<div class='mb'>
+<div class='pager_one'>
+<hr>
+
+  <a class='nohover' href="/novosti_nauki/434120/Eukarioticheskie_kletki_mogli_vozniknut_v_rezultate_dvoynogo_endosimbioza">
+   <div class="next">
+      <div class=icon></div> 
+      <div class="suplink">10.07.2023</div>
+      <div class="pretitle"></div>
+      <div class="title">Эукариотические клетки могли возникнуть в&nbsp;результате двойного эндосимбиоза</div>
+   </div>
+  </a>
+
+
+ <a class='nohover' href="/novosti_nauki/434122/Kalimantanskaya_palma_Pinanga_subterranea_tsvetet_i_plodonosit_pod_zemley">
+  <div class="prev">
+     <div class=icon></div> 
+     <div class="suplink">17.07.2023</div>
+     <div class="pretitle"></div>
+     <div class="title">Калимантанская пальма <i>Pinanga subterranea</i> цветет и плодоносит под землей</div>
+   </div>
+  </a>
+
+</div>
+<div class='cl'></div>
+</div>
+
+
+
+<div class='other_block'>
+<hr class='top mb'>
+<div class='mb4 other_themes'>
+ <h2>Другие новости</h2>
+ <div class="submenu hrline"><div class="sm_item">
+    <a href="/novosti_nauki/t/454741/Elena_Naymark">Елена Наймарк</a> <span class="stat">466</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/2253632/Evolyutsiya">Эволюция</a> <span class="stat">803</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/2584639/Mikrobiologiya">Микробиология</a> <span class="stat">219</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/98045/Geologiya">Геология</a> <span class="stat">200</span>
+</div></div>
+</div>
+<div class='scroll_container'>
+<div id='newsScrBlock' class='slider-view'><div class='slider'><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434406/U_pervykh_pozvonochnykh_bylo_dve_pary_glaz?from=bxblock'>
+<div class='img'><span><img src='images/news/myllokunmingia_390.jpg' alt=''></span></div>
+<div class='title'>У первых позвоночных было две пары глаз</div>
+<div class='sublink'><span class="date">09.02</span>&nbsp;<span class='break'
+>•</span> Сергей Ястребов</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434396/Posle_smerti_trikhoplaks_mgnovenno_raspadaetsya_na_kletki?from=bxblock'>
+<div class='img'><span><img src='images/news/trichoplax_taphonomy_logo_390.jpg' alt=''></span></div>
+<div class='title'>После смерти трихоплакс мгновенно распадается на клетки</div>
+<div class='sublink'><span class="date">28.11.2025</span>&nbsp;<span class='break'
+>•</span> Елена Наймарк</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434384/Lyubov_k_krasnomu_stimuliruet_mezhvidovoe_sparivanie_u_paukov_skakunchikov?from=bxblock'>
+<div class='img'><span><img src='images/news/latent_preference_for_red_ornamentation_logo_390.jpg' alt=''></span></div>
+<div class='title'>Любовь к&nbsp;красному стимулирует межвидовое спаривание у&nbsp;пауков-скакунчиков</div>
+<div class='sublink'><span class="date">09.10.2025</span>&nbsp;<span class='break'
+>•</span> Елена Устинова</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434383/Arkhei_i_bakterii_mogut_obedinyatsya_v_zhivuyu_elektricheskuyu_set?from=bxblock'>
+<div class='img'><span><img src='images/news/redox_conduction_in_anaerobic_methanotrophic_consortia_logo_390.jpg' alt=''></span></div>
+<div class='title'>Археи и бактерии могут объединяться в&nbsp;живую электрическую сеть</div>
+<div class='sublink'><span class="date">06.10.2025</span>&nbsp;<span class='break'
+>•</span> Георгий Куракин</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434381/Zachem_zebram_poloski?from=bxblock'>
+<div class='img'><span><img src='images/news/zebra_stripes_logo_390.jpg' alt=''></span></div>
+<div class='title'>Зачем зебрам полоски?</div>
+<div class='sublink'><span class="date">29.09.2025</span>&nbsp;<span class='break'
+>•</span> Михаил Гопко</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434375/Asinkhronnost_tsveteniya_i_aktivnosti_opyliteley_vliyaet_na_napravlenie_otbora?from=bxblock'>
+<div class='img'><span><img src='images/news/flowering_pollinator_asynchrony_logo_390.jpg' alt=''></span></div>
+<div class='title'>Асинхронность цветения и активности опылителей влияет на направление отбора</div>
+<div class='sublink'><span class="date">08.09.2025</span>&nbsp;<span class='break'
+>•</span> Елена Устинова</div>
+</a>
+</div></div></div>
+<div class='scr_buttons_noscript' id='newsScrBlock_buttons'>
+<span class='prev_button' id='newsScrBlock_prevbtn'></span>
+<span class='next_button' id='newsScrBlock_nextbtn'></span>
+</div>
+</div>
+<div class='cl'></div>
+<hr class='mb hide_hphone'>
+<script type="text/javascript">scrollInit('newsScrBlock', { "mode": "DOM-S", "total": 1395, "pagesize": 6, "request_url": '/ajax/news', "request_params": '&features=similar&features=v2&template=news_sline_v2&news_title=Другие новости&objlink_params=from=bxblock&xpage_size=6&tnews=3371422&newsid=434121'});</script>
+</div>
+
+
+</div>
+
+<div class='blue subscribe_block'><div class='mblock'>
+<div class='subscribe'>
+<div class='mb10'>
+<FORM TARGET=_top ACTION=https://subscribe.ru/member/quick METHOD=POST>
+<INPUT TYPE=hidden NAME=action VALUE=quick>
+<INPUT TYPE=hidden NAME=grp VALUE="science.news.elementynews">
+<span class='title'>Новостная рассылка</span>
+<span class='xinput fullwidth'><INPUT TYPE=email NAME=email SIZE=25 MAXLENGTH=100 placeholder
+="ВАШ E-MAIL"
+></span>&nbsp;<INPUT TYPE=submit VALUE="ПОДПИСАТЬСЯ">
+<INPUT TYPE=hidden NAME=src VALUE="list_science.news.elementynews">
+</FORM>
+</div>
+
+<div class='mb6'>
+<span class='title'>«Элементы» в соцсетях:&nbsp; </span>
+
+<a class='icon vk' href='https://vk.com/elementy_ru' target='_blank' title='ВКонтакте'></a>
+<a class='icon twitter' href='https://twitter.com/elementy_ru' target='_blank' title='Твиттер'></a>
+<a class='icon youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank' title='Youtube'></a>
+
+<a class='icon telegram' href='https://telegram.me/elementy_ru' target='_blank' title='Telegram'></a>
+<a class='icon zen' href='https://zen.yandex.ru/elementy.ru' target='_blank' title='Яндекс.Дзен'></a>
+</div>
+</div>
+<div class='cl'></div>
+</div></div>
+ 
+      
+             <script type="text/javascript" src="/downloads/js/linkhint.js?v=1.02"></script>
+             <script type="text/javascript">linkhint_init();</script>
+       
+   
+
+</div>
+
+
+
+<div class='hfooter'>
+<div class='mblock'>
+
+<div class='mb4 i1'><img src='images/eltnewdesign/ft_logo.png' alt='Элементы'></div>
+
+
+
+<div class='mb3 rub1'><ul>
+<li><a href='/novosti_nauki'>Новости науки</a></li>
+<li><a href='/LHC'>LHC</a></li>
+<li><a href='/kartinka_dnya'>Картинка дня</a></li>
+<li><a href='/problems'>Задачи</a></li>
+<li><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a></li>
+<li><a href='/video'>Видеотека</a></li>
+<li><a href='/bookclub'>Книжный клуб</a></li>
+</ul></div>
+<div class='mb3 rub2'><ul>
+<li><a href='/events'>Научный календарь</a></li>
+<li><a href='/email'>Детские вопросы</a></li>
+<li><a href='/time'>Масштабы: времена</a></li>
+<li><a href='/posters'>Плакаты</a></li>
+<li><a href='/trefil'>200 законов мироздания</a></li>
+<li><a href='/genbio'>Журнал общей биологии</a></li>
+<li><a href='/catalog'>Наука в Рунете</a></li>
+</ul></div>
+
+<div class='mb3 socnets'>
+<ul>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>ВКонтакте</span></a></li>
+<li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Twitter</span></a></li>
+<li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'><span class='icon'></span><span class='name'>Youtube</span></a></li>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Telegram</span></a></li>
+<li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'><span class='icon'></span><span class='name'>Яндекс.Дзен</span></a></li>
+<li class='hide_main hide_hpad hide_vpad'><a class='rss' href='/rss/news' target='_blank'><span class='icon'></span><span class='name'>RSS</span></a> <span class='name'>(<a href='/rss/'  target='_blank'>все ленты</a>)</span></li>
+</ul>
+</div>
+<div class='mb3 l2 zimin'>
+<div class='msg'><a href='https://basis-foundation.ru/' target="_blank">При поддержке фонда «Базис»</a></div>
+<a href='https://basis-foundation.ru/' target="_blank"><img src='images/eltnewdesign/basis2.png' alt='Фонд поддержки фундаментальной физики Базис'></a>
+</div>
+<div class='cl'></div>
+<hr>
+<div class='mb4 l2 copy'>© 2005–2026 «Элементы»</div>
+<div class='mb3 about'><a href='/about'>О проекте</a></div>
+<div class='mb3 feedback'><a href='mailto:info@elementy.ru'>Обратная связь</a></div>
+<div class='mb3 rss hide_phone'><a href='/rss/news' target='_blank'>RSS</a> (<a href='/rss/'  target='_blank'>все ленты</a>)</div>
+<div class='mb3 subscrb'><a href='https://subscribe.ru/catalog/science.news.elementynews'>Подписаться на рассылку</a></div>
+<!--<div class='mb3 l2 design'><a href='http://charmerstudio.com' target='_blank'>Дизайн: Charmer Studio</a></div>-->
+<div class='cl gap'></div>
+
+
+<div class='mb counters'>
+<!--LiveInternet counter--><script language="JavaScript"><!--
+document.write('<img src="//counter.yadro.ru/hit?r'+escape(document.referrer)+((typeof(screen)=='undefined')?'':';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+'" width=1 height=1 alt="">')
+//-->
+</script><!--/LiveInternet-->
+<!-- Yandex.Metrika counter --><script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter31698571 = new Ya.Metrika({ id:31698571, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="https://mc.yandex.ru/watch/31698571" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+<!-- Google Analytics --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65855867-1', 'auto');
+  ga('send', 'pageview');
+</script><!-- // Google Analytics -->
+<!--begin of Rambler's Top100 code -->
+<script id="top100Counter" type="text/javascript" src="//counter.rambler.ru/top100.jcn?707804"></script>
+<noscript><a href="http://top100.rambler.ru/top100/"><img src="//counter.rambler.ru/top100.cnt?707804" alt="" width=1 height=1 border=0></a>
+</noscript>
+<!--end of Top100 code-->
+</div>
+
+
+</div>
+</div>
+
+</div>
+</body>
+</html>

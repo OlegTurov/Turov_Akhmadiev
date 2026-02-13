@@ -1,0 +1,2795 @@
+<!DOCTYPE html>
+<html lang='ru' prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+<head>
+<title>Глобальное оледенение в неопротерозое могло быть вызвано падением астероида • Владислав Стрекопытов • Новости науки на «Элементах» • Геология, Климат</title>
+<noscript><meta name="viewport" content="width=device-width, initial-scale=1.0"></noscript>
+<script type='text/javascript'>if (!document.cookie.match(/\bdesktop_mode=1/)) document.write('<meta name="viewport" content="width=device-width, initial-scale=1.0">');</script>
+
+
+<META name="description" content="Результаты моделирования, проведенного группой ученых из США и Австрии, показывают, что еще одним фактором, способным спровоцировать глобальное оледенение и превратить Землю в «снежок» в самом конце протерозоя, могло быть импактное событие — падение астероида, сопоставимого по размеру с тем, который привел 66 миллионов лет назад к гибели динозавров."/>
+
+
+
+<link rel="canonical" href="https://elementy.ru/novosti_nauki/434197/Globalnoe_oledenenie_v_neoproterozoe_moglo_byt_vyzvano_padeniem_asteroida" />
+
+
+<base href="//elementy.ru/">
+
+
+
+<meta property="og:title" content="Глобальное оледенение в&nbsp;неопротерозое могло быть вызвано падением астероида • Новости науки"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Результаты моделирования, проведенного группой ученых из США и Австрии, показывают, что еще одним фактором, способным спровоцировать глобальное оледенение и превратить Землю в&nbsp;«снежок» в&nbsp;самом конце протерозоя, могло быть импактное событие&nbsp;— падение астероида, сопоставимого по размеру с&nbsp;тем, который привел 66&nbsp;миллионов лет назад к&nbsp;гибели динозавров."/>
+<meta property="og:url" content="https://elementy.ru/novosti_nauki/434197/Globalnoe_oledenenie_v_neoproterozoe_moglo_byt_vyzvano_padeniem_asteroida"/>
+<meta property="og:image" content="https://elementy.ru/images/news/snowball_earth_impact_hypothesis_1_703.jpg"/>
+
+<meta property="article:section" content="Наука" />
+<meta property="article:tag" content="Геология"/><meta property="article:tag" content="Климат"/>
+<meta property="og:site_name" content="«Элементы»"/>
+<meta property="og:locale" content="ru_RU"/>
+
+
+<link rel="manifest" href="/downloads/js/manifest.json?v=1.02">
+
+
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo16bw.png"  sizes="16x16"/>
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo32bw.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo48bw.png" sizes="48x48" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo64bw.png" sizes="64x64" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo128bw.png" sizes="128x128" />
+<link rel="shortcut icon" type="image/png" href="/images/eltnewdesign/logo32bw.png"/>
+
+<meta content='Элементы' name='apple-mobile-web-app-title'>
+
+<link rel="apple-touch-icon" type="image/png" href="/images/eltnewdesign/logo128bw.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/eltnewdesign/logo57bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/eltnewdesign/logo114bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/eltnewdesign/logo72wb.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/eltnewdesign/logo120bw.png" />
+
+<meta name="application-name" content="Элементы"/>
+<meta name="msapplication-TileColor" content="#001034" />
+<meta name="msapplication-TileImage" content="/images/eltnewdesign/logo128bw.png" />
+
+<meta name="yandex-tableau-widget" content="logo=https://elementy.ru/images/eltnewdesign/logo128bw.png, color=#001034" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://elementy.ru/rss"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/style2.css?v=1.125"/>
+
+<noscript>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>
+</noscript>
+<script type='text/javascript'>
+if (!document.cookie.match(/\bdesktop_mode=1/))
+   document.write(
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>');
+</script>
+
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-print.css?v=1.09"/>
+
+<script type="text/javascript" src="/download/mathjax_2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" async></script>
+<script src="//yastatic.net/share2/share.js" async></script>
+<script type="text/javascript" src='/downloads/js/menu.js?v=1.10'></script>
+<script type="text/javascript" src='/downloads/js/hor.js' async></script>
+<script type='text/javascript' src='/downloads/js/request.js' async></script>
+<script type='text/javascript' src='/downloads/js/scroll.js?v=1.03'></script>
+<script type='text/javascript' src='/downloads/js/more.js?v=1.02'></script>
+<script type='text/javascript' src='/downloads/js/ttlhover.js' async></script>
+<script type='text/javascript' src='/downloads/js/rfilters.js'></script>
+
+<script type="text/javascript">
+function pict_popup(src,title) {
+        var w = window.open(src,'','channelmode=no,toolbar=no,location=no,status=no,directories=no,menubar=no,');
+        if(navigator.appName=='Microsoft Internet Explorer') w.document.write('<title>'+title+'</title><img src="'+src+'" onLoad="i=document.images[0]; window.resizeTo(i.width+50,i.height+100)">')
+        return false
+}
+</script>
+
+
+
+
+</head>
+
+<body class="xrub-novosti_nauki xrubpage-no">
+<div class='allarea'  id='pgarea'>
+<a id="page_top"></a>
+
+<div class='mainmenublock hmenu' id='mmenubody' >
+     <div class='mbshading' id='mshading' onclick='toggleHMenu("mmenubody")'></div> 
+     <div class='hmenu'>
+      <div class='menuarea' id='mmenuarea'>
+       <a href='/' class='close' onclick='return toggleHMenu("mmenubody")'><span class='icon close'></span><span class='hint'>Закрыть</span></a>
+       <script type='text/javascript'>
+            var desktop_mode = document.cookie.match(/\bdesktop_mode=1/); 
+            if (!desktop_mode) document.write('<div class="oldlink hide_other"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div><hr class="hide_other">');
+       </script>
+       <ul class="level0"><li class="level0 selected">
+  <div><a href='/novosti_nauki'>Новости науки</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/kartinka_dnya'>Картинка дня</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/events'>Календарь событий</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/problems'>Задачи</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/email'>Детские вопросы</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/LHC'>Большой адронный коллайдер</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/LHC/novosti_BAK'>Новости LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/monitory_bolshogo_adronnogo_kollajdera'>Мониторы LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/LHC_results'>Результаты LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/zagadki_lhc'>Загадки LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_s_mu_mu'>Распад b→sμμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_1'>Распад B<sup>+</sup>→K<sup>+</sup>ll</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_2'>Распад B→Dlν</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_mu_mu'>Распад B→μμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/raspad_higgsa_na_muon_i_tau'>Распад H→μτ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/top_antitop_higgs'>Комбинация топ-антитоп-хиггс</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/zaryazhennyj_bozon_higgsa'>Заряженный бозон Хиггса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/dvuhfotonnyj_vsplesk_pri_750_gev'>Двухфотонный всплеск 750&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptony_odnogo_znaka_na_atlas'>Лептоны одного знака на ATLAS</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/eejj-otklonenije'>eejj-отклонение</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/sobytije_2.9tev'>Событие при 2,9 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_2_tev_atlas'>WZ-пик при 2 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_1.8_tev_cms'>WH-пик при 1,8 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_CMS'>Поиск суперсимметрии — 1</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_ATLAS'>Поиск суперсимметрии — 2</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_iii'>Поиск суперсимметрии — 3</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_results/beyondSM'>Отклонения от Стандартной модели</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/susy_search'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/exotic_search'>Экзотические частицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_search'>Поиск бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_study'>Изучение бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/top-quark'>Свойства топ-кварка</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/hadrons'>Рождение и распады адронов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/rare_decays'>Редкие распады B-мезонов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/difraction'>Адронная дифракция</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/nuclei'>Ядерные столкновения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/astro'>Астрофизика</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC_working'>LHC в работе</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lhc/timeline'>Хронология создания и работы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/general_schedule'>Общее расписание</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/what-to-check'>Как следить за новостями с LHC</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/working_cycle'>Рабочий цикл коллайдера</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/initial'>Ранние этапы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2008'>2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/incident'>Авария 19.09.2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009'>2009</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009/results_2009'>Результаты работы LHC в&nbsp;2009&nbsp;году</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_1'>Сеанс LHC Run&nbsp;1</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010'>2010</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010/results_2010'>Результаты работы LHC в&nbsp;2010&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011'>2011</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011/results_2011'>Результаты работы LHC в&nbsp;2011&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2012'>2012</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/schedule_2015'>Техническая пауза LS1</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_2'>Сеанс LHC Run&nbsp;2</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2015'>2015</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2016'>2016</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2017'>2017</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2018'>2018</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_3'>Сеанс LHC Run&nbsp;3</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_3/2022'>2022</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC'>Устройство и задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/LHC/about'>LHC: ключевые факты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/accelerator'>Устройство LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/beams'>Протонные пучки</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnets'>Магнитная система</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnet_training'>Как тренируют магниты</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/detectors'>Детекторы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ATLAS'>ATLAS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/CMS'>CMS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ALICE'>ALICE</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCb'>LHCb</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/TOTEM'>TOTEM</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCf'>LHCf</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/MoEDAL'>MoEDAL</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/why'>Зачем нужен LHC?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/tasks'>Задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/hadrons'>Свойства адронов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/decays'>Адронные распады</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/higgs'>Поиск бозона Хиггса</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/production_decay'>Рождение и распад</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/search_strategies'>Стратегии поиска</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/top-quark'>Топ-кварк</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/SUSY'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/exotic'>Экзотические теории</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/nuclei'>Ядерные столкновения</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/safety'>Безопасность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/estimates'>Вероятность катастрофы</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/black_holes'>Микроскопические черные дыры</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/phrases'>Толковый словарик журналистских штампов</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/HEP'>Физика элементарных частиц</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/HEP/educational'>Образовательные онлайн-ресурсы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/HEP/measures'>Величины и единицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/cross-section'>Сечение процесса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/luminosity'>Светимость</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/invariant-mass'>Инвариантная масса</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/study'>Как изучают частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/detecting'>Принципы детектирования</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/errors'>Погрешности</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/statistical'>Статистическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/systematic'>Систематическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/theoretical'>Теория и моделирование</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/sigma'>Сигма</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/subtleties'>Тонкости анализа</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/experiments'>Эксперименты на коллайдерах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/quark_model'>Классификация адронов</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/partonic_densities'>Партоны</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/hadronization'>Конфайнмент и адронизация</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/rapidity-angle_diagram'>Быстрота–угол</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/analysis_methods'>Приемы анализа</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/SM'>Стандартная модель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/problems'>Трудности</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/beyondSM'>За пределами СМ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/SUSY'>Суперсимметрия</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/higgs_theory'>Хиггсовский механизм</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/explanations'>Аналогии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/SM_Higgs'>Хиггс с&nbsp;массой 125&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/nonminimal'>Неминимальные варианты</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/gallery'>Галерея</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly'>В популярных журналах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/vmirenauki'>«В мире науки»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/znanijesila'>«Знание — сила»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvant'>«Квант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvantik'>«Квантик»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kommersant_nauka'>«Коммерсантъ Наука»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kot_shryodingera'>«Кот Шрёдингера»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_i_zhizn'>«Наука и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_iz_pervyh_ruk'>«Наука из первых рук»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/popularnaja_mehanika'>«Популярная механика»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_himija_biologija_meditsina'>«Потенциал»: Химия. Биология. Медицина</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_matematika_fizika_informatika'>«Потенциал»: Математика. Физика. Информатика</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda'>«Природа»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/o_zhurnale'>О журнале</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/priroda_v_internete'>«Природа» в интернете</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/kak_podpisatsya'>Как подписаться</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/gazeta_troitskiy_variant'>«Троицкий вариант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/khimiya_i_zhizn'>«Химия и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/chto_novogo_v_nauke_i_tekhnike'>«Что нового в науке и технике»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/ecologiya_i_zhizn'>«Экология и жизнь»</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/izbrannoe'>Избранное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/lektsii_dlya_shkolnikov'>Лекции для школьников</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/interview'>Интервью</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/vystavka_vse_v_mire_otnositelno'>Выставка «Всё в мире относительно»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lib/exhibition/authors'>О художниках</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/lib/exhibition/about'>О выставке</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/video'>Видеотека</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/bookclub'>Книжный клуб</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/bookclub/book'>Книги</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/author'>Авторы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/chapters'>Главы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/bookclub/chapters/knigi_opublikovannyje_polnostju'>Опубликовано полностью</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera'>Происхождение жизни</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/evolutsija_i_priroda_nauki'>Глава 1</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/svidetelstva_biologicheskoj_evolutsii'>Глава 2</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/vzglyady_kreatsionistov'>Глава 3</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/FAQ'>Заключение</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/bookclub/publisher'>Издательства</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/series'>Серии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review'>Рецензии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review_users'>Отзывы</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/time'>Масштабы: времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/time/estimating'>В помощь читателю</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-1.html'>Как оценивать типичные времена</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-2.html'>Как применять формулы&nbsp;— иллюстрация</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-3.html'>Тонкости и предостережения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-4.html'>Опорные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-5.html'>Колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-6.html'>Гармонические колебания и их период</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-7.html'>Волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-8.html'>Закон распада</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/milli'>Миллисекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/milli/milli-1.html'>Миллисекунды в нашей жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-2.html'>Фото вместо видео</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-3.html'>Мерцающие огоньки</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-4.html'>Скрытые возможности невооруженного взгляда</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/micro'>Микросекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/micro/micro-1.html'>Остановившийся мир</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-2.html'>И всё-таки он движется!</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-3.html'>Пределы механического затвора</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nano'>Наносекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nano/nano-1.html'>От предметов к веществу</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-2.html'>Коллективные явления</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-3.html'>Электромагнитные колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-4.html'>Информационная емкость радиоволны</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/pico'>Пикосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/pico/pico-1.html'>Атомное движение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-2.html'>Пределы звука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-3.html'>Как начинается плавление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-4.html'>Пределы электроники</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-5.html'>Электромагнитные волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-6.html'>Элементарные частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/femto'>Фемтосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/femto/femto-1.html'>Мир электронов и света</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-2.html'>Оптические вычислительные технологии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-3.html'>Фемтохимия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-4.html'>Фемтобиология</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/atto'>Аттосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/atto/atto-1.html'>Личная жизнь атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-2.html'>Самые внутренние электроны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-3.html'>Как взрезать атом</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-4.html'>Электроны на службе аттофизики</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/zepto'>Зептосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-1.html'>Жизнь атомных ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-2.html'>Энергия, время и соотношение неопределенностей</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/yocto'>Йоктосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-1.html'>На границе известного</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-2.html'>Столкновение тяжелых ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-3.html'>Вглубь йоктосекунды</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/year'>От секунды до года</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/year/year-1.html'>Семь с половиной порядков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-2.html'>Искусственные спутники Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-3.html'>Эхо землетрясений</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-4.html'>Астероид-убийца</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-5.html'>Как растекается тепло</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/very-long'>Астрономические времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-1.html'>Солнечная система</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-2.html'>Солнечная система на больших временах</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-3.html'>Глубокий космос</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-4.html'>Межгалактические отношения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-5.html'>Танец земного климата</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-6.html'>Тектоническая жизнь Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-7.html'>Сверхдолгоживущие частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/sonoluminescence'>Сонолюминесценция</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-1.html'>Свечение, порожденное звуком</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-2.html'>Поведение пузырька</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-3.html'>Последние мгновения коллапса</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/biophysics'>Фолдинг белков</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-1.html'>Физическая основа жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-2.html'>Главная и боковые цепи</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-3.html'>«Жизнь» белковой молекулы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-4.html'>Компьютерное моделирование фолдинга</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/excited'>Возбужденные атомы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-1.html'>Возбужденные атомы: кто такие и где встречаются</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-2.html'>Быстротечная жизнь возбужденных атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-3.html'>Миллионы безуспешных попыток</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-4.html'>Ридберговские атомы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-5.html'>Атомы-долгожители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-6.html'>Водородная линия 21&nbsp;см</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nuclear'>Ядерные распады</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-1.html'>«Ядерная секунда»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-2.html'>Альфа-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-3.html'>Тяжелые элементы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-4.html'>Бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-5.html'>Двойной бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-6.html'>Ядерные изомеры</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/particles'>Элементарные частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/particles/particles-1.html'>Законы элементарных частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-2.html'>Два руководящих принципа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-3.html'>Сильные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-4.html'>Электромагнитные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-5.html'>Слабые распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-6.html'>Повышенная жизнеспособность на&nbsp;околосветовых скоростях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-7.html'>На переднем крае физики элементарных частиц</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/continents'>Движение континентов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/continents/continents-1.html'>Такты тектонической жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-2.html'>Возраст Гималаев</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-3.html'>Когда задышал Северный Ледовитый океан?</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/posters'>Плакаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/posters/moment'>Мгновение</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/posters/fractals'>Фракталы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/fractals/fractals'>Что такое фракталы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/geometric'>Геометрические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Koch'>Снежинка Коха</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/T-square'>Т-квадрат</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/H-fractal'>H-фрактал</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Sierpinski'>Треугольник Серпинского</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Pythagoras'>Дерево Пифагора</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Levy'>Кривая Леви</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/dragon'>Дракон</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/dynamic'>Динамические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Mandelbrot'>Множество Мандельброта</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Julia'>Множества Жюлиа</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Halley'>Фрактал Галлея</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Newton'>Фрактал Ньютона</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/complex_numbers'>Комплексные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/dimensions'>Фрактальные размерности</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/how_to_draw'>Как это рисовать</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/nature'>Фракталы в природе</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/about'>О плакате</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/collider'>Ускоритель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/collider/1'>Зачем нужен ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/2'>Единицы измерения расстояний, энергий и масс</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/3'>Краткая история ускорителей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/4'>Как работает ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/5'>Детектор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/6'>Как на ускорителе изучают свойства частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/7'>Природные ускорители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/8'>Применение ускорителей и детекторов в медицине</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/aviation'>Покорение воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/aviation/light'>Аппараты легче воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/light/balloons'>Аэростаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/montgolfiere'>Первый аппарат легче воздуха, способный поднять человека</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/today'>Шары-монгольфьеры сегодня</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/light/dirigibles'>Дирижабли</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/france'>Типичный дирижабль конца XIX&nbsp;века рыбообразной формы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/tsiolkovsky'>Цельнометаллический бескаркасный дирижабль с&nbsp;изменением объема в&nbsp;полете и с&nbsp;подогревом газа</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/zeppelin'>Серийный дирижабль Германии времен Первой мировой войны</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/akron'>Гелиевые дирижабли США</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/hindenburg_disaster'>Гибель «Гинденбурга» 6&nbsp;мая 1937&nbsp;года</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/today'>Дирижабли сегодня</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/heavy'>Аппараты тяжелее воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/helicopters'>Вертолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/sikorskys1'>Первый вертолет И.&nbsp;И.&nbsp;Сикорского</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/cagi_1-ea'>Первый летающий аппарат классической схемы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/mi-26'>Тяжелый военно-транспортный вертолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/an-64'>Ударный вертолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans'>Экранопланы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/km'>Самый крупный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/orlenok'>Единственный российский серийный десантный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/bartini'>Экраноплан Бартини</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/lun'>Летающий госпиталь</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/planes'>Самолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/theory'>Теоретические основы полета аппаратов тяжелее воздуха</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mozhajskij'>Первый реализованный проект, однако достоверных сведений о полете нет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/wrights'>Первый самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ilya_muromec'>Первый «тяжелый самолет»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/newport17'>Первый самолет с «зализанными» обводами</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ant-6'>Тяжелый бомбардировщик-моноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/messerschmitt'>Самый массовый истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/yak-1'>Самый легкий и маневренный истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/supermarine_spitfire'>Лучший истребитель битвы за Британию в 1940&nbsp;г.</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mosquito'>Цельнодеревянный скоростной бомбардировщик «Мечта термита»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mitsubishi_a6m_reisen'>Истребитель&nbsp;— символ японской авиации</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/il-2'>Тяжелый штурмовик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-15'>Фронтовой истребитель, один из первых серийных реактивных самолетов</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-86_sabre'>Многоцелевой истребитель, противник МиГ-15 в корейской войне</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-21'>Выдающийся сверхзвуковой истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/lockheed'>Высотный разведывательный самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_b-52'>Стратегический бомбардировщик с велосипедным шасси</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-144'>Сверхзвуковой пассажирский самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_747_jumbo'>«Реактивный слон»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-15_eagle'>Тактический истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/su-27'>Маневренный истребитель-перехватчик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-160'>Стратегический бомбардировщик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/an-124_ruslan'>Тяжелый военно-транспортный самолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/terms'>Основные параметры самолетов, указанные на плакате</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/literature'>Список литературы</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/light_version'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/gravity'>Гравитация</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/gravity/1'>Парабола или прямая?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/2'>Все дома стоят криво</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/3'>Из Москвы в&nbsp;Питер за&nbsp;полчаса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/4'>На Луну в комфортных условиях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/5'>Скоростной спутник Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/6'>Перевернутый небоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/7'>Супернебоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/8'>Запуск спутника без затрат энергии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/9'>Раскрутим Землю</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/perpetuum'>Вечный двигатель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/first'>Вечный двигатель первого рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/second'>Вечный двигатель второго рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/third'>Вечный двигатель «третьего рода»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/1'>Колесо и&nbsp;шары</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/2'>Цепочка шаров</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/3'>«Птичка Хоттабыча»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/4'>Цепочка поплавков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/5'>Архимедов винт</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/6'>Машина Орфиреуса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/7'>Магнит и желоба</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/8'>«Вечный водопровод»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/9'>Автоматический подзавод часов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/10'>Подъем масла по&nbsp;фитилям</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/11'>Колесо и&nbsp;грузы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/12'>Установка Потапова</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/13'>Луна и планеты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/spectrum'>Электромагнитное излучение</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/spectrum/nature'>Природа электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/wave'>Частота и длина волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/history'>История открытия электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/union'>Великое объединение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/energy'>Энергия кванта</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/temperature'>Температура излучения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/diapasons'>Диапазоны излучения и вещество</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/about'>Что изображено на плакате</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/units'>Соотношения и единицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/gamma'>Гамма-излучение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/roentgen'>Рентген</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/ultraviolet'>Ультрафиолет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/visible'>Видимый диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/infrared'>Инфракрасный диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/radio'>Радиоизлучение и микроволны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/other'>За пределами спектра</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/human'>Возможности человека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/human/muscular'>Сила</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/mind'>Мышление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/science'>Наука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/evolution'>Эволюционный принцип</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/factor'>Человеческий фактор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/weight'>Поднятие тяжестей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/flight'>Полет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/walk'>Бег</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/swim'>Плавание</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/trefil'>200 законов мироздания</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/trefil/introduction'><i>Введение</i></a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/physics'>Физика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/astronomy'>Астрономия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/maths'>Математика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/chemistry'>Химия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biology'>Науки о жизни</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/geo'>Науки о Земле</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/misc'>Разное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/rvm'>Взгляд в прошлое</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biography'><i>Биографии</i></a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/genbio'>Журнал общей биологии</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/genbio/english'>In English</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/genbio/english/all'>All Issues</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/genbio/abstracts'>All Abstracts</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/genbio/last'>Свежий выпуск</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/all'>Все выпуски</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/resume'>Статьи</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/synopsis'>Синопсисы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about'>О журнале</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about/rules'>Авторам</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/law'>Наука, образование и право</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/law/organ.htm'>Федеральные органы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/program.htm'>Федеральные программы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/intellectual.htm'>Интеллектуальная собственность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/law/intellectual/international.htm'>Международное законодательство</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/russian.htm'>Законодательство РФ </a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/patent.htm'>Патентование</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/contact.htm'>Сделки и договоры</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/payment.htm'>Вознаграждение</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/law/degree.htm'>Ученые степени</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nostr.htm'>Нострификация</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/vuz.htm'>Образование, вузы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nii.htm'>Научные организации</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/prize.htm'>Премии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/grant.htm'>Гранты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/work.htm'>Трудовое законодательство </a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/kodex.htm'>Конституция и кодексы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/other.htm'>Другие нормативные акты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/all_laws.htm'>Все нормативные акты</a>
+  </div></li>
+
+  </li></ul></ul>
+       <script type='text/javascript'>
+            document.write('<hr'+(!desktop_mode?"  class='hide_main'":"")+'>');
+            document.write('<div class="oldlink hide_main"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div>');
+            if (desktop_mode )
+               document.write('<div class="chmod mob hide_main"><a href="/" onclick="return setDesktopMode(false)">Мобильная версия сайта</a></div>');
+            else
+               document.write('<div class="chmod dsk hide_main"><a href="/" onclick="return setDesktopMode(true)">Полная версия сайта</a></div>');
+       </script>
+       <hr>
+       <ul class='img'>
+        <li class='first'><a class='facebook' href='https://www.facebook.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'></a></li>
+        <li><a class='instagram' href='https://www.instagram.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'></a></li>
+        <li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'></a></li>
+        <li><a class='rss' href='/rss/news' target='_blank'></a></li>
+       </ul>
+      </div>
+     </div>
+</div>
+
+<div class='print_logo hide_screen'><script type='text/javascript'>document.write("<img src='/images/eltnewdesign/logo_wpr.png'>");</script></div>
+
+<div class='hhead' id='pghead'>
+  <div class='hmenu'>
+    <div class='lmenu' id='hmainmenu'>
+      <a href='/' class='item' onclick='return toggleHMenu("mmenubody")'><span class='icon menu'></span><span class='hint'>Меню</span></a>
+    </div>
+    <div class='rmenu' id='rmenu'>
+       <a href='/' class='item' onclick='return toggleHMenu(this, true)'><span class='icon search'></span><span class='hint'>Поиск</span></a>
+       <a href='/' class='close' onclick='return toggleHMenu(this)'><span class='icon close2'></span><span class='hint'>Закрыть</span></a>
+       <div class='menuarea'>
+         <div class='menusearch xform'> 
+         <form action="find">
+             <input type="text" class="search" name="words" value="" placeholder="Поиск">
+             <input type="image" name="search" src="images/eltnewdesign/search_b.png">
+         </form>
+         </div> 
+       </div>
+    </div>
+    <div class='logo'><a href="/" onclick='return checkHMScroll()'><span>&nbsp;</span></a></div>
+  </div>  
+</div>
+
+
+<div class='body'  id='pgbody'>
+
+  
+   <div class='mblock chead'>
+     
+     
+<div class='rubpath'><span class='first last'><a href='/novosti_nauki'>Новости науки</a></span> </div>
+
+</div>
+   
+  
+
+   
+       <div class='mblock nogap'>
+<div class='mb itemhead newslist'><h1>Глобальное оледенение в&nbsp;неопротерозое могло быть вызвано падением астероида</h1>
+<div class="sublink"><span class="date">26.02.2024</span>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/5272006/Vladislav_Strekopytov">Владислав Стрекопытов</a>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/98045/Geologiya">Геология</a><span class="comma">,</span> <a href="/novosti_nauki/t/3852151/Klimat">Климат</a>&nbsp;<span class='break'>•</span> <a href="/novosti_nauki/434197#forum" onclick="forum_goto(); return false;">16&nbsp;комментариев</a></div></div>
+</div>
+
+<div class='mblock'>
+
+<div class='socnetblock'><script src="/downloads/js/snfly.js?v=1.04"></script>
+<div  id="socnets_share">
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter=""></div>
+<div id='forum_topsocnet_button' style='display:none' title='Написать комментарий'><span class='fmicon'></span><div class='counter' id='forum_topsocnet_count'></div></div>
+</div>
+</div>
+
+<div class='itemblock'><div class='memo'>
+    <!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/snowball_earth_impact_hypothesis_1_703.jpg" alt="«Земля-снежок»" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 1.</b> Так в представлении художника в <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D1%80%D0%BE%D0%B7%D0%BE%D0%B9" target=_blank>неопротерозое</a> выглядела <a href="https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F-%D1%81%D0%BD%D0%B5%D0%B6%D0%BE%D0%BA" target=_blank>«Земля-снежок»</a>, полностью покрытая льдами. Иллюстрация с сайта <a href="https://en.wikipedia.org/wiki/Snowball_Earth" target=_blank>en.wikipedia.org</a></p></div>
+
+
+</div>
+
+    <p><b>Геологические данные свидетельствуют о том, что в&nbsp;самом конце протерозоя Земля на протяжении нескольких десятков миллионов лет была полностью покрыта льдом. Этот этап истории нашей планеты известен как «Земля-снежок». Как возникли подобные условия, до конца не ясно. Обычно в&nbsp;качестве наиболее вероятных причин называют изменение альбедо Земли и нарушение углеродного цикла, то&nbsp;есть смещение баланса вулканических выбросов углекислого газа и его связывания в&nbsp;процессе выветривания горных пород. Результаты моделирования, проведенного группой ученых из США и Австрии, показывают, что еще одним фактором, способным спровоцировать глобальное оледенение, могло быть импактное событие&nbsp;— падение астероида, сопоставимого по размеру с&nbsp;тем, который привел 66&nbsp;миллионов лет назад к&nbsp;гибели динозавров.</b></p>
+
+<p>«Земля-снежок»&nbsp;— это <a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" target=_blank>геоисторическая</a> гипотеза, которая предполагает, что в&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BE%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9" target=_blank>криогении</a>&nbsp;— втором <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4" target=_blank>геохронологическом периоде</a> <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BE%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D1%80%D0%BE%D0%B7%D0%BE%D0%B9" target=_blank>неопротерозойской</a> <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D1%80%D0%B0" target=_blank>эры</a>, который начался 720, а закончился 635&nbsp;млн лет назад, поверхность Земли полностью была покрыта льдами, а океаническая или поверхностная вода не попадала в&nbsp;атмосферу. Гипотеза была предложена для объяснения нахождения переработанных <a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BE%D1%82%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" target=_blank>ледниковых отложений</a> (тиллитов&nbsp;— см.&nbsp;<a href="https://en.wikipedia.org/wiki/Till#Tillite" target=_blank>tillite</a>) этого возраста на всех континентах, включая те их части, которые находились в&nbsp;тропических широтах (см.&nbsp;новость <a href="/novosti_nauki/433435/Velikoe_stratigraficheskoe_nesoglasie_vozniklo_iz_za_lednikovoy_erozii_v_neoproterozoe" target=_blank>«Великое стратиграфическое несогласие» возникло из-за ледниковой эрозии в&nbsp;неопротерозое</a>, «Элементы», 27.02.2019 и статью С.&nbsp;Ястребова <a href="/nauchno-populyarnaya_biblioteka/433446/Kislorodnaya_revolyutsiya_i_Zemlya_snezhok" target=_blank>Кислородная революция и Земля-снежок</a>).</p>
+
+<p>Идея глобального оледенения возникла после того, как в&nbsp;1964&nbsp;году британский геолог <a href="https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D0%BB%D0%B0%D0%BD%D0%B4,_%D0%A3%D0%BE%D0%BB%D1%82%D0%B5%D1%80_%D0%91%D1%80%D0%B0%D0%B9%D0%B0%D0%BD" target=_blank>Брайан Харланд</a> опубликовал статью в&nbsp;которой представил <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D0%BE%D0%BC%D0%B0%D0%B3%D0%BD%D0%B5%D1%82%D0%B8%D0%B7%D0%BC" target=_blank>палеомагнитные</a> данные, показывающие, что <a href="https://ru.wikipedia.org/wiki/%D0%A8%D0%BF%D0%B8%D1%86%D0%B1%D0%B5%D1%80%D0%B3%D0%B5%D0%BD" target=_blank>Шпицберген</a> и <a href="https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%BD%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F" target=_blank>Гренландия</a> в&nbsp;неопротерозое находились в&nbsp;тропических широтах, а ледниковые отложения здесь непосредственно залегают поверх пород, обычно формирующихся в&nbsp;жарком климате (<span class="small">W.&nbsp;Harland. 1964. <a href="https://link.springer.com/article/10.1007/BF01821169" target=_blank>Critical evidence for a&nbsp;great infra-Cambrian glaciation</a></span>). Отсюда Харланд сделал вывод о&nbsp;том, что оледенение (которое тогда называли Варяжским) наступило очень быстро и имело глобальный характер.</p>
+
+<p>Термин «Земля-снежок» (Snowball Earth) первым предложил в&nbsp;1992&nbsp;году профессор <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82" target=_blank>Калифорнийского технологического института</a> Джозеф Киршвинк (<a href="https://www.gps.caltech.edu/people/joseph-joe-kirschvink" target=_blank>Joseph Kirschvink</a>). В&nbsp;короткой статье <a href="https://core.ac.uk/download/pdf/216168683.pdf" target=_blank>Late Proterozoic Low-Latitude Global Glaciation: the Snowball Earth</a>, опубликованной в&nbsp;сборнике, посвященном биологии <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%80%D0%BE%D0%B7%D0%BE%D0%B9" target=_blank>протерозоя</a>, Киршвинк предположил, что глобальное оледенение в&nbsp;криогении стало следствием самоподдерживающегося процесса роста ледникового покрова, открытого в&nbsp;1960-е годы советским климатологом <a href="https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%B4%D1%8B%D0%BA%D0%BE,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" target=_blank>Михаилом Будыко</a>.</p>
+
+<p>Будыко разработал климатическую модель глобального энергетического баланса, согласно которой, если ледяные щиты продвигаются достаточно далеко за пределы полярных регионов, возникает петля <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C" target=_blank>положительной обратной связи</a>, при которой повышенная отражательная способность (<a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D0%B4%D0%BE" target=_blank>альбедо</a>) льда приводит к&nbsp;дальнейшему охлаждению и образованию все большего количества льда. И так до тех пор, пока лед не покроет всю поверхность планеты. Вклад Киршвинка заключался в&nbsp;том, что он описал возможный путь выхода Земли из состояния «снежка» в&nbsp;результате накопления в&nbsp;атмосфере вулканических газов, приводящего к&nbsp;ультра<a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82" target=_blank>парниковому эффекту</a>.</p>
+
+<p>В настоящее время большинство ученых придерживаются точки зрения, согласно которой для начала глобального оледенения должны были совпасть сразу несколько условий. Прежде всего, это скопление практически всех континентов в&nbsp;экваториальной зоне, где <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B4%D0%B8%D0%B0%D1%86%D0%B8%D1%8F" target=_blank>солнечная радиация</a> максимальная, а значит и эффект обратной связи от увеличения альбедо наиболее сильный. В&nbsp;неопротерозое вся суша как раз была собрана в&nbsp;первый известный <a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BA%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82" target=_blank>суперконтинент</a> <a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D0%B8%D0%BD%D0%B8%D1%8F" target=_blank>Родиния</a>, располагавшийся вдоль экватора.</p>
+
+<p>Еще одно важное условие запуска механизма обратной связи&nbsp;— изначально низкий уровень <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B3%D0%B0%D0%B7%D1%8B" target=_blank>парниковых газов</a> (прежде всего <a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BE%D0%BA%D1%81%D0%B8%D0%B4_%D1%83%D0%B3%D0%BB%D0%B5%D1%80%D0%BE%D0%B4%D0%B0" target=_blank>углекислого газа</a>) в&nbsp;атмосфере. Здесь многое зависит от баланса двух мощнейших геологических процессов&nbsp;— вулканизма, при котором выделяется СО<sub>2</sub>, и химического выветривания, при котором углекислый газ взаимодействует с&nbsp;горными породами и осаждается, входя в&nbsp;состав карбонатов. Свою роль могли также сыграть изменение параметров земной орбиты или извержение <a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD" target=_blank>супервулкана</a>, выбросившего в&nbsp;атмосферу гигантское количество пепла и аэрозолей, которые служат экраном, отражающим солнечные лучи.</p>
+
+<p>Недавно ученые из США и Австрии во главе с&nbsp;<a href="https://people.earth.yale.edu/profile/alexey-fedorov/about" target=_blank>Алексеем Федоровым</a> из <a href="https://ru.wikipedia.org/wiki/%D0%99%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" target=_blank>Йельского университета</a> предположили, что еще одним триггером для начала глобального оледенения, мог стать удар астероида или крупного метеорита. Авторы построили модель <a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BC%D0%BF%D0%B0%D0%BA%D1%82%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B5" target=_blank>импактного события</a>, связанного с&nbsp;падением космического тела размером с&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D0%BA%D1%88%D1%83%D0%BB%D1%83%D0%B1_(%D0%BA%D1%80%D0%B0%D1%82%D0%B5%D1%80)" target=_blank>Чикшулубский метеорит</a> (который спровоцировал вымирание динозавров 66&nbsp;млн лет назад). Результаты показали, что при изначально холодном климате, который был в&nbsp;неопротерозое, такое событие могло привести к&nbsp;глобальному оледенению. Статья <a href="https://www.science.org/doi/10.1126/sciadv.adk5489" target=_blank>опубликована</a> в&nbsp;журнале <i>Science Advances</i>.</p>
+
+<p>Чикшулуб был выбран в&nbsp;качестве прототипа для моделирования, потому что параметры этого импактного события хорошо изучены. Геологические данные указывают на то, что после его воздействия, на рубеже <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4" target=_blank>мела</a> и <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D0%BE%D0%B3%D0%B5%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4" target=_blank>палеогена</a>, климат на Земле стал холоднее, а площадь ледниковых покровов выросла (см.&nbsp;новость <a href="/novosti_nauki/434159/Padenie_Chikshulubskogo_asteroida_na_poltora_goda_pogruzilo_Zemlyu_vo_tmu" target=_blank>Падение Чикшулубского астероида на полтора года погрузило Землю во тьму</a>, «Элементы», 10.11.2023).</p>
+
+<p>Существует мнение, что и последнее глобальное похолодание, произошедшее примерно 12&nbsp;800&nbsp;лет назад (см.&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B7%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B4%D1%80%D0%B8%D0%B0%D1%81" target=_blank>поздний дриас</a>), также было спровоцировано падением космического тела (см.&nbsp;новость <a href="/novosti_nauki/433450/V_Chili_nashli_argumenty_v_polzu_impaktnoy_versii_pokholodaniya_v_pozdnem_driase" target=_blank>В&nbsp;Чили нашли аргументы в&nbsp;пользу импактной версии похолодания в&nbsp;позднем дриасе</a>, «Элементы», 26.03.2019).</p>
+
+<p>Климатические условия начала криогения определены весьма условно. По разным оценкам, 720&nbsp;млн лет назад средняя температура на планете составляла от 3,9 до 17,2°C, содержание СО<sub>2</sub> в&nbsp;атмосфере&nbsp;— 750–1500&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F" target=_blank>ppm</a>, а морской лед покрывал 5,7–27,1% поверхности. Для сравнения авторы взяли еще три климатических сценария: доиндустриального периода (до середины XIX&nbsp;века), <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D1%83%D0%BC_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B5%D0%B3%D0%BE_%D0%BE%D0%BB%D0%B5%D0%B4%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" target=_blank>последнего ледникового максимума</a> (26,5–19&nbsp;тыс. лет назад), когда температуры были на 4−6,5°C ниже, чем в&nbsp;настоящее время, и конца мелового периода, непосредственно перед падением Чикшулубского метеорита (рис.&nbsp;2).</p>
+
+<p>Также учитывали то, что солнечная радиация в&nbsp;неопротерозое была примерно на 6% ниже, чем сейчас, а во время удара в&nbsp;атмосферу было выброшено около 200&nbsp;Гт SO<sub>2</sub> (в&nbsp;среднем такую оценку приводят для Чикшулубского события, см.&nbsp;<span class="small">K.&nbsp;Pope et&nbsp;al., 1997. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/97JE01743" target=_blank>Energy, volatile production, and climatic effects of the Chicxulub Cretaceous/Tertiary impact</a></span>).</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/snowball_earth_impact_hypothesis_2_1300.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/snowball_earth_impact_hypothesis_2_1300.jpg','Рис. 2. Параметры моделирования для пяти климатических сценариев')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/snowball_earth_impact_hypothesis_2_703.jpg" alt="Рис. 2. Параметры моделирования для пяти климатических сценариев" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 2.</b> Параметры моделирования для пяти климатических сценариев: PI&nbsp;&mdash; доиндустриальный период; LGM&nbsp;&mdash; последний ледниковый максимум; 4×CO<sub>2</sub>&nbsp;&mdash; конец мелового периода; 720&nbsp;Ma (1500&nbsp;ppm)&nbsp;&mdash; 720&nbsp;млн лет назад при уровне CO<sub>2</sub> в&nbsp;атмосфере 1500&nbsp;ppm; 720&nbsp;Ma (750&nbsp;ppm)&nbsp;&mdash; 720&nbsp;млн лет назад при уровне CO<sub>2</sub> в&nbsp;атмосфере 750&nbsp;ppm. Обозначения столбцов: содержание CO<sub>2</sub> в&nbsp;атмосфере (в&nbsp;ppm); солнечная радиация (в&nbsp;% от современной); средняя температура земной поверхности до импактного события (в&nbsp;&deg;C); процент земной поверхности, покрытой морскими льдами до импактного события; вероятность реализации сценария &laquo;Земля-снежок&raquo; после удара с&nbsp;выбросом 200&nbsp;Гт SO<sub>2</sub>. Таблица из обсуждаемой статьи в&nbsp;<i>Science Advances</i></p></div>
+
+
+</div>
+
+<p>Авторы отмечают, что в&nbsp;зависимости от размера ударного тела и состава пород в&nbsp;месте падения, при импакте могло выделиться как больше, так и меньше SO<sub>2</sub>. Они провели моделирование для всех пяти климатических сценариев при трех значениях этого параметра (6,6, 200 и 2000&nbsp;Гт) и выяснили, что в&nbsp;первом случае влияние на глобальную климатическую систему будет незначительным, а в&nbsp;последнем&nbsp;— эффект, несмотря на десятикратное увеличение выброса, практически не отличается от принятого для базовой модели значения 200&nbsp;Гт (рис.&nbsp;3).</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/snowball_earth_impact_hypothesis_3_703.jpg" alt="Рис. 3. Изменение площади морского льда в зависимости от количества выбросов SO2 в атмосферу" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 3.</b> Изменение площади морского льда (<i>по вертикали</i>) в&nbsp;зависимости от количества выбросов SO<sub>2</sub> в&nbsp;атмосферу (6,6, 200 или 2000&nbsp;Гт). <i>По горизонтали</i>&nbsp;&mdash; время в&nbsp;годах после импактного события. Рисунок из обсуждаемой статьи в&nbsp;<i>Science Advances</i></p></div>
+
+
+</div>
+
+<p>Результаты показывают, что падение космического тела масштаба Чикшулубского метеорита вполне могло спровоцировать глобальное оледенение в&nbsp;неопротерозое при условии, что климат на Земле на тот момент уже был достаточно холодным, а содержание CO<sub>2</sub> в&nbsp;атмосфере&nbsp;— невысоким.</p>
+
+<p>А вот если бы такого размера метеорит упал 26,5–19&nbsp;тыс. лет назад, во время последнего ледникового максимума эффект «Земли-снежка» был бы практически неизбежным! Реакция климата, как следует из модели, была бы практически молниеносной: в&nbsp;течение 6–8&nbsp;лет поверхность планеты покрылась бы сплошным ледяным покровом и стала непригодной для жизни (рис.&nbsp;4). Так что можно считать большой удачей, что Чикшулубский метеорит упал в&nbsp;один из самых теплых периодов в&nbsp;истории Земли. Иначе последствия для всего живого были бы намного серьезнее.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/snowball_earth_impact_hypothesis_4_1000.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/snowball_earth_impact_hypothesis_4_1000.jpg','Рис. 4. Процент океана, покрытый льдами через 0, 2, 4, 6 и 8 лет после импактного события')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/snowball_earth_impact_hypothesis_4_703.jpg" alt="Рис. 4. Процент океана, покрытый льдами через 0, 2, 4, 6 и 8 лет после импактного события" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 4.</b> Процент поверхности океана, покрытый льдами через 0, 2, 4, 6 и 8&nbsp;лет после импактного события. <i>Вертикальные колонки</i> соответствуют четырем климатическим сценариям: PI&nbsp;&mdash; доиндустриальный период; LGM&nbsp;&mdash; последний ледниковый максимум; 4×CO<sub>2</sub>&nbsp;&mdash; конец мелового периода; 720&nbsp;Ma (750&nbsp;ppm)&nbsp;&mdash; 720&nbsp;млн лет назад при содержании CO<sub>2</sub> в&nbsp;атмосфере 750&nbsp;ppm. Рисунок из обсуждаемой статьи в&nbsp;<i>Science Advances</i></p></div>
+
+
+</div>
+
+<p>Отдельное моделирование, учитывающее мощность ледового покрова, показало, что через десять с&nbsp;лишним лет при сценарии 720&nbsp;Ma (750&nbsp;ppm) толщина льдов в&nbsp;экваториальной части планеты могла достигать 10 и более метров (рис.&nbsp;5).</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ipadlarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/snowball_earth_impact_hypothesis_5_590.jpg" alt="Рис. 5. Толщина морского льда при сценарии 720 Ma (750 ppm)" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 5.</b> Толщина морского льда при сценарии 720&nbsp;Ma (750&nbsp;ppm) через 0, 2, 4, 6, 8, 10, 12 и 14&nbsp;лет после импактного события. Рисунок из обсуждаемой статьи в&nbsp;<i>Science Advances</i></p></div>
+
+
+</div>
+
+<p>Вероятностные модели предполагают, что Земля испытывает удары астероидов диаметром более 5&nbsp;км примерно раз в&nbsp;50&nbsp;млн лет. Каждый из них, считают авторы, мог оставить след в&nbsp;климатической истории. Возможно, именно с&nbsp;такими импактными событиями связаны эпизоды глобальных похолоданий, имевших место как минимум трижды в&nbsp;течение <a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%BD%D0%B5%D1%80%D0%BE%D0%B7%D0%BE%D0%B9" target=_blank>фанерозоя</a> (от 538,8 млн лет назад до настоящего времени): в&nbsp;позднем <a href="https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B4%D0%BE%D0%B2%D0%B8%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4" target=_blank>ордовике</a> (448–440,5&nbsp;млн лет назад), на рубеже <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4" target=_blank>перми</a> и <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4" target=_blank>карбона</a> (335–295&nbsp;млн лет назад) и в&nbsp;плейстоцене (от 2,6&nbsp;млн до 10,7&nbsp;тыс. лет назад).</p>
+
+<p>Прямых геологических доказательств того, что Земля в&nbsp;неопротерозое столкнулась с&nbsp;крупным астероидом, не существует. Сам кратер с&nbsp;тех пор вряд ли сохранился бы, так как тектонические и эрозионные процессы способны за 720&nbsp;млн лет уничтожить любые формы рельефа.</p>
+
+<p>Однако в&nbsp;2017&nbsp;году американский астрофизик из <a href="https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6%D0%B0_%D0%9C%D0%B5%D0%B9%D1%81%D0%BE%D0%BD%D0%B0" target=_blank>Университета Джорджа Мейсона</a> Сяолей Чжан (<a href="https://philpeople.org/profiles/xiaolei-zhang" target=_blank>Xiaolei Zhang</a>) выдвинула предположение, что <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D1%80%D0%B0%D0%B4%D0%BE_(%D0%BF%D0%BB%D0%B0%D1%82%D0%BE)" target=_blank>плато Колорадо</a> на юго-западе США&nbsp;— это сильно <a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D1%83%D0%B4%D0%B0%D1%86%D0%B8%D1%8F" target=_blank>денудированный</a> (разрушенный) кратер диаметром около 640&nbsp;км, образовавшийся в&nbsp;неопротерозое при столкновении Земли с&nbsp;астероидом либо в&nbsp;результате касательного удара, полученного от пролетающего межзвездного объекта типа <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0-%D1%81%D0%B8%D1%80%D0%BE%D1%82%D0%B0" target=_blank>планеты-странника</a> (рис.&nbsp;6; <span class="small">X.&nbsp;Zhang, 2017. <a href="https://arxiv.org/abs/1711.03099" target=_blank>On a&nbsp;Possible Giant Impact Origin for the Colorado Plateau</a></span>).</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/snowball_earth_impact_hypothesis_6_703.jpg" alt="Рис. 6. Плато Колорадо" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 6.</b> Плато Колорадо (показано <i>пунктиром</i>) на физической карте Северной Америки. Карта с&nbsp;сайта <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D1%80%D0%B0%D0%B4%D0%BE_(%D0%BF%D0%BB%D0%B0%D1%82%D0%BE)" target=_blank>ru.wikipedia.org</a></p></div>
+
+
+</div>
+
+<p>По мнению Чжан, в это время Солнечная система проходила через один из <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%80%D1%83%D0%BA%D0%B0%D0%B2" target=_blank>спиральных рукавов</a> нашей Галактики, и такое столкновение было вполне вероятным. Чжан считает, что ударное событие такой силы могло вызвать активные тектонические движения в&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%82%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" target=_blank>литосфере</a>, которые в&nbsp;конечном итоге привели к&nbsp;распаду суперконтинента Родиния.</p>
+
+<p>Среди геологов гипотеза Чжан не находит особой поддержки. Тем не менее о&nbsp;ней периодически вспоминают, особенно когда речь заходит об истории формирования плато Колорадо.</p>
+
+<p class="small"><b>Источник:</b> Minmin Fu, Dorian&nbsp;S. Abbot, Christian Koeberl, Alexey Fedorov. <a href="https://www.science.org/doi/10.1126/sciadv.adk5489" target=_blank>Impact-induced initiation of Snowball Earth: A&nbsp;model study</a>&nbsp;// <i>Science Advances</i>. 2024. DOI:&nbsp;10.1126/sciadv.adk5489.</p>
+
+<p><i>Владислав Стрекопытов</i></p>
+
+
+    
+</div>
+
+<div class='cl'></div>
+<hr>
+<div class='toggle'>
+
+<div class='forum_topctrl '>
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter="" id="forum_socnets_share"></div><div class='forum_icon' onclick='toggleClick(this)' title='Комментарии'><span class='fmicon'></span><span class='fmcounter'>16</span></div>
+  
+     <div class='goto toggle_hide'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this)'><span class='hide_other'>Показать </span>комментарии (16)</span></div>
+     <div class='goto toggle_body'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this); socnetsFly();'><span class='hide_other'>Свернуть </span>комментарии <span class='hide_main'>(16)</span></span></div>
+  
+
+</div>
+
+<div class='forum toggle_body' id='forum_block'>
+<hr>
+<ul class="level0"><li class="level0 parent" id='forum_node_5352612'>
+   <div class='fmnode'>
+   <a name='fm5352612'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>capushon</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434197#fm5352612'>26.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>19:15
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>&quot;кратер, образовавшийся в неопротерозое при столкновении Земли с астероидом диаметром около 640 км&quot;<br>Прошу прощения, может все же лучше будет выглядеть &quot;кратер диаметром 640 км, образовавшийся в неопротерозое при столкновении Земли с астероидом&quot;? А то я чуть не поперхнулся от осознания размера астероида.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5352613'>
+   <div class='fmnode'>
+   <a name='fm5352613'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Andrey 1234567</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>capushon</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434197#fm5352613'>26.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:51
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Там написано, что астероид по касательной прошел. Может, такой и был.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5352615'>
+   <div class='fmnode'>
+   <a name='fm5352615'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>capushon</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Andrey 1234567</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434197#fm5352615'>26.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>21:12
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Я тут погуглил статью с arxiv.org от Xiaolei Zhang, если правильно понял, то таки по касательной, но кратер именно 640 км, но при этом тело даже было (*могло быть) сильно побольше. &quot;Падение Луны&quot; отдыхает.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level1" id='forum_node_5352614'>
+   <div class='fmnode'>
+   <a name='fm5352614'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>editor</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>capushon</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434197#fm5352614'>26.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>21:08
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Большое спасибо, исправили.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level0" id='forum_node_5352618'>
+   <div class='fmnode'>
+   <a name='fm5352618'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Николай Ц</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434197#fm5352618'>27.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>00:56
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>«последнее глобальное похолодание, произошедшее примерно 12 800 лет назад (см. поздний дриас), из-за которого вымерли мамонты»<br>Крайне сомнительное утверждение про вымирание мамонтов из-за позднего дриаса. Мамонты вымирали и ранее, из-за изменения сухих холодных злаковых тундростепей на более влажные тундры. Максимум вымирания относят к аллерëду, датируя его примерно 14000 лет назад. То есть достаточно задолго до позднего дриаса вымирание мамонтов не только шло полным ходом, но и достигало максимума по скорости сокращения популяций. А чтобы именно поздний дриас был причиной вымирания мамонтов, мне кажется, это что-то новое. Тем более что и после его завершения мамонтов оставалось ещё множество популяций, переживших поздний дриас на тысячи лет и на островах, и на континентах.<br>Крайне, крайне сомнительное утверждение, на мой взгляд. Про поздний дриас как причину вымирания мамонтов. Уж примигениусы были отлично эволюционно приспособлены к холодам, в которых они, собственно, и сформировались; и прекрасно обитали безо всякого вымирания во время упомянутого последнего ледникового максимума 26,5–19 тыс.<br>лет назад.<br><br>Владислав, не подскажете ли ссылки на столь странный вывод или заключение, что поздний дриас - причина вымирания мамонтов? Которое и началось, и достигло максимума до позднедриасового события? Выделение позднего дриаса такой причиной нелогично и не вяжется с палеонтологическими данными. Нонсенс, так сказать.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level0" id='forum_node_5352620'>
+   <div class='fmnode'>
+   <a name='fm5352620'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Kostja</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434197#fm5352620'>27.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>05:27
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Вилами по воде :)</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level0" id='forum_node_5352627'>
+   <div class='fmnode'>
+   <a name='fm5352627'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>PavelS</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434197#fm5352627'>28.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>11:51
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>В мире так много тем из мэйнстрима науки, что распыляться на все подряд маргинальные исследования - жизни не хватит.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level0 parent" id='forum_node_5352628'>
+   <div class='fmnode'>
+   <a name='fm5352628'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dro</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434197#fm5352628'>28.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:10
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>не представляю, как вся земля может быть покрыта льдом.если лёд покроет все океаны, то с них не будет испаряться вода и оседать на континентах. континентальный лёд сползёт в океан, и континенты, находясь на экваторе, будут вполне себе поглощать тепло</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5352632'>
+   <div class='fmnode'>
+   <a name='fm5352632'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>nal</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dro</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434197#fm5352632'>29.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>11:55
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Воздух и суша остывают быстрее, чем вода, так что сначала засыпает снегом сушу.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2 parent" id='forum_node_5352633'>
+   <div class='fmnode'>
+   <a name='fm5352633'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dro</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>nal</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434197#fm5352633'>29.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>16:04
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>да, но потом он весь сползёт в океан, и на суше будут голые скалы. следов таяния ледников при этом на суше не будет</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3 parent" id='forum_node_5352634'>
+   <div class='fmnode'>
+   <a name='fm5352634'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>nal</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dro</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434197#fm5352634'>29.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>19:58
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Снег тоже испаряется. Полностью сухого воздуха и отсутствия осадков не будет. Плюс солнышко днем пригреет, снежок подтаит и подиспарится.<br>Да и с чего вы взяли, что баланс между прогревом голых участков и отражением энергии Солнца участками покрытыми льдом и снегом будет в пользу прогревания всей Земли, таяния океанических льдов?<br><br>То. что вся Земля во время глобальных оледенений в криогении замерзла и океаны непрерывно были скованы льдом (теория Земля-снежок), вовсе не единственная. Есть и теория с сохранением свободных от ольда участков океана.<br>- https://www.nature.com/articles/s41467-023-37172-x<br>- http://english.nigpas.cas.cn/rh/rp/201806/t20180605_193913.h<wbr>tml</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level4">
+<li class="level4 parent" id='forum_node_5352741'>
+   <div class='fmnode'>
+   <a name='fm5352741'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dro</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>nal</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434197#fm5352741'>03.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>16:00
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Плюс солнышко днем пригреет, снежок подтаит и подиспарится</blockquote>но не конденсируется на скалах, т.к. они прогреются ещё сильней<blockquote>Да и с чего вы взяли, что баланс между прогревом голых участков и отражением энергии Солнца участками покрытыми льдом и снегом будет в пользу прогревания всей Земли, таяния океанических льдов?</blockquote>а я этого не утверждал. я утверждаю, что вся Земля не может быть покрыта льдом, на хватит воды.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level5">
+<li class="level5 parent" id='forum_node_5352760'>
+   <div class='fmnode'>
+   <a name='fm5352760'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>nal</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dro</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434197#fm5352760'>03.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:04
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Так теория Земля-снежок не про то, что она вся снегом покрыта была, без единой голой скалы, словно снежный ком, а про то, что на всей Земле температура опустилась ниже нуля на миллионы лет, все океаны замерли, ледники на континентах лежали в низких приэкваториальных широтах.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level6">
+<li class="level6 parent" id='forum_node_5352804'>
+   <div class='fmnode'>
+   <a name='fm5352804'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dro</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>nal</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434197#fm5352804'>05.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>21:41
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>все океаны замерли, ледники на континентах лежали в низких приэкваториальных широтах.</blockquote>ЛИБО все океаны замерли, ЛИБО ледники на континентах лежали в низких приэкваториальных широтах, но не оба вместе</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level7">
+<li class="level7" id='forum_node_5352808'>
+   <div class='fmnode'>
+   <a name='fm5352808'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>nal</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dro</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434197#fm5352808'>06.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>01:16
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>а теперь подумайте, почему весе ледники не могут сползти в океан. Даю подсказочку - при замерзании вода (лед) увеличивается в объеме в 1,1 раза, океан - не бездонная яма.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul><li class="level0" id='forum_node_5352903'>
+   <div class='fmnode'>
+   <a name='fm5352903'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Vova28</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434197#fm5352903'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>14:35
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Почему все вымирает,когда падает астероид ?Потом заселяется Земля новыми видами и все по кругу,так что-ли ?<br>Что ,если бы не эти каменюги эволюции бы не было ???Какой -то антидарвинизм.Все было не так.<br>Для примера : динозавры,никакой астероид их не убивал !!Мелкие и сейчас летают и срут вам на головы,их зовут птицами,а крупные вымерли потому ,что их неохраняемые или не спрятанные в гнездах на деревьях или не носимые в животике яйца ,съели МЫШИ.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+</ul>
+<div class='fmctrl fl' id='forum_btm_btn'>Написать комментарий</div>
+
+
+<div class='cl'></div>
+</div>
+</div>
+
+<div class='forumctrls' style='display:none'>
+
+<div id='forum_edit_block'>
+<form action="/novosti_nauki/434197" method=post onsubmit="return forum_checkMsgForm(this)">
+
+<input type='hidden' name='msgedit' id='forum_msg_id'>
+<div class='xform'>
+	<textarea id='forum_edit_textarea' name=memo placeholder="Комментарий"></textarea>
+	
+	<input type='submit' value='Сохранить' name='accept'> <input type=submit name=delete onclick='return confirm("Удалить сообщение?");' value="Удалить">
+        <div class='gap'></div>
+</div>
+</form>
+</div>
+
+<div id='forum_input_block' class='fmnode toggle'>
+
+        <div class='fmhead'><span class="nodepoint"></span>Вход в систему</div>
+	<div class='xform beige'>
+        <div class='smallform'>
+        
+		<form action="/novosti_nauki/434197" method=post>
+                
+                <input type='hidden' name='answerto' id='forum_prev_id'>
+		<input type=text name=LOGIN  value="" maxlength=50 placeholder='Имя' id='forum_login'></td>
+		<input type=password name="PASSWD" value="" maxlength=50 placeholder='Пароль'></td></tr>
+                <div class="label fl"><span class="xcheckbox"><input id='rpw_chk' type="checkbox" name=PERSIST onclick="resetXCheck(this)"></span> <label for='rpw_chk'>запомнить пароль</label></div>
+                <input type="submit" class='right' name="accept_auth" value="   ok   ">
+                <div class='cl'></div>
+		</form>
+        <div class='goto fl'><a href="/reguser">Зарегистрироваться</a></div>
+        <div class='goto fr'><a href="/restore_password">Забыли пароль?</a></div><div class='cl'></div>
+	</div>
+        </div>
+        <div class='gap'></div>
+
+</div>
+
+</div>
+
+<script type='text/javascript'>
+var forum_user ="";
+var forum_mode = "simple";
+var forum_answerto = ""; 
+var forum_msgcnt = "16"; 
+
+
+var topbtn = document.getElementById('forum_topsocnet_button');
+if (topbtn) topbtn.style.display='';
+</script>
+<script type='text/javascript' src='/downloads/js/forum.js?v=1.10' charset="utf-8"></script>
+</div>
+
+<div class='crblock'>
+
+<div class='storyline important'>
+
+
+
+	<div class='hide_main hide_hpad'><hr><div class='gap'></div><h2>Сюжет</h2></div>
+ 
+
+<hr class='hide_main hide_hpad'>
+<div class='toggle'>
+<div class='subtitle hide_main hide_hpad' onclick='toggleClick(this)'><span class='toggle_button'></span><span class='toggle_label'>Ледяные щиты Земли</span></div>
+<h2 class='hide_vpad hide_phone'><a href="/suzhet/34/Ledyanye_shchity_Zemli">Ледяные щиты Земли</a></h2>
+
+<div class='phone_toggle_body vpad_toggle_body'>
+<hr class='nogap'>
+
+
+
+<ul class='storyline vtype0'>
+
+<li class='story current'>
+
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/snowball_earth_impact_hypothesis_logo_200.jpg" alt="«Земля-снежок»"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>26.02.2024</div>
+
+      <div class='title'>Глобальное оледенение в&nbsp;неопротерозое могло быть вызвано падением астероида</div>
+      <div class='sublink'>Владислав Стрекопытов&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/nauchno-populyarnaya_biblioteka/436183/Lishayniki_Ledyanogo_kontinenta?story=34'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/eltpub/lishayniki_ledyanogo_kontinenta_logo_200.jpg" alt="Лишайники Ледяного континента"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>19.11.2021</div>
+
+      <div class='title'>Лишайники Ледяного континента</div>
+      <div class='sublink'>Михаил Андреев&nbsp;<span class="break">•</span> Библиотека&nbsp;<span class='break'>•</span> «Знание&nbsp;— сила» №1, 2020</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/nauchno-populyarnaya_biblioteka/435902/Skvoz_ledyanoy_potok_Grenlandii?story=34'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/eltpub/skvoz_ledyanoy_potok_logo_200.jpg" alt="Сквозь ледяной поток Гренландии"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>11.06.2021</div>
+
+      <div class='title'>Сквозь ледяной поток Гренландии</div>
+      <div class='sublink'>Павел Талалай<span class="comma">,</span> Дот Даль-Йенсен<span class="comma">,</span> Стеффен Бо Хансен<span class="comma">,</span> Тревор Джеймс Попп<span class="comma">,</span> Йорген Педер Стеффенсен<span class="comma">,</span> Карл-Эмиль Нильсен<span class="comma">,</span> Нан Жан&nbsp;<span class="break">•</span> Библиотека&nbsp;<span class='break'>•</span> «Природа» №9, 2020</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/nauchno-populyarnaya_biblioteka/435770/V_poiskakh_drevneyshego_lda_na_Zemle?story=34'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/eltpub/v_poiskah_drevneyshego_lda_logo_200.jpg" alt="В поисках древнейшего льда на&nbsp;Земле"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>11.03.2021</div>
+
+      <div class='title'>В поисках древнейшего льда на&nbsp;Земле</div>
+      <div class='sublink'>Алексей Екайкин&nbsp;<span class="break">•</span> Библиотека&nbsp;<span class='break'>•</span> «Троицкий вариант» №4(323),  2021</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/nauchno-populyarnaya_biblioteka/435499/Pervyy_nauchnyy_pokhod_na_Ledorazdel_B_v_Antarktide?story=34'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/eltpub/pervyy_nauchnyj_podhod_logo_200.jpg" alt="Первый научный поход на&nbsp;Ледораздел&nbsp;Б в&nbsp;Антарктиде"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>25.09.2020</div>
+
+      <div class='title'>Первый научный поход на&nbsp;Ледораздел&nbsp;Б в&nbsp;Антарктиде</div>
+      <div class='sublink'>Алексей Екайкин&nbsp;<span class="break">•</span> Библиотека&nbsp;<span class='break'>•</span> «Троицкий вариант» №18(312),  2020</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433562/Goluboy_led_Antarktidy_raskryvaet_dannye_o_klimate_Zemli_za_2_7_milliona_let?story=34'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/2myo_blue_ice_from_antarctic_logo_200.jpg" alt="Образец льда возрастом два миллиона лет"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>06.11.2019</div>
+
+      <div class='title'>Голубой лед Антарктиды раскрывает данные о&nbsp;климате Земли за 2,7&nbsp;миллиона лет</div>
+      <div class='sublink'>Владислав Стрекопытов&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433433/Na_yuge_Afriki_naydeny_sledy_drevnikh_lednikov?story=34'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/subglacial_megakineations_in_namibia_logo_200.jpg" alt="Научная группа из Университета Западной Вирджинии, обнаружившая ледниковые формы рельефа в Намибии"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>21.02.2019</div>
+
+      <div class='title'>На юге Африки найдены следы древних ледников</div>
+      <div class='sublink'>Владислав Стрекопытов&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433367/Ogromnyy_meteoritnyy_krater_pod_ldom_Grenlandii_obrazovalsya_sovsem_nedavno?story=34'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/large_impact_crater_beneath_hiawatha_glacier_fig3_200.jpg" alt="Рис. 1. Реконструкция формы кратера на основе анализа данных радиолокации в&nbsp;виде топографической высотной карты"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>20.11.2018</div>
+
+      <div class='title'>Огромный метеоритный кратер под льдом Гренландии образовался совсем недавно</div>
+      <div class='sublink'>Денис Земледельцев&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/kartinka_dnya/388/Rekordno_drevniy_led?story=34'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/kartinka_dnya/old_bubbles_fig1_200.jpg" alt="Рекордно древний лед"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>21.08.2017</div>
+
+      <div class='title'>Рекордно древний лед</div>
+      <div class='sublink'>Игорь Иванов&nbsp;<span class="break">•</span> Картинки дня</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/kartinka_dnya/188/Sputnik_ICESat_2?story=34'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/kartinka_dnya/icesat-2_1_200.jpg" alt="ICESat-2"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>21.11.2016</div>
+
+      <div class='title'>Спутник ICESat-2</div>
+      <div class='sublink'>Фёдор Шабалин&nbsp;<span class="break">•</span> Картинки дня</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+
+</li>
+<li class='story prebreak'></li><li class='story break hr'><div><hr></div></li><li class='story prebreak'></li>
+
+</ul>
+
+
+
+
+<div class='goto'><a href="/suzhet/34/Ledyanye_shchity_Zemli">Весь сюжет</a></div>
+
+
+
+<div class='gap2 hide_vpad hide_phone'></div>
+</div>
+</div>
+
+</div>
+
+
+
+     <h2><a href="/novosti_nauki">Последние новости</a></h2>
+     <hr class='nogap'>
+
+
+    <a href="/novosti_nauki/434407/Kukolki_zarazhennye_opasnym_parazitom_posylayut_rabochim_muravyam_signal_ubey_menya" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/altruistic-disease-signalling-in-ant-colonies_logo_200.jpg" alt="Рабочие муравьи Lasius neglectus проводят «разрушающую дезинфекцию»"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Куколки, зараженные опасным паразитом, посылают рабочим муравьям сигнал «убей меня»</div>
+    <div class="sublink"><span class="date">12.02</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434406/U_pervykh_pozvonochnykh_bylo_dve_pary_glaz" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/myllokunmingia_200.jpg" alt="У первых позвоночных было две пары глаз"></div>
+    
+    <div class='ib_text'>
+    <div class="title">У первых позвоночных было две пары глаз</div>
+    <div class="sublink"><span class="date">09.02</span>&nbsp;<span class='break'
+>•</span> Сергей Ястребов</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434405/Infrakrasnoe_izluchenie_drevneyshiy_signal_dlya_privlecheniya_opyliteley" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/infrared-radiation-is-an-ancient-pollination-signal_1_200.jpg" alt="Открытая шишка саговникового растения. (B) Тепловизионное изображение мужской шишки саговника в&nbsp;момент нагревания во&nbsp;время выброса пыльцы"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Инфракрасное излучение&nbsp;— древнейший сигнал для привлечения опылителей</div>
+    <div class="sublink"><span class="date">04.02</span>&nbsp;<span class='break'
+>•</span> Елена Устинова</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434404/Dazhe_krupnye_mozazavry_mogli_zhit_v_rekakh" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/260118_novikovskaya_mosasaurus_200.jpg" alt="Некоторые виды мозазавров могли быть пресноводными"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Даже крупные мозазавры могли жить в реках</div>
+    <div class="sublink"><span class="date">19.01</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+<div class='goto'><a href="/novosti_nauki">Все новости</a></div>
+<div class='gap2'></div>
+
+
+<!-- Здесь был блок картинки дня: KLBLOCK id="eltdpicture" page_size="1" template="dpicture_R_v2" page="" calendar="" features="v2" dpicture_title="Картинка дня" dpicture_th_title="*" gotoxrub="19"/ -->
+
+<div class='important'>
+
+
+<hr class='hide_main hide_hpad'><div class='gap hide_main hide_hpad'></div>
+<div class='rxblock eltnews'>
+<h2>См. также</h2><hr class='nogap'>
+
+
+
+<a class="nohover" href="/novosti_nauki/433435/Velikoe_stratigraficheskoe_nesoglasie_vozniklo_iz_za_lednikovoy_erozii_v_neoproterozoe?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/glacial_origin_of_great_unconformity_logo_390.jpg" alt=""></div>
+    
+    <div class="title">«Великое стратиграфическое несогласие» возникло из-за ледниковой эрозии в&nbsp;неопротерозое</div>
+    
+    <div class="sublink"><span class="date">27.02.2019</span>&nbsp;<span class='break'>•</span> Кирилл Власов&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltpub'>
+
+
+
+
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/433446/Kislorodnaya_revolyutsiya_i_Zemlya_snezhok?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/eltpub/zemlya-snezhok_logo_345.jpg" alt=""></div>
+    
+    <div class="title">Кислородная революция и&nbsp;Земля-снежок</div>
+    
+    <div class="sublink">Сергей Ястребов&nbsp;<span class='break'>•</span> Библиотека&nbsp;<span class='break'>•</span> «Химия и жизнь» №9, 2016</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/434159/Padenie_Chikshulubskogo_asteroida_na_poltora_goda_pogruzilo_Zemlyu_vo_tmu?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/chicxulub_impact_winter_sustained_by_fine_silicate_dust_1_390.jpg" alt=""></div>
+    
+    <div class="title">Падение Чикшулубского астероида на полтора года погрузило Землю во&nbsp;тьму</div>
+    
+    <div class="sublink"><span class="date">10.11.2023</span>&nbsp;<span class='break'>•</span> Александр Марков&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433450/V_Chili_nashli_argumenty_v_polzu_impaktnoy_versii_pokholodaniya_v_pozdnem_driase?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/chile_supports_younger_dryas_cosmic_impact_logo_390.jpg" alt=""></div>
+    
+    <div class="title">В Чили нашли аргументы в&nbsp;пользу импактной версии похолодания в&nbsp;позднем дриасе</div>
+    
+    <div class="sublink"><span class="date">26.03.2019</span>&nbsp;<span class='break'>•</span> Владислав Стрекопытов&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltpub'>
+
+
+
+
+<a class="nohover" href="/bookclub/chapters/433261/Novaya_istoriya_proiskhozhdeniya_zhizni_na_Zemle_Glava_iz_knigi?from=rxblock">
+    
+     <div class='clubbooks '>
+     <div class='img'><img src="images/bookclub/novaya_istoriya_proishozhdeniya_zhizni_na_zemle_200.jpg" alt=""></div>
+     </div>
+    
+    <div class="title">«Новая история происхождения жизни на Земле». Глава из книги</div>
+    
+    <div class="sublink"><span class="date">2016</span>&nbsp;<span class='break'>•</span> Питер Уорд<span class="comma">,</span> Джо Киршвинк&nbsp;<span class='break'>•</span> Книжный клуб&nbsp;<span class='break'>•</span> Главы</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltclub_review'>
+
+
+
+    <a href="/bookclub/review/5273309/Kak_kislorod_v_snezhki_igral_s_planetoy?from=rxblock" class="nohover">
+      
+    <div class='img_block'>
+    <div class='ib_img'><img src="images/bookclub/novaya_istoriya_proishozhdeniya_zhizni_na_zemle_200.jpg" alt=""></div>
+    
+    <div class='ib_text'>
+    <div class="title">Как кислород в&nbsp;снежки играл с&nbsp;планетой</div>
+    <div class="sublink"><span class="date">23.01.2017</span>&nbsp;<span class='break'>•</span> Антон Нелихов&nbsp;<span class='break'>•</span> Рецензии</div>    
+    </div>
+    </div>
+    </a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<div class='gap2'></div>
+
+</div>
+
+
+<div class='storyline important'>
+
+</div>
+
+</div>
+
+<div class='cl'></div>
+
+<div class='mb'>
+<div class='pager_one'>
+<hr>
+
+  <a class='nohover' href="/novosti_nauki/434195/Iz_za_nekhvatki_nasekomykh_opyliteley_fialki_vsyo_chashche_pribegayut_k_samoopyleniyu">
+   <div class="next">
+      <div class=icon></div> 
+      <div class="suplink">22.02.2024</div>
+      <div class="pretitle"></div>
+      <div class="title">Из-за нехватки насекомых-опылителей фиалки всё чаще прибегают к&nbsp;самоопылению</div>
+   </div>
+  </a>
+
+
+ <a class='nohover' href="/novosti_nauki/434192/Obnaruzhena_tesnaya_svyaz_mezhdu_neyrogenezom_vo_vzroslom_mozge_i_kognitivnoy_gibkostyu">
+  <div class="prev">
+     <div class=icon></div> 
+     <div class="suplink">28.02.2024</div>
+     <div class="pretitle"></div>
+     <div class="title">Обнаружена тесная связь между нейрогенезом во&nbsp;взрослом мозге и&nbsp;когнитивной гибкостью</div>
+   </div>
+  </a>
+
+</div>
+<div class='cl'></div>
+</div>
+
+
+
+<div class='other_block'>
+<hr class='top mb'>
+<div class='mb4 other_themes'>
+ <h2>Другие новости</h2>
+ <div class="submenu hrline"><div class="sm_item">
+    <a href="/novosti_nauki/t/5272006/Vladislav_Strekopytov">Владислав Стрекопытов</a> <span class="stat">125</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/98045/Geologiya">Геология</a> <span class="stat">200</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/3852151/Klimat">Климат</a> <span class="stat">80</span>
+</div></div>
+</div>
+<div class='scroll_container'>
+<div id='newsScrBlock' class='slider-view'><div class='slider'><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434371/Kontinuum_vyvetrivaniya_novyy_podkhod_k_postroeniyu_geokhimicheskikh_i_klimaticheskikh_modeley?from=bxblock'>
+<div class='img'><span><img src='images/news/weathering_continuum_logo_390.jpg' alt=''></span></div>
+<div class='title'>«Континуум выветривания»&nbsp;— новый подход к&nbsp;построению геохимических и климатических моделей</div>
+<div class='sublink'><span class="date">25.08.2025</span>&nbsp;<span class='break'
+>•</span> Владислав Стрекопытов</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434356/Stabilnyy_mikrobiom_zalog_ustoychivosti_korallov_k_obestsvechivaniyu?from=bxblock'>
+<div class='img'><span><img src='images/news/acropora_coral_thermotolerance_logo_390.jpg' alt=''></span></div>
+<div class='title'>Стабильный микробиом&nbsp;— залог устойчивости кораллов к&nbsp;обесцвечиванию</div>
+<div class='sublink'><span class="date">20.08.2025</span>&nbsp;<span class='break'
+>•</span> Галина Клинк</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434332/Analiz_spektrov_pokazal_chto_atmosfery_dvukh_planet_v_sisteme_L_98_59_bogaty_serosoderzhashchimi_gazami?from=bxblock'>
+<div class='img'><span><img src='images/news/volcanic_atmosphere_on_the_subearth_l98_59b_logo_390.jpg' alt=''></span></div>
+<div class='title'>Анализ спектров показал, что атмосферы двух планет в&nbsp;системе L&nbsp;98-59 богаты серосодержащими газами</div>
+<div class='sublink'><span class="date">16.04.2025</span>&nbsp;<span class='break'
+>•</span> Иван Лаврёнов</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434317/Tsvet_Krasnoy_planety_obyasnyaetsya_nalichiem_v_marsianskoy_pyli_ferrigidrita?from=bxblock'>
+<div class='img'><span><img src='images/news/ferrihydrite_in_martian_red_dust_logo_390.jpg' alt=''></span></div>
+<div class='title'>Цвет Красной планеты объясняется наличием в&nbsp;марсианской пыли ферригидрита</div>
+<div class='sublink'><span class="date">05.03.2025</span>&nbsp;<span class='break'
+>•</span> Владислав Стрекопытов</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434304/Analiz_obraztsov_asteroida_Bennu_pokazal_chto_ego_mineraly_obrazovalis_iz_vodnykh_rastvorov?from=bxblock'>
+<div class='img'><span><img src='images/news/traces_of_ancient_brine_recorded_in_bennu_samples_logo_390.jpg' alt=''></span></div>
+<div class='title'>Анализ образцов астероида Бенну показал, что его минералы образовались из водных растворов</div>
+<div class='sublink'><span class="date">29.01.2025</span>&nbsp;<span class='break'
+>•</span> Владислав Стрекопытов</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434300/Molozhavost_Luny_obyasnyaetsya_pereplavkoy_ee_kory_i_mantii?from=bxblock'>
+<div class='img'><span><img src='images/news/tidally_driven_remelting_of_moon_logo_390.jpg' alt=''></span></div>
+<div class='title'>«Моложавость» Луны объясняется переплавкой ее коры и&nbsp;мантии</div>
+<div class='sublink'><span class="date">20.01.2025</span>&nbsp;<span class='break'
+>•</span> Владислав Стрекопытов</div>
+</a>
+</div></div></div>
+<div class='scr_buttons_noscript' id='newsScrBlock_buttons'>
+<span class='prev_button' id='newsScrBlock_prevbtn'></span>
+<span class='next_button' id='newsScrBlock_nextbtn'></span>
+</div>
+</div>
+<div class='cl'></div>
+<hr class='mb hide_hphone'>
+<script type="text/javascript">scrollInit('newsScrBlock', { "mode": "DOM-S", "total": 267, "pagesize": 6, "request_url": '/ajax/news', "request_params": '&features=similar&features=v2&template=news_sline_v2&news_title=Другие новости&objlink_params=from=bxblock&xpage_size=6&tnews=3371422&newsid=434197'});</script>
+</div>
+
+
+</div>
+
+<div class='blue subscribe_block'><div class='mblock'>
+<div class='subscribe'>
+<div class='mb10'>
+<FORM TARGET=_top ACTION=https://subscribe.ru/member/quick METHOD=POST>
+<INPUT TYPE=hidden NAME=action VALUE=quick>
+<INPUT TYPE=hidden NAME=grp VALUE="science.news.elementynews">
+<span class='title'>Новостная рассылка</span>
+<span class='xinput fullwidth'><INPUT TYPE=email NAME=email SIZE=25 MAXLENGTH=100 placeholder
+="ВАШ E-MAIL"
+></span>&nbsp;<INPUT TYPE=submit VALUE="ПОДПИСАТЬСЯ">
+<INPUT TYPE=hidden NAME=src VALUE="list_science.news.elementynews">
+</FORM>
+</div>
+
+<div class='mb6'>
+<span class='title'>«Элементы» в соцсетях:&nbsp; </span>
+
+<a class='icon vk' href='https://vk.com/elementy_ru' target='_blank' title='ВКонтакте'></a>
+<a class='icon twitter' href='https://twitter.com/elementy_ru' target='_blank' title='Твиттер'></a>
+<a class='icon youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank' title='Youtube'></a>
+
+<a class='icon telegram' href='https://telegram.me/elementy_ru' target='_blank' title='Telegram'></a>
+<a class='icon zen' href='https://zen.yandex.ru/elementy.ru' target='_blank' title='Яндекс.Дзен'></a>
+</div>
+</div>
+<div class='cl'></div>
+</div></div>
+ 
+      
+             <script type="text/javascript" src="/downloads/js/linkhint.js?v=1.02"></script>
+             <script type="text/javascript">linkhint_init();</script>
+       
+   
+
+</div>
+
+
+
+<div class='hfooter'>
+<div class='mblock'>
+
+<div class='mb4 i1'><img src='images/eltnewdesign/ft_logo.png' alt='Элементы'></div>
+
+
+
+<div class='mb3 rub1'><ul>
+<li><a href='/novosti_nauki'>Новости науки</a></li>
+<li><a href='/LHC'>LHC</a></li>
+<li><a href='/kartinka_dnya'>Картинка дня</a></li>
+<li><a href='/problems'>Задачи</a></li>
+<li><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a></li>
+<li><a href='/video'>Видеотека</a></li>
+<li><a href='/bookclub'>Книжный клуб</a></li>
+</ul></div>
+<div class='mb3 rub2'><ul>
+<li><a href='/events'>Научный календарь</a></li>
+<li><a href='/email'>Детские вопросы</a></li>
+<li><a href='/time'>Масштабы: времена</a></li>
+<li><a href='/posters'>Плакаты</a></li>
+<li><a href='/trefil'>200 законов мироздания</a></li>
+<li><a href='/genbio'>Журнал общей биологии</a></li>
+<li><a href='/catalog'>Наука в Рунете</a></li>
+</ul></div>
+
+<div class='mb3 socnets'>
+<ul>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>ВКонтакте</span></a></li>
+<li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Twitter</span></a></li>
+<li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'><span class='icon'></span><span class='name'>Youtube</span></a></li>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Telegram</span></a></li>
+<li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'><span class='icon'></span><span class='name'>Яндекс.Дзен</span></a></li>
+<li class='hide_main hide_hpad hide_vpad'><a class='rss' href='/rss/news' target='_blank'><span class='icon'></span><span class='name'>RSS</span></a> <span class='name'>(<a href='/rss/'  target='_blank'>все ленты</a>)</span></li>
+</ul>
+</div>
+<div class='mb3 l2 zimin'>
+<div class='msg'><a href='https://basis-foundation.ru/' target="_blank">При поддержке фонда «Базис»</a></div>
+<a href='https://basis-foundation.ru/' target="_blank"><img src='images/eltnewdesign/basis2.png' alt='Фонд поддержки фундаментальной физики Базис'></a>
+</div>
+<div class='cl'></div>
+<hr>
+<div class='mb4 l2 copy'>© 2005–2026 «Элементы»</div>
+<div class='mb3 about'><a href='/about'>О проекте</a></div>
+<div class='mb3 feedback'><a href='mailto:info@elementy.ru'>Обратная связь</a></div>
+<div class='mb3 rss hide_phone'><a href='/rss/news' target='_blank'>RSS</a> (<a href='/rss/'  target='_blank'>все ленты</a>)</div>
+<div class='mb3 subscrb'><a href='https://subscribe.ru/catalog/science.news.elementynews'>Подписаться на рассылку</a></div>
+<!--<div class='mb3 l2 design'><a href='http://charmerstudio.com' target='_blank'>Дизайн: Charmer Studio</a></div>-->
+<div class='cl gap'></div>
+
+
+<div class='mb counters'>
+<!--LiveInternet counter--><script language="JavaScript"><!--
+document.write('<img src="//counter.yadro.ru/hit?r'+escape(document.referrer)+((typeof(screen)=='undefined')?'':';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+'" width=1 height=1 alt="">')
+//-->
+</script><!--/LiveInternet-->
+<!-- Yandex.Metrika counter --><script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter31698571 = new Ya.Metrika({ id:31698571, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="https://mc.yandex.ru/watch/31698571" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+<!-- Google Analytics --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65855867-1', 'auto');
+  ga('send', 'pageview');
+</script><!-- // Google Analytics -->
+<!--begin of Rambler's Top100 code -->
+<script id="top100Counter" type="text/javascript" src="//counter.rambler.ru/top100.jcn?707804"></script>
+<noscript><a href="http://top100.rambler.ru/top100/"><img src="//counter.rambler.ru/top100.cnt?707804" alt="" width=1 height=1 border=0></a>
+</noscript>
+<!--end of Top100 code-->
+</div>
+
+
+</div>
+</div>
+
+</div>
+</body>
+</html>

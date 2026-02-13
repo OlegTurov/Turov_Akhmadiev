@@ -1,0 +1,2791 @@
+<!DOCTYPE html>
+<html lang='ru' prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+<head>
+<title>В эволюционном эксперименте дрожжи превратились в макроскопические многоклеточные организмы • Александр Марков • Новости науки на «Элементах» • Микробиология, Эволюция</title>
+<noscript><meta name="viewport" content="width=device-width, initial-scale=1.0"></noscript>
+<script type='text/javascript'>if (!document.cookie.match(/\bdesktop_mode=1/)) document.write('<meta name="viewport" content="width=device-width, initial-scale=1.0">');</script>
+
+
+<META name="description" content="Американские биологи воспроизвели важнейший эволюционный переход действия отбора с уровня отдельных клеток на уровень групп клеток в эксперименте на дрожжах. За 600 дней искусственного отбора на скорость оседания на дно пробирки дрожжи научились образовывать макроскопические агрегаты, состоящие из плотно сплетенных многоклеточных нитей и размножающиеся бесполым путем."/>
+
+
+
+<link rel="canonical" href="https://elementy.ru/novosti_nauki/434111/V_evolyutsionnom_eksperimente_drozhzhi_prevratilis_v_makroskopicheskie_mnogokletochnye_organizmy" />
+
+
+<base href="//elementy.ru/">
+
+
+
+<meta property="og:title" content="В эволюционном эксперименте дрожжи превратились в&nbsp;макроскопические многоклеточные организмы • Новости науки"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Американские биологи воспроизвели важнейший эволюционный переход действия отбора с&nbsp;уровня отдельных клеток на уровень групп клеток в&nbsp;эксперименте на дрожжах. За 600&nbsp;дней искусственного отбора на скорость оседания на дно пробирки дрожжи научились образовывать макроскопические агрегаты, состоящие из плотно сплетенных многоклеточных нитей и размножающиеся бесполым путем."/>
+<meta property="og:url" content="https://elementy.ru/novosti_nauki/434111/V_evolyutsionnom_eksperimente_drozhzhi_prevratilis_v_makroskopicheskie_mnogokletochnye_organizmy"/>
+<meta property="og:image" content="https://elementy.ru/images/news/macroscopic_multicellularity_1_703.jpg"/>
+
+<meta property="article:section" content="Наука" />
+<meta property="article:tag" content="Микробиология"/><meta property="article:tag" content="Эволюция"/>
+<meta property="og:site_name" content="«Элементы»"/>
+<meta property="og:locale" content="ru_RU"/>
+
+
+<link rel="manifest" href="/downloads/js/manifest.json?v=1.02">
+
+
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo16bw.png"  sizes="16x16"/>
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo32bw.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo48bw.png" sizes="48x48" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo64bw.png" sizes="64x64" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo128bw.png" sizes="128x128" />
+<link rel="shortcut icon" type="image/png" href="/images/eltnewdesign/logo32bw.png"/>
+
+<meta content='Элементы' name='apple-mobile-web-app-title'>
+
+<link rel="apple-touch-icon" type="image/png" href="/images/eltnewdesign/logo128bw.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/eltnewdesign/logo57bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/eltnewdesign/logo114bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/eltnewdesign/logo72wb.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/eltnewdesign/logo120bw.png" />
+
+<meta name="application-name" content="Элементы"/>
+<meta name="msapplication-TileColor" content="#001034" />
+<meta name="msapplication-TileImage" content="/images/eltnewdesign/logo128bw.png" />
+
+<meta name="yandex-tableau-widget" content="logo=https://elementy.ru/images/eltnewdesign/logo128bw.png, color=#001034" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://elementy.ru/rss"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/style2.css?v=1.125"/>
+
+<noscript>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>
+</noscript>
+<script type='text/javascript'>
+if (!document.cookie.match(/\bdesktop_mode=1/))
+   document.write(
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>');
+</script>
+
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-print.css?v=1.09"/>
+
+<script type="text/javascript" src="/download/mathjax_2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" async></script>
+<script src="//yastatic.net/share2/share.js" async></script>
+<script type="text/javascript" src='/downloads/js/menu.js?v=1.10'></script>
+<script type="text/javascript" src='/downloads/js/hor.js' async></script>
+<script type='text/javascript' src='/downloads/js/request.js' async></script>
+<script type='text/javascript' src='/downloads/js/scroll.js?v=1.03'></script>
+<script type='text/javascript' src='/downloads/js/more.js?v=1.02'></script>
+<script type='text/javascript' src='/downloads/js/ttlhover.js' async></script>
+<script type='text/javascript' src='/downloads/js/rfilters.js'></script>
+
+<script type="text/javascript">
+function pict_popup(src,title) {
+        var w = window.open(src,'','channelmode=no,toolbar=no,location=no,status=no,directories=no,menubar=no,');
+        if(navigator.appName=='Microsoft Internet Explorer') w.document.write('<title>'+title+'</title><img src="'+src+'" onLoad="i=document.images[0]; window.resizeTo(i.width+50,i.height+100)">')
+        return false
+}
+</script>
+
+
+
+
+</head>
+
+<body class="xrub-novosti_nauki xrubpage-no">
+<div class='allarea'  id='pgarea'>
+<a id="page_top"></a>
+
+<div class='mainmenublock hmenu' id='mmenubody' >
+     <div class='mbshading' id='mshading' onclick='toggleHMenu("mmenubody")'></div> 
+     <div class='hmenu'>
+      <div class='menuarea' id='mmenuarea'>
+       <a href='/' class='close' onclick='return toggleHMenu("mmenubody")'><span class='icon close'></span><span class='hint'>Закрыть</span></a>
+       <script type='text/javascript'>
+            var desktop_mode = document.cookie.match(/\bdesktop_mode=1/); 
+            if (!desktop_mode) document.write('<div class="oldlink hide_other"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div><hr class="hide_other">');
+       </script>
+       <ul class="level0"><li class="level0 selected">
+  <div><a href='/novosti_nauki'>Новости науки</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/kartinka_dnya'>Картинка дня</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/events'>Календарь событий</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/problems'>Задачи</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/email'>Детские вопросы</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/LHC'>Большой адронный коллайдер</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/LHC/novosti_BAK'>Новости LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/monitory_bolshogo_adronnogo_kollajdera'>Мониторы LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/LHC_results'>Результаты LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/zagadki_lhc'>Загадки LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_s_mu_mu'>Распад b→sμμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_1'>Распад B<sup>+</sup>→K<sup>+</sup>ll</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_2'>Распад B→Dlν</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_mu_mu'>Распад B→μμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/raspad_higgsa_na_muon_i_tau'>Распад H→μτ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/top_antitop_higgs'>Комбинация топ-антитоп-хиггс</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/zaryazhennyj_bozon_higgsa'>Заряженный бозон Хиггса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/dvuhfotonnyj_vsplesk_pri_750_gev'>Двухфотонный всплеск 750&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptony_odnogo_znaka_na_atlas'>Лептоны одного знака на ATLAS</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/eejj-otklonenije'>eejj-отклонение</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/sobytije_2.9tev'>Событие при 2,9 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_2_tev_atlas'>WZ-пик при 2 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_1.8_tev_cms'>WH-пик при 1,8 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_CMS'>Поиск суперсимметрии — 1</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_ATLAS'>Поиск суперсимметрии — 2</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_iii'>Поиск суперсимметрии — 3</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_results/beyondSM'>Отклонения от Стандартной модели</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/susy_search'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/exotic_search'>Экзотические частицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_search'>Поиск бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_study'>Изучение бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/top-quark'>Свойства топ-кварка</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/hadrons'>Рождение и распады адронов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/rare_decays'>Редкие распады B-мезонов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/difraction'>Адронная дифракция</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/nuclei'>Ядерные столкновения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/astro'>Астрофизика</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC_working'>LHC в работе</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lhc/timeline'>Хронология создания и работы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/general_schedule'>Общее расписание</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/what-to-check'>Как следить за новостями с LHC</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/working_cycle'>Рабочий цикл коллайдера</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/initial'>Ранние этапы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2008'>2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/incident'>Авария 19.09.2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009'>2009</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009/results_2009'>Результаты работы LHC в&nbsp;2009&nbsp;году</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_1'>Сеанс LHC Run&nbsp;1</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010'>2010</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010/results_2010'>Результаты работы LHC в&nbsp;2010&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011'>2011</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011/results_2011'>Результаты работы LHC в&nbsp;2011&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2012'>2012</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/schedule_2015'>Техническая пауза LS1</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_2'>Сеанс LHC Run&nbsp;2</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2015'>2015</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2016'>2016</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2017'>2017</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2018'>2018</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_3'>Сеанс LHC Run&nbsp;3</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_3/2022'>2022</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC'>Устройство и задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/LHC/about'>LHC: ключевые факты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/accelerator'>Устройство LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/beams'>Протонные пучки</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnets'>Магнитная система</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnet_training'>Как тренируют магниты</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/detectors'>Детекторы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ATLAS'>ATLAS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/CMS'>CMS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ALICE'>ALICE</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCb'>LHCb</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/TOTEM'>TOTEM</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCf'>LHCf</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/MoEDAL'>MoEDAL</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/why'>Зачем нужен LHC?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/tasks'>Задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/hadrons'>Свойства адронов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/decays'>Адронные распады</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/higgs'>Поиск бозона Хиггса</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/production_decay'>Рождение и распад</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/search_strategies'>Стратегии поиска</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/top-quark'>Топ-кварк</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/SUSY'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/exotic'>Экзотические теории</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/nuclei'>Ядерные столкновения</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/safety'>Безопасность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/estimates'>Вероятность катастрофы</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/black_holes'>Микроскопические черные дыры</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/phrases'>Толковый словарик журналистских штампов</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/HEP'>Физика элементарных частиц</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/HEP/educational'>Образовательные онлайн-ресурсы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/HEP/measures'>Величины и единицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/cross-section'>Сечение процесса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/luminosity'>Светимость</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/invariant-mass'>Инвариантная масса</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/study'>Как изучают частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/detecting'>Принципы детектирования</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/errors'>Погрешности</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/statistical'>Статистическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/systematic'>Систематическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/theoretical'>Теория и моделирование</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/sigma'>Сигма</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/subtleties'>Тонкости анализа</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/experiments'>Эксперименты на коллайдерах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/quark_model'>Классификация адронов</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/partonic_densities'>Партоны</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/hadronization'>Конфайнмент и адронизация</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/rapidity-angle_diagram'>Быстрота–угол</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/analysis_methods'>Приемы анализа</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/SM'>Стандартная модель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/problems'>Трудности</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/beyondSM'>За пределами СМ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/SUSY'>Суперсимметрия</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/higgs_theory'>Хиггсовский механизм</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/explanations'>Аналогии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/SM_Higgs'>Хиггс с&nbsp;массой 125&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/nonminimal'>Неминимальные варианты</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/gallery'>Галерея</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly'>В популярных журналах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/vmirenauki'>«В мире науки»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/znanijesila'>«Знание — сила»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvant'>«Квант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvantik'>«Квантик»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kommersant_nauka'>«Коммерсантъ Наука»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kot_shryodingera'>«Кот Шрёдингера»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_i_zhizn'>«Наука и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_iz_pervyh_ruk'>«Наука из первых рук»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/popularnaja_mehanika'>«Популярная механика»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_himija_biologija_meditsina'>«Потенциал»: Химия. Биология. Медицина</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_matematika_fizika_informatika'>«Потенциал»: Математика. Физика. Информатика</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda'>«Природа»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/o_zhurnale'>О журнале</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/priroda_v_internete'>«Природа» в интернете</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/kak_podpisatsya'>Как подписаться</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/gazeta_troitskiy_variant'>«Троицкий вариант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/khimiya_i_zhizn'>«Химия и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/chto_novogo_v_nauke_i_tekhnike'>«Что нового в науке и технике»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/ecologiya_i_zhizn'>«Экология и жизнь»</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/izbrannoe'>Избранное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/lektsii_dlya_shkolnikov'>Лекции для школьников</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/interview'>Интервью</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/vystavka_vse_v_mire_otnositelno'>Выставка «Всё в мире относительно»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lib/exhibition/authors'>О художниках</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/lib/exhibition/about'>О выставке</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/video'>Видеотека</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/bookclub'>Книжный клуб</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/bookclub/book'>Книги</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/author'>Авторы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/chapters'>Главы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/bookclub/chapters/knigi_opublikovannyje_polnostju'>Опубликовано полностью</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera'>Происхождение жизни</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/evolutsija_i_priroda_nauki'>Глава 1</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/svidetelstva_biologicheskoj_evolutsii'>Глава 2</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/vzglyady_kreatsionistov'>Глава 3</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/FAQ'>Заключение</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/bookclub/publisher'>Издательства</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/series'>Серии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review'>Рецензии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review_users'>Отзывы</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/time'>Масштабы: времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/time/estimating'>В помощь читателю</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-1.html'>Как оценивать типичные времена</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-2.html'>Как применять формулы&nbsp;— иллюстрация</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-3.html'>Тонкости и предостережения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-4.html'>Опорные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-5.html'>Колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-6.html'>Гармонические колебания и их период</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-7.html'>Волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-8.html'>Закон распада</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/milli'>Миллисекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/milli/milli-1.html'>Миллисекунды в нашей жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-2.html'>Фото вместо видео</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-3.html'>Мерцающие огоньки</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-4.html'>Скрытые возможности невооруженного взгляда</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/micro'>Микросекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/micro/micro-1.html'>Остановившийся мир</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-2.html'>И всё-таки он движется!</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-3.html'>Пределы механического затвора</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nano'>Наносекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nano/nano-1.html'>От предметов к веществу</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-2.html'>Коллективные явления</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-3.html'>Электромагнитные колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-4.html'>Информационная емкость радиоволны</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/pico'>Пикосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/pico/pico-1.html'>Атомное движение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-2.html'>Пределы звука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-3.html'>Как начинается плавление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-4.html'>Пределы электроники</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-5.html'>Электромагнитные волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-6.html'>Элементарные частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/femto'>Фемтосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/femto/femto-1.html'>Мир электронов и света</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-2.html'>Оптические вычислительные технологии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-3.html'>Фемтохимия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-4.html'>Фемтобиология</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/atto'>Аттосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/atto/atto-1.html'>Личная жизнь атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-2.html'>Самые внутренние электроны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-3.html'>Как взрезать атом</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-4.html'>Электроны на службе аттофизики</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/zepto'>Зептосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-1.html'>Жизнь атомных ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-2.html'>Энергия, время и соотношение неопределенностей</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/yocto'>Йоктосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-1.html'>На границе известного</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-2.html'>Столкновение тяжелых ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-3.html'>Вглубь йоктосекунды</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/year'>От секунды до года</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/year/year-1.html'>Семь с половиной порядков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-2.html'>Искусственные спутники Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-3.html'>Эхо землетрясений</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-4.html'>Астероид-убийца</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-5.html'>Как растекается тепло</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/very-long'>Астрономические времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-1.html'>Солнечная система</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-2.html'>Солнечная система на больших временах</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-3.html'>Глубокий космос</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-4.html'>Межгалактические отношения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-5.html'>Танец земного климата</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-6.html'>Тектоническая жизнь Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-7.html'>Сверхдолгоживущие частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/sonoluminescence'>Сонолюминесценция</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-1.html'>Свечение, порожденное звуком</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-2.html'>Поведение пузырька</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-3.html'>Последние мгновения коллапса</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/biophysics'>Фолдинг белков</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-1.html'>Физическая основа жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-2.html'>Главная и боковые цепи</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-3.html'>«Жизнь» белковой молекулы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-4.html'>Компьютерное моделирование фолдинга</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/excited'>Возбужденные атомы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-1.html'>Возбужденные атомы: кто такие и где встречаются</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-2.html'>Быстротечная жизнь возбужденных атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-3.html'>Миллионы безуспешных попыток</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-4.html'>Ридберговские атомы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-5.html'>Атомы-долгожители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-6.html'>Водородная линия 21&nbsp;см</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nuclear'>Ядерные распады</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-1.html'>«Ядерная секунда»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-2.html'>Альфа-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-3.html'>Тяжелые элементы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-4.html'>Бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-5.html'>Двойной бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-6.html'>Ядерные изомеры</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/particles'>Элементарные частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/particles/particles-1.html'>Законы элементарных частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-2.html'>Два руководящих принципа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-3.html'>Сильные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-4.html'>Электромагнитные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-5.html'>Слабые распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-6.html'>Повышенная жизнеспособность на&nbsp;околосветовых скоростях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-7.html'>На переднем крае физики элементарных частиц</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/continents'>Движение континентов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/continents/continents-1.html'>Такты тектонической жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-2.html'>Возраст Гималаев</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-3.html'>Когда задышал Северный Ледовитый океан?</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/posters'>Плакаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/posters/moment'>Мгновение</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/posters/fractals'>Фракталы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/fractals/fractals'>Что такое фракталы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/geometric'>Геометрические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Koch'>Снежинка Коха</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/T-square'>Т-квадрат</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/H-fractal'>H-фрактал</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Sierpinski'>Треугольник Серпинского</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Pythagoras'>Дерево Пифагора</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Levy'>Кривая Леви</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/dragon'>Дракон</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/dynamic'>Динамические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Mandelbrot'>Множество Мандельброта</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Julia'>Множества Жюлиа</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Halley'>Фрактал Галлея</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Newton'>Фрактал Ньютона</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/complex_numbers'>Комплексные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/dimensions'>Фрактальные размерности</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/how_to_draw'>Как это рисовать</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/nature'>Фракталы в природе</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/about'>О плакате</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/collider'>Ускоритель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/collider/1'>Зачем нужен ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/2'>Единицы измерения расстояний, энергий и масс</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/3'>Краткая история ускорителей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/4'>Как работает ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/5'>Детектор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/6'>Как на ускорителе изучают свойства частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/7'>Природные ускорители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/8'>Применение ускорителей и детекторов в медицине</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/aviation'>Покорение воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/aviation/light'>Аппараты легче воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/light/balloons'>Аэростаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/montgolfiere'>Первый аппарат легче воздуха, способный поднять человека</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/today'>Шары-монгольфьеры сегодня</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/light/dirigibles'>Дирижабли</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/france'>Типичный дирижабль конца XIX&nbsp;века рыбообразной формы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/tsiolkovsky'>Цельнометаллический бескаркасный дирижабль с&nbsp;изменением объема в&nbsp;полете и с&nbsp;подогревом газа</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/zeppelin'>Серийный дирижабль Германии времен Первой мировой войны</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/akron'>Гелиевые дирижабли США</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/hindenburg_disaster'>Гибель «Гинденбурга» 6&nbsp;мая 1937&nbsp;года</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/today'>Дирижабли сегодня</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/heavy'>Аппараты тяжелее воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/helicopters'>Вертолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/sikorskys1'>Первый вертолет И.&nbsp;И.&nbsp;Сикорского</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/cagi_1-ea'>Первый летающий аппарат классической схемы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/mi-26'>Тяжелый военно-транспортный вертолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/an-64'>Ударный вертолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans'>Экранопланы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/km'>Самый крупный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/orlenok'>Единственный российский серийный десантный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/bartini'>Экраноплан Бартини</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/lun'>Летающий госпиталь</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/planes'>Самолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/theory'>Теоретические основы полета аппаратов тяжелее воздуха</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mozhajskij'>Первый реализованный проект, однако достоверных сведений о полете нет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/wrights'>Первый самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ilya_muromec'>Первый «тяжелый самолет»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/newport17'>Первый самолет с «зализанными» обводами</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ant-6'>Тяжелый бомбардировщик-моноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/messerschmitt'>Самый массовый истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/yak-1'>Самый легкий и маневренный истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/supermarine_spitfire'>Лучший истребитель битвы за Британию в 1940&nbsp;г.</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mosquito'>Цельнодеревянный скоростной бомбардировщик «Мечта термита»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mitsubishi_a6m_reisen'>Истребитель&nbsp;— символ японской авиации</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/il-2'>Тяжелый штурмовик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-15'>Фронтовой истребитель, один из первых серийных реактивных самолетов</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-86_sabre'>Многоцелевой истребитель, противник МиГ-15 в корейской войне</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-21'>Выдающийся сверхзвуковой истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/lockheed'>Высотный разведывательный самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_b-52'>Стратегический бомбардировщик с велосипедным шасси</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-144'>Сверхзвуковой пассажирский самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_747_jumbo'>«Реактивный слон»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-15_eagle'>Тактический истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/su-27'>Маневренный истребитель-перехватчик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-160'>Стратегический бомбардировщик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/an-124_ruslan'>Тяжелый военно-транспортный самолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/terms'>Основные параметры самолетов, указанные на плакате</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/literature'>Список литературы</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/light_version'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/gravity'>Гравитация</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/gravity/1'>Парабола или прямая?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/2'>Все дома стоят криво</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/3'>Из Москвы в&nbsp;Питер за&nbsp;полчаса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/4'>На Луну в комфортных условиях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/5'>Скоростной спутник Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/6'>Перевернутый небоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/7'>Супернебоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/8'>Запуск спутника без затрат энергии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/9'>Раскрутим Землю</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/perpetuum'>Вечный двигатель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/first'>Вечный двигатель первого рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/second'>Вечный двигатель второго рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/third'>Вечный двигатель «третьего рода»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/1'>Колесо и&nbsp;шары</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/2'>Цепочка шаров</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/3'>«Птичка Хоттабыча»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/4'>Цепочка поплавков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/5'>Архимедов винт</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/6'>Машина Орфиреуса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/7'>Магнит и желоба</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/8'>«Вечный водопровод»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/9'>Автоматический подзавод часов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/10'>Подъем масла по&nbsp;фитилям</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/11'>Колесо и&nbsp;грузы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/12'>Установка Потапова</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/13'>Луна и планеты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/spectrum'>Электромагнитное излучение</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/spectrum/nature'>Природа электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/wave'>Частота и длина волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/history'>История открытия электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/union'>Великое объединение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/energy'>Энергия кванта</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/temperature'>Температура излучения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/diapasons'>Диапазоны излучения и вещество</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/about'>Что изображено на плакате</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/units'>Соотношения и единицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/gamma'>Гамма-излучение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/roentgen'>Рентген</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/ultraviolet'>Ультрафиолет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/visible'>Видимый диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/infrared'>Инфракрасный диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/radio'>Радиоизлучение и микроволны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/other'>За пределами спектра</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/human'>Возможности человека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/human/muscular'>Сила</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/mind'>Мышление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/science'>Наука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/evolution'>Эволюционный принцип</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/factor'>Человеческий фактор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/weight'>Поднятие тяжестей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/flight'>Полет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/walk'>Бег</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/swim'>Плавание</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/trefil'>200 законов мироздания</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/trefil/introduction'><i>Введение</i></a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/physics'>Физика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/astronomy'>Астрономия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/maths'>Математика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/chemistry'>Химия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biology'>Науки о жизни</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/geo'>Науки о Земле</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/misc'>Разное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/rvm'>Взгляд в прошлое</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biography'><i>Биографии</i></a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/genbio'>Журнал общей биологии</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/genbio/english'>In English</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/genbio/english/all'>All Issues</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/genbio/abstracts'>All Abstracts</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/genbio/last'>Свежий выпуск</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/all'>Все выпуски</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/resume'>Статьи</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/synopsis'>Синопсисы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about'>О журнале</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about/rules'>Авторам</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/law'>Наука, образование и право</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/law/organ.htm'>Федеральные органы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/program.htm'>Федеральные программы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/intellectual.htm'>Интеллектуальная собственность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/law/intellectual/international.htm'>Международное законодательство</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/russian.htm'>Законодательство РФ </a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/patent.htm'>Патентование</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/contact.htm'>Сделки и договоры</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/payment.htm'>Вознаграждение</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/law/degree.htm'>Ученые степени</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nostr.htm'>Нострификация</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/vuz.htm'>Образование, вузы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nii.htm'>Научные организации</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/prize.htm'>Премии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/grant.htm'>Гранты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/work.htm'>Трудовое законодательство </a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/kodex.htm'>Конституция и кодексы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/other.htm'>Другие нормативные акты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/all_laws.htm'>Все нормативные акты</a>
+  </div></li>
+
+  </li></ul></ul>
+       <script type='text/javascript'>
+            document.write('<hr'+(!desktop_mode?"  class='hide_main'":"")+'>');
+            document.write('<div class="oldlink hide_main"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div>');
+            if (desktop_mode )
+               document.write('<div class="chmod mob hide_main"><a href="/" onclick="return setDesktopMode(false)">Мобильная версия сайта</a></div>');
+            else
+               document.write('<div class="chmod dsk hide_main"><a href="/" onclick="return setDesktopMode(true)">Полная версия сайта</a></div>');
+       </script>
+       <hr>
+       <ul class='img'>
+        <li class='first'><a class='facebook' href='https://www.facebook.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'></a></li>
+        <li><a class='instagram' href='https://www.instagram.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'></a></li>
+        <li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'></a></li>
+        <li><a class='rss' href='/rss/news' target='_blank'></a></li>
+       </ul>
+      </div>
+     </div>
+</div>
+
+<div class='print_logo hide_screen'><script type='text/javascript'>document.write("<img src='/images/eltnewdesign/logo_wpr.png'>");</script></div>
+
+<div class='hhead' id='pghead'>
+  <div class='hmenu'>
+    <div class='lmenu' id='hmainmenu'>
+      <a href='/' class='item' onclick='return toggleHMenu("mmenubody")'><span class='icon menu'></span><span class='hint'>Меню</span></a>
+    </div>
+    <div class='rmenu' id='rmenu'>
+       <a href='/' class='item' onclick='return toggleHMenu(this, true)'><span class='icon search'></span><span class='hint'>Поиск</span></a>
+       <a href='/' class='close' onclick='return toggleHMenu(this)'><span class='icon close2'></span><span class='hint'>Закрыть</span></a>
+       <div class='menuarea'>
+         <div class='menusearch xform'> 
+         <form action="find">
+             <input type="text" class="search" name="words" value="" placeholder="Поиск">
+             <input type="image" name="search" src="images/eltnewdesign/search_b.png">
+         </form>
+         </div> 
+       </div>
+    </div>
+    <div class='logo'><a href="/" onclick='return checkHMScroll()'><span>&nbsp;</span></a></div>
+  </div>  
+</div>
+
+
+<div class='body'  id='pgbody'>
+
+  
+   <div class='mblock chead'>
+     
+     
+<div class='rubpath'><span class='first last'><a href='/novosti_nauki'>Новости науки</a></span> </div>
+
+</div>
+   
+  
+
+   
+       <div class='mblock nogap'>
+<div class='mb itemhead newslist'><h1>В эволюционном эксперименте дрожжи превратились в&nbsp;макроскопические многоклеточные организмы</h1>
+<div class="sublink"><span class="date">12.06.2023</span>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/379113/Aleksandr_Markov">Александр Марков</a>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/2584639/Mikrobiologiya">Микробиология</a><span class="comma">,</span> <a href="/novosti_nauki/t/2253632/Evolyutsiya">Эволюция</a>&nbsp;<span class='break'>•</span> <a href="/novosti_nauki/434111#forum" onclick="forum_goto(); return false;">18&nbsp;комментариев</a></div></div>
+</div>
+
+<div class='mblock'>
+
+<div class='socnetblock'><script src="/downloads/js/snfly.js?v=1.04"></script>
+<div  id="socnets_share">
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter=""></div>
+<div id='forum_topsocnet_button' style='display:none' title='Написать комментарий'><span class='fmicon'></span><div class='counter' id='forum_topsocnet_count'></div></div>
+</div>
+</div>
+
+<div class='itemblock'><div class='memo'>
+    <!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/macroscopic_multicellularity_1_703.jpg" alt="Рис. 1. Результаты эволюционного эксперимента" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 1.</b> Результаты эволюционного эксперимента. После 600 раундов отбора микроскопические многоклеточные дрожжи-«снежинки» (Ancestor) превратились в агрегаты миллиметрового размера, хорошо видимые невооруженным глазом (Evolved). На правой фотографии разные цвета отражают толщину колонии. <i>Длина масштабных отрезков:</i> 10 мм (<i>слева</i>) и 0,05 мм (<i>справа</i>). Изображение из обсуждаемой статьи в <i>Nature</i></p></div>
+
+
+</div>
+
+    <p><b>Ключевым событием в&nbsp;эволюции многоклеточности является изменение уровня, на котором работает естественный отбор. Он должен перейти с&nbsp;уровня клеток на уровень групп клеток. При этом группы должны обладать наследственной изменчивостью по признакам, не сводимым к&nbsp;простой сумме свойств составляющих группу клеток. В&nbsp;результате группа становится «индивидом» в&nbsp;эволюционном смысле и получает возможность приобретать собственные адаптации. Американские биологи воспроизвели этот важнейший эволюционный переход в&nbsp;эксперименте на дрожжах. За 600&nbsp;дней искусственного отбора на скорость оседания на дно пробирки дрожжи научились образовывать макроскопические (различимые невооруженным глазом) агрегаты, состоящие из плотно сплетенных многоклеточных нитей и размножающиеся бесполым путем. Помимо исходной мутации, препятствующей разделению почкующихся клеток, у&nbsp;дрожжей в&nbsp;ходе эксперимента закрепились десятки мутаций, повышающих механическую прочность «организма» и помогающих ему вырасти большим. Это эмерджентные признаки, закодированные в&nbsp;геноме клетки, но проявляющиеся на уровне организма (например, механическую прочность многоклеточного агрегата нельзя измерить у&nbsp;отдельной клетки). Интересно, что столь легкое превращение в&nbsp;крупный организм дрожжи демонстрируют только при условии строгой анаэробности. Доступность аэробного метаболизма приводит к&nbsp;отбору на измельчание, потому что в&nbsp;маленьких агрегатах клетки лучше снабжаются кислородом и быстрее растут. В&nbsp;итоге многоклеточные дрожжи остаются микроскопическими. Результаты эксперимента помогают понять причины миллиардолетней паузы между появлением эукариот и расцветом макроскопических многоклеточных организмов (так называемый «Скучный миллиард»). </b></p>
+
+<p>Коллектив американских биологов под руководством Уильяма Рэтклиффа (<a href="https://ratclifflab.biosci.gatech.edu/" target=_blank>William&nbsp;C. Ratcliff</a>) сообщил о&nbsp;новых результатах опытов с&nbsp;многоклеточными дрожжами-снежинками (snowflake yeast), которыми Рэтклифф с&nbsp;коллегами занимаются уже более десяти лет. </p>
+
+<p>О начальных этапах этих исследований рассказано в&nbsp;новости <a href="/novosti_nauki/431743/Eksperimentalno_pokazano_obrazovanie_mnogokletochnykh_eukariot_iz_odnokletochnykh_predkov" target=_blank>Экспериментально показано образование многоклеточных эукариот из одноклеточных предков</a> («Элементы», 25.01.2012). Дрожжи-снежинки были выведены путем искусственного отбора на размер клеточных скоплений. Фактически это отбор на скорость оседания. Дрожжи в&nbsp;течение суток (пять-шесть клеточных поколений) живут в&nbsp;жидкой среде при постоянном потряхивании. Потом их оставляют в&nbsp;покое на несколько минут, чтобы они начали оседать на дно. Чем крупнее клеточный агрегат, тем быстрее он оседает. Самая нижняя часть взвеси переносится в&nbsp;пробирку со свежей питательной средой, и цикл повторяется.</p>
+
+<p>У дрожжей-снежинок, выведенных таким способом, клетки не отделяются друг от друга при почковании. На почках вырастают новые почки, и получаются многоклеточные агрегаты диаметром около 0,05&nbsp;мм, действительно напоминающие снежинки. Они размножаются бесполым путем, отделяя дочерние снежинки. Агрегаты эти очень непрочные, потому что все потомки любой клетки прикрепляются к&nbsp;колонии только через эту клетку&nbsp;— свою прародительницу. Стоит разорваться любой межклеточной связи, и от колонии отделяется вся веточка потомков оторвавшейся клетки. Собственно, именно так эти колонии и размножаются.</p>
+
+<p>Рэтклифф с коллегами изучили мутации, отличающие дрожжи-снежинки от обычных дрожжей. Как выяснилось, для того, чтобы клетки перестали расходится после почкования, достаточно заблокировать работу одного-единственного гена, <i>ACE2</i> (W.&nbsp;Ratcliff et&nbsp;al., 2015. <a href="https://www.nature.com/articles/ncomms7102" target=_blank>Origins of multicellular evolvability in snowflake yeast</a>). Это очень удобно, и теперь для моделирования эволюции многоклеточности ученые используют дрожжи-снежинки, полученные из обычных дрожжей (с&nbsp;тем или иным известным исследователю генотипом) путем удаления гена <i>ACE2</i>.</p>
+
+<p>В 2021 году были опубликованы результаты 145-дневного эволюционного эксперимента, в&nbsp;котором дрожжи-снежинки опять отбирались на крупный размер по описанной выше схеме (G.&nbsp;Bozdag et&nbsp;al., 2021. <a href="https://www.nature.com/articles/s41467-021-23104-0" target=_blank>Oxygen suppression of macroscopic multicellularity</a>). В&nbsp;этом исследовании проверялось влияние кислорода и аэробного метаболизма на эволюцию крупных многоклеточных агрегатов. Использовались три разновидности дрожжей-снежинок: строго анаэробные (с&nbsp;мутацией в&nbsp;митохондриальной ДНК, делающей кислородное дыхание невозможным), обычные миксотрофные (способные и к&nbsp;анаэробному сбраживанию глюкозы, и к&nbsp;кислородному дыханию) и строго аэробные (генетически это были такие же дрожжи, как в&nbsp;предыдущем случае, но их кормили не глюкозой, а глицеролом, из которого дрожжи могут извлекать энергию только аэробным путем). </p>
+
+<p>Оказалось, что дрожжи-снежинки охотно эволюционируют в&nbsp;сторону увеличения размера только при строгой анаэробности. Возможность аэробного метаболизма создает новый вектор отбора, направленный в&nbsp;сторону, противоположную искусственному отбору на скорость оседания. В&nbsp;крупных клеточных агрегатах у&nbsp;большинства клеток начинаются проблемы с&nbsp;доступностью кислорода, что приводит к&nbsp;отбору на измельчание колоний. Выигрыш в&nbsp;скорости роста, даваемый кислородным дыханием, настолько велик, что уже при среднем радиусе колоний около 30&nbsp;мкм он сводит на нет выигрыш от крупного размера, создаваемый искусственным отбором на скорость оседания. Между двумя векторами отбора устанавливается равновесие, и колонии остаются микроскопическими (рис.&nbsp;2). </p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/macroscopic_multicellularity_2_1267.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/macroscopic_multicellularity_2_1267.jpg','Рис. 2. Результаты 145-дневного эксперимента')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/macroscopic_multicellularity_2_703.jpg" alt="Рис. 2. Результаты 145-дневного эксперимента" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 2.</b> Результаты 145-дневного эксперимента, в&nbsp;котором изучалось влияние аэробного метаболизма на эволюцию размера дрожжей-снежинок. <i>График слева</i> показывает, что после 145&nbsp;раундов отбора (Days of evolution) строго аэробные дрожжи-снежинки остались совсем маленькими (средний радиус колонии 30&nbsp;мкм), миксотрофные выросли до 40&nbsp;мкм, строго анаэробные&nbsp;&mdash; до 50&nbsp;мкм. Самыми крупными (60&ndash;70&nbsp;мкм) стали аэробные снежинки, которым давали дополнительный кислород. Изображение из статьи G.&nbsp;Bozdag et&nbsp;al., 2021. <a href="https://www.nature.com/articles/s41467-021-23104-0" target=_blank>Oxygen suppression of macroscopic multicellularity</a></p></div>
+
+
+</div>
+
+<p>Миксотрофные снежинки после 145&nbsp;раундов отбора стали чуть крупнее (радиус около 40&nbsp;мкм), анаэробные&nbsp;— еще крупнее (50&nbsp;мкм). Но самыми крупными (средний радиус колонии 60–70&nbsp;мкм) выросли аэробные снежинки, которым давали дополнительный кислород. По мнению авторов, эти результаты помогают понять, почему в&nbsp;истории жизни на Земле был миллиардолетний период эволюционного застоя между появлением эукариот (в&nbsp;начале <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%80%D0%BE%D0%B7%D0%BE%D0%B9" target=_blank>протерозойского эона</a>) и началом расцвета крупных многоклеточных форм жизни (в&nbsp;конце протерозоя). В&nbsp;этот период, известный как <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D1%83%D1%87%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D1%80%D0%B4" target=_blank>«Скучный миллиард»</a>, концентрация кислорода в&nbsp;атмосфере и гидросфере оставалась низкой. Возможно, это накладывало жесткие ограничения на эволюцию примитивных многоклеточных эукариот. Лишь ближе к&nbsp;концу протерозоя, когда концентрация кислорода снова стала расти, многоклеточные эукариоты начали бурно эволюционировать и становиться крупнее (см.:&nbsp;<a href="/novosti_nauki/430959/Razmer_zhivykh_sushchestv_uvelichivalsya_skachkami" target=_blank>Размер живых существ увеличивался скачками</a>, «Элементы», 30.12.2008). </p>
+
+<p>Так или иначе, в 145-дневном эксперименте все дрожжи-снежинки остались микроскопическими, то&nbsp;есть неразличимыми (или почти неразличимыми) невооруженным глазом. В&nbsp;дальнейшем рубеж между микро- и макроскопическим размером удалось преодолеть. Рэтклифф и его коллеги сообщили об этом в&nbsp;новой <a href="https://www.nature.com/articles/s41586-023-06052-1" target=_blank>статье</a>, опубликованной в&nbsp;мае 2023&nbsp;года в&nbsp;журнале <i>Nature</i>. Авторы намерены продолжать свой эксперимент по отбору дрожжей-снежинок на крупный размер в&nbsp;течение многих лет, вдохновляясь примером <a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BD%D1%81%D0%BA%D0%B8,_%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4" target=_blank>Ричарда Ленски</a>. Ну а пока они отчитались о&nbsp;первом 600-дневном этапе. </p>
+
+<p>В эксперименте участвовали те же три варианта культур дрожжей-снежинок, о&nbsp;которых сказано выше: строго аэробные, миксотрофные и анаэробные. Каждый вариант представлен пятью линиями (повторностями), то&nbsp;есть в&nbsp;общей сложности было 15&nbsp;независимо эволюционирующих линий. Опыты с&nbsp;подачей дополнительного кислорода в&nbsp;новой статье не упоминаются. </p>
+
+<p>Аэробные и миксотрофные линии, не достигшие макроскопических размеров за 145&nbsp;дней отбора, не сумели этого сделать и за 600&nbsp;дней. А вот анаэробные&nbsp;— сумели, причем во всех пяти повторностях. Средний радиус колоний увеличился до 450&nbsp;мкм, а в&nbsp;одной из повторностей&nbsp;— почти до 600&nbsp;мкм. Отдельные колонии достигают нескольких миллиметров в&nbsp;диаметре, то&nbsp;есть они крупнее, чем мушка-дрозофила, и, конечно, они прекрасно видимы невооруженным глазом (рис.&nbsp;1). Среднее число клеток в&nbsp;кластере увеличилось от примерно 100 у&nbsp;предковых дрожжей-снежинок до полумиллиона. </p>
+
+<p>Большая часть статьи посвящена поискам ответа на вопрос, как именно&nbsp;— за счет каких морфологических, биофизических и генетических изменений&nbsp;— анаэробным дрожжам-снежинкам удалось стать такими крупными.</p>
+
+<p>Как выяснилось, ключевые изменения затронули, во-первых, форму клеток: из округлых они стали сильно вытянутыми. Во-вторых, основание почки (bud neck) стало намного шире, что повысило прочность соединения почки с&nbsp;родительской клеткой. В-третьих, у&nbsp;многоклеточных агрегатов появилась принципиально новая особенность: цепочки клеток, ставшие похожими на <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D1%84%D0%B0" target=_blank>гифы</a> нормальных многоклеточных грибов, начали сплетаться друг с&nbsp;другом. </p>
+
+<p>Изначально округлые клетки становились всё более и более вытянутыми на протяжении всего эксперимента (рис.&nbsp;3). Это имеет прямое отношение к&nbsp;увеличению размера колонии. Дело в&nbsp;том, что удлиненные клетки в&nbsp;ходе последовательного почкования легче упаковываются в&nbsp;пространстве, не расталкивают друг друга и не создают избыточного напряжения, ведущего к&nbsp;разрыву межклеточных связей.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/macroscopic_multicellularity_3_703.jpg" alt="Рис. 3. Изменение формы клеток в ходе эволюции" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 3.</b> Изменение формы клеток в&nbsp;ходе эволюции крупного размера у&nbsp;многоклеточных дрожжей-снежинок. <i>Слева&nbsp;&mdash; </i>микроскопическая колония предковых дрожжей-снежинок с&nbsp;округлыми клетками (Ancestor) и маленький фрагмент макроскопической колонии с&nbsp;продолговатыми клетками (Evolved). <i>Длина масштабных отрезков</i>&nbsp;&mdash; 20&nbsp;мкм. <i>Справа вверху</i>&nbsp;&mdash; динамика изменения формы клеток (среднее отношение длины к&nbsp;ширине) в&nbsp;течение 600&nbsp;дней эксперимента в&nbsp;пяти анаэробных повторностях (PA1-5). <i>Справа внизу</i>&nbsp;&mdash; типичные клетки из пяти анаэробных повторностей на разных этапах эксперимента. <i>Длина масштабного отрезка</i>&nbsp;&mdash; 5&nbsp;мкм. Изображение из обсуждаемой статьи в&nbsp;<i>Nature</i></p></div>
+
+
+</div>
+
+<p>Начиная с&nbsp;определенного момента, когда отношение длины клетки к ее ширине приближается к&nbsp;двум (этот порог во всех пяти повторностях был достигнут между 300-м и 400-м днями эксперимента), количественные изменения переходят в&nbsp;качественные: ветвящиеся многоклеточные «гифы», из которых состоит колония, начинают сплетаться друг с&nbsp;другом.</p>
+
+<p>Это резко повышает <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D1%83%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%D0%BA%D0%B8" target=_blank>плотность упаковки</a> клеток, а главное&nbsp;— механическую прочность колонии. Теперь колония уже не распадается от разрыва любой межклеточной связи. Как и у&nbsp;предковых дрожжей-снежинок, такой разрыв ведет к&nbsp;образованию топологически отдельной веточки. Но только теперь она с&nbsp;большой вероятностью останется присоединена к&nbsp;колонии благодаря плотному сплетению гиф. Крупные колонии перестают представлять из себя топологически целостные объекты, состоящие из непрерывных цепочек клеток. Они складываются из множества фрагментов, прочно сплетенных друг с&nbsp;другом. Интересно, что при этом сохраняется <i>моноклональная</i> природа колоний, характерная для предковых дрожжей-снежинок. Это значит, что каждый многоклеточный агрегат состоит из потомков одной клетки (мы ведь помним, что отрывающиеся веточки, служащие для размножения колоний, состоят из одной родительской клетки и ее потомков). Почему же гифы разных колоний не сплетаются друг с&nbsp;другом? Ключевую роль в&nbsp;этом играет постоянное перемешивание жидкой культуры. Если оставить пробирку в&nbsp;покое, разнородные колонии прекрасно друг с&nbsp;другом сплетаются, образуя колонии-химеры, что не очень хорошо с&nbsp;точки зрения эволюционных перспектив многоклеточного организма. Моноклональность обеспечивает генетическую идентичность клеток организма и снимает проблему их эгоистической эволюции (см.:&nbsp;<a href="/novosti_nauki/431201/Vyrashchivanie_monokultur_klyuch_k_effektivnosti_selskogo_khozyaystva_u_termitov" target=_blank>Выращивание монокультур&nbsp;— ключ к&nbsp;эффективности сельского хозяйства у&nbsp;термитов</a>, «Элементы», 24.11.2009).</p>
+
+<p>Авторы изучили влияние сплетенности (entanglement) и усиления межклеточных соединений на механические свойства колоний. Оказалось, что по сравнению с&nbsp;предковыми дрожжами-снежинками их прочность выросла на много порядков. В&nbsp;статье приведены следующие цифры. Многоклеточные колонии предков разрушаются при <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" target=_blank>механическом напряжении</a> 240&nbsp;Па и имеют ударную вязкость 8,9&nbsp;Дж/м<sup>3</sup>. У&nbsp;крупных колоний, полученных за 600&nbsp;дней отбора, соответствующие значения&nbsp;— 7&nbsp;МПа и 0,6&nbsp;МДж/м<sup>3</sup>. В&nbsp;переводе на человеческий язык, прочность предковых колоний&nbsp;— примерно как у&nbsp;желе, а у&nbsp;проэволюционировавших&nbsp;— примерно как у&nbsp;древесины.</p>
+
+<p>Авторы отсеквенировали геномы подопытных дрожжей и выявили 123&nbsp;мутации, закрепившиеся в&nbsp;пяти анаэробных линиях. В&nbsp;разных линиях закрепились разные мутации, хотя некоторые из них затрагивают одни и те же гены. Общими для всех пяти линий являются функции генов, затронутых мутациями. Многие мутации, как и следовало ожидать, изменили кодирующие или регуляторные области генов, о&nbsp;которых известно, что они влияют на динамику почкования, рост клеток, их форму и ширину основания почки. Таким образом, параллельная эволюция в&nbsp;пяти повторностях пришла к&nbsp;похожим фенотипическим результатам за счет разных генетических изменений. Это логично, учитывая мультигенность признаков, на которые был направлен отбор.</p>
+
+<p>Эксперимент показал, с&nbsp;какой легкостью одноклеточные грибы могут переходить к&nbsp;многоклеточности и приобретать способность к&nbsp;построению прочных макроскопических структур из переплетенных гиф&nbsp;— способность, которая в&nbsp;ходе эволюции грибов возникала много раз независимо. Для этого оказалось достаточно простой экспериментальной манипуляции, сводящейся к&nbsp;тому, чтобы поставить выживание клеток в&nbsp;зависимость от размера групп, в&nbsp;которые эти клетки входят. В&nbsp;природе такой отбор могут осуществлять хищники, поедающие отдельные клетки, но не справляющиеся с&nbsp;крупными клеточными скоплениями. Показано, например, что такие хищники стимулируют эволюцию колониальности у&nbsp;одноклеточных водорослей (M.&nbsp;Boraas et&nbsp;al., 1998. <a href="https://link.springer.com/article/10.1023/A:1006527528063" target=_blank>Phagotrophy by a&nbsp;flagellate selects for colonial prey: A&nbsp;possible origin of multicellularity</a>).</p>
+
+<p>В эксперименте отбор на размер <i>моноклональных</i> клеточных групп фактически сразу сделал эти группы «дарвиновскими индивидами», то&nbsp;есть эволюционирующими объектами, вырабатывающими собственные адаптации. В&nbsp;результате такого отбора в&nbsp;геномах клеток послушно закрепляются мутации, помогающие развиваться «эмерджентным» групповым признакам, не сводимым к&nbsp;простой сумме наследственных свойств клеток. Хотя, конечно, эти групповые признаки в&nbsp;ходе онтогенеза колонии развиваются исключительно на основе свойств отдельных клеток. В&nbsp;эксперименте в&nbsp;роли признаков надклеточного (организменного) уровня выступали размер колонии и ее механическая прочность, определяемая шириной основания почки и степенью переплетенности гиф, которая, в&nbsp;свою очередь, во многом определялась формой клеток.</p>
+
+<p>Крайне интересен и подтвердившийся вывод о том, что аэробный метаболизм при ограниченной доступности кислорода может стать серьезным препятствием для развития примитивной многоклеточности. Может быть, этот вывод действительно в&nbsp;какой-то мере объясняет загадку «Скучного миллиарда». Если эксперимент и в&nbsp;самом деле станет долгосрочным, как у&nbsp;Ричарда Ленски, то он наверняка поможет лучше разобраться в&nbsp;механизмах и факторах перехода эукариот к&nbsp;многоклеточности.</p>
+
+<p class="small"><b>Источник:</b> G.&nbsp;Ozan Bozdag, Seyed Alireza Zamani-Dahaj, Thomas&nbsp;C. Day, Penelope&nbsp;C. Kahn, Anthony&nbsp;J. Burnetti, Dung&nbsp;T. Lac, Kai Tong, Peter&nbsp;L. Conlin, Aishwarya&nbsp;H. Balwani, Eva&nbsp;L. Dyer, Peter&nbsp;J. Yunker & William&nbsp;C. Ratcliff. <a href="https://www.nature.com/articles/s41586-023-06052-1" target=_blank>De&nbsp;novo evolution of macroscopic multicellularity</a>&nbsp;// <i>Nature</i>. 2023. DOI:&nbsp;10.1038/s41586-023-06052-1.</p>
+
+<p class="small"><b>См. также:</b><br>
+<a href="/novosti_nauki/431743/Eksperimentalno_pokazano_obrazovanie_mnogokletochnykh_eukariot_iz_odnokletochnykh_predkov" target=_blank>Экспериментально показано образование многоклеточных эукариот из одноклеточных предков</a>, «Элементы», 25.01.2012.</p>
+
+
+<p><a href="http://www.evolbiol.ru/author" target=_blank><i>Александр Марков</i></a></p>
+
+    
+</div>
+
+<div class='cl'></div>
+<hr>
+<div class='toggle'>
+
+<div class='forum_topctrl '>
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter="" id="forum_socnets_share"></div><div class='forum_icon' onclick='toggleClick(this)' title='Комментарии'><span class='fmicon'></span><span class='fmcounter'>18</span></div>
+  
+     <div class='goto toggle_hide'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this)'><span class='hide_other'>Показать </span>комментарии (18)</span></div>
+     <div class='goto toggle_body'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this); socnetsFly();'><span class='hide_other'>Свернуть </span>комментарии <span class='hide_main'>(18)</span></span></div>
+  
+
+</div>
+
+<div class='forum toggle_body' id='forum_block'>
+<hr>
+<ul class="level0"><li class="level0" id='forum_node_5349589'>
+   <div class='fmnode'>
+   <a name='fm5349589'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>erwins</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349589'>12.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>09:50
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Как питаются центральные клетки?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level0" id='forum_node_5349590'>
+   <div class='fmnode'>
+   <a name='fm5349590'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>нoвый учacтник</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349590'>12.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>11:36
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>&gt;&gt; Крайне интересен и подтвердившийся вывод о том, что аэробный метаболизм при ограниченной доступности кислорода может стать серьезным препятствием для развития примитивной многоклеточности.<br><br>для современных дрожжей, миллиард лет адаптировавшихся к аэробности, ограниченная доступность кислорода может стать серьезным препятствием для самых неожиданных вещей, а не только для образования какого-то нового признака. Тем древним микроаэробным дрожжам она, может, не так мешала.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level0" id='forum_node_5349591'>
+   <div class='fmnode'>
+   <a name='fm5349591'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>andrey30</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349591'>12.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>19:51
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>лучше бы научили их сбраживать лигнин или целлюлозу</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level0 parent" id='forum_node_5349594'>
+   <div class='fmnode'>
+   <a name='fm5349594'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Юрий Фёдоров</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349594'>13.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>04:12
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Верно ли я понимаю, что, раз такие громадные перемены происходят за считанные пару лет, значит<br>нынешние природные условия уже несколько сотен тыщ милленов лет нисколько не способствуют появлению многоклеточности, иначе дрожжевые многоклеточные нас бы окружали нынче, и преимущество эволюционно, получется, имеют именно одноклеточные обыкновеные дрожжи....?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5349595'>
+   <div class='fmnode'>
+   <a name='fm5349595'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Юрий Фёдоров</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349595'>13.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>06:05
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>нынешние природные условия уже несколько сотен тыщ милленов лет нисколько не способствуют </blockquote>Никак не способствуют и появлению злаков с более крупными семенами, картофеля с более крупными клубнями и.т.д.<br>Эволюции способствует рес-с-с-ская перемена природных условий, например падение метеорита и тут уже кто не успел, тот &quot;опоздал&quot;.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5349605'>
+   <div class='fmnode'>
+   <a name='fm5349605'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Юрий Фёдоров</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349605'>14.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>18:51
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Ну не, это Вы зря в одну кучу размеры клубней - вполне себе количественный фактор - и качественный скачок от одноклеточности к многоклеточности смешали тута)<br><br>Хотя, теперь, по прочтении комментариев Афиука и отчасти Ивана, я уже и не уверен в том, что этот самый скачок случимшись... Хотя вот только что, по прочтении статьи, такая уверенность вполне себе была.)</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level1 parent" id='forum_node_5349601'>
+   <div class='fmnode'>
+   <a name='fm5349601'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>_Ivan</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Юрий Фёдоров</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349601'>14.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>10:08
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>А что там громадного? Перенесите культуру бактерий в среду с высоким рН, они так же агрегаты образуют. Я уж молчу про то, что биофильмы, микроколонии и т.д. вполне себе природные формы существования микроорганизмов, они к ним давно и хорошо приспособлены миллиардами лет естественной эволюции, а не двухлетним эволюционным экспериментом.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5349622'>
+   <div class='fmnode'>
+   <a name='fm5349622'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Rattus</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>_Ivan</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349622'>18.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>13:35
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Кстати да - эти агрегаты по структуре куда ближе каким-нибудь бактериальным биоплёнкам, именование которых многоклеточными далеко не общепринято.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level1 parent" id='forum_node_5349614'>
+   <div class='fmnode'>
+   <a name='fm5349614'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Alef</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Юрий Фёдоров</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349614'>15.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>12:58
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Ну тут эксперимент немного притянутый. Дрожжи как раз происходят из многоклеточных грибов, и обратный путь таки по проще. Некоторые родственные дрожи образуют гифы. Тут на элементах как раз была статья, что многоклеточные (больше вредные чем паразитические) грибки candida научили стать строго одноклеточными и полезными симбионтами.<br><br>Вот: https://elementy.ru/novosti_nauki/433359/V_khode_evolyutsion<wbr>nogo_eksperimenta_patogennyy_grib_prevratilsya_v_poleznogo_s<wbr>imbionta?story=17<br>Кандида и дрожи те же самые сахаромицеты.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5349623'>
+   <div class='fmnode'>
+   <a name='fm5349623'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Rattus</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Alef</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349623'>18.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>13:38
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Именно.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul><li class="level0 parent" id='forum_node_5349596'>
+   <div class='fmnode'>
+   <a name='fm5349596'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Aфиук</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349596'>13.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>16:05
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Какая-то &quot;каша из топора&quot;. Что &quot;грибные&quot; протисты с лёгкостью в определённых условиях переходят от одноклеточных форм к синцитиальным и даже истинно многоклеточным, не говоря уже о запрограммированном у многих из них чередовании многоклеточных и одноклеточных стадий жизненного цикла, - факт едва ли не такой же старый, как сама микробиология. Конечно, эти метаморфозы регулируются определённым набором генов. Жизнеспособные мутации в которых могут как возникать de novo, так и подхватываться отбором из персистирующих в популяции. Конкретный механизм их появления у клеток в данной пробирке неважен, но само присутствие этих мутаций в популяции в качестве жизнеспособных резко снижает пафос исследования, переводя его из разряда &quot;направленной эволюции многоклеточности&quot; в &quot;экологическую генетику метаболизма факультативно одноклеточных грибов&quot;.<br><br>Многоклеточности как таковой в эксперименте не возникает, возникает специфическая для дрожжей синцитиальная колониальность. Поэтому из всех аспектов многоклеточности моделированию оказывается доступен лишь самый формальный, пространственно-геометрический, связанный с эффективностью транспорта и метаболизма. И то не делается попыток поставить полученные на модели генетические результаты в сравнительный или исторический эволюционный контекст.<br><br>Итого: дутая сенсация. Исследование, скорее, для PLOS1, чем для Nature.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1" id='forum_node_5349602'>
+   <div class='fmnode'>
+   <a name='fm5349602'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>_Ivan</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Aфиук</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349602'>14.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>10:09
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>&gt;Исследование, скорее, для PLOS1, чем для Nature.<br>Как и в случае каши из топора, главное - как все подать)))</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level1" id='forum_node_5349640'>
+   <div class='fmnode'>
+   <a name='fm5349640'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Rattus</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Aфиук</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349640'>23.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>07:41
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Итого: дутая сенсация. Исследование, скорее, для PLOS1, чем для Nature.</blockquote>Скорее не &quot;дутая сенсация&quot;, а &quot;на безрыбье и рак - рыба&quot;, полагаю: просто редакция, вероятно, посчитала, что статья если и не хватает звёзд с неба, но послужит читателям хотя бы &quot;пищей для размышлений на тему&quot;.<br><br>С остальным всецело согласен.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level0 parent" id='forum_node_5349600'>
+   <div class='fmnode'>
+   <a name='fm5349600'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>3d</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349600'>14.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>06:11
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Классная история! Очень люблю, когда выясняется, что какой-нибудь сложный признак (например жесткость колонии), оказывается формируется за счет простого изменения формы клеток.<br>И отдельно хочу отметить название гена ACE2 который у дрожжей кодирует транскрипционный фактор и, по-видимому, не имеет ничего общего с человеческим ACE2 - рецептором через который коронавиус проникает в клетки.<br>Генетические омонимы :)</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1" id='forum_node_5349638'>
+   <div class='fmnode'>
+   <a name='fm5349638'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Rattus</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>3d</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349638'>23.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>07:34
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote> сложный признак (например жесткость колонии)</blockquote>А что в нём сложного?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level0 parent" id='forum_node_5349603'>
+   <div class='fmnode'>
+   <a name='fm5349603'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Влад</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349603'>14.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>12:13
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Давно вынашиваю мысль, что сам по себе переход к многоклеточности и многоклеточной кооперации прост, в противоположность выработке системы иммунитета к внутри-видовому паразитизму. И именно он является ключевым в развитии сложной многоклеточности.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1" id='forum_node_5349613'>
+   <div class='fmnode'>
+   <a name='fm5349613'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Alef</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Влад</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349613'>15.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>12:46
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Похоже весь вопрос о получение выгоды от многоклеточности, и еще выгоды быстрой, а не через тысячи лет. Для паразита или хищника скопление пищи как раз особо лакомый кусочек.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level1" id='forum_node_5349639'>
+   <div class='fmnode'>
+   <a name='fm5349639'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Rattus</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Влад</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434111#fm5349639'>23.06.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>07:38
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Да - это уже давно стало понятным для тех, кто интересуется темой.<br>Бурые водоросли, грибы и даже нитчатые цианобактерии с гетероцистами - наглядные тому примеры.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul></ul>
+<div class='fmctrl fl' id='forum_btm_btn'>Написать комментарий</div>
+
+
+<div class='cl'></div>
+</div>
+</div>
+
+<div class='forumctrls' style='display:none'>
+
+<div id='forum_edit_block'>
+<form action="/novosti_nauki/434111" method=post onsubmit="return forum_checkMsgForm(this)">
+
+<input type='hidden' name='msgedit' id='forum_msg_id'>
+<div class='xform'>
+	<textarea id='forum_edit_textarea' name=memo placeholder="Комментарий"></textarea>
+	
+	<input type='submit' value='Сохранить' name='accept'> <input type=submit name=delete onclick='return confirm("Удалить сообщение?");' value="Удалить">
+        <div class='gap'></div>
+</div>
+</form>
+</div>
+
+<div id='forum_input_block' class='fmnode toggle'>
+
+        <div class='fmhead'><span class="nodepoint"></span>Вход в систему</div>
+	<div class='xform beige'>
+        <div class='smallform'>
+        
+		<form action="/novosti_nauki/434111" method=post>
+                
+                <input type='hidden' name='answerto' id='forum_prev_id'>
+		<input type=text name=LOGIN  value="" maxlength=50 placeholder='Имя' id='forum_login'></td>
+		<input type=password name="PASSWD" value="" maxlength=50 placeholder='Пароль'></td></tr>
+                <div class="label fl"><span class="xcheckbox"><input id='rpw_chk' type="checkbox" name=PERSIST onclick="resetXCheck(this)"></span> <label for='rpw_chk'>запомнить пароль</label></div>
+                <input type="submit" class='right' name="accept_auth" value="   ok   ">
+                <div class='cl'></div>
+		</form>
+        <div class='goto fl'><a href="/reguser">Зарегистрироваться</a></div>
+        <div class='goto fr'><a href="/restore_password">Забыли пароль?</a></div><div class='cl'></div>
+	</div>
+        </div>
+        <div class='gap'></div>
+
+</div>
+
+</div>
+
+<script type='text/javascript'>
+var forum_user ="";
+var forum_mode = "simple";
+var forum_answerto = ""; 
+var forum_msgcnt = "18"; 
+
+
+var topbtn = document.getElementById('forum_topsocnet_button');
+if (topbtn) topbtn.style.display='';
+</script>
+<script type='text/javascript' src='/downloads/js/forum.js?v=1.10' charset="utf-8"></script>
+</div>
+
+<div class='crblock'>
+
+<div class='storyline important'>
+
+
+
+	<div class='hide_main hide_hpad'><hr><div class='gap'></div><h2>Сюжет</h2></div>
+ 
+
+<hr class='hide_main hide_hpad'>
+<div class='toggle'>
+<div class='subtitle hide_main hide_hpad' onclick='toggleClick(this)'><span class='toggle_button'></span><span class='toggle_label'>Эволюционные эксперименты</span></div>
+<h2 class='hide_vpad hide_phone'><a href="/suzhet/17/Evolyutsionnye_eksperimenty">Эволюционные эксперименты</a></h2>
+
+<div class='phone_toggle_body vpad_toggle_body'>
+<hr class='nogap'>
+
+
+
+<ul class='storyline vtype0'>
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/434321/Polnogenomnaya_duplikatsiya_daet_nemedlennyy_adaptatsionnyy_vyigrysh?story=17'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/genome_duplication_in_a_longterm_multicellularity_evolution_experiment_logo_200.jpg" alt="Многоклеточная колония пекарских дрожжей"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>17.03.2025</div>
+
+      <div class='title'>Полногеномная дупликация дает немедленный адаптационный выигрыш</div>
+      <div class='sublink'>Елена Наймарк&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/434132/Bakteriya_s_sinteticheskim_minimalnym_genomom_sokhranila_sposobnost_k_adaptivnoy_evolyutsii?story=17'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/evolution_of_a_minimal_cell_logo_200.jpg" alt="Бактерии с синтетическим неминимальным геномом"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>24.08.2023</div>
+
+      <div class='title'>Бактерия с&nbsp;синтетическим минимальным геномом сохранила способность к&nbsp;адаптивной эволюции</div>
+      <div class='sublink'>Александр Марков&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story current'>
+
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/macroscopic_multicellularity_logo_200.jpg" alt="Рис. 1. Результаты эволюционного эксперимента"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>12.06.2023</div>
+
+      <div class='title'>В эволюционном эксперименте дрожжи превратились в&nbsp;макроскопические многоклеточные организмы</div>
+      <div class='sublink'>Александр Марков&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433999/Evolyutsiya_geneticheskogo_raznoobraziya_bakteriy_napravlyaetsya_vnutrividovoy_konkurentsiey_i_gonkoy_vooruzheniy_s_fagami?story=17'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/competition_and_coevolution_drive_the_evolution_logo_200.jpg" alt="Рис. 1. Бактерия Streptococcus thermophilus и ее смертельный враг, бактериофаг 2972"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>15.08.2022</div>
+
+      <div class='title'>Эволюция генетического разнообразия бактерий направляется внутривидовой конкуренцией и гонкой вооружений с&nbsp;фагами</div>
+      <div class='sublink'>Александр Марков&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433922/Zamena_nebolshogo_uchastka_genoma_na_sinonimichnyy_zastavlyaet_bakteriyu_inache_reshat_tu_zhe_evolyutsionnuyu_zadachu?story=17'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/highly_repeatable_evolution_in_pseudomonas_fluorescens_logo_200.jpg" alt="Бактерия Pseudomonas fluorescens"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>14.01.2022</div>
+
+      <div class='title'>Замена небольшого участка генома на синонимичный заставляет бактерию иначе решать ту же эволюционную задачу</div>
+      <div class='sublink'>Татьяна Романовская&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433568/Novyy_metod_geneticheskogo_shtrikhkodirovaniya_pozvolyaet_detalno_sledit_za_evolyutsiey_drozhzhey?story=17'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/high_resolution_lineage_tracking_logo_200.jpg" alt="Рис. 1. «Обновляемое генетическое штрихкодирование»"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>18.11.2019</div>
+
+      <div class='title'>Новый метод генетического штрихкодирования позволяет детально следить за эволюцией дрожжей</div>
+      <div class='sublink'>Александр Марков&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433518/V_khode_evolyutsionnogo_eksperimenta_u_drozhzhey_poyavilsya_novyy_gen?story=17'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/recombination_of_s_eubayanus_maltose_transporter_genes_logo_200.jpg" alt="Дрожжи Saccharomyces cerevisiae"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>15.08.2019</div>
+
+      <div class='title'>В ходе эволюционного эксперимента у дрожжей появился новый ген</div>
+      <div class='sublink'>Татьяна Романовская&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433359/V_khode_evolyutsionnogo_eksperimenta_patogennyy_grib_prevratilsya_v_poleznogo_simbionta?story=17'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/experimental_evolution_of_a_fungal_pathogen_logo_200.jpg" alt="Колонии разных штаммов гриба Candida albicans"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>06.11.2018</div>
+
+      <div class='title'>В&nbsp;ходе эволюционного эксперимента патогенный гриб превратился в&nbsp;полезного симбионта</div>
+      <div class='sublink'>Александр Марков&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/433348/Sposobstvuet_li_adaptatsiya_k_raznym_dietam_razvitiyu_reproduktivnoy_izolyatsii?story=17'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/does_adaptation_to_different_diets_result_logo_200.jpg" alt="Общая схема исследования и главный результат"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>16.10.2018</div>
+
+      <div class='title'>Способствует ли адаптация к&nbsp;разным диетам развитию репродуктивной изоляции?</div>
+      <div class='sublink'>Александр Марков&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/genbio/synopsis/566/Rol_mikrobioma_v_adaptatsii_Drosophila_melanogaster_k_kormovomu_substratu_s_povyshennoy_kontsentratsiey_NaCl?story=17'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/eltjob/muhi-drozofily_100.jpg" alt="Роль микробиома в адаптации <I>Drosophila melanogaster</I> к кормовому субстрату с повышенной концентрацией NaCl"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>14.10.2018</div>
+
+      <div class='title'>Успех адаптации мух <I>Drosophila melanogaster</I> к избытку соли в корме зависит от дрожжей определенного вида</div>
+      <div class='sublink'>Сергей Ивницкий&nbsp;<span class="break">•</span> Журнал общей биологии&nbsp;<span class='break'>•</span> №5, 2018</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+
+</li>
+<li class='story prebreak'></li><li class='story break hr'><div><hr></div></li><li class='story prebreak'></li>
+
+</ul>
+
+
+
+
+<div class='goto'><a href="/suzhet/17/Evolyutsionnye_eksperimenty">Весь сюжет</a></div>
+
+
+
+<div class='gap2 hide_vpad hide_phone'></div>
+</div>
+</div>
+
+</div>
+
+
+
+     <h2><a href="/novosti_nauki">Последние новости</a></h2>
+     <hr class='nogap'>
+
+
+    <a href="/novosti_nauki/434407/Kukolki_zarazhennye_opasnym_parazitom_posylayut_rabochim_muravyam_signal_ubey_menya" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/altruistic-disease-signalling-in-ant-colonies_logo_200.jpg" alt="Рабочие муравьи Lasius neglectus проводят «разрушающую дезинфекцию»"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Куколки, зараженные опасным паразитом, посылают рабочим муравьям сигнал «убей меня»</div>
+    <div class="sublink"><span class="date">12.02</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434406/U_pervykh_pozvonochnykh_bylo_dve_pary_glaz" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/myllokunmingia_200.jpg" alt="У первых позвоночных было две пары глаз"></div>
+    
+    <div class='ib_text'>
+    <div class="title">У первых позвоночных было две пары глаз</div>
+    <div class="sublink"><span class="date">09.02</span>&nbsp;<span class='break'
+>•</span> Сергей Ястребов</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434405/Infrakrasnoe_izluchenie_drevneyshiy_signal_dlya_privlecheniya_opyliteley" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/infrared-radiation-is-an-ancient-pollination-signal_1_200.jpg" alt="Открытая шишка саговникового растения. (B) Тепловизионное изображение мужской шишки саговника в&nbsp;момент нагревания во&nbsp;время выброса пыльцы"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Инфракрасное излучение&nbsp;— древнейший сигнал для привлечения опылителей</div>
+    <div class="sublink"><span class="date">04.02</span>&nbsp;<span class='break'
+>•</span> Елена Устинова</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434404/Dazhe_krupnye_mozazavry_mogli_zhit_v_rekakh" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/260118_novikovskaya_mosasaurus_200.jpg" alt="Некоторые виды мозазавров могли быть пресноводными"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Даже крупные мозазавры могли жить в реках</div>
+    <div class="sublink"><span class="date">19.01</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+<div class='goto'><a href="/novosti_nauki">Все новости</a></div>
+<div class='gap2'></div>
+
+
+<!-- Здесь был блок картинки дня: KLBLOCK id="eltdpicture" page_size="1" template="dpicture_R_v2" page="" calendar="" features="v2" dpicture_title="Картинка дня" dpicture_th_title="*" gotoxrub="19"/ -->
+
+<div class='important'>
+
+
+<hr class='hide_main hide_hpad'><div class='gap hide_main hide_hpad'></div>
+<div class='rxblock eltnews'>
+<h2>См. также</h2><hr class='nogap'>
+
+
+
+<a class="nohover" href="/novosti_nauki/431743/Eksperimentalno_pokazano_obrazovanie_mnogokletochnykh_eukariot_iz_odnokletochnykh_predkov?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/multicellular_yeasts_fig1_390.jpg" alt=""></div>
+    
+    <div class="title">Экспериментально показано образование многоклеточных эукариот из одноклеточных предков</div>
+    
+    <div class="sublink"><span class="date">25.01.2012</span>&nbsp;<span class='break'>•</span> Елена Наймарк&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/430959/Razmer_zhivykh_sushchestv_uvelichivalsya_skachkami?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/anomalocaris_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Размер живых существ увеличивался скачками</div>
+    
+    <div class="sublink"><span class="date">30.12.2008</span>&nbsp;<span class='break'>•</span> Александр Марков&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/431201/Vyrashchivanie_monokultur_klyuch_k_effektivnosti_selskogo_khozyaystva_u_termitov?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/fungus_garden_of_a_macrotermes_with_multiple_asexual_fruiting_bodies_(nodules)_390.jpg" alt=""></div>
+    
+    <div class="title">Выращивание монокультур&nbsp;— ключ к эффективности сельского хозяйства у&nbsp;термитов</div>
+    
+    <div class="sublink"><span class="date">24.11.2009</span>&nbsp;<span class='break'>•</span> Александр Марков&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433564/Simbioticheskie_drozhzhi_pomogayut_drozofilam_adaptirovatsya_k_solenomu_kormu?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/yeasts_affect_tolerance_of_drosophila_melanogaster_to_food_substrate_1_390.jpg" alt=""></div>
+    
+    <div class="title">Симбиотические дрожжи помогают дрозофилам адаптироваться к&nbsp;соленому корму</div>
+    
+    <div class="sublink"><span class="date">11.11.2019</span>&nbsp;<span class='break'>•</span> Александр Марков&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433754/V_khode_evolyutsionnogo_eksperimenta_udalos_poluchit_generalistov_pri_simpatricheskom_vidoobrazovanii?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/experimental_evolution_of_adaptive_divergence_logo_390.jpg" alt=""></div>
+    
+    <div class="title">В ходе эволюционного эксперимента удалось получить генералистов при симпатрическом видообразовании </div>
+    
+    <div class="sublink"><span class="date">14.01.2021</span>&nbsp;<span class='break'>•</span> Елена Наймарк&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433557/Chem_vyshe_prisposoblennost_tem_vrednee_novye_mutatsii?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/higher_fitness_yeast_genotypes_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Чем выше приспособленность, тем вреднее новые мутации</div>
+    
+    <div class="sublink"><span class="date">28.10.2019</span>&nbsp;<span class='break'>•</span> Александр Марков&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<div class='gap2'></div>
+
+</div>
+
+
+<div class='storyline important'>
+
+</div>
+
+</div>
+
+<div class='cl'></div>
+
+<div class='mb'>
+<div class='pager_one'>
+<hr>
+
+  <a class='nohover' href="/novosti_nauki/434110/Adskie_svini_byli_vseyadnymi_a_predki_begemotov_rastitelnoyadnymi">
+   <div class="next">
+      <div class=icon></div> 
+      <div class="suplink">08.06.2023</div>
+      <div class="pretitle"></div>
+      <div class="title">«Адские свиньи» были всеядными, а&nbsp;предки бегемотов&nbsp;— растительноядными</div>
+   </div>
+  </a>
+
+
+ <a class='nohover' href="/novosti_nauki/434112/Pervye_amnioty_byli_zhivorodyashchimi">
+  <div class="prev">
+     <div class=icon></div> 
+     <div class="suplink">15.06.2023</div>
+     <div class="pretitle"></div>
+     <div class="title">Первые амниоты были живородящими</div>
+   </div>
+  </a>
+
+</div>
+<div class='cl'></div>
+</div>
+
+
+
+<div class='other_block'>
+<hr class='top mb'>
+<div class='mb4 other_themes'>
+ <h2>Другие новости</h2>
+ <div class="submenu hrline"><div class="sm_item">
+    <a href="/novosti_nauki/t/379113/Aleksandr_Markov">Александр Марков</a> <span class="stat">944</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/2584639/Mikrobiologiya">Микробиология</a> <span class="stat">219</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/2253632/Evolyutsiya">Эволюция</a> <span class="stat">803</span>
+</div></div>
+</div>
+<div class='scroll_container'>
+<div id='newsScrBlock' class='slider-view'><div class='slider'><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434407/Kukolki_zarazhennye_opasnym_parazitom_posylayut_rabochim_muravyam_signal_ubey_menya?from=bxblock'>
+<div class='img'><span><img src='images/news/altruistic-disease-signalling-in-ant-colonies_logo_390.jpg' alt=''></span></div>
+<div class='title'>Куколки, зараженные опасным паразитом, посылают рабочим муравьям сигнал «убей меня»</div>
+<div class='sublink'><span class="date">12.02</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434406/U_pervykh_pozvonochnykh_bylo_dve_pary_glaz?from=bxblock'>
+<div class='img'><span><img src='images/news/myllokunmingia_390.jpg' alt=''></span></div>
+<div class='title'>У первых позвоночных было две пары глаз</div>
+<div class='sublink'><span class="date">09.02</span>&nbsp;<span class='break'
+>•</span> Сергей Ястребов</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434392/Otsekvenirovan_genom_rannego_denisovtsa?from=bxblock'>
+<div class='img'><span><img src='images/news/second_denisovan_genome_logo_390.jpg' alt=''></span></div>
+<div class='title'>Отсеквенирован геном раннего денисовца</div>
+<div class='sublink'><span class="date">12.11.2025</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434386/Obnaruzhen_realistichnyy_sposob_prisoedineniya_aminokislot_k_RNK_bez_pomoshchi_fermentov_i_ribozimov?from=bxblock'>
+<div class='img'><span><img src='images/news/thioester_mediated_rna_aminoacylation_logo_390.jpg' alt=''></span></div>
+<div class='title'>Обнаружен реалистичный способ присоединения аминокислот к&nbsp;РНК без помощи ферментов и рибозимов</div>
+<div class='sublink'><span class="date">16.10.2025</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434384/Lyubov_k_krasnomu_stimuliruet_mezhvidovoe_sparivanie_u_paukov_skakunchikov?from=bxblock'>
+<div class='img'><span><img src='images/news/latent_preference_for_red_ornamentation_logo_390.jpg' alt=''></span></div>
+<div class='title'>Любовь к&nbsp;красному стимулирует межвидовое спаривание у&nbsp;пауков-скакунчиков</div>
+<div class='sublink'><span class="date">09.10.2025</span>&nbsp;<span class='break'
+>•</span> Елена Устинова</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434383/Arkhei_i_bakterii_mogut_obedinyatsya_v_zhivuyu_elektricheskuyu_set?from=bxblock'>
+<div class='img'><span><img src='images/news/redox_conduction_in_anaerobic_methanotrophic_consortia_logo_390.jpg' alt=''></span></div>
+<div class='title'>Археи и бактерии могут объединяться в&nbsp;живую электрическую сеть</div>
+<div class='sublink'><span class="date">06.10.2025</span>&nbsp;<span class='break'
+>•</span> Георгий Куракин</div>
+</a>
+</div></div></div>
+<div class='scr_buttons_noscript' id='newsScrBlock_buttons'>
+<span class='prev_button' id='newsScrBlock_prevbtn'></span>
+<span class='next_button' id='newsScrBlock_nextbtn'></span>
+</div>
+</div>
+<div class='cl'></div>
+<hr class='mb hide_hphone'>
+<script type="text/javascript">scrollInit('newsScrBlock', { "mode": "DOM-S", "total": 1500, "pagesize": 6, "request_url": '/ajax/news', "request_params": '&features=similar&features=v2&template=news_sline_v2&news_title=Другие новости&objlink_params=from=bxblock&xpage_size=6&tnews=3371422&newsid=434111'});</script>
+</div>
+
+
+</div>
+
+<div class='blue subscribe_block'><div class='mblock'>
+<div class='subscribe'>
+<div class='mb10'>
+<FORM TARGET=_top ACTION=https://subscribe.ru/member/quick METHOD=POST>
+<INPUT TYPE=hidden NAME=action VALUE=quick>
+<INPUT TYPE=hidden NAME=grp VALUE="science.news.elementynews">
+<span class='title'>Новостная рассылка</span>
+<span class='xinput fullwidth'><INPUT TYPE=email NAME=email SIZE=25 MAXLENGTH=100 placeholder
+="ВАШ E-MAIL"
+></span>&nbsp;<INPUT TYPE=submit VALUE="ПОДПИСАТЬСЯ">
+<INPUT TYPE=hidden NAME=src VALUE="list_science.news.elementynews">
+</FORM>
+</div>
+
+<div class='mb6'>
+<span class='title'>«Элементы» в соцсетях:&nbsp; </span>
+
+<a class='icon vk' href='https://vk.com/elementy_ru' target='_blank' title='ВКонтакте'></a>
+<a class='icon twitter' href='https://twitter.com/elementy_ru' target='_blank' title='Твиттер'></a>
+<a class='icon youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank' title='Youtube'></a>
+
+<a class='icon telegram' href='https://telegram.me/elementy_ru' target='_blank' title='Telegram'></a>
+<a class='icon zen' href='https://zen.yandex.ru/elementy.ru' target='_blank' title='Яндекс.Дзен'></a>
+</div>
+</div>
+<div class='cl'></div>
+</div></div>
+ 
+      
+             <script type="text/javascript" src="/downloads/js/linkhint.js?v=1.02"></script>
+             <script type="text/javascript">linkhint_init();</script>
+       
+   
+
+</div>
+
+
+
+<div class='hfooter'>
+<div class='mblock'>
+
+<div class='mb4 i1'><img src='images/eltnewdesign/ft_logo.png' alt='Элементы'></div>
+
+
+
+<div class='mb3 rub1'><ul>
+<li><a href='/novosti_nauki'>Новости науки</a></li>
+<li><a href='/LHC'>LHC</a></li>
+<li><a href='/kartinka_dnya'>Картинка дня</a></li>
+<li><a href='/problems'>Задачи</a></li>
+<li><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a></li>
+<li><a href='/video'>Видеотека</a></li>
+<li><a href='/bookclub'>Книжный клуб</a></li>
+</ul></div>
+<div class='mb3 rub2'><ul>
+<li><a href='/events'>Научный календарь</a></li>
+<li><a href='/email'>Детские вопросы</a></li>
+<li><a href='/time'>Масштабы: времена</a></li>
+<li><a href='/posters'>Плакаты</a></li>
+<li><a href='/trefil'>200 законов мироздания</a></li>
+<li><a href='/genbio'>Журнал общей биологии</a></li>
+<li><a href='/catalog'>Наука в Рунете</a></li>
+</ul></div>
+
+<div class='mb3 socnets'>
+<ul>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>ВКонтакте</span></a></li>
+<li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Twitter</span></a></li>
+<li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'><span class='icon'></span><span class='name'>Youtube</span></a></li>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Telegram</span></a></li>
+<li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'><span class='icon'></span><span class='name'>Яндекс.Дзен</span></a></li>
+<li class='hide_main hide_hpad hide_vpad'><a class='rss' href='/rss/news' target='_blank'><span class='icon'></span><span class='name'>RSS</span></a> <span class='name'>(<a href='/rss/'  target='_blank'>все ленты</a>)</span></li>
+</ul>
+</div>
+<div class='mb3 l2 zimin'>
+<div class='msg'><a href='https://basis-foundation.ru/' target="_blank">При поддержке фонда «Базис»</a></div>
+<a href='https://basis-foundation.ru/' target="_blank"><img src='images/eltnewdesign/basis2.png' alt='Фонд поддержки фундаментальной физики Базис'></a>
+</div>
+<div class='cl'></div>
+<hr>
+<div class='mb4 l2 copy'>© 2005–2026 «Элементы»</div>
+<div class='mb3 about'><a href='/about'>О проекте</a></div>
+<div class='mb3 feedback'><a href='mailto:info@elementy.ru'>Обратная связь</a></div>
+<div class='mb3 rss hide_phone'><a href='/rss/news' target='_blank'>RSS</a> (<a href='/rss/'  target='_blank'>все ленты</a>)</div>
+<div class='mb3 subscrb'><a href='https://subscribe.ru/catalog/science.news.elementynews'>Подписаться на рассылку</a></div>
+<!--<div class='mb3 l2 design'><a href='http://charmerstudio.com' target='_blank'>Дизайн: Charmer Studio</a></div>-->
+<div class='cl gap'></div>
+
+
+<div class='mb counters'>
+<!--LiveInternet counter--><script language="JavaScript"><!--
+document.write('<img src="//counter.yadro.ru/hit?r'+escape(document.referrer)+((typeof(screen)=='undefined')?'':';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+'" width=1 height=1 alt="">')
+//-->
+</script><!--/LiveInternet-->
+<!-- Yandex.Metrika counter --><script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter31698571 = new Ya.Metrika({ id:31698571, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="https://mc.yandex.ru/watch/31698571" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+<!-- Google Analytics --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65855867-1', 'auto');
+  ga('send', 'pageview');
+</script><!-- // Google Analytics -->
+<!--begin of Rambler's Top100 code -->
+<script id="top100Counter" type="text/javascript" src="//counter.rambler.ru/top100.jcn?707804"></script>
+<noscript><a href="http://top100.rambler.ru/top100/"><img src="//counter.rambler.ru/top100.cnt?707804" alt="" width=1 height=1 border=0></a>
+</noscript>
+<!--end of Top100 code-->
+</div>
+
+
+</div>
+</div>
+
+</div>
+</body>
+</html>
