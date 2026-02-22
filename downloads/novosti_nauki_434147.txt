@@ -1,0 +1,2849 @@
+<!DOCTYPE html>
+<html lang='ru' prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+<head>
+<title>Нобелевская премия по физиологии и медицине — 2023 • Галина Клинк • Новости науки на «Элементах» • Нобелевские премии, Иммунология, Молекулярная биология</title>
+<noscript><meta name="viewport" content="width=device-width, initial-scale=1.0"></noscript>
+<script type='text/javascript'>if (!document.cookie.match(/\bdesktop_mode=1/)) document.write('<meta name="viewport" content="width=device-width, initial-scale=1.0">');</script>
+
+
+<META name="description" content="В этом году лауреатами Нобелевской премии по физиологии и медицине стали биохимик Каталин Карико (Katalin Karikó) и иммунолог Дрю Вайсман (Drew Weissman) за «открытия, касающиеся модификаций нуклеозидных оснований, которые позволили разработать эффективные мРНК-вакцины против COVID-19». Их работы позволили применять в медицине матричные РНК, полученные путем транскрипции in vitro."/>
+
+
+
+<link rel="canonical" href="https://elementy.ru/novosti_nauki/434147/Nobelevskaya_premiya_po_fiziologii_i_meditsine_2023" />
+
+
+<base href="//elementy.ru/">
+
+
+
+<meta property="og:title" content="Нобелевская премия по физиологии и медицине&nbsp;—&nbsp;2023 • Новости науки"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="В этом году лауреатами Нобелевской премии по физиологии и медицине стали биохимик Каталин Карико (Katalin Karikó) и иммунолог Дрю Вайсман (Drew Weissman) за «открытия, касающиеся модификаций нуклеозидных оснований, которые позволили разработать эффективные мРНК-вакцины против COVID-19». Их работы позволили применять в&nbsp;медицине матричные РНК, полученные путем транскрипции in&nbsp;vitro."/>
+<meta property="og:url" content="https://elementy.ru/novosti_nauki/434147/Nobelevskaya_premiya_po_fiziologii_i_meditsine_2023"/>
+<meta property="og:image" content="https://elementy.ru/images/news/nobel_prize_2023_physiology_1_1136.jpg"/>
+
+<meta property="article:section" content="Наука" />
+<meta property="article:tag" content="Нобелевские премии"/><meta property="article:tag" content="Молекулярная биология"/><meta property="article:tag" content="Иммунология"/>
+<meta property="og:site_name" content="«Элементы»"/>
+<meta property="og:locale" content="ru_RU"/>
+
+
+<link rel="manifest" href="/downloads/js/manifest.json?v=1.02">
+
+
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo16bw.png"  sizes="16x16"/>
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo32bw.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo48bw.png" sizes="48x48" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo64bw.png" sizes="64x64" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo128bw.png" sizes="128x128" />
+<link rel="shortcut icon" type="image/png" href="/images/eltnewdesign/logo32bw.png"/>
+
+<meta content='Элементы' name='apple-mobile-web-app-title'>
+
+<link rel="apple-touch-icon" type="image/png" href="/images/eltnewdesign/logo128bw.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/eltnewdesign/logo57bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/eltnewdesign/logo114bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/eltnewdesign/logo72wb.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/eltnewdesign/logo120bw.png" />
+
+<meta name="application-name" content="Элементы"/>
+<meta name="msapplication-TileColor" content="#001034" />
+<meta name="msapplication-TileImage" content="/images/eltnewdesign/logo128bw.png" />
+
+<meta name="yandex-tableau-widget" content="logo=https://elementy.ru/images/eltnewdesign/logo128bw.png, color=#001034" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://elementy.ru/rss"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/style2.css?v=1.125"/>
+
+<noscript>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>
+</noscript>
+<script type='text/javascript'>
+if (!document.cookie.match(/\bdesktop_mode=1/))
+   document.write(
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>');
+</script>
+
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-print.css?v=1.09"/>
+
+<script type="text/javascript" src="/download/mathjax_2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" async></script>
+<script src="//yastatic.net/share2/share.js" async></script>
+<script type="text/javascript" src='/downloads/js/menu.js?v=1.10'></script>
+<script type="text/javascript" src='/downloads/js/hor.js' async></script>
+<script type='text/javascript' src='/downloads/js/request.js' async></script>
+<script type='text/javascript' src='/downloads/js/scroll.js?v=1.03'></script>
+<script type='text/javascript' src='/downloads/js/more.js?v=1.02'></script>
+<script type='text/javascript' src='/downloads/js/ttlhover.js' async></script>
+<script type='text/javascript' src='/downloads/js/rfilters.js'></script>
+
+<script type="text/javascript">
+function pict_popup(src,title) {
+        var w = window.open(src,'','channelmode=no,toolbar=no,location=no,status=no,directories=no,menubar=no,');
+        if(navigator.appName=='Microsoft Internet Explorer') w.document.write('<title>'+title+'</title><img src="'+src+'" onLoad="i=document.images[0]; window.resizeTo(i.width+50,i.height+100)">')
+        return false
+}
+</script>
+
+
+
+
+</head>
+
+<body class="xrub-novosti_nauki xrubpage-no">
+<div class='allarea'  id='pgarea'>
+<a id="page_top"></a>
+
+<div class='mainmenublock hmenu' id='mmenubody' >
+     <div class='mbshading' id='mshading' onclick='toggleHMenu("mmenubody")'></div> 
+     <div class='hmenu'>
+      <div class='menuarea' id='mmenuarea'>
+       <a href='/' class='close' onclick='return toggleHMenu("mmenubody")'><span class='icon close'></span><span class='hint'>Закрыть</span></a>
+       <script type='text/javascript'>
+            var desktop_mode = document.cookie.match(/\bdesktop_mode=1/); 
+            if (!desktop_mode) document.write('<div class="oldlink hide_other"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div><hr class="hide_other">');
+       </script>
+       <ul class="level0"><li class="level0 selected">
+  <div><a href='/novosti_nauki'>Новости науки</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/kartinka_dnya'>Картинка дня</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/events'>Календарь событий</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/problems'>Задачи</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/email'>Детские вопросы</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/LHC'>Большой адронный коллайдер</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/LHC/novosti_BAK'>Новости LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/monitory_bolshogo_adronnogo_kollajdera'>Мониторы LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/LHC_results'>Результаты LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/zagadki_lhc'>Загадки LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_s_mu_mu'>Распад b→sμμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_1'>Распад B<sup>+</sup>→K<sup>+</sup>ll</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_2'>Распад B→Dlν</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_mu_mu'>Распад B→μμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/raspad_higgsa_na_muon_i_tau'>Распад H→μτ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/top_antitop_higgs'>Комбинация топ-антитоп-хиггс</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/zaryazhennyj_bozon_higgsa'>Заряженный бозон Хиггса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/dvuhfotonnyj_vsplesk_pri_750_gev'>Двухфотонный всплеск 750&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptony_odnogo_znaka_na_atlas'>Лептоны одного знака на ATLAS</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/eejj-otklonenije'>eejj-отклонение</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/sobytije_2.9tev'>Событие при 2,9 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_2_tev_atlas'>WZ-пик при 2 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_1.8_tev_cms'>WH-пик при 1,8 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_CMS'>Поиск суперсимметрии — 1</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_ATLAS'>Поиск суперсимметрии — 2</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_iii'>Поиск суперсимметрии — 3</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_results/beyondSM'>Отклонения от Стандартной модели</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/susy_search'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/exotic_search'>Экзотические частицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_search'>Поиск бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_study'>Изучение бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/top-quark'>Свойства топ-кварка</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/hadrons'>Рождение и распады адронов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/rare_decays'>Редкие распады B-мезонов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/difraction'>Адронная дифракция</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/nuclei'>Ядерные столкновения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/astro'>Астрофизика</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC_working'>LHC в работе</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lhc/timeline'>Хронология создания и работы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/general_schedule'>Общее расписание</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/what-to-check'>Как следить за новостями с LHC</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/working_cycle'>Рабочий цикл коллайдера</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/initial'>Ранние этапы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2008'>2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/incident'>Авария 19.09.2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009'>2009</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009/results_2009'>Результаты работы LHC в&nbsp;2009&nbsp;году</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_1'>Сеанс LHC Run&nbsp;1</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010'>2010</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010/results_2010'>Результаты работы LHC в&nbsp;2010&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011'>2011</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011/results_2011'>Результаты работы LHC в&nbsp;2011&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2012'>2012</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/schedule_2015'>Техническая пауза LS1</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_2'>Сеанс LHC Run&nbsp;2</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2015'>2015</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2016'>2016</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2017'>2017</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2018'>2018</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_3'>Сеанс LHC Run&nbsp;3</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_3/2022'>2022</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC'>Устройство и задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/LHC/about'>LHC: ключевые факты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/accelerator'>Устройство LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/beams'>Протонные пучки</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnets'>Магнитная система</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnet_training'>Как тренируют магниты</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/detectors'>Детекторы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ATLAS'>ATLAS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/CMS'>CMS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ALICE'>ALICE</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCb'>LHCb</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/TOTEM'>TOTEM</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCf'>LHCf</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/MoEDAL'>MoEDAL</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/why'>Зачем нужен LHC?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/tasks'>Задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/hadrons'>Свойства адронов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/decays'>Адронные распады</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/higgs'>Поиск бозона Хиггса</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/production_decay'>Рождение и распад</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/search_strategies'>Стратегии поиска</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/top-quark'>Топ-кварк</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/SUSY'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/exotic'>Экзотические теории</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/nuclei'>Ядерные столкновения</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/safety'>Безопасность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/estimates'>Вероятность катастрофы</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/black_holes'>Микроскопические черные дыры</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/phrases'>Толковый словарик журналистских штампов</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/HEP'>Физика элементарных частиц</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/HEP/educational'>Образовательные онлайн-ресурсы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/HEP/measures'>Величины и единицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/cross-section'>Сечение процесса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/luminosity'>Светимость</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/invariant-mass'>Инвариантная масса</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/study'>Как изучают частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/detecting'>Принципы детектирования</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/errors'>Погрешности</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/statistical'>Статистическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/systematic'>Систематическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/theoretical'>Теория и моделирование</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/sigma'>Сигма</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/subtleties'>Тонкости анализа</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/experiments'>Эксперименты на коллайдерах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/quark_model'>Классификация адронов</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/partonic_densities'>Партоны</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/hadronization'>Конфайнмент и адронизация</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/rapidity-angle_diagram'>Быстрота–угол</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/analysis_methods'>Приемы анализа</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/SM'>Стандартная модель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/problems'>Трудности</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/beyondSM'>За пределами СМ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/SUSY'>Суперсимметрия</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/higgs_theory'>Хиггсовский механизм</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/explanations'>Аналогии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/SM_Higgs'>Хиггс с&nbsp;массой 125&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/nonminimal'>Неминимальные варианты</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/gallery'>Галерея</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly'>В популярных журналах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/vmirenauki'>«В мире науки»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/znanijesila'>«Знание — сила»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvant'>«Квант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvantik'>«Квантик»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kommersant_nauka'>«Коммерсантъ Наука»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kot_shryodingera'>«Кот Шрёдингера»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_i_zhizn'>«Наука и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_iz_pervyh_ruk'>«Наука из первых рук»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/popularnaja_mehanika'>«Популярная механика»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_himija_biologija_meditsina'>«Потенциал»: Химия. Биология. Медицина</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_matematika_fizika_informatika'>«Потенциал»: Математика. Физика. Информатика</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda'>«Природа»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/o_zhurnale'>О журнале</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/priroda_v_internete'>«Природа» в интернете</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/kak_podpisatsya'>Как подписаться</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/gazeta_troitskiy_variant'>«Троицкий вариант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/khimiya_i_zhizn'>«Химия и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/chto_novogo_v_nauke_i_tekhnike'>«Что нового в науке и технике»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/ecologiya_i_zhizn'>«Экология и жизнь»</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/izbrannoe'>Избранное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/lektsii_dlya_shkolnikov'>Лекции для школьников</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/interview'>Интервью</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/vystavka_vse_v_mire_otnositelno'>Выставка «Всё в мире относительно»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lib/exhibition/authors'>О художниках</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/lib/exhibition/about'>О выставке</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/video'>Видеотека</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/bookclub'>Книжный клуб</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/bookclub/book'>Книги</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/author'>Авторы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/chapters'>Главы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/bookclub/chapters/knigi_opublikovannyje_polnostju'>Опубликовано полностью</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera'>Происхождение жизни</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/evolutsija_i_priroda_nauki'>Глава 1</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/svidetelstva_biologicheskoj_evolutsii'>Глава 2</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/vzglyady_kreatsionistov'>Глава 3</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/FAQ'>Заключение</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/bookclub/publisher'>Издательства</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/series'>Серии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review'>Рецензии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review_users'>Отзывы</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/time'>Масштабы: времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/time/estimating'>В помощь читателю</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-1.html'>Как оценивать типичные времена</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-2.html'>Как применять формулы&nbsp;— иллюстрация</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-3.html'>Тонкости и предостережения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-4.html'>Опорные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-5.html'>Колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-6.html'>Гармонические колебания и их период</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-7.html'>Волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-8.html'>Закон распада</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/milli'>Миллисекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/milli/milli-1.html'>Миллисекунды в нашей жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-2.html'>Фото вместо видео</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-3.html'>Мерцающие огоньки</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-4.html'>Скрытые возможности невооруженного взгляда</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/micro'>Микросекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/micro/micro-1.html'>Остановившийся мир</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-2.html'>И всё-таки он движется!</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-3.html'>Пределы механического затвора</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nano'>Наносекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nano/nano-1.html'>От предметов к веществу</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-2.html'>Коллективные явления</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-3.html'>Электромагнитные колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-4.html'>Информационная емкость радиоволны</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/pico'>Пикосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/pico/pico-1.html'>Атомное движение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-2.html'>Пределы звука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-3.html'>Как начинается плавление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-4.html'>Пределы электроники</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-5.html'>Электромагнитные волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-6.html'>Элементарные частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/femto'>Фемтосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/femto/femto-1.html'>Мир электронов и света</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-2.html'>Оптические вычислительные технологии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-3.html'>Фемтохимия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-4.html'>Фемтобиология</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/atto'>Аттосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/atto/atto-1.html'>Личная жизнь атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-2.html'>Самые внутренние электроны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-3.html'>Как взрезать атом</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-4.html'>Электроны на службе аттофизики</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/zepto'>Зептосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-1.html'>Жизнь атомных ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-2.html'>Энергия, время и соотношение неопределенностей</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/yocto'>Йоктосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-1.html'>На границе известного</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-2.html'>Столкновение тяжелых ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-3.html'>Вглубь йоктосекунды</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/year'>От секунды до года</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/year/year-1.html'>Семь с половиной порядков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-2.html'>Искусственные спутники Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-3.html'>Эхо землетрясений</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-4.html'>Астероид-убийца</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-5.html'>Как растекается тепло</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/very-long'>Астрономические времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-1.html'>Солнечная система</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-2.html'>Солнечная система на больших временах</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-3.html'>Глубокий космос</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-4.html'>Межгалактические отношения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-5.html'>Танец земного климата</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-6.html'>Тектоническая жизнь Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-7.html'>Сверхдолгоживущие частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/sonoluminescence'>Сонолюминесценция</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-1.html'>Свечение, порожденное звуком</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-2.html'>Поведение пузырька</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-3.html'>Последние мгновения коллапса</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/biophysics'>Фолдинг белков</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-1.html'>Физическая основа жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-2.html'>Главная и боковые цепи</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-3.html'>«Жизнь» белковой молекулы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-4.html'>Компьютерное моделирование фолдинга</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/excited'>Возбужденные атомы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-1.html'>Возбужденные атомы: кто такие и где встречаются</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-2.html'>Быстротечная жизнь возбужденных атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-3.html'>Миллионы безуспешных попыток</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-4.html'>Ридберговские атомы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-5.html'>Атомы-долгожители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-6.html'>Водородная линия 21&nbsp;см</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nuclear'>Ядерные распады</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-1.html'>«Ядерная секунда»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-2.html'>Альфа-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-3.html'>Тяжелые элементы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-4.html'>Бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-5.html'>Двойной бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-6.html'>Ядерные изомеры</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/particles'>Элементарные частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/particles/particles-1.html'>Законы элементарных частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-2.html'>Два руководящих принципа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-3.html'>Сильные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-4.html'>Электромагнитные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-5.html'>Слабые распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-6.html'>Повышенная жизнеспособность на&nbsp;околосветовых скоростях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-7.html'>На переднем крае физики элементарных частиц</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/continents'>Движение континентов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/continents/continents-1.html'>Такты тектонической жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-2.html'>Возраст Гималаев</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-3.html'>Когда задышал Северный Ледовитый океан?</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/posters'>Плакаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/posters/moment'>Мгновение</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/posters/fractals'>Фракталы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/fractals/fractals'>Что такое фракталы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/geometric'>Геометрические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Koch'>Снежинка Коха</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/T-square'>Т-квадрат</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/H-fractal'>H-фрактал</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Sierpinski'>Треугольник Серпинского</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Pythagoras'>Дерево Пифагора</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Levy'>Кривая Леви</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/dragon'>Дракон</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/dynamic'>Динамические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Mandelbrot'>Множество Мандельброта</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Julia'>Множества Жюлиа</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Halley'>Фрактал Галлея</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Newton'>Фрактал Ньютона</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/complex_numbers'>Комплексные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/dimensions'>Фрактальные размерности</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/how_to_draw'>Как это рисовать</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/nature'>Фракталы в природе</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/about'>О плакате</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/collider'>Ускоритель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/collider/1'>Зачем нужен ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/2'>Единицы измерения расстояний, энергий и масс</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/3'>Краткая история ускорителей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/4'>Как работает ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/5'>Детектор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/6'>Как на ускорителе изучают свойства частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/7'>Природные ускорители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/8'>Применение ускорителей и детекторов в медицине</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/aviation'>Покорение воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/aviation/light'>Аппараты легче воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/light/balloons'>Аэростаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/montgolfiere'>Первый аппарат легче воздуха, способный поднять человека</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/today'>Шары-монгольфьеры сегодня</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/light/dirigibles'>Дирижабли</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/france'>Типичный дирижабль конца XIX&nbsp;века рыбообразной формы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/tsiolkovsky'>Цельнометаллический бескаркасный дирижабль с&nbsp;изменением объема в&nbsp;полете и с&nbsp;подогревом газа</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/zeppelin'>Серийный дирижабль Германии времен Первой мировой войны</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/akron'>Гелиевые дирижабли США</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/hindenburg_disaster'>Гибель «Гинденбурга» 6&nbsp;мая 1937&nbsp;года</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/today'>Дирижабли сегодня</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/heavy'>Аппараты тяжелее воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/helicopters'>Вертолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/sikorskys1'>Первый вертолет И.&nbsp;И.&nbsp;Сикорского</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/cagi_1-ea'>Первый летающий аппарат классической схемы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/mi-26'>Тяжелый военно-транспортный вертолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/an-64'>Ударный вертолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans'>Экранопланы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/km'>Самый крупный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/orlenok'>Единственный российский серийный десантный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/bartini'>Экраноплан Бартини</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/lun'>Летающий госпиталь</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/planes'>Самолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/theory'>Теоретические основы полета аппаратов тяжелее воздуха</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mozhajskij'>Первый реализованный проект, однако достоверных сведений о полете нет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/wrights'>Первый самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ilya_muromec'>Первый «тяжелый самолет»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/newport17'>Первый самолет с «зализанными» обводами</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ant-6'>Тяжелый бомбардировщик-моноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/messerschmitt'>Самый массовый истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/yak-1'>Самый легкий и маневренный истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/supermarine_spitfire'>Лучший истребитель битвы за Британию в 1940&nbsp;г.</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mosquito'>Цельнодеревянный скоростной бомбардировщик «Мечта термита»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mitsubishi_a6m_reisen'>Истребитель&nbsp;— символ японской авиации</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/il-2'>Тяжелый штурмовик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-15'>Фронтовой истребитель, один из первых серийных реактивных самолетов</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-86_sabre'>Многоцелевой истребитель, противник МиГ-15 в корейской войне</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-21'>Выдающийся сверхзвуковой истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/lockheed'>Высотный разведывательный самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_b-52'>Стратегический бомбардировщик с велосипедным шасси</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-144'>Сверхзвуковой пассажирский самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_747_jumbo'>«Реактивный слон»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-15_eagle'>Тактический истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/su-27'>Маневренный истребитель-перехватчик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-160'>Стратегический бомбардировщик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/an-124_ruslan'>Тяжелый военно-транспортный самолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/terms'>Основные параметры самолетов, указанные на плакате</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/literature'>Список литературы</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/light_version'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/gravity'>Гравитация</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/gravity/1'>Парабола или прямая?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/2'>Все дома стоят криво</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/3'>Из Москвы в&nbsp;Питер за&nbsp;полчаса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/4'>На Луну в комфортных условиях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/5'>Скоростной спутник Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/6'>Перевернутый небоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/7'>Супернебоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/8'>Запуск спутника без затрат энергии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/9'>Раскрутим Землю</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/perpetuum'>Вечный двигатель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/first'>Вечный двигатель первого рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/second'>Вечный двигатель второго рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/third'>Вечный двигатель «третьего рода»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/1'>Колесо и&nbsp;шары</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/2'>Цепочка шаров</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/3'>«Птичка Хоттабыча»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/4'>Цепочка поплавков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/5'>Архимедов винт</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/6'>Машина Орфиреуса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/7'>Магнит и желоба</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/8'>«Вечный водопровод»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/9'>Автоматический подзавод часов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/10'>Подъем масла по&nbsp;фитилям</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/11'>Колесо и&nbsp;грузы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/12'>Установка Потапова</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/13'>Луна и планеты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/spectrum'>Электромагнитное излучение</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/spectrum/nature'>Природа электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/wave'>Частота и длина волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/history'>История открытия электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/union'>Великое объединение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/energy'>Энергия кванта</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/temperature'>Температура излучения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/diapasons'>Диапазоны излучения и вещество</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/about'>Что изображено на плакате</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/units'>Соотношения и единицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/gamma'>Гамма-излучение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/roentgen'>Рентген</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/ultraviolet'>Ультрафиолет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/visible'>Видимый диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/infrared'>Инфракрасный диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/radio'>Радиоизлучение и микроволны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/other'>За пределами спектра</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/human'>Возможности человека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/human/muscular'>Сила</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/mind'>Мышление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/science'>Наука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/evolution'>Эволюционный принцип</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/factor'>Человеческий фактор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/weight'>Поднятие тяжестей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/flight'>Полет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/walk'>Бег</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/swim'>Плавание</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/trefil'>200 законов мироздания</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/trefil/introduction'><i>Введение</i></a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/physics'>Физика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/astronomy'>Астрономия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/maths'>Математика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/chemistry'>Химия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biology'>Науки о жизни</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/geo'>Науки о Земле</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/misc'>Разное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/rvm'>Взгляд в прошлое</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biography'><i>Биографии</i></a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/genbio'>Журнал общей биологии</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/genbio/english'>In English</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/genbio/english/all'>All Issues</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/genbio/abstracts'>All Abstracts</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/genbio/last'>Свежий выпуск</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/all'>Все выпуски</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/resume'>Статьи</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/synopsis'>Синопсисы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about'>О журнале</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about/rules'>Авторам</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/law'>Наука, образование и право</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/law/organ.htm'>Федеральные органы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/program.htm'>Федеральные программы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/intellectual.htm'>Интеллектуальная собственность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/law/intellectual/international.htm'>Международное законодательство</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/russian.htm'>Законодательство РФ </a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/patent.htm'>Патентование</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/contact.htm'>Сделки и договоры</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/payment.htm'>Вознаграждение</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/law/degree.htm'>Ученые степени</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nostr.htm'>Нострификация</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/vuz.htm'>Образование, вузы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nii.htm'>Научные организации</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/prize.htm'>Премии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/grant.htm'>Гранты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/work.htm'>Трудовое законодательство </a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/kodex.htm'>Конституция и кодексы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/other.htm'>Другие нормативные акты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/all_laws.htm'>Все нормативные акты</a>
+  </div></li>
+
+  </li></ul></ul>
+       <script type='text/javascript'>
+            document.write('<hr'+(!desktop_mode?"  class='hide_main'":"")+'>');
+            document.write('<div class="oldlink hide_main"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div>');
+            if (desktop_mode )
+               document.write('<div class="chmod mob hide_main"><a href="/" onclick="return setDesktopMode(false)">Мобильная версия сайта</a></div>');
+            else
+               document.write('<div class="chmod dsk hide_main"><a href="/" onclick="return setDesktopMode(true)">Полная версия сайта</a></div>');
+       </script>
+       <hr>
+       <ul class='img'>
+        <li class='first'><a class='facebook' href='https://www.facebook.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'></a></li>
+        <li><a class='instagram' href='https://www.instagram.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'></a></li>
+        <li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'></a></li>
+        <li><a class='rss' href='/rss/news' target='_blank'></a></li>
+       </ul>
+      </div>
+     </div>
+</div>
+
+<div class='print_logo hide_screen'><script type='text/javascript'>document.write("<img src='/images/eltnewdesign/logo_wpr.png'>");</script></div>
+
+<div class='hhead' id='pghead'>
+  <div class='hmenu'>
+    <div class='lmenu' id='hmainmenu'>
+      <a href='/' class='item' onclick='return toggleHMenu("mmenubody")'><span class='icon menu'></span><span class='hint'>Меню</span></a>
+    </div>
+    <div class='rmenu' id='rmenu'>
+       <a href='/' class='item' onclick='return toggleHMenu(this, true)'><span class='icon search'></span><span class='hint'>Поиск</span></a>
+       <a href='/' class='close' onclick='return toggleHMenu(this)'><span class='icon close2'></span><span class='hint'>Закрыть</span></a>
+       <div class='menuarea'>
+         <div class='menusearch xform'> 
+         <form action="find">
+             <input type="text" class="search" name="words" value="" placeholder="Поиск">
+             <input type="image" name="search" src="images/eltnewdesign/search_b.png">
+         </form>
+         </div> 
+       </div>
+    </div>
+    <div class='logo'><a href="/" onclick='return checkHMScroll()'><span>&nbsp;</span></a></div>
+  </div>  
+</div>
+
+
+<div class='body'  id='pgbody'>
+
+  
+   <div class='mblock chead'>
+     
+     
+<div class='rubpath'><span class='first last'><a href='/novosti_nauki'>Новости науки</a></span> </div>
+
+</div>
+   
+  
+
+   
+       <div class='mblock nogap'>
+<div class='mb itemhead newslist'><h1>Нобелевская премия по физиологии и медицине&nbsp;—&nbsp;2023</h1>
+<div class="sublink"><span class="date">07.10.2023</span>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/5272017/Galina_Klink">Галина Клинк</a>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/3140741/Nobelevskie_premii">Нобелевские премии</a><span class="comma">,</span> <a href="/novosti_nauki/t/2395410/Molekulyarnaya_biologiya">Молекулярная биология</a><span class="comma">,</span> <a href="/novosti_nauki/t/5271871/Immunologiya">Иммунология</a>&nbsp;<span class='break'>•</span> <a href="/novosti_nauki/434147#forum" onclick="forum_goto(); return false;">20&nbsp;комментариев</a></div></div>
+</div>
+
+<div class='mblock'>
+
+<div class='socnetblock'><script src="/downloads/js/snfly.js?v=1.04"></script>
+<div  id="socnets_share">
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter=""></div>
+<div id='forum_topsocnet_button' style='display:none' title='Написать комментарий'><span class='fmicon'></span><div class='counter' id='forum_topsocnet_count'></div></div>
+</div>
+</div>
+
+<div class='itemblock'><div class='memo'>
+    <!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/nobel_prize_2023_physiology_1_1136.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/nobel_prize_2023_physiology_1_1136.jpg','Лауреаты Нобелевской премии по физиологии и медицине 2023&nbsp;года')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/nobel_prize_2023_physiology_1_703.jpg" alt="Лауреаты Нобелевской премии по физиологии и медицине 2023&nbsp;года" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p>Лауреаты Нобелевской премии по физиологии и медицине 2023&nbsp;года: Каталин Карико (Katalin Karikó) и Дрю Вайсман (Drew Weissman). Фото с&nbsp;сайтов <a href="https://nextbigwhat.com/web-stories/katalin-kariko-drew-weissman-nobel/" target=_blank>nextbigwhat.com</a> и <a href="https://www.inquirer.com/health/who-is-drew-weissman-nobel-prize-medicine-2023-winner-20231002.html" target=_blank>inquirer.com</a></p></div>
+
+
+</div>
+
+    <p><b>В этом году лауреатами Нобелевской премии по физиологии и медицине стали биохимик Каталин Карико (Katalin Karikó) и иммунолог Дрю Вайсман (Drew Weissman) за «открытия, касающиеся модификаций нуклеозидных оснований, которые позволили разработать эффективные мРНК-вакцины против COVID-19» («for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19»). В&nbsp;ходе совместной работы на рубеже тысячелетий Карико и Вайсман совершили открытие, позволившее применять в&nbsp;медицине матричные РНК (мРНК), полученные путем транскрипции <i>in&nbsp;vitro</i>. Поскольку мРНК служат матрицами для синтеза белка в&nbsp;ходе трансляции, с их помощью можно заставить клетки-мишени синтезировать нужные белки. До исследований Карико и Вайсмана самым серьезным препятствием на пути внедрения препаратов на базе мРНК в&nbsp;клиническую практику было вызываемое ими воспаление и низкая эффективность трансляции. Карико и Вайсман показали, что введение определенных химических модификаций в&nbsp;нуклеотиды в&nbsp;составе синтезированных <i>in&nbsp;vitro</i> мРНК предотвращает нежелательную воспалительную реакцию и повышает эффективность трансляции. Совместная деятельность двух ученых дала толчок к&nbsp;разработке препаратов на основе синтезированных <i>in&nbsp;vitro</i> мРНК. Первым таким средством, поступившим на службу человечеству, стала вакцина против SARS-CoV-2, выпущенная в&nbsp;течение года после начала пандемии.</b></p>
+
+<p><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%A0%D0%9D%D0%9A" target=_blank>Матричные РНК</a> (мРНК) синтезируются в&nbsp;клеточном ядре на основе ДНК в&nbsp;ходе <a href="https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%86%D0%B8%D1%8F_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" target=_blank>транскрипции</a>. Молекула мРНК&nbsp;— это «сообщение» об&nbsp;аминокислотной последовательности одного белка, передаваемое из ядра в&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%82%D0%BE%D0%BF%D0%BB%D0%B0%D0%B7%D0%BC%D0%B0" target=_blank>цитоплазму</a>, где оно прочитывается аппаратом синтеза белка в&nbsp;ходе <a href="https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D1%8F%D1%86%D0%B8%D1%8F_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" target=_blank>трансляции</a> (по-английски эта молекула называется <a href="https://en.wikipedia.org/wiki/Messenger_RNA" target=_blank>messenger RNA</a>&nbsp;— «РНК-посланник»). Этот тип молекул был открыт в&nbsp;1961&nbsp;году группой французских ученых, через четыре года <a href="https://www.nobelprize.org/prizes/medicine/1965/summary/" target=_blank>получивших</a> за эти исследования Нобелевскую премию. В&nbsp;1962&nbsp;году было показано, что при добавлении изолированной из печени мРНК в&nbsp;культуру клеток на ее матрице синтезируется белок (M.&nbsp;Niu et&nbsp;al., 1962. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.48.11.1964" target=_blank>Rna-induced biosynthesis of specific enzymes</a>). В&nbsp;1982&nbsp;году ученые научились проводить транскрипцию мРНК в&nbsp;пробирке с&nbsp;помощью очищенных бактериальных и вирусных <a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%9D%D0%9A-%D0%BF%D0%BE%D0%BB%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%B7%D0%B0" target=_blank>РНК-полимераз</a> (K.&nbsp;Kruger et&nbsp;al., 1982. <a href="https://www.cell.com/cell/pdf/0092-8674(82)90414-7.pdf" target=_blank>Self-splicing RNA: Autoexcision and autocyclization of the ribosomal RNA intervening sequence of tetrahymena</a>). А&nbsp;в&nbsp;1989&nbsp;году был найден эффективный способ доставки мРНК в&nbsp;клетки путем ее смешивания с&nbsp;синтетическим <a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BF%D0%B8%D0%B4%D1%8B" target=_blank>липидом</a>, молекулы которого окружали РНК, формируя оболочку (R.&nbsp;Malone et&nbsp;al., 1989. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.86.16.6077" target=_blank>Cationic liposome-mediated RNA transfection</a>).</p>
+
+<p>Эти исследования открыли потенциал для использования мРНК в&nbsp;медицине, показав, что можно направлять в&nbsp;клетки организма генетическую информацию, которая будет ими прочитана и использована. Потенциальные медицинские направления использования мРНК&nbsp;— это иммунотерапия (вакцины против вирусов и борьба с&nbsp;раковыми клетками), замена белков, которые не функционируют из-за генетических заболеваний, и регенеративная медицина (доставка в&nbsp;поврежденные ткани мРНК факторов роста, стимулирующих восстановление) (Q.&nbsp;Duan et&nbsp;al., 2022. <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2022.974433/full" target=_blank>How far are the new wave of mRNA drugs from us? mRNA product current perspective and future development</a>).</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/nobel_prize_2023_physiology_2_950.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/nobel_prize_2023_physiology_2_950.jpg','Ожидается, что терапия на основе мРНК станет эффективным средством для лечения многих заболеваний')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/nobel_prize_2023_physiology_2_703.jpg" alt="Ожидается, что терапия на основе мРНК станет эффективным средством для лечения многих заболеваний" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p>Ожидается, что терапия на основе мРНК станет эффективным средством для лечения многих заболеваний, включая инфекции, метаболические генетические заболевания, рак, сердечно-сосудистые и цереброваскулярные заболевания. Рисунок из статьи S.&nbsp;Qin et&nbsp;al., 2022. <a href="https://www.nature.com/articles/s41392-022-01007-w" target=_blank>mRNA-based therapeutics: powerful and versatile tools to combat diseases</a></p></div>
+
+
+</div>
+
+<p>Но на пути к&nbsp;медицинскому применению мРНК еще оставались препятствия. Самое серьезное из них&nbsp;— нежелательная реакция врожденного иммунитета на попадание таких молекул в&nbsp;клетку. Врожденный иммунитет&nbsp;— первая линия защиты организма от патогенов, эволюционно древняя. Он активируется, когда так называемые <a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BB%D0%BB-%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BD%D1%8B%D0%B5_%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%BE%D1%80%D1%8B" target=_blank>Толл-подобные рецепторы</a> (Toll-like receptors, TLR) узнают консервативные молекулярные признаки патогенов: например, рецептор <a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BB%D0%BB-%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BD%D1%8B%D0%B9_%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%BE%D1%80_3" target=_blank>TLR3</a> распознает двуцепочечную РНК&nbsp;— явный признак вирусной инфекции. Из-за активации врожденного иммунитета синтезированными <i>in&nbsp;vitro</i> мРНК они, вместо того чтобы служить матрицами для синтеза целевого белка, вызывают <a href="https://ru.wikipedia.org/wiki/Воспаление" target=_blank>воспаление</a> (R.&nbsp;Verbeke et&nbsp;al., 2022. <a href="https://www.cell.com/immunity/fulltext/S1074-7613(22)00555-6" target=_blank>Innate immune mechanisms of mRNA vaccines</a>).</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/nobel_prize_2023_physiology_3_1500.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/nobel_prize_2023_physiology_3_1500.jpg','Толл-подобные рецепторы клетки и сигнальные пути, которые они активируют')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/nobel_prize_2023_physiology_3_703.jpg" alt="Толл-подобные рецепторы клетки и сигнальные пути, которые они активируют" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p>Толл-подобные рецепторы (TLR) клетки и сигнальные пути, которые они активируют. Одни типы TLR дежурят на внешней мембране клетки, другие смотрят внутрь <a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B4%D0%BE%D1%81%D0%BE%D0%BC%D0%B0" target=_blank>эндосом</a>&nbsp;&mdash; мембранных пузырьков, образующихся при поглощении клеткой чего-либо (например, вирусов). При связывании с&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B3%D0%B0%D0%BD%D0%B4" target=_blank>лигандом</a> TLR запускают каскад химических реакций, приводящий к&nbsp;активации в&nbsp;ядре генов, кодирующих интерфероны и провоспалительные факторы. Рисунок из статьи A.&nbsp;Di&nbsp;Lorenzo et&nbsp;al., 2020. <a href="https://www.mdpi.com/1422-0067/21/24/9418" target=_blank>Toll-Like Receptor&nbsp;2 at the Crossroad between Cancer Cells, the Immune System, and the Microbiota</a></p></div>
+
+
+</div>
+
+<p>Здесь на сцене появляются новоиспеченные лауреаты.</p>
+
+<p><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BA%D0%BE,_%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%B8%D0%BD" target=_blank>Каталин Карико</a> (Katalin Karikó) родилась 17&nbsp;января 1955&nbsp;года в&nbsp;небольшом венгерском городке Кишуйсаллаш. Она училась в&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B3%D0%B5%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" target=_blank>Сегедском университете</a> на биохимика и там же получила степень доктора. Проработав несколько лет на позиции исследователя в&nbsp;Институте биохимии (Сегед, Венгрия), она в&nbsp;1985&nbsp;году переехала в&nbsp;США. В&nbsp;1989&nbsp;году Карико устроилась в&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BD%D1%81%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" target=_blank>Пенсильванский университет</a> на должность адъюнкт-профессора. Там она и выполнила исследования, отмеченные Нобелевским комитетом. Нужно отметить, что в&nbsp;процессе своей работы в&nbsp;университете Карико постоянно испытывала недостаток финансирования, несмотря на поддержку некоторых влиятельных коллег. Отчасти это было вызвано тем, что в&nbsp;90-е годы тема мРНК на некоторое время выпала из научного мейнстрима и грантовые заявки по этой теме удовлетворялись менее охотно. Карико пришлось перейти в отделение нейрохирургии (<a href="https://www.pennmedicine.org/departments-and-centers/neurosurgery" target=_blank>Department of Neurosurgery</a>), чтобы зарабатывать себе на жизнь, но она продолжала свои исследования. Карико так и не была повышена до полного профессора в&nbsp;Пенсильванском университете. В&nbsp;2013&nbsp;году она перешла в&nbsp;компанию <a href="https://en.wikipedia.org/wiki/BioNTech" target=_blank>BioNTech</a>, заняв должность вице-президента компании, и там уже смогла применить весь свой опыт исследований мРНК.</p>
+
+<p><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%B9%D1%81%D0%BC%D0%B0%D0%BD,_%D0%94%D1%80%D1%8E" target=_blank>Дрю Вайсман</a> (Drew Weissman) родился 7&nbsp;сентября 1959&nbsp;года в&nbsp;Лексингтоне (Массачусетс, США). Он тоже учился на биохимика&nbsp;— в&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%BD%D0%B4%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" target=_blank>Брандейском университете</a>, докторскую защитил по иммунологии и микробиологии в&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D1%82%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" target=_blank>Бостонском университете</a> в&nbsp;1987&nbsp;году. Затем работал в&nbsp;нескольких научных учреждениях в&nbsp;США, одно время&nbsp;— под руководством <a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%83%D1%87%D0%B8,_%D0%AD%D0%BD%D1%82%D0%BE%D0%BD%D0%B8" target=_blank>Энтони Фаучи</a>. Вайсман перешел в&nbsp;Медицинскую школу имени Перельмана (<a href="https://www.med.upenn.edu" target=_blank>Perelman School of Medicine</a>) при Пенсильванском университете в&nbsp;1997&nbsp;году, где быстро присоединился к&nbsp;исследованиям, которые вела Карико.</p>
+
+<p>Карико и Вайсман задались вопросом, почему РНК из одних источников&nbsp;— например, синтезированные <i>in&nbsp;vitro</i> или бактериальные&nbsp;— являются иммуногенными (то&nbsp;есть вызывают иммунный ответ), а из других&nbsp;— например, эукариотические мРНК, даже чужеродные&nbsp;— не вызывают. Исследователи показали, что иммуногенные РНК узнаются рецепторами TLR3, TLR7 и TLR8, работающими в&nbsp;<a href="https://ru.wikipedia.org/wiki/Эндосома" target=_blank>эндосомах</a>. Поступающие извне РНК захватываются клеткой путем эндоцитоза: клетка «обнимает» их частью своей мембраны, заключая в&nbsp;пузырек&nbsp;— эндосому. При этом активируются встроенные в&nbsp;эндосомальную мембрану рецепторы TLR, и, если им удается связаться с&nbsp;РНК, то запускается иммунный ответ.</p>
+
+<p>Под руководством Карико и Вайсмана было установлено, что иммунитет не реагирует на эукариотические РНК благодаря тому, что нуклеотиды в&nbsp;их составе имеют особые химические модификации, не свойственные бактериальным РНК (K.&nbsp;Karikó et&nbsp;al., 2005. <a href="https://www.cell.com/immunity/fulltext/S1074-7613(05)00211-6" target=_blank>Suppression of RNA Recognition by Toll-like Receptors: The Impact of Nucleoside Modification and the Evolutionary Origin of RNA</a>). Эти модификации происходят в&nbsp;клетках <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B8%D0%BD%D0%B3_%D0%A0%D0%9D%D0%9A" target=_blank>посттранскрипционно</a>&nbsp;— после синтеза РНК&nbsp;— и служат для регуляции трансляции. Кроме того, как оказалось, благодаря этим модификациям клеточные TLR распознают инфекцию: если их нет в&nbsp;РНК&nbsp;— она точно чужеродная.</p>
+
+<p>При синтезе мРНК <i>in&nbsp;vitro</i> в&nbsp;то время использовали только немодифицированные нуклеотиды, поэтому и&nbsp;получали сильный иммунный ответ: клетки распознавали молекулы как признак вторжения. Модификации, снижавшие иммунный ответ в&nbsp;эксперименте,&nbsp;— это добавление метильной группы или серы к&nbsp;определенным атомам углерода в&nbsp;молекулах нуклеотидов, а&nbsp;также превращение <a href="https://ru.wikipedia.org/wiki/%D0%9D%D1%83%D0%BA%D0%BB%D0%B5%D0%BE%D0%B7%D0%B8%D0%B4%D1%8B#%D0%A3%D1%80%D0%B8%D0%B4%D0%B8%D0%BD" target=_blank>уридина</a> в&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D1%83%D1%80%D0%B8%D0%B4%D0%B8%D0%BD" target=_blank>псевдоуридин</a>. Хотя в&nbsp;клетке эти модификации производятся посттранскрипционно, команда Карико и Вайсмана при синтезе РНК <i>in&nbsp;vitro</i> добавляла в&nbsp;пробирку модифицированные нуклеотиды вместо стандартных или вместе с&nbsp;ними в&nbsp;различных соотношениях, меняя тем самым их долю в&nbsp;получающихся молекулах РНК. Оказалось, что способность молекулы РНК вызывать неспецифическую иммунную реакцию снижается пропорционально количеству модифицированных нуклеотидов в&nbsp;ее составе. Так и был найден оптимальный «рецепт» для приготовления неиммуногенных мРНК.</p>
+
+<p>Позже та же команда показала, что замена уридина на псевдоуридин в&nbsp;составе синтезированных <i>in&nbsp;vitro</i> мРНК повышает эффективность синтеза белка (K.&nbsp;Karikó et&nbsp;al., 2008. <a href="https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(16)32681-8" target=_blank>Incorporation of Pseudouridine Into mRNA Yields Superior Nonimmunogenic Vector With Increased Translational Capacity and Biological Stability</a>). Эффект достигается благодаря тому, что регуляторный фермент РНК-зависимая протеинкиназа (<a href="https://en.wikipedia.org/wiki/Protein_kinase_R" target=_blank>protein kinase&nbsp;R</a>), подавляющий синтез белка путем инактивации одного из белков&nbsp;— факторов инициации трансляции, распознает уридин в&nbsp;составе мРНК, а псевдоуридин&nbsp;— не распознает (B.&nbsp;Anderson et&nbsp;al., 2010. <a href="https://academic.oup.com/nar/article/38/17/5884/1031556" target=_blank>Incorporation of pseudouridine into mRNA enhances translation by diminishing PKR activation</a>).</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/nobel_prize_2023_physiology_4_1024.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/nobel_prize_2023_physiology_4_1024.jpg','Краткая иллюстрация открытий лауреатов')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/nobel_prize_2023_physiology_4_703.jpg" alt="Краткая иллюстрация открытий лауреатов" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p>Краткая иллюстрация открытий лауреатов: замена уридина на псевдоуридин в&nbsp;синтезированной <i>in&nbsp;vitro</i> мРНК подавляет воспалительную реакцию и повышает продукцию белка. Рисунок с&nbsp;сайта <a href="https://www.nobelprize.org/prizes/medicine/2023/press-release/" target=_blank>nobelprize.org</a></p></div>
+
+
+</div>
+
+<p>Одно из возможных применений синтезированный <i>in&nbsp;vitro</i> мРНК в&nbsp;медицине&nbsp;— изготовление вакцин. Существующие типы вакцин основаны на использовании дезактивированных вирусных частиц или отдельных вирусных белков. Также используются векторные вакцины, где ген вирусного белка, на который после прививки должен реагировать иммунитет, вставлен в&nbsp;геном специального вируса-вектора, который доставляет его в&nbsp;клетку. Все эти технологии требуют использования клеточных культур и последующей очистки от компонентов клеток, что делает производство вакцин ресурсозатратным и медленным. Благодаря синтезу РНК <i>in&nbsp;vitro</i> возможно быстрое получение достаточного количества мРНК без примесей. При попадании в&nbsp;клетки организма специально подготовленная вакцинная мРНК служит матрицей для синтеза вирусного белка. Оставшись невостребованным клеткой, он обнаруживается специальными белками и режется на части&nbsp;— пептиды, которые выставляются на клеточной поверхности для демонстрации лимфоцитам.</p>
+
+<p>Первая мРНК вакцина была выпущена на рынок в&nbsp;2021&nbsp;году. Она представляет собой мРНК S-белка вируса SARS-CoV-2, заключенную в&nbsp;липидную оболочку, и сейчас имеет торговое название <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BA%D1%86%D0%B8%D0%BD%D0%B0_Pfizer/BioNTech_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2_COVID-19" target=_blank>Comirnaty</a>.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/nobel_prize_2023_physiology_5_1500.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/nobel_prize_2023_physiology_5_1500.jpg','Принцип работы мРНК вакцины')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/nobel_prize_2023_physiology_5_703.jpg" alt="Принцип работы мРНК вакцины" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p>Принцип работы мРНК вакцины: мРНК, доставленная в&nbsp;цитоплазму клеток, напрямую использует клеточную систему трансляции для синтеза целевых белков. Эти белки далее попадают в&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D0%B0%D1%81%D0%BE%D0%BC%D0%B0" target=_blank>протеасомы</a>, где разрезаются на пептиды, которые перемещаются на клеточную мембрану с&nbsp;помощью белков главного комплекса гистосовместимости и узнаются Т-лимфоцитами. Рисунок из статьи S.&nbsp;Kwon et&nbsp;al., 2022. <a href="https://link.springer.com/article/10.1007/s12272-022-01381-7" target=_blank>mRNA vaccines: the most recent clinical applications of synthetic mRNA</a></p></div>
+
+
+</div>
+
+<p>Успех применения мРНК в&nbsp;борьбе с&nbsp;COVID-19, безусловно, вдохновил ученых. Активно ведутся разработки мРНК-вакцин против других вирусов, в&nbsp;том числе&nbsp;— против вируса гриппа. Безусловно, Карико и Вайсман прошли важные вехи на пути к&nbsp;применению синтезированных <i>in&nbsp;vitro</i> мРНК в&nbsp;клинической практике, но важно помнить, что это достижение&nbsp;— заслуга многих тысяч людей.</p>
+
+<p><i>Галина Клинк</i></p>
+
+
+    
+</div>
+
+<div class='cl'></div>
+<hr>
+<div class='toggle'>
+
+<div class='forum_topctrl '>
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter="" id="forum_socnets_share"></div><div class='forum_icon' onclick='toggleClick(this)' title='Комментарии'><span class='fmicon'></span><span class='fmcounter'>20</span></div>
+  
+     <div class='goto toggle_hide'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this)'><span class='hide_other'>Показать </span>комментарии (20)</span></div>
+     <div class='goto toggle_body'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this); socnetsFly();'><span class='hide_other'>Свернуть </span>комментарии <span class='hide_main'>(20)</span></span></div>
+  
+
+</div>
+
+<div class='forum toggle_body' id='forum_block'>
+<hr>
+<ul class="level0"><li class="level0 parent" id='forum_node_5350654'>
+   <div class='fmnode'>
+   <a name='fm5350654'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>bonacon</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350654'>08.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>11:14
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>А почему же до прихода ковида мРНК вакцины использовались только в ветеринарии? Ведь принципиальные вопросы с «обманом» иммунитета были решены ещё в 2000-х?<br>И почему наши пошли по пути векторной ДНК вакцины, а не мРНК?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5350664'>
+   <div class='fmnode'>
+   <a name='fm5350664'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>bonacon</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350664'>09.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>09:04
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Ходили слухи, что в одной ветеринарной клинике г. Кольцово лет 10 назад продавалась такая вакцина &quot;от гриппа для кошек&quot;, но продавец подсказывал, что &quot;и людям тоже помогает&quot; и людям она действительно помогала!</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5350671'>
+   <div class='fmnode'>
+   <a name='fm5350671'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Влад</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350671'>10.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>17:21
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>На счёт вакцины не знаю, но в Новосибирске активно продавался препарат &quot;Витом&quot; - генно-модифицированные микроорганизмы, после попадания внутрь какое-то время активно производившее человеческий интерферон прямо там, пока их местные жители не съедят. Сертифицирован был как ветеринарное средство и на упаковке всякая животинка нарисована была. Но все были в курсе.<br><br>Кроме сложностей с сертификацией чего-то на столько инновационного сама эта сертификация со всеми соответствующими испытаниями стоила примерно как весь кольцовский Вектор.<br><br>Потом это всё постепенно накрылось, да и создателя этого стартапа мои знакомые с кольцовки не слишком то хвалили. Так что не могу сказать на сколько это было или не было прекрасно и как соотносилось по эффективности с красненькими капельками в нос, как у нормальных людей.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul><li class="level0 parent" id='forum_node_5350657'>
+   <div class='fmnode'>
+   <a name='fm5350657'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Parhaev</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350657'>08.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>12:54
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Что то нобелевский комитет чудит. мрнк вакцина оказалась не лучше спутника который ругали но вакцинацию им вполне признавали. И по физике странная премия, нет там нобелевских результатов.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5350665'>
+   <div class='fmnode'>
+   <a name='fm5350665'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Parhaev</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350665'>09.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>09:20
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>За разработку вакцин нобелевку не дают, начиная со второй половины прошлого века. Даже создатели вакцин против полиомиелита (Сэбин и Солк) Нобелевскую премию не получили. Но за технологию же культивирования вируса полиомиелита в культуре клеток Нобелевскую премию дали.<br><br>Неписанные правила таковы - Нобелевская премия присуждается либо за фундаментальные открытия, позволяющие глубже понять биологические процессы (например, открытие онкогенов), либо за прорывные технологии (например, изобретение ПЦР).<br><br>Нобелевская премия этого года дана за прорывную технологию, которая стала одним из компонентов успеха мРНК вакцин и имеет более широкую область применения, чем только мРНК вакцины. С другой стороны, только этой технологии было недостаточно для успеха мРНК вакцин. Другим «прорывным ингредиентом» была технология LNP (липидных наночастиц), но за нее нобелевку еще не дали.<br><br>Так, что все честно: создал технологию, получи нобелевку и распишись.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5350672'>
+   <div class='fmnode'>
+   <a name='fm5350672'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Влад</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350672'>10.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>17:26
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Другим «прорывным ингредиентом» была технология LNP (липидных наночастиц), но за нее нобелевку еще не дали.</blockquote>Там ещё подкузьмило то, что создатель этих LNP публично усомнился в полезности мероприятий доктора Фаучи, в частности карантины и вакцинацию для детей, и те, кому дали нобелевку не смотря на разную оценку их достижений наоборот все меры доктора Фаучи поддержали всеми конечностями.<br><br>Так что мы никогда не узнаем связана ли эта премия с научными успехами.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul><li class="level0" id='forum_node_5350658'>
+   <div class='fmnode'>
+   <a name='fm5350658'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Kostja</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350658'>08.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:05
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Скандальная премия присуждена...</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level0 parent" id='forum_node_5350660'>
+   <div class='fmnode'>
+   <a name='fm5350660'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Alef</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350660'>08.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>23:56
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>мРНК</blockquote>Я первый раз специально смотрел, чтоб вакцина была &quot;традиционной&quot; векторной а не мРНК. По этому выбрал Джонсона и Джонсона. Всё нормально. А потом уже при ре-вакцинации воспользовался продуктом мРНК. Так вот, после него мне 3 дня тошнило и было такое ощущение, что отравился или химия.<blockquote>Первая мРНК вакцина была выпущена на рынок в 2021 году. Она представляет собой мРНК S-белка вируса SARS-CoV-2, заключенную в липидную оболочку, и сейчас имеет торговое название Comirnaty.</blockquote>Хотя тут всем вполне повезло, нечего не произошло, всё сработало отлично. Новые технологии в итоге должны быть испытаны на людей. Но не так, чтоб сразу на миллионы.<br><br>Просто на Западе демократия как бы сильно сократилась, один центр власти и вполне господствует коррупция. (и привой - grift, так говорят на западе.) Власти сказали мРНК, значит так и надо. Тонкий момент, владелец производителя мРНК вакцины при Трампе стал гос чиновником. (С должности в компании ушёл, но сохранил владения акциями компаниями.) И своей бывшей компании выделил огромные суммы денег. С чего его имущество - пакет акций предприятия вырос на 10 миллионов.<blockquote>Затем работал в нескольких научных учреждениях в США, одно время — под руководством Энтони Фаучи</blockquote>А Фаучи имел должность главного советника президента по медицине.<br><br>Так вот, вопрос мРНК или вирусный вектор решался посредством коррупции и приближённости к власти. А не по медицинским соображениям.<br><br>https://en.wikipedia.org/wiki/Moncef_Slaoui<br>To avoid a conflict of interest, Slaoui resigned from the board of the Massachusetts-based biotech firm Moderna, which had been developing a vaccine for the coronavirus. Slaoui faced criticism, particularly from Senator Elizabeth Warren, for continuing to have Moderna stock options worth over $10 million. On May 18, 2020, Slaoui resigned from the board of manufacturing firm Lonza, which Moderna had partnered with to develop a coronavirus vaccine.<br><br>https://en.wikipedia.org/wiki/Operation_Warp_Speed<br>Leader neutrality<br>The leader of the Operation Warp Speed project, Moncef Slaoui, had been a board member of the U.S. vaccine developer, Moderna, and divested his shares in Moderna stock, at a potential personal gain of $10 million, raising questions of his neutrality in judging vaccine candidates. Although Slaoui resigned from the Moderna board when named to head Warp Speed, his share value in Moderna stock increased by $3 million in one day when Moderna announced an advance in vaccine clinical research.<br><br>Там по оценкам за счет разных махинаций некоторые обогатились на совокупную сумму в 1 миллиард.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5350663'>
+   <div class='fmnode'>
+   <a name='fm5350663'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Alef</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350663'>09.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>08:57
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Там по оценкам за счет разных махинаций некоторые обогатились на совокупную сумму в 1 миллиард.</blockquote>Ну вы просто обязаны подать на них в суд если у вас есть неопровержимые доказательства иначе просто клевещите на людей. Хотя не в первый раз от вас слышать различную клевету, я уже привыкаю.<blockquote>Тонкий момент, владелец производителя мРНК вакцины при Трампе стал гос чиновником.</blockquote>На Трампа уголовку завели, не удивительно, что при нем такое творилось, хотя Клинтонша была бы хуже по мнению большинства избирателей.<blockquote>Просто на Западе демократия как бы сильно сократилась, один центр власти</blockquote>Демократия это и есть один центр власти, выбираемый большинством голосов, а меньшинство должно &quot;сопеть в тряпочку&quot; до следующих выборов. Умейте проигрывать.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2 parent" id='forum_node_5350667'>
+   <div class='fmnode'>
+   <a name='fm5350667'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Alef</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350667'>09.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>13:56
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Демократия это и есть один центр власти, выбираемый большинством голосов, а меньшинство должно &quot;сопеть в тряпочку&quot; до следующих выборов. Умейте проигрывать.</blockquote>Тогда это уже &quot;демократический централизм&quot; по СССР или же &quot;нелиберальная демократия&quot; новых демократий. Один из принципов старых демократий, что большинство не может указывать меньшинству &quot;молчать и знать своё место&quot;. Впрочем это, наверное, повелось ещё с просвещённого абсолютизма, когда большинством была церковь.<blockquote>Ну вы просто обязаны подать на них в суд если у вас есть неопровержимые доказательства иначе просто клевещите на людей.</blockquote>Вот даже в википедии написано про сомнительные схемы, всё с ссылками. Журналисты там давно всё раскапали.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3" id='forum_node_5350668'>
+   <div class='fmnode'>
+   <a name='fm5350668'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Alef</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350668'>09.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>14:43
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Вот даже в википедии написано про сомнительные схемы, всё с ссылками. Журналисты там давно всё раскапали.</blockquote>А-а-а, я понял. закон нарушен не был, но ваша зависть к законно заработанному миллиарду заставляет вас скрежетать зубами называя это то &quot;сомнительными схемами&quot;, то &quot;разными махинациями&quot;, то еще как-то.<br><br>Вот нобелевку дали людям за прекрасно сделанную работу, но опять кому-то не нравится.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul><li class="level1 parent" id='forum_node_5350666'>
+   <div class='fmnode'>
+   <a name='fm5350666'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Kostja</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Alef</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350666'>09.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>12:58
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>на Западе демократия как бы сильно сократилась</blockquote>Откуда бы она там взялась. Ее и не было никогда. Демократия переводится как народовластие, а у них там просто выборы из того кого надо. Это как жулики ходят по квартирам и выманивают деньги у плохо соображающий пенсионеров. Так же и депутаты-президенты уламывают дать им власть и легитимность, хотя оснований для этого как правило нет.<br><br>Между прочим, Нью-Йорк как известно город контрастов, поэтому при демократии в конгрессе стопудово бы заседала компартия. Там где ее нет при власти при таких то контрастах очевидно нет и демократии. Можно это считать маркером.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2 parent" id='forum_node_5350722'>
+   <div class='fmnode'>
+   <a name='fm5350722'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Akito</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Kostja</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350722'>15.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>21:42
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Не знаю, будет ли для вас открытием или нет, но демократия - это не &quot;власть народа&quot;. Демократия - это принцип, при котором считается, что власть всегда враг для народа. Власть всегда лжива, корумпирована, заносчива, жестока и т.д. Народ при демократии вибирает менее гнилую власть из возможных на данный момент. Комунисты и другие диктаторские партии в США не популярны т.к. основной принцип подобных партий рассказывать населению, что только они спасители, а без них ну вообще плохо. Подчеркну, не делать что-то, а рассказывать, что без них никак. Это не демократия и в США подобное не популярно.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3 parent" id='forum_node_5350730'>
+   <div class='fmnode'>
+   <a name='fm5350730'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Kostja</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Akito</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350730'>16.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:33
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>У вас первая половина заявления не гармонирует со второй. Пропаганда как водится противоречива.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level4">
+<li class="level4 parent" id='forum_node_5350731'>
+   <div class='fmnode'>
+   <a name='fm5350731'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Akito</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Kostja</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350731'>16.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>23:08
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>У вас есть примеры, когда коммунистическая партия в результате проигранных выборов сложила с себя полномочия?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level5">
+<li class="level5 parent" id='forum_node_5350757'>
+   <div class='fmnode'>
+   <a name='fm5350757'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Kostja</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Akito</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350757'>19.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>13:00
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>А у вас нет?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level6">
+<li class="level6" id='forum_node_5350778'>
+   <div class='fmnode'>
+   <a name='fm5350778'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Akito</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Kostja</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350778'>24.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>06:47
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Не у меня а у истории - нет. Комунизм - диктатура и к демократии никакого отношения не имеет. Поэтому вообще допускать до выборов комунистов и другие диктаторские организации по мньшей мере тупо...</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul><li class="level0 parent" id='forum_node_5350729'>
+   <div class='fmnode'>
+   <a name='fm5350729'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Kostja</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350729'>16.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:29
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Тем временем в Израиле от сердечного приступа скончался 8 летний мальчик, который был лицом рекламной компании вакцины Пфайзер. Пишут убийцы кололи его четыре раза. Смерть мальчика проигнорировали СМИ которые пропагандировали вакцинацию.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5350732'>
+   <div class='fmnode'>
+   <a name='fm5350732'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Akito</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Kostja</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350732'>16.10.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>23:09
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>А вакцина Пфайзер и сердечный приступ мальчика как-то связаны?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5350829'>
+   <div class='fmnode'>
+   <a name='fm5350829'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>antiximik</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Akito</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434147#fm5350829'>01.11.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>19:05
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>А вакцина Пфайзер и сердечный приступ мальчика как-то связаны?</blockquote>Нет, конечно! Это простое совпадение и инсинуации антипрививочников / коммуняк / %anyname%!! :]<br><br>Но статистику (за год-два пред- и постклиники) по воспалительным процессам (в т.ч. миокардитам) и прочим побочкам будут выкладывать последующие писят лет. Ну, так. На всякий случай. :з<br>А ещё у производителей есть охранительная булла о неподсудности. Такшта никаких вам судов! А то ишь чаво удумали!!.. O_O</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul></ul>
+<div class='fmctrl fl' id='forum_btm_btn'>Написать комментарий</div>
+
+
+<div class='cl'></div>
+</div>
+</div>
+
+<div class='forumctrls' style='display:none'>
+
+<div id='forum_edit_block'>
+<form action="/novosti_nauki/434147?ipcountry=NL" method=post onsubmit="return forum_checkMsgForm(this)">
+
+<input type='hidden' name='msgedit' id='forum_msg_id'>
+<div class='xform'>
+	<textarea id='forum_edit_textarea' name=memo placeholder="Комментарий"></textarea>
+	
+	<input type='submit' value='Сохранить' name='accept'> <input type=submit name=delete onclick='return confirm("Удалить сообщение?");' value="Удалить">
+        <div class='gap'></div>
+</div>
+</form>
+</div>
+
+<div id='forum_input_block' class='fmnode toggle'>
+
+        <div class='fmhead'><span class="nodepoint"></span>Вход в систему</div>
+	<div class='xform beige'>
+        <div class='smallform'>
+        
+		<form action="/novosti_nauki/434147?ipcountry=NL" method=post>
+                
+                <input type='hidden' name='answerto' id='forum_prev_id'>
+		<input type=text name=LOGIN  value="" maxlength=50 placeholder='Имя' id='forum_login'></td>
+		<input type=password name="PASSWD" value="" maxlength=50 placeholder='Пароль'></td></tr>
+                <div class="label fl"><span class="xcheckbox"><input id='rpw_chk' type="checkbox" name=PERSIST onclick="resetXCheck(this)"></span> <label for='rpw_chk'>запомнить пароль</label></div>
+                <input type="submit" class='right' name="accept_auth" value="   ok   ">
+                <div class='cl'></div>
+		</form>
+        <div class='goto fl'><a href="/reguser">Зарегистрироваться</a></div>
+        <div class='goto fr'><a href="/restore_password">Забыли пароль?</a></div><div class='cl'></div>
+	</div>
+        </div>
+        <div class='gap'></div>
+
+</div>
+
+</div>
+
+<script type='text/javascript'>
+var forum_user ="";
+var forum_mode = "simple";
+var forum_answerto = ""; 
+var forum_msgcnt = "20"; 
+
+
+var topbtn = document.getElementById('forum_topsocnet_button');
+if (topbtn) topbtn.style.display='';
+</script>
+<script type='text/javascript' src='/downloads/js/forum.js?v=1.10' charset="utf-8"></script>
+</div>
+
+<div class='crblock'>
+
+<div class='storyline important'>
+
+
+
+	<div class='hide_main hide_hpad'><hr><div class='gap'></div><h2>Сюжет</h2></div>
+ 
+
+<hr class='hide_main hide_hpad'>
+<div class='toggle'>
+<div class='subtitle hide_main hide_hpad' onclick='toggleClick(this)'><span class='toggle_button'></span><span class='toggle_label'>Коронавирус SARS-CoV-2</span></div>
+<h2 class='hide_vpad hide_phone'><a href="/suzhet/81/Koronavirus_SARS_CoV_2">Коронавирус SARS-CoV-2</a></h2>
+
+<div class='phone_toggle_body vpad_toggle_body'>
+<hr class='nogap'>
+
+
+
+<ul class='storyline vtype0'>
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/434176/Bednost_i_neravenstvo_snizhali_ustoychivost_stran_k_pandemii_koronavirusa?story=81'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/variability_in_excess_deaths_from_covid_logo_200.jpg" alt="Эстебан Мурильо, «Маленький нищий»"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>27.12.2023</div>
+
+      <div class='title'>Бедность и&nbsp;неравенство снижали устойчивость стран к&nbsp;пандемии коронавируса</div>
+      <div class='sublink'>Михаил Гопко&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story current'>
+
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/nobel_medal_physiol_200.jpg" alt="Лауреаты Нобелевской премии по физиологии и медицине 2023&nbsp;года"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>07.10.2023</div>
+
+      <div class='title'>Нобелевская премия по физиологии и медицине&nbsp;—&nbsp;2023</div>
+      <div class='sublink'>Галина Клинк&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/434139/Vspyshka_COVID_19_v_studencheskom_obshchezhitii_pervaya_massovaya_peredacha_omikrona_v_Rossii?story=81'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/omicron_outbreak_in_a_dormitory_logo_200.jpg" alt="Рис. 1. Российские образцы омикрона, взятые в декабре 2021 года"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>15.09.2023</div>
+
+      <div class='title'>Вспышка COVID-19 в&nbsp;студенческом общежитии&nbsp;— первая массовая передача омикрона в&nbsp;России</div>
+      <div class='sublink'>Галина Клинк&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/434115/Omikron_vytesnil_drugie_varianty_SARS_CoV_2_blagodarya_epistazu?story=81'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/epistasis_in_covid_logo_200.jpg" alt="Рис. 1. Эволюционное дерево SARS-CoV-2"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>28.06.2023</div>
+
+      <div class='title'>Омикрон вытеснил другие варианты SARS-CoV-2 благодаря эпистазу</div>
+      <div class='sublink'>Галина Клинк&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/nauchno-populyarnaya_biblioteka/436453/Bumazhnye_i_nastoyashchie_bronezhilety?story=81'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/eltpub/bumazhnye_i_nastoyashchie_bronezhilety_logo_200.jpg" alt="Бумажные и настоящие бронежилеты"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>20.10.2022</div>
+
+      <div class='title'>Бумажные и настоящие бронежилеты</div>
+      <div class='sublink'>Ольга Матвеева&nbsp;<span class="break">•</span> Библиотека&nbsp;<span class='break'>•</span> «Троицкий вариант» №12(356),  2022</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+
+</li>
+<li class='story prebreak'></li><li class='story break hr'><div><hr></div></li><li class='story prebreak'></li>
+
+<li class='story'>
+<a class='nohover' href='/nauchno-populyarnaya_biblioteka/435339/Kompyuternye_tekhnologii_protiv_koronavirusa_pervye_rezultaty_2?story=81'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/eltpub/komp_tehn_protiv_koronavirusa_logo_200.jpg" alt="Компьютерные технологии против коронавируса: первые результаты&nbsp;—&nbsp;2"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>09.06.2020</div>
+
+      <div class='title'>Компьютерные технологии против коронавируса: первые результаты&nbsp;—&nbsp;2</div>
+      <div class='sublink'>Тимур Маджидов<span class="comma">,</span> Георгий Куракин&nbsp;<span class="break">•</span> Библиотека&nbsp;<span class='break'>•</span> «Природа» №3, 2020</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/nauchno-populyarnaya_biblioteka/435333/COVID_19_gonka_vooruzheniy?story=81'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/eltpub/zharkov_d_logo_200.jpg" alt="COVID-19: гонка вооружений"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>08.06.2020</div>
+
+      <div class='title'>COVID-19: гонка вооружений</div>
+      <div class='sublink'>Интервью Юлии Черной с&nbsp;Дмитрием Жарковым&nbsp;<span class="break">•</span> Библиотека&nbsp;<span class='break'>•</span> «Троицкий вариант» №9(303),  2020</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+
+</li>
+<li class='story prebreak'></li><li class='story break hr'><div><hr></div></li><li class='story prebreak'></li>
+
+<li class='story'>
+<a class='nohover' href='/nauchno-populyarnaya_biblioteka/435313/Vnutrikletochnyy_teatr_boevykh_deystviy?story=81'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/eltpub/vnutrikletochnyj_teatr_logo_200.jpg" alt="Внутриклеточный театр боевых действий"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>26.05.2020</div>
+
+      <div class='title'>Внутриклеточный театр боевых действий</div>
+      <div class='sublink'>Юрий Гольцев&nbsp;<span class="break">•</span> Библиотека&nbsp;<span class='break'>•</span> «Троицкий вариант» №8(302),  2020</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+
+</li>
+<li class='story prebreak'></li><li class='story break hr'><div><hr></div></li><li class='story prebreak'></li>
+
+<li class='story'>
+<a class='nohover' href='/kartinka_dnya/1120/Korona_virusa?story=81'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/kartinka_dnya/picture_of_the_day_virus_crown_1_200.jpg" alt="Рисунок коронавируса"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>15.05.2020</div>
+
+      <div class='title'>Корона вируса</div>
+      <div class='sublink'>Галина Клинк&nbsp;<span class="break">•</span> Картинки дня</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+
+</li>
+<li class='story prebreak'></li><li class='story break hr'><div><hr></div></li><li class='story prebreak'></li>
+
+<li class='story'>
+<a class='nohover' href='/video/569/Koronavirus_2019_chto_eto_takoe_i_kak_ne_zabolet?story=81'>
+      
+       <div class='img_block'>
+       <div class='ib_img  video'><img src="images/video/ancha_baranova_covid-19_200x200.jpeg" alt="Коронавирус-2019: что это такое и как не заболеть"><span class='grid'></span><span class='play'></span></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>05.03.2020</div>
+
+      <div class='title'>Коронавирус-2019: что это такое и как не заболеть</div>
+      <div class='sublink'>Анна (Анча) Баранова&nbsp;<span class="break">•</span> Видеотека</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+
+</li>
+<li class='story prebreak'></li><li class='story break hr'><div><hr></div></li><li class='story prebreak'></li>
+
+</ul>
+
+
+
+
+<div class='goto'><a href="/suzhet/81/Koronavirus_SARS_CoV_2">Весь сюжет</a></div>
+
+
+
+<div class='gap2 hide_vpad hide_phone'></div>
+</div>
+</div>
+
+</div>
+
+
+
+     <h2><a href="/novosti_nauki">Последние новости</a></h2>
+     <hr class='nogap'>
+
+
+    <a href="/novosti_nauki/434407/Kukolki_zarazhennye_opasnym_parazitom_posylayut_rabochim_muravyam_signal_ubey_menya" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/altruistic-disease-signalling-in-ant-colonies_logo_200.jpg" alt="Рабочие муравьи Lasius neglectus проводят «разрушающую дезинфекцию»"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Куколки, зараженные опасным паразитом, посылают рабочим муравьям сигнал «убей меня»</div>
+    <div class="sublink"><span class="date">12.02</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434406/U_pervykh_pozvonochnykh_bylo_dve_pary_glaz" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/myllokunmingia_200.jpg" alt="У первых позвоночных было две пары глаз"></div>
+    
+    <div class='ib_text'>
+    <div class="title">У первых позвоночных было две пары глаз</div>
+    <div class="sublink"><span class="date">09.02</span>&nbsp;<span class='break'
+>•</span> Сергей Ястребов</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434405/Infrakrasnoe_izluchenie_drevneyshiy_signal_dlya_privlecheniya_opyliteley" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/infrared-radiation-is-an-ancient-pollination-signal_1_200.jpg" alt="Открытая шишка саговникового растения. (B) Тепловизионное изображение мужской шишки саговника в&nbsp;момент нагревания во&nbsp;время выброса пыльцы"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Инфракрасное излучение&nbsp;— древнейший сигнал для привлечения опылителей</div>
+    <div class="sublink"><span class="date">04.02</span>&nbsp;<span class='break'
+>•</span> Елена Устинова</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434404/Dazhe_krupnye_mozazavry_mogli_zhit_v_rekakh" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/260118_novikovskaya_mosasaurus_200.jpg" alt="Некоторые виды мозазавров могли быть пресноводными"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Даже крупные мозазавры могли жить в реках</div>
+    <div class="sublink"><span class="date">19.01</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+<div class='goto'><a href="/novosti_nauki">Все новости</a></div>
+<div class='gap2'></div>
+
+
+<!-- Здесь был блок картинки дня: KLBLOCK id="eltdpicture" page_size="1" template="dpicture_R_v2" page="" calendar="" features="v2" dpicture_title="Картинка дня" dpicture_th_title="*" gotoxrub="19"/ -->
+
+<div class='important'>
+
+
+<hr class='hide_main hide_hpad'><div class='gap hide_main hide_hpad'></div>
+<div class='rxblock eltpub'>
+<h2>См. также</h2><hr class='nogap'>
+
+
+
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/436171/Mezhdu_selenobelkami_i_postmodernizmom?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/eltpub/mezhdu_belkami_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Между селенобелками и&nbsp;постмодернизмом</div>
+    
+    <div class="sublink">Александра Борисова&nbsp;<span class='break'>•</span> Библиотека&nbsp;<span class='break'>•</span> «Троицкий вариант» №20(339),  2021</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltdpicture'>
+
+
+
+
+<a class="nohover" href="/kartinka_dnya/1120/Korona_virusa?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/kartinka_dnya/picture_of_the_day_virus_crown_1_570.jpg" alt=""></div>
+    
+    <div class="title">Корона вируса</div>
+    
+    <div class="sublink"><span class="date">15.05.2020</span>&nbsp;<span class='break'>•</span> Галина Клинк&nbsp;<span class='break'>•</span> Картинки дня</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltpub'>
+
+
+
+
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/435979/Voyna_s_koronavirusom_perekhodim_v_nastuplenie?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/eltpub/voyna_s_koronavirusom_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Война с коронавирусом: переходим в&nbsp;наступление</div>
+    
+    <div class="sublink">Сергей Нетесов&nbsp;<span class='break'>•</span> Библиотека&nbsp;<span class='break'>•</span> «Коммерсантъ Наука» №23 (2), июнь 2021</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltquest'>
+
+
+
+
+<a class="nohover" href="/problems/2335/Kakaya_vaktsina_luchshe?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/problems/vaccines_fig0_570.jpg" alt=""></div>
+    
+    <div class="title">Какая вакцина лучше?</div>
+    
+    <div class="sublink"><span class="date">22.06.2020</span>&nbsp;<span class='break'>•</span> Евгения Правдолюбова&nbsp;<span class='break'>•</span> Задачи</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltpub'>
+
+
+
+
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/436230/Top20_mifov_o_koronaviruse_razoblachenie?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/eltpub/top_20_mifov_ligo_390.jpg" alt=""></div>
+    
+    <div class="title">Топ‑20 мифов о&nbsp;коронавирусе: разоблачение</div>
+    
+    <div class="sublink">Александр Панчин&nbsp;<span class='break'>•</span> Библиотека&nbsp;<span class='break'>•</span> «Троицкий вариант» №23(342),  2021</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<div class='gap2'></div>
+
+</div>
+
+
+<div class='storyline important'>
+
+</div>
+
+</div>
+
+<div class='cl'></div>
+
+<div class='mb'>
+<div class='pager_one'>
+<hr>
+
+  <a class='nohover' href="/novosti_nauki/434146/Pchely_melchayut_iz_za_globalnogo_potepleniya">
+   <div class="next">
+      <div class=icon></div> 
+      <div class="suplink">05.10.2023</div>
+      <div class="pretitle"></div>
+      <div class="title">Пчелы мельчают из-за глобального потепления</div>
+   </div>
+  </a>
+
+
+ <a class='nohover' href="/novosti_nauki/434148/Sudya_po_sledam_gigantskie_neletayushchie_fororakosy_byli_otlichnymi_begunami">
+  <div class="prev">
+     <div class=icon></div> 
+     <div class="suplink">10.10.2023</div>
+     <div class="pretitle"></div>
+     <div class="title">Судя по следам, гигантские нелетающие фороракосы были отличными бегунами</div>
+   </div>
+  </a>
+
+</div>
+<div class='cl'></div>
+</div>
+
+
+
+<div class='other_block'>
+<hr class='top mb'>
+<div class='mb4 other_themes'>
+ <h2>Другие новости</h2>
+ <div class="submenu hrline"><div class="sm_item">
+    <a href="/novosti_nauki/t/5272017/Galina_Klink">Галина Клинк</a> <span class="stat">9</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/3140741/Nobelevskie_premii">Нобелевские премии</a> <span class="stat">48</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/2395410/Molekulyarnaya_biologiya">Молекулярная биология</a> <span class="stat">203</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/5271871/Immunologiya">Иммунология</a> <span class="stat">22</span>
+</div></div>
+</div>
+<div class='scroll_container'>
+<div id='newsScrBlock' class='slider-view'><div class='slider'><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434390/Nobelevskaya_premiya_po_khimii_2025?from=bxblock'>
+<div class='img'><span><img src='images/news/nobel_medal_physics_345.jpg' alt=''></span></div>
+<div class='title'>Нобелевская премия по химии&nbsp;— 2025</div>
+<div class='sublink'><span class="date">03.11.2025</span>&nbsp;<span class='break'
+>•</span> Наталия Самойлова</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434387/Nobelevskaya_premiya_po_fiziologii_i_meditsine_2025?from=bxblock'>
+<div class='img'><span><img src='images/news/nobel_medal_physiol_345.jpg' alt=''></span></div>
+<div class='title'>Нобелевская премия по физиологии и медицине&nbsp;—&nbsp;2025</div>
+<div class='sublink'><span class="date">20.10.2025</span>&nbsp;<span class='break'
+>•</span> Светлана Ястребова</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434356/Stabilnyy_mikrobiom_zalog_ustoychivosti_korallov_k_obestsvechivaniyu?from=bxblock'>
+<div class='img'><span><img src='images/news/acropora_coral_thermotolerance_logo_390.jpg' alt=''></span></div>
+<div class='title'>Стабильный микробиом&nbsp;— залог устойчивости кораллов к&nbsp;обесцвечиванию</div>
+<div class='sublink'><span class="date">20.08.2025</span>&nbsp;<span class='break'
+>•</span> Галина Клинк</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434362/Aminokisloty_pomogayut_nukleotidam_soedinyatsya_v_korotkie_molekuly_RNK?from=bxblock'>
+<div class='img'><span><img src='images/news/amino_acids_catalyse_rna_formation_2_390.jpg' alt=''></span></div>
+<div class='title'>Аминокислоты помогают нуклеотидам соединяться в&nbsp;короткие молекулы&nbsp;РНК</div>
+<div class='sublink'><span class="date">16.07.2025</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434309/Tochechnaya_mutatsiya_v_peregruzhennom_uchastke_genoma_mozhet_sdelat_virus_moshennikom?from=bxblock'>
+<div class='img'><span><img src='images/news/point_mutant_cheater_viruses_logo_390.jpg' alt=''></span></div>
+<div class='title'>Точечная мутация в&nbsp;перегруженном участке генома может сделать вирус «мошенником»</div>
+<div class='sublink'><span class="date">13.02.2025</span>&nbsp;<span class='break'
+>•</span> Галина Клинк</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434301/Vzaimodeystvie_virusa_s_immunnoy_sistemoy_snizhaet_predskazuemost_ego_evolyutsii?from=bxblock'>
+<div class='img'><span><img src='images/news/eco_evolutionary_dynamics_of_adapting_pathogens_and_host_immunity_logo_390.jpg' alt=''></span></div>
+<div class='title'>Взаимодействие вируса с&nbsp;иммунной системой снижает предсказуемость его эволюции</div>
+<div class='sublink'><span class="date">23.01.2025</span>&nbsp;<span class='break'
+>•</span> Галина Клинк</div>
+</a>
+</div></div></div>
+<div class='scr_buttons_noscript' id='newsScrBlock_buttons'>
+<span class='prev_button' id='newsScrBlock_prevbtn'></span>
+<span class='next_button' id='newsScrBlock_nextbtn'></span>
+</div>
+</div>
+<div class='cl'></div>
+<hr class='mb hide_hphone'>
+<script type="text/javascript">scrollInit('newsScrBlock', { "mode": "DOM-S", "total": 266, "pagesize": 6, "request_url": '/ajax/news', "request_params": '&features=similar&features=v2&template=news_sline_v2&news_title=Другие новости&objlink_params=from=bxblock&xpage_size=6&tnews=3371422&newsid=434147'});</script>
+</div>
+
+
+</div>
+
+<div class='blue subscribe_block'><div class='mblock'>
+<div class='subscribe'>
+<div class='mb10'>
+<FORM TARGET=_top ACTION=https://subscribe.ru/member/quick METHOD=POST>
+<INPUT TYPE=hidden NAME=action VALUE=quick>
+<INPUT TYPE=hidden NAME=grp VALUE="science.news.elementynews">
+<span class='title'>Новостная рассылка</span>
+<span class='xinput fullwidth'><INPUT TYPE=email NAME=email SIZE=25 MAXLENGTH=100 placeholder
+="ВАШ E-MAIL"
+></span>&nbsp;<INPUT TYPE=submit VALUE="ПОДПИСАТЬСЯ">
+<INPUT TYPE=hidden NAME=src VALUE="list_science.news.elementynews">
+</FORM>
+</div>
+
+<div class='mb6'>
+<span class='title'>«Элементы» в соцсетях:&nbsp; </span>
+
+<a class='icon vk' href='https://vk.com/elementy_ru' target='_blank' title='ВКонтакте'></a>
+<a class='icon twitter' href='https://twitter.com/elementy_ru' target='_blank' title='Твиттер'></a>
+<a class='icon youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank' title='Youtube'></a>
+
+<a class='icon telegram' href='https://telegram.me/elementy_ru' target='_blank' title='Telegram'></a>
+<a class='icon zen' href='https://zen.yandex.ru/elementy.ru' target='_blank' title='Яндекс.Дзен'></a>
+</div>
+</div>
+<div class='cl'></div>
+</div></div>
+ 
+      
+             <script type="text/javascript" src="/downloads/js/linkhint.js?v=1.02"></script>
+             <script type="text/javascript">linkhint_init();</script>
+       
+   
+
+</div>
+
+
+
+<div class='hfooter'>
+<div class='mblock'>
+
+<div class='mb4 i1'><img src='images/eltnewdesign/ft_logo.png' alt='Элементы'></div>
+
+
+
+<div class='mb3 rub1'><ul>
+<li><a href='/novosti_nauki'>Новости науки</a></li>
+<li><a href='/LHC'>LHC</a></li>
+<li><a href='/kartinka_dnya'>Картинка дня</a></li>
+<li><a href='/problems'>Задачи</a></li>
+<li><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a></li>
+<li><a href='/video'>Видеотека</a></li>
+<li><a href='/bookclub'>Книжный клуб</a></li>
+</ul></div>
+<div class='mb3 rub2'><ul>
+<li><a href='/events'>Научный календарь</a></li>
+<li><a href='/email'>Детские вопросы</a></li>
+<li><a href='/time'>Масштабы: времена</a></li>
+<li><a href='/posters'>Плакаты</a></li>
+<li><a href='/trefil'>200 законов мироздания</a></li>
+<li><a href='/genbio'>Журнал общей биологии</a></li>
+<li><a href='/catalog'>Наука в Рунете</a></li>
+</ul></div>
+
+<div class='mb3 socnets'>
+<ul>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>ВКонтакте</span></a></li>
+<li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Twitter</span></a></li>
+<li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'><span class='icon'></span><span class='name'>Youtube</span></a></li>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Telegram</span></a></li>
+<li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'><span class='icon'></span><span class='name'>Яндекс.Дзен</span></a></li>
+<li class='hide_main hide_hpad hide_vpad'><a class='rss' href='/rss/news' target='_blank'><span class='icon'></span><span class='name'>RSS</span></a> <span class='name'>(<a href='/rss/'  target='_blank'>все ленты</a>)</span></li>
+</ul>
+</div>
+<div class='mb3 l2 zimin'>
+<div class='msg'><a href='https://basis-foundation.ru/' target="_blank">При поддержке фонда «Базис»</a></div>
+<a href='https://basis-foundation.ru/' target="_blank"><img src='images/eltnewdesign/basis2.png' alt='Фонд поддержки фундаментальной физики Базис'></a>
+</div>
+<div class='cl'></div>
+<hr>
+<div class='mb4 l2 copy'>© 2005–2026 «Элементы»</div>
+<div class='mb3 about'><a href='/about'>О проекте</a></div>
+<div class='mb3 feedback'><a href='mailto:info@elementy.ru'>Обратная связь</a></div>
+<div class='mb3 rss hide_phone'><a href='/rss/news' target='_blank'>RSS</a> (<a href='/rss/'  target='_blank'>все ленты</a>)</div>
+<div class='mb3 subscrb'><a href='https://subscribe.ru/catalog/science.news.elementynews'>Подписаться на рассылку</a></div>
+<!--<div class='mb3 l2 design'><a href='http://charmerstudio.com' target='_blank'>Дизайн: Charmer Studio</a></div>-->
+<div class='cl gap'></div>
+
+
+<div class='mb counters'>
+<!--LiveInternet counter--><script language="JavaScript"><!--
+document.write('<img src="//counter.yadro.ru/hit?r'+escape(document.referrer)+((typeof(screen)=='undefined')?'':';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+'" width=1 height=1 alt="">')
+//-->
+</script><!--/LiveInternet-->
+<!-- Yandex.Metrika counter --><script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter31698571 = new Ya.Metrika({ id:31698571, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="https://mc.yandex.ru/watch/31698571" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+<!-- Google Analytics --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65855867-1', 'auto');
+  ga('send', 'pageview');
+</script><!-- // Google Analytics -->
+<!--begin of Rambler's Top100 code -->
+<script id="top100Counter" type="text/javascript" src="//counter.rambler.ru/top100.jcn?707804"></script>
+<noscript><a href="http://top100.rambler.ru/top100/"><img src="//counter.rambler.ru/top100.cnt?707804" alt="" width=1 height=1 border=0></a>
+</noscript>
+<!--end of Top100 code-->
+</div>
+
+
+</div>
+</div>
+
+</div>
+</body>
+</html>

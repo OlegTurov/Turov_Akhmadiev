@@ -1,0 +1,3060 @@
+<!DOCTYPE html>
+<html lang='ru' prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+<head>
+<title>Открытию бозонной триады — 40 лет • Алексей Левин • Новости науки на «Элементах» • Физика, История науки</title>
+<noscript><meta name="viewport" content="width=device-width, initial-scale=1.0"></noscript>
+<script type='text/javascript'>if (!document.cookie.match(/\bdesktop_mode=1/)) document.write('<meta name="viewport" content="width=device-width, initial-scale=1.0">');</script>
+
+
+<META name="description" content="3 июля 1983 года в ЦЕРНе был завершен один из важнейших и в то же время наиболее трудоемких экспериментов в истории физики высоких энергий. При анализе результатов столкновений протонных и антипротонных пучков, разогнанных до энергии 270 ГэВ, ученые получили убедительные доказательства реальности промежуточных векторных бозонов."/>
+
+
+
+<link rel="canonical" href="https://elementy.ru/novosti_nauki/434117/Otkrytiyu_bozonnoy_triady_40_let" />
+
+
+<base href="//elementy.ru/">
+
+
+
+<meta property="og:title" content="Открытию бозонной триады&nbsp;— 40&nbsp;лет • Новости науки"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="3 июля 1983 года в ЦЕРНе был завершен один из важнейших и в то же время наиболее трудоемких экспериментов в&nbsp;истории физики высоких энергий. При анализе результатов столкновений протонных и антипротонных пучков, разогнанных до энергии 270&nbsp;ГэВ, ученые получили убедительные доказательства реальности промежуточных векторных бозонов."/>
+<meta property="og:url" content="https://elementy.ru/novosti_nauki/434117/Otkrytiyu_bozonnoy_triady_40_let"/>
+<meta property="og:image" content="https://elementy.ru/images/news/gauge_bosons_40_1_703.jpg"/>
+
+<meta property="article:section" content="Наука" />
+<meta property="article:tag" content="Физика"/><meta property="article:tag" content="История науки"/>
+<meta property="og:site_name" content="«Элементы»"/>
+<meta property="og:locale" content="ru_RU"/>
+
+
+<link rel="manifest" href="/downloads/js/manifest.json?v=1.02">
+
+
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo16bw.png"  sizes="16x16"/>
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo32bw.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo48bw.png" sizes="48x48" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo64bw.png" sizes="64x64" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo128bw.png" sizes="128x128" />
+<link rel="shortcut icon" type="image/png" href="/images/eltnewdesign/logo32bw.png"/>
+
+<meta content='Элементы' name='apple-mobile-web-app-title'>
+
+<link rel="apple-touch-icon" type="image/png" href="/images/eltnewdesign/logo128bw.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/eltnewdesign/logo57bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/eltnewdesign/logo114bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/eltnewdesign/logo72wb.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/eltnewdesign/logo120bw.png" />
+
+<meta name="application-name" content="Элементы"/>
+<meta name="msapplication-TileColor" content="#001034" />
+<meta name="msapplication-TileImage" content="/images/eltnewdesign/logo128bw.png" />
+
+<meta name="yandex-tableau-widget" content="logo=https://elementy.ru/images/eltnewdesign/logo128bw.png, color=#001034" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://elementy.ru/rss"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/style2.css?v=1.125"/>
+
+<noscript>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>
+</noscript>
+<script type='text/javascript'>
+if (!document.cookie.match(/\bdesktop_mode=1/))
+   document.write(
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>');
+</script>
+
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-print.css?v=1.09"/>
+
+<script type="text/javascript" src="/download/mathjax_2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" async></script>
+<script src="//yastatic.net/share2/share.js" async></script>
+<script type="text/javascript" src='/downloads/js/menu.js?v=1.10'></script>
+<script type="text/javascript" src='/downloads/js/hor.js' async></script>
+<script type='text/javascript' src='/downloads/js/request.js' async></script>
+<script type='text/javascript' src='/downloads/js/scroll.js?v=1.03'></script>
+<script type='text/javascript' src='/downloads/js/more.js?v=1.02'></script>
+<script type='text/javascript' src='/downloads/js/ttlhover.js' async></script>
+<script type='text/javascript' src='/downloads/js/rfilters.js'></script>
+
+<script type="text/javascript">
+function pict_popup(src,title) {
+        var w = window.open(src,'','channelmode=no,toolbar=no,location=no,status=no,directories=no,menubar=no,');
+        if(navigator.appName=='Microsoft Internet Explorer') w.document.write('<title>'+title+'</title><img src="'+src+'" onLoad="i=document.images[0]; window.resizeTo(i.width+50,i.height+100)">')
+        return false
+}
+</script>
+
+
+
+
+</head>
+
+<body class="xrub-novosti_nauki xrubpage-no">
+<div class='allarea'  id='pgarea'>
+<a id="page_top"></a>
+
+<div class='mainmenublock hmenu' id='mmenubody' >
+     <div class='mbshading' id='mshading' onclick='toggleHMenu("mmenubody")'></div> 
+     <div class='hmenu'>
+      <div class='menuarea' id='mmenuarea'>
+       <a href='/' class='close' onclick='return toggleHMenu("mmenubody")'><span class='icon close'></span><span class='hint'>Закрыть</span></a>
+       <script type='text/javascript'>
+            var desktop_mode = document.cookie.match(/\bdesktop_mode=1/); 
+            if (!desktop_mode) document.write('<div class="oldlink hide_other"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div><hr class="hide_other">');
+       </script>
+       <ul class="level0"><li class="level0 selected">
+  <div><a href='/novosti_nauki'>Новости науки</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/kartinka_dnya'>Картинка дня</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/events'>Календарь событий</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/problems'>Задачи</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/email'>Детские вопросы</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/LHC'>Большой адронный коллайдер</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/LHC/novosti_BAK'>Новости LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/monitory_bolshogo_adronnogo_kollajdera'>Мониторы LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/LHC_results'>Результаты LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/zagadki_lhc'>Загадки LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_s_mu_mu'>Распад b→sμμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_1'>Распад B<sup>+</sup>→K<sup>+</sup>ll</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_2'>Распад B→Dlν</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_mu_mu'>Распад B→μμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/raspad_higgsa_na_muon_i_tau'>Распад H→μτ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/top_antitop_higgs'>Комбинация топ-антитоп-хиггс</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/zaryazhennyj_bozon_higgsa'>Заряженный бозон Хиггса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/dvuhfotonnyj_vsplesk_pri_750_gev'>Двухфотонный всплеск 750&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptony_odnogo_znaka_na_atlas'>Лептоны одного знака на ATLAS</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/eejj-otklonenije'>eejj-отклонение</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/sobytije_2.9tev'>Событие при 2,9 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_2_tev_atlas'>WZ-пик при 2 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_1.8_tev_cms'>WH-пик при 1,8 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_CMS'>Поиск суперсимметрии — 1</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_ATLAS'>Поиск суперсимметрии — 2</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_iii'>Поиск суперсимметрии — 3</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_results/beyondSM'>Отклонения от Стандартной модели</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/susy_search'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/exotic_search'>Экзотические частицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_search'>Поиск бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_study'>Изучение бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/top-quark'>Свойства топ-кварка</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/hadrons'>Рождение и распады адронов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/rare_decays'>Редкие распады B-мезонов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/difraction'>Адронная дифракция</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/nuclei'>Ядерные столкновения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/astro'>Астрофизика</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC_working'>LHC в работе</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lhc/timeline'>Хронология создания и работы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/general_schedule'>Общее расписание</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/what-to-check'>Как следить за новостями с LHC</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/working_cycle'>Рабочий цикл коллайдера</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/initial'>Ранние этапы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2008'>2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/incident'>Авария 19.09.2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009'>2009</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009/results_2009'>Результаты работы LHC в&nbsp;2009&nbsp;году</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_1'>Сеанс LHC Run&nbsp;1</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010'>2010</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010/results_2010'>Результаты работы LHC в&nbsp;2010&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011'>2011</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011/results_2011'>Результаты работы LHC в&nbsp;2011&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2012'>2012</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/schedule_2015'>Техническая пауза LS1</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_2'>Сеанс LHC Run&nbsp;2</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2015'>2015</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2016'>2016</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2017'>2017</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2018'>2018</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_3'>Сеанс LHC Run&nbsp;3</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_3/2022'>2022</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC'>Устройство и задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/LHC/about'>LHC: ключевые факты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/accelerator'>Устройство LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/beams'>Протонные пучки</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnets'>Магнитная система</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnet_training'>Как тренируют магниты</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/detectors'>Детекторы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ATLAS'>ATLAS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/CMS'>CMS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ALICE'>ALICE</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCb'>LHCb</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/TOTEM'>TOTEM</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCf'>LHCf</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/MoEDAL'>MoEDAL</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/why'>Зачем нужен LHC?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/tasks'>Задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/hadrons'>Свойства адронов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/decays'>Адронные распады</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/higgs'>Поиск бозона Хиггса</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/production_decay'>Рождение и распад</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/search_strategies'>Стратегии поиска</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/top-quark'>Топ-кварк</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/SUSY'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/exotic'>Экзотические теории</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/nuclei'>Ядерные столкновения</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/safety'>Безопасность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/estimates'>Вероятность катастрофы</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/black_holes'>Микроскопические черные дыры</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/phrases'>Толковый словарик журналистских штампов</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/HEP'>Физика элементарных частиц</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/HEP/educational'>Образовательные онлайн-ресурсы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/HEP/measures'>Величины и единицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/cross-section'>Сечение процесса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/luminosity'>Светимость</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/invariant-mass'>Инвариантная масса</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/study'>Как изучают частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/detecting'>Принципы детектирования</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/errors'>Погрешности</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/statistical'>Статистическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/systematic'>Систематическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/theoretical'>Теория и моделирование</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/sigma'>Сигма</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/subtleties'>Тонкости анализа</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/experiments'>Эксперименты на коллайдерах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/quark_model'>Классификация адронов</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/partonic_densities'>Партоны</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/hadronization'>Конфайнмент и адронизация</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/rapidity-angle_diagram'>Быстрота–угол</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/analysis_methods'>Приемы анализа</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/SM'>Стандартная модель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/problems'>Трудности</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/beyondSM'>За пределами СМ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/SUSY'>Суперсимметрия</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/higgs_theory'>Хиггсовский механизм</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/explanations'>Аналогии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/SM_Higgs'>Хиггс с&nbsp;массой 125&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/nonminimal'>Неминимальные варианты</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/gallery'>Галерея</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly'>В популярных журналах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/vmirenauki'>«В мире науки»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/znanijesila'>«Знание — сила»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvant'>«Квант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvantik'>«Квантик»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kommersant_nauka'>«Коммерсантъ Наука»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kot_shryodingera'>«Кот Шрёдингера»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_i_zhizn'>«Наука и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_iz_pervyh_ruk'>«Наука из первых рук»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/popularnaja_mehanika'>«Популярная механика»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_himija_biologija_meditsina'>«Потенциал»: Химия. Биология. Медицина</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_matematika_fizika_informatika'>«Потенциал»: Математика. Физика. Информатика</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda'>«Природа»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/o_zhurnale'>О журнале</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/priroda_v_internete'>«Природа» в интернете</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/kak_podpisatsya'>Как подписаться</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/gazeta_troitskiy_variant'>«Троицкий вариант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/khimiya_i_zhizn'>«Химия и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/chto_novogo_v_nauke_i_tekhnike'>«Что нового в науке и технике»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/ecologiya_i_zhizn'>«Экология и жизнь»</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/izbrannoe'>Избранное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/lektsii_dlya_shkolnikov'>Лекции для школьников</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/interview'>Интервью</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/vystavka_vse_v_mire_otnositelno'>Выставка «Всё в мире относительно»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lib/exhibition/authors'>О художниках</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/lib/exhibition/about'>О выставке</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/video'>Видеотека</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/bookclub'>Книжный клуб</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/bookclub/book'>Книги</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/author'>Авторы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/chapters'>Главы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/bookclub/chapters/knigi_opublikovannyje_polnostju'>Опубликовано полностью</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera'>Происхождение жизни</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/evolutsija_i_priroda_nauki'>Глава 1</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/svidetelstva_biologicheskoj_evolutsii'>Глава 2</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/vzglyady_kreatsionistov'>Глава 3</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/FAQ'>Заключение</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/bookclub/publisher'>Издательства</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/series'>Серии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review'>Рецензии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review_users'>Отзывы</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/time'>Масштабы: времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/time/estimating'>В помощь читателю</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-1.html'>Как оценивать типичные времена</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-2.html'>Как применять формулы&nbsp;— иллюстрация</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-3.html'>Тонкости и предостережения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-4.html'>Опорные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-5.html'>Колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-6.html'>Гармонические колебания и их период</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-7.html'>Волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-8.html'>Закон распада</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/milli'>Миллисекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/milli/milli-1.html'>Миллисекунды в нашей жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-2.html'>Фото вместо видео</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-3.html'>Мерцающие огоньки</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-4.html'>Скрытые возможности невооруженного взгляда</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/micro'>Микросекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/micro/micro-1.html'>Остановившийся мир</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-2.html'>И всё-таки он движется!</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-3.html'>Пределы механического затвора</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nano'>Наносекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nano/nano-1.html'>От предметов к веществу</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-2.html'>Коллективные явления</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-3.html'>Электромагнитные колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-4.html'>Информационная емкость радиоволны</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/pico'>Пикосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/pico/pico-1.html'>Атомное движение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-2.html'>Пределы звука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-3.html'>Как начинается плавление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-4.html'>Пределы электроники</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-5.html'>Электромагнитные волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-6.html'>Элементарные частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/femto'>Фемтосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/femto/femto-1.html'>Мир электронов и света</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-2.html'>Оптические вычислительные технологии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-3.html'>Фемтохимия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-4.html'>Фемтобиология</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/atto'>Аттосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/atto/atto-1.html'>Личная жизнь атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-2.html'>Самые внутренние электроны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-3.html'>Как взрезать атом</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-4.html'>Электроны на службе аттофизики</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/zepto'>Зептосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-1.html'>Жизнь атомных ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-2.html'>Энергия, время и соотношение неопределенностей</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/yocto'>Йоктосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-1.html'>На границе известного</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-2.html'>Столкновение тяжелых ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-3.html'>Вглубь йоктосекунды</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/year'>От секунды до года</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/year/year-1.html'>Семь с половиной порядков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-2.html'>Искусственные спутники Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-3.html'>Эхо землетрясений</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-4.html'>Астероид-убийца</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-5.html'>Как растекается тепло</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/very-long'>Астрономические времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-1.html'>Солнечная система</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-2.html'>Солнечная система на больших временах</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-3.html'>Глубокий космос</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-4.html'>Межгалактические отношения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-5.html'>Танец земного климата</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-6.html'>Тектоническая жизнь Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-7.html'>Сверхдолгоживущие частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/sonoluminescence'>Сонолюминесценция</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-1.html'>Свечение, порожденное звуком</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-2.html'>Поведение пузырька</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-3.html'>Последние мгновения коллапса</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/biophysics'>Фолдинг белков</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-1.html'>Физическая основа жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-2.html'>Главная и боковые цепи</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-3.html'>«Жизнь» белковой молекулы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-4.html'>Компьютерное моделирование фолдинга</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/excited'>Возбужденные атомы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-1.html'>Возбужденные атомы: кто такие и где встречаются</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-2.html'>Быстротечная жизнь возбужденных атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-3.html'>Миллионы безуспешных попыток</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-4.html'>Ридберговские атомы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-5.html'>Атомы-долгожители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-6.html'>Водородная линия 21&nbsp;см</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nuclear'>Ядерные распады</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-1.html'>«Ядерная секунда»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-2.html'>Альфа-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-3.html'>Тяжелые элементы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-4.html'>Бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-5.html'>Двойной бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-6.html'>Ядерные изомеры</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/particles'>Элементарные частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/particles/particles-1.html'>Законы элементарных частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-2.html'>Два руководящих принципа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-3.html'>Сильные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-4.html'>Электромагнитные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-5.html'>Слабые распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-6.html'>Повышенная жизнеспособность на&nbsp;околосветовых скоростях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-7.html'>На переднем крае физики элементарных частиц</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/continents'>Движение континентов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/continents/continents-1.html'>Такты тектонической жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-2.html'>Возраст Гималаев</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-3.html'>Когда задышал Северный Ледовитый океан?</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/posters'>Плакаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/posters/moment'>Мгновение</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/posters/fractals'>Фракталы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/fractals/fractals'>Что такое фракталы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/geometric'>Геометрические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Koch'>Снежинка Коха</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/T-square'>Т-квадрат</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/H-fractal'>H-фрактал</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Sierpinski'>Треугольник Серпинского</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Pythagoras'>Дерево Пифагора</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Levy'>Кривая Леви</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/dragon'>Дракон</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/dynamic'>Динамические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Mandelbrot'>Множество Мандельброта</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Julia'>Множества Жюлиа</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Halley'>Фрактал Галлея</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Newton'>Фрактал Ньютона</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/complex_numbers'>Комплексные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/dimensions'>Фрактальные размерности</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/how_to_draw'>Как это рисовать</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/nature'>Фракталы в природе</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/about'>О плакате</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/collider'>Ускоритель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/collider/1'>Зачем нужен ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/2'>Единицы измерения расстояний, энергий и масс</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/3'>Краткая история ускорителей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/4'>Как работает ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/5'>Детектор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/6'>Как на ускорителе изучают свойства частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/7'>Природные ускорители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/8'>Применение ускорителей и детекторов в медицине</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/aviation'>Покорение воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/aviation/light'>Аппараты легче воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/light/balloons'>Аэростаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/montgolfiere'>Первый аппарат легче воздуха, способный поднять человека</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/today'>Шары-монгольфьеры сегодня</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/light/dirigibles'>Дирижабли</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/france'>Типичный дирижабль конца XIX&nbsp;века рыбообразной формы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/tsiolkovsky'>Цельнометаллический бескаркасный дирижабль с&nbsp;изменением объема в&nbsp;полете и с&nbsp;подогревом газа</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/zeppelin'>Серийный дирижабль Германии времен Первой мировой войны</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/akron'>Гелиевые дирижабли США</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/hindenburg_disaster'>Гибель «Гинденбурга» 6&nbsp;мая 1937&nbsp;года</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/today'>Дирижабли сегодня</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/heavy'>Аппараты тяжелее воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/helicopters'>Вертолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/sikorskys1'>Первый вертолет И.&nbsp;И.&nbsp;Сикорского</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/cagi_1-ea'>Первый летающий аппарат классической схемы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/mi-26'>Тяжелый военно-транспортный вертолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/an-64'>Ударный вертолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans'>Экранопланы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/km'>Самый крупный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/orlenok'>Единственный российский серийный десантный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/bartini'>Экраноплан Бартини</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/lun'>Летающий госпиталь</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/planes'>Самолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/theory'>Теоретические основы полета аппаратов тяжелее воздуха</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mozhajskij'>Первый реализованный проект, однако достоверных сведений о полете нет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/wrights'>Первый самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ilya_muromec'>Первый «тяжелый самолет»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/newport17'>Первый самолет с «зализанными» обводами</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ant-6'>Тяжелый бомбардировщик-моноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/messerschmitt'>Самый массовый истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/yak-1'>Самый легкий и маневренный истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/supermarine_spitfire'>Лучший истребитель битвы за Британию в 1940&nbsp;г.</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mosquito'>Цельнодеревянный скоростной бомбардировщик «Мечта термита»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mitsubishi_a6m_reisen'>Истребитель&nbsp;— символ японской авиации</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/il-2'>Тяжелый штурмовик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-15'>Фронтовой истребитель, один из первых серийных реактивных самолетов</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-86_sabre'>Многоцелевой истребитель, противник МиГ-15 в корейской войне</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-21'>Выдающийся сверхзвуковой истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/lockheed'>Высотный разведывательный самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_b-52'>Стратегический бомбардировщик с велосипедным шасси</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-144'>Сверхзвуковой пассажирский самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_747_jumbo'>«Реактивный слон»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-15_eagle'>Тактический истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/su-27'>Маневренный истребитель-перехватчик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-160'>Стратегический бомбардировщик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/an-124_ruslan'>Тяжелый военно-транспортный самолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/terms'>Основные параметры самолетов, указанные на плакате</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/literature'>Список литературы</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/light_version'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/gravity'>Гравитация</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/gravity/1'>Парабола или прямая?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/2'>Все дома стоят криво</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/3'>Из Москвы в&nbsp;Питер за&nbsp;полчаса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/4'>На Луну в комфортных условиях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/5'>Скоростной спутник Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/6'>Перевернутый небоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/7'>Супернебоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/8'>Запуск спутника без затрат энергии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/9'>Раскрутим Землю</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/perpetuum'>Вечный двигатель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/first'>Вечный двигатель первого рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/second'>Вечный двигатель второго рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/third'>Вечный двигатель «третьего рода»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/1'>Колесо и&nbsp;шары</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/2'>Цепочка шаров</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/3'>«Птичка Хоттабыча»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/4'>Цепочка поплавков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/5'>Архимедов винт</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/6'>Машина Орфиреуса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/7'>Магнит и желоба</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/8'>«Вечный водопровод»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/9'>Автоматический подзавод часов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/10'>Подъем масла по&nbsp;фитилям</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/11'>Колесо и&nbsp;грузы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/12'>Установка Потапова</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/13'>Луна и планеты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/spectrum'>Электромагнитное излучение</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/spectrum/nature'>Природа электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/wave'>Частота и длина волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/history'>История открытия электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/union'>Великое объединение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/energy'>Энергия кванта</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/temperature'>Температура излучения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/diapasons'>Диапазоны излучения и вещество</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/about'>Что изображено на плакате</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/units'>Соотношения и единицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/gamma'>Гамма-излучение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/roentgen'>Рентген</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/ultraviolet'>Ультрафиолет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/visible'>Видимый диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/infrared'>Инфракрасный диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/radio'>Радиоизлучение и микроволны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/other'>За пределами спектра</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/human'>Возможности человека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/human/muscular'>Сила</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/mind'>Мышление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/science'>Наука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/evolution'>Эволюционный принцип</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/factor'>Человеческий фактор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/weight'>Поднятие тяжестей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/flight'>Полет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/walk'>Бег</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/swim'>Плавание</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/trefil'>200 законов мироздания</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/trefil/introduction'><i>Введение</i></a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/physics'>Физика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/astronomy'>Астрономия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/maths'>Математика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/chemistry'>Химия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biology'>Науки о жизни</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/geo'>Науки о Земле</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/misc'>Разное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/rvm'>Взгляд в прошлое</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biography'><i>Биографии</i></a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/genbio'>Журнал общей биологии</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/genbio/english'>In English</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/genbio/english/all'>All Issues</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/genbio/abstracts'>All Abstracts</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/genbio/last'>Свежий выпуск</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/all'>Все выпуски</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/resume'>Статьи</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/synopsis'>Синопсисы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about'>О журнале</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about/rules'>Авторам</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/law'>Наука, образование и право</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/law/organ.htm'>Федеральные органы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/program.htm'>Федеральные программы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/intellectual.htm'>Интеллектуальная собственность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/law/intellectual/international.htm'>Международное законодательство</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/russian.htm'>Законодательство РФ </a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/patent.htm'>Патентование</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/contact.htm'>Сделки и договоры</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/payment.htm'>Вознаграждение</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/law/degree.htm'>Ученые степени</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nostr.htm'>Нострификация</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/vuz.htm'>Образование, вузы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nii.htm'>Научные организации</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/prize.htm'>Премии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/grant.htm'>Гранты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/work.htm'>Трудовое законодательство </a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/kodex.htm'>Конституция и кодексы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/other.htm'>Другие нормативные акты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/all_laws.htm'>Все нормативные акты</a>
+  </div></li>
+
+  </li></ul></ul>
+       <script type='text/javascript'>
+            document.write('<hr'+(!desktop_mode?"  class='hide_main'":"")+'>');
+            document.write('<div class="oldlink hide_main"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div>');
+            if (desktop_mode )
+               document.write('<div class="chmod mob hide_main"><a href="/" onclick="return setDesktopMode(false)">Мобильная версия сайта</a></div>');
+            else
+               document.write('<div class="chmod dsk hide_main"><a href="/" onclick="return setDesktopMode(true)">Полная версия сайта</a></div>');
+       </script>
+       <hr>
+       <ul class='img'>
+        <li class='first'><a class='facebook' href='https://www.facebook.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'></a></li>
+        <li><a class='instagram' href='https://www.instagram.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'></a></li>
+        <li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'></a></li>
+        <li><a class='rss' href='/rss/news' target='_blank'></a></li>
+       </ul>
+      </div>
+     </div>
+</div>
+
+<div class='print_logo hide_screen'><script type='text/javascript'>document.write("<img src='/images/eltnewdesign/logo_wpr.png'>");</script></div>
+
+<div class='hhead' id='pghead'>
+  <div class='hmenu'>
+    <div class='lmenu' id='hmainmenu'>
+      <a href='/' class='item' onclick='return toggleHMenu("mmenubody")'><span class='icon menu'></span><span class='hint'>Меню</span></a>
+    </div>
+    <div class='rmenu' id='rmenu'>
+       <a href='/' class='item' onclick='return toggleHMenu(this, true)'><span class='icon search'></span><span class='hint'>Поиск</span></a>
+       <a href='/' class='close' onclick='return toggleHMenu(this)'><span class='icon close2'></span><span class='hint'>Закрыть</span></a>
+       <div class='menuarea'>
+         <div class='menusearch xform'> 
+         <form action="find">
+             <input type="text" class="search" name="words" value="" placeholder="Поиск">
+             <input type="image" name="search" src="images/eltnewdesign/search_b.png">
+         </form>
+         </div> 
+       </div>
+    </div>
+    <div class='logo'><a href="/" onclick='return checkHMScroll()'><span>&nbsp;</span></a></div>
+  </div>  
+</div>
+
+
+<div class='body'  id='pgbody'>
+
+  
+   <div class='mblock chead'>
+     
+     
+<div class='rubpath'><span class='first last'><a href='/novosti_nauki'>Новости науки</a></span> </div>
+
+</div>
+   
+  
+
+   
+       <div class='mblock nogap'>
+<div class='mb itemhead newslist'><h1>Открытию бозонной триады&nbsp;— 40&nbsp;лет</h1>
+<div class="sublink"><span class="date">03.07.2023</span>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/1763182/Aleksey_Levin">Алексей Левин</a>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/21093/Fizika">Физика</a><span class="comma">,</span> <a href="/novosti_nauki/t/2381677/Istoriya_nauki">История науки</a>&nbsp;<span class='break'>•</span> <a href="/novosti_nauki/434117#forum" onclick="forum_goto(); return false;">26&nbsp;комментариев</a></div></div>
+</div>
+
+<div class='mblock'>
+
+<div class='socnetblock'><script src="/downloads/js/snfly.js?v=1.04"></script>
+<div  id="socnets_share">
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter=""></div>
+<div id='forum_topsocnet_button' style='display:none' title='Написать комментарий'><span class='fmicon'></span><div class='counter' id='forum_topsocnet_count'></div></div>
+</div>
+</div>
+
+<div class='itemblock'><div class='memo'>
+    <!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/gauge_bosons_40_1_703.jpg" alt="Симон ван дер Мер и Карло Руббиа" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p>Нидерландский физик Симон ван дер Мер (<i>слева</i>) и его итальянский коллега по ЦЕРНу Карло Руббиа, получившие в 1984 году Нобелевскую премию за открытие W- и Z-бозонов, сделанное годом раньше. Фото с сайта <a href="https://www.nytimes.com/2011/03/12/science/12vandermeer.html" target=_blank>nytimes.com</a></p></div>
+
+
+</div>
+
+    <p><b>3 июля 1983 года в ЦЕРНе был завершен один из важнейших и в то же время наиболее трудоемких экспериментов в&nbsp;истории физики высоких энергий. При анализе результатов столкновений протонных и антипротонных пучков, разогнанных до энергии 270&nbsp;ГэВ, ученые получили убедительные доказательства реальности промежуточных векторных бозонов, чье существование вытекало из развитой в&nbsp;1960-е годы единой теории электрослабых взаимодействий. Уже на следующий год руководитель эксперимента Карло Руббиа и один из его ключевых участников Симон ван&nbsp;дер&nbsp;Мер стали нобелевскими лауреатами. Сорокалетний юбилей этого события вполне заслуживает рассказа о том, что, почему и как было тогда сделано в&nbsp;Женеве.</b></p>
+
+<p>Я начну свой рассказ не с&nbsp;промежуточных векторных бозонов. Сорокалетие их открытия дает хороший повод поговорить о&nbsp;различных способах предсказания новых объектов физики частиц. Грешно было бы его упускать.</p>
+
+<h2>Изобретательность от безысходности</h2>
+
+<p>Физики начали выдвигать гипотезы о&nbsp;существовании ранее не наблюдавшихся в&nbsp;эксперименте частиц еще в&nbsp;первой половине 1930-х годов. Начало этому благородному&nbsp;— хотя и сильно рискованному&nbsp;— делу положил один из отцов-основателей квантовой механики <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%83%D0%BB%D0%B8,_%D0%92%D0%BE%D0%BB%D1%8C%D1%84%D0%B3%D0%B0%D0%BD%D0%B3" target=_blank>Вольфганг Паули</a>. Причем сделал он это без всякого формально-математического обоснования и в&nbsp;каком-то смысле просто от отчаяния. </p>
+
+<p>Случилось это так. Уже во втором десятилетии прошлого века экспериментаторов стало беспокоить странное поведение электронов, вылетающих из нестабильных ядер при <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%82%D0%B0-%D1%80%D0%B0%D1%81%D0%BF%D0%B0%D0%B4" target=_blank>бета-распаде</a>. Экспериментальные данные показывали, что кинетическая энергия этих частиц изменяется в&nbsp;довольно широких пределах. В то же время появлялось все больше и больше оснований считать, что такие ядра теряют энергию дискретно и одними и теми же порциями. Но в&nbsp;этом случае каждый конкретный вид бета-распада вроде бы должен генерировать электроны одинаковой энергии, а этого не происходило. Аналогично выглядело и сравнение угловых моментов, которые тоже не сохранялись. </p>
+
+<p>В принципе, эти аномалии можно было объяснить несоблюдением фундаментальных законов сохранения, но почти все физики считали это чрезмерной жертвой. Ситуацию спас Вольфганг Паули, тридцатилетний, но уже знаменитый профессор теоретической физики швейцарского Федерального технологического института в&nbsp;Цюрихе. В&nbsp;качестве «крайнего средства» (его собственные слова) спасения законов сохранения энергии и углового момента Паули допустил, что внутри ядра скрываются электрически нейтральные легкие частицы с&nbsp;половинным <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D0%BD" target=_blank>спином</a>. Эти гипотетические <a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BF%D1%82%D0%BE%D0%BD%D1%8B" target=_blank>лептоны</a> он предложил называть нейтронами. Согласно его гипотезе, именно они уносят с&nbsp;собой остаток потерянной ядром энергии, поэтому в&nbsp;каждом акте бета-распада сумма энергий этой частицы и электрона должна быть постоянной.</p>
+
+<p>Паули понимал, что его идея очень уязвима для критики. Впервые он сообщил о ней в&nbsp;письме от 4&nbsp;декабря 1930&nbsp;года, адресованном специалистам по радиоактивности, собравшимся в&nbsp;Тюбингене, особо подчеркнув, что не счел возможным публиковать свою гипотезу в&nbsp;научном журнале. Неформальный характер этого послания выражен даже в&nbsp;обращении «<i>Дорогие радиоактивные дамы и господа!</i>». Признавая, что его предположение выглядит «<i>почти невероятным</i>», Паули все же попросил коллег подумать, как обнаружить гипотетическую частицу в&nbsp;эксперименте.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/gauge_bosons_40_2_703.jpg" alt="Вольфганг Паули, Вернер Гейзенберг, Энрико Ферми" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p><i>Слева направо:</i> Вольфганг Паули, Вернер Гейзенберг, Энрико Ферми. Озеро Комо, 1927&nbsp;год. Фото с&nbsp;сайта <a href="https://www.nobelprize.org/prizes/physics/1945/pauli/photo-gallery/?gallery_style=page" target=_blank>nobelprize.org</a></p></div>
+
+
+</div>
+
+<p>Лингвистическое нововведение Паули, строго говоря, принадлежало не ему. О&nbsp;нейтронах в&nbsp;1920&nbsp;году говорил <a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D1%84%D0%BE%D1%80%D0%B4,_%D0%AD%D1%80%D0%BD%D0%B5%D1%81%D1%82" target=_blank>Резерфорд</a>&nbsp;— в&nbsp;знаменитой <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B9%D0%BA%D0%B5%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F" target=_blank>Бейкеровской лекции</a>, где он впервые назвал ядро водорода протоном. Правда, отец-основатель ядерной физики понимал под нейтроном не самостоятельную частицу, а компактную комбинацию протона и электрона. Впрочем, в&nbsp;плане названия он тоже не был первым&nbsp;— его в&nbsp;1899&nbsp;году придумал австралийский физик Уильям Сазерленд (<a href="https://en.wikipedia.org/wiki/William_Sutherland_(physicist)" target=_blank>William Sutherland</a>), который ввел его для обозначения гипотетических дублетов отрицательных и положительных электронов (и в&nbsp;этом же смысле его вслед за Сазерлендом употреблял знаменитый немецкий химик <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D0%BD%D1%81%D1%82,_%D0%92%D0%B0%D0%BB%D1%8C%D1%82%D0%B5%D1%80" target=_blank>Вальтер Нернст</a>, который писал о&nbsp;нейтронах в&nbsp;опубликованной в&nbsp;1903&nbsp;году монографии «Теоретическая химия»). </p>
+
+<p>Трудно сказать, знал ли сам Паули о&nbsp;предшествующих появлениях термина «нейтрон» в&nbsp;научной литературе, но в&nbsp;любом случае предложенное им название скоро поменяло адресата, поскольку нейтроном стали именовать нейтральный аналог протона, открытый в&nbsp;1932&nbsp;году сотрудником Кавендишской лаборатории <a href="https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%B4%D0%B2%D0%B8%D0%BA,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81" target=_blank>Джеймсом Чедвиком</a>. А вот сама идея Паули оказалась исключительно плодотворной. В&nbsp;1933–34&nbsp;годах великий итальянец <a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D1%80%D0%BC%D0%B8,_%D0%AD%D0%BD%D1%80%D0%B8%D0%BA%D0%BE" target=_blank>Энрико Ферми</a> разработал математическую теорию бета-распада с&nbsp;участием частицы, предложенной Паули, которую Ферми стал называть нейтрино (с&nbsp;подачи своего друга и коллеги <a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B0%D0%BB%D1%8C%D0%B4%D0%B8,_%D0%AD%D0%B4%D0%BE%D0%B0%D1%80%D0%B4%D0%BE" target=_blank>Эдоардо Амальди</a>). При этом он совершенно по-новому объяснил ее появление. Если Паули считал, что его гипотетическая частица присутствует в&nbsp;ядре в&nbsp;готовом виде, то Ферми предположил, что нейтрино <b>рождается</b> одновременно с&nbsp;превращением одного из внутриядерных нейтронов в&nbsp;протон и электрон. Протон остается в&nbsp;составе дочернего ядра с&nbsp;возросшим на единицу атомным номером, а электрон и нейтрино вылетают в&nbsp;окружающее пространство. Ферми также постулировал, что масса нейтрино равна нулю (откуда следует, что оно всегда движется со скоростью света) и что для его возникновения не нужны посредники в&nbsp;виде каких-либо вспомогательных частиц.</p>
+
+<p>Сам Паули долгое время считал, что предсказал частицу, которая настолько слабо взаимодействует с&nbsp;веществом, что ее невозможно обнаружить в&nbsp;эксперименте. И действительно, его гипотеза нашла подтверждение лишь через четверть века после ее выдвижения. В&nbsp;1955–56&nbsp;годах американские физики под руководством Клайда Коуэна (<a href="https://en.wikipedia.org/wiki/Clyde_Cowan" target=_blank>Clyde Cowan</a>) и <a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B9%D0%BD%D0%B5%D1%81,_%D0%A4%D1%80%D0%B5%D0%B4%D0%B5%D1%80%D0%B8%D0%BA" target=_blank>Фредерика Райнеса</a> нашли следы нейтрино в&nbsp;излучении одного из реакторов ядерного комплекса <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0-%D0%A0%D0%B8%D0%B2%D0%B5%D1%80_(%D1%8F%D0%B4%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D0%B3%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA)" target=_blank>«Саванна-Ривер»</a> в&nbsp;штате Южная Каролина, о&nbsp;чем известили Паули специальной телеграммой. В&nbsp;1995&nbsp;году Райнес получил за это Нобелевскую премию, до которой не дожил Коуэн. Сейчас в&nbsp;мире существует множество нейтринных детекторов, которые разными способами регистрируют эту некогда неуловимую частицу. Но это уже совсем другая история.</p>
+
+<p>Вторую частицу предсказал основатель квантовой электродинамики <a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%80%D0%B0%D0%BA,_%D0%9F%D0%BE%D0%BB%D1%8C" target=_blank>Поль Адриен Мари Дирак</a>. В&nbsp;сентябре 1931&nbsp;года он опубликовал статью с&nbsp;утверждением, что из развитой им четырьмя годами ранее релятивистской версии квантовой механики электрона вытекает существование частиц, которые ничем не отличаются от электронов, за исключением знака электрического заряда. Он пришел к&nbsp;этой гипотезе после длительных попыток дать физическую интерпретацию состояниям с&nbsp;отрицательной энергией, которые неизменно появлялись при решении его <a href="https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%94%D0%B8%D1%80%D0%B0%D0%BA%D0%B0" target=_blank>великого уравнения</a>. Дирак вполне логично назвал эти гипотетические частицы антиэлектронами. </p>
+
+<p>В отличие от Паули, Дирак узнал о&nbsp;подтверждении своей экзотической гипотезы почти мгновенно. Уже в&nbsp;декабре 1931&nbsp;года молодой американский физик <a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%9A%D0%B0%D1%80%D0%BB_%D0%94%D0%B5%D0%B9%D0%B2%D0%B8%D0%B4" target=_blank>Карл Андерсон</a> опубликовал в&nbsp;журнале <i>The Science News-Letter</i> фотографию трека очень легкой частицы с&nbsp;положительным зарядом, снятого в&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D1%80%D0%B0_%D0%92%D0%B8%D0%BB%D1%8C%D1%81%D0%BE%D0%BD%D0%B0" target=_blank>камере Вильсона</a>. Эта фотография была сделана еще до публикации статьи Дирака и никак с&nbsp;ней не связана. Поставивший заметку Андерсона в&nbsp;номер редактор предложил назвать эту частицу позитроном. Последующие исследования как самого Андерсона, так и его европейских коллег <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D1%8D%D0%BA%D0%B5%D1%82%D1%82,_%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA_%D0%9C%D0%B5%D0%B9%D0%BD%D0%B0%D1%80%D0%B4_%D0%A1%D1%82%D1%8E%D0%B0%D1%80%D1%82" target=_blank>Патрика Блэкетта</a> и <a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D0%BA%D0%B8%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8,_%D0%94%D0%B6%D1%83%D0%B7%D0%B5%D0%BF%D0%BF%D0%B5" target=_blank>Джузеппе Оккиалини</a>, позволили установить, что свойства позитрона полностью совпадают с&nbsp;теоретически выведенными свойствами дираковского антиэлектрона. В&nbsp;1936&nbsp;году Андерсон получил за свои исследования Нобелевскую премию по физике (к&nbsp;слову, всего через три года после Дирака).</p>
+
+<h2>Рожденные новой моделью</h2>
+
+<p>Третью частицу в&nbsp;1934&nbsp;году измыслил 27-летний японский физик-теоретик <a href="https://ru.wikipedia.org/wiki/%D0%AE%D0%BA%D0%B0%D0%B2%D0%B0,_%D0%A5%D0%B8%D0%B4%D1%8D%D0%BA%D0%B8" target=_blank>Хидэки Юкава</a>&nbsp;— причем совершенно иным путем, нежели Паули и Дирак. Узнав в&nbsp;1932&nbsp;году об открытии нейтрона, Юкава стал думать о&nbsp;создании теории, объясняющей ядерные силы&nbsp;— иначе говоря, механизмы взаимодействия между нуклонами (протонами и нейтронами), входящими в&nbsp;состав атомных ядер. Первые два года этих размышлений оказались практически бесплодными. Однако летом 1934&nbsp;года в&nbsp;его руки попал итальянский журнал <i>Nuovo Cimento</i>, где была опубликована статья Энрико Ферми с&nbsp;теорией бета-распада. Она натолкнула Юкаву на мысль, что внутриядерные нуклоны «склеены» друг с&nbsp;другом благодаря обмену частицами еще неизвестной природы, несущими электрические заряды обоих знаков и той же абсолютной величины, что заряд протона и электрона. Испуская положительно заряженную частицу этого рода, протон превращается в&nbsp;нейтрон; аналогично, нейтрон может испустить частицу с&nbsp;отрицательным зарядом и превратиться в&nbsp;протон. Таким образом, атомное ядро в&nbsp;теории Юкавы оказалось динамической системой, компоненты которой постоянно переходят друг в&nbsp;друга. Для своих гипотетических частиц Юкава выбрал название вполне в&nbsp;духе времени&nbsp;— U-кванты (то&nbsp;есть, кванты U-поля).</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ipadlarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/gauge_bosons_40_3_610.jpg" alt="Хидеки Юкава с Альбертом Эйнштейном и Джоном Уилером" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p>Хидеки Юкава с Альбертом Эйнштейном и <a href="https://ru.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BB%D0%B5%D1%80,_%D0%94%D0%B6%D0%BE%D0%BD_%D0%90%D1%80%D1%87%D0%B8%D0%B1%D0%B0%D0%BB%D1%8C%D0%B4" target=_blank>Джоном Уилером</a>, Принстон, 1954&nbsp;год. Фото с&nbsp;сайта <a href="https://www.lindahall.org/about/news/scientist-of-the-day/hideki-yukawa" target=_blank>lindahall.org</a></p></div>
+
+
+</div>
+
+
+<p>Юкава сделал больше. Ему, как и другим физикам, было очевидно, что радиус действия ядерных сил должен совпадать с&nbsp;размерами самих ядер. К&nbsp;тому времени они были надежно измерены в&nbsp;экспериментах&nbsp;— около 10<sup>−15</sup>&nbsp;метра. Используя квантовомеханическое <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF_%D0%BD%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8#%D0%9E%D0%B1%D1%89%D0%B8%D0%B5_%D0%BD%D0%B0%D0%B1%D0%BB%D1%8E%D0%B4%D0%B0%D0%B5%D0%BC%D1%8B%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5,_%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B4%D1%87%D0%B8%D0%BD%D1%8F%D1%8E%D1%82%D1%81%D1%8F_%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%83_%D0%BD%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" target=_blank>соотношение неопределенностей для энергии и времени</a>, Юкава пришел к&nbsp;выводу, что масса U-квантов должна приблизительно в&nbsp;двести раз превышать массу электрона (или, что то же самое, десятикратно уступать массе протона. Иными словами, новые частицы должны тянуть примерно на 100&nbsp;МэВ. Юкава также предложил со временем ставшую знаменитой формулу для потенциала U-поля:</p>
+
+\[V=-g^2 \frac{e^{-mr}}{r},\]
+
+<p>где \(g^2\)&nbsp;— константа взаимодействия, аналогичная по физическому смыслу <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D0%BE%D0%BD%D0%BA%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B" target=_blank>постоянной тонкой структуры</a> в&nbsp;квантовой электродинамике, \(m\)&nbsp;— масса U-частицы в&nbsp;системе единиц, где <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F_%D0%9F%D0%BB%D0%B0%D0%BD%D0%BA%D0%B0" target=_blank>постоянная Планка</a> и скорость света считаются равными единице (в&nbsp;этой системе размерность массы равна обратной размерности длины), \(r\)&nbsp;— расстояние. Из этой формулы сразу видно, что межнуклонные взаимодействия притягивают их друг к&nbsp;другу (потенциал отрицателен!), что при \(mr\) больше единицы сила этого притяжения падает по экспоненте и что радиус этой силы тем меньше, чем тяжелее U-частицы. Если допустить, что их масса равна нулю, получим обычный кулоновский потенциал электромагнитного поля, где переносчиками взаимодействия служат фотоны.</p>
+
+<p>Юкава не остановился и на этом. Он не забыл отметить, что предсказанные им частицы в&nbsp;свободном состоянии наверняка живут очень недолго, и именно поэтому еще не обнаружены. Он даже предсказал, что их скорее всего удастся зарегистрировать при исследовании высокоэнергетичных превращений, вызванных действием космических лучей на земную атмосферу.</p>
+
+<p>Юкава представил свою теорию в&nbsp;написанной в&nbsp;ноябре 1934&nbsp;года статье, которая в&nbsp;следующем феврале после неоднократного редактирования появилась в&nbsp;малочитаемом в&nbsp;США и Европе журнале <i>Proceedings of the Physico-Mathematical Society of Japan</i> (H.&nbsp;Yukawa, 1935. <a href="https://www.jstage.jst.go.jp/article/ppmsj1919/17/0/17_0_48/_article" target=_blank>On the Interaction of Elementary Particles</a>). Стараясь привлечь внимание к&nbsp;своей работе, он послал репринты нескольким известным физикам, включая <a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D0%BF%D0%B5%D0%BD%D0%B3%D0%B5%D0%B9%D0%BC%D0%B5%D1%80,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82" target=_blank>Роберта Оппенгеймера</a>, но реакция была почти нулевой. Ему выпала возможность справиться о&nbsp;мнении Нильса Бора, когда тот посетил Японию, однако великий датчанин ограничился тем, что спросил своего молодого коллегу, нравится ли тому изобретать несуществующие частицы. Если учесть, что к&nbsp;тому времени позитрон был уже открыт в&nbsp;эксперименте, а в&nbsp;существовании нейтрино мало кто сомневался, такая реакция выглядит, мягко говоря, не слишком серьезной. Впрочем, Бору случалось ошибаться и в&nbsp;других вопросах.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/gauge_bosons_40_4_703.jpg" alt="Карл Андерсон и Сет Неддермайер" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p>Карл Андерсон и Сет Неддермайер рядом с&nbsp;камерой Вильсона, с&nbsp;помощью которой в&nbsp;1932&nbsp;году был открыт позитрон. Фото с&nbsp;сайта <a href="https://digital.archives.caltech.edu/islandora/object/image%3A2225" target=_blank>digital.archives.caltech.edu</a></p></div>
+
+
+</div>
+
+<p>Однако вскоре фортуна стала склоняться на сторону Юкавы. В&nbsp;мае 1937&nbsp;года Андерсон и его аспирант <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B4%D0%B4%D0%B5%D1%80%D0%BC%D0%B0%D0%B9%D0%B5%D1%80,_%D0%A1%D0%B5%D1%82" target=_blank>Сет Неддермайер</a> сообщили в&nbsp;журнале <i>Physical Review</i> о&nbsp;наблюдении (все в&nbsp;той же камере Вильсона, установленной в&nbsp;горной обсерватории на высоте 4300&nbsp;метров над уровнем моря) отрицательно заряженной частицы, чья масса сильно превышала электронную, но была в&nbsp;разы меньше протонной (C.&nbsp;D.&nbsp;Anderson, S.&nbsp;H.&nbsp;Neddermeyer, 1936. <a href="https://journals.aps.org/pr/abstract/10.1103/PhysRev.50.263" target=_blank>Cloud Chamber Observations of Cosmic Rays at 4300&nbsp;Meters Elevation and Near Sea-Level</a>). Андерсон предложил назвать ее мезотоном (были и другие имена, включая более известный мезотрон), но в&nbsp;конце концов победила укороченная версия&nbsp;— <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B7%D0%BE%D0%BD" target=_blank>мезон</a> (от греческого «мезос»&nbsp;— промежуточный, средний).</p> 
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/gauge_bosons_40_5_703.jpg" alt="Первая регистрация мюона" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p>Первая регистрация мюона. Новая частица была опознана по ее треку в&nbsp;камере Вильсона: в&nbsp;магнитном поле она отклонялась сильнее электрона, но слабее протона. Здесь показан снимок камеры Вильсона (<i>слева</i>&nbsp;&mdash; прямое изображение, <i>справа</i>&nbsp;&mdash; отраженное), трек мюона виден как слегка наклоненная вправо почти вертикальная жирная линия в&nbsp;центре камеры. Изображение из статьи C.&nbsp;D.&nbsp;Anderson, S.&nbsp;H.&nbsp;Neddermeyer, 1936. <a href="https://journals.aps.org/pr/abstract/10.1103/PhysRev.50.263" target=_blank>Cloud Chamber Observations of Cosmic Rays at 4300&nbsp;Meters Elevation and Near Sea-Level</a></p></div>
+
+
+</div>
+
+<p>Это открытие привлекло внимание и к&nbsp;теории Юкавы; в&nbsp;частности, Оппенгеймер перечитал полученный от Юкавы препринт и сообщил о его модели в&nbsp;<i>Physical Review</i>. Несколько лет новая частица считалась возможной инкарнацией U-кванта, но эта интерпретация, как в&nbsp;1966&nbsp;году едко заметил Роберт Оппенгеймер, оказалась десятилетней шарадой. В&nbsp;1947&nbsp;году английский физик <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%83%D1%8D%D0%BB%D0%BB,_%D0%A1%D0%B5%D1%81%D0%B8%D0%BB_%D0%A4%D1%80%D1%8D%D0%BD%D0%BA" target=_blank>Сесил Пауэлл</a> и члены его группы обнаружили (все в&nbsp;тех же следах космических лучей) положительные и отрицательные частицы Юкавы, а тремя годами позже была открыта и ее нейтральная версия. Эта тройка частиц получила название пи-мезонов, они же пионы. Мезотон Андерсона и Неддермайера оказался членом совсем другого семейства обитателей микромира&nbsp;— не адроном, а лептоном, частицей, вообще не участвующей в&nbsp;сильных ядерных взаимодействиях. Вряд ли стоит напоминать, что его прежнее название «мю-мезон» уже давно сократилось до <a href="https://ru.wikipedia.org/wiki/%D0%9C%D1%8E%D0%BE%D0%BD" target=_blank>мюона</a>. Эта история полна любопытных нюансов с&nbsp;целым рядом неназванных здесь участников, но я вынужден оставить их за рамками статьи. Ограничусь сообщением, что Хидэки Юкава в&nbsp;1949&nbsp;году получил стопроцентно заслуженную им (и не только за пионы) Нобелевскую премию.</p>
+
+<p>Итак, мы имеем дело с&nbsp;тремя самыми известными предсказаниями новых частиц, обнародованными в&nbsp;первой половине 1930-х годов. Точности ради, было и кое-что еще. В&nbsp;1935&nbsp;году необычайно талантливый, но невезучий швейцарский физик и математик барон <a href="https://ru.wikipedia.org/wiki/%D0%A8%D1%82%D1%8E%D0%BA%D0%B5%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D0%B3,_%D0%AD%D1%80%D0%BD%D1%81%D1%82" target=_blank>Эрнст Карл Штюкельберг</a> (его полное имя куда длиннее) предложил теорию ядерных сил, основанную на обмене частицами с&nbsp;единичным спином, которые сейчас называют векторными бозонами. Его соотечественник Вольфганг Паули не оставил от этой идеи камня на камне, так что Штюкельберг ее далее не разрабатывал. Впрочем, предложенные им частицы в&nbsp;любом случае не были аналогами пионов, поскольку те имеют нулевой спин и потому относятся не к&nbsp;векторным, а к&nbsp;псевдоскалярным бозонам. Однако модель Штюкельберга в&nbsp;определенном смысле возродилась в&nbsp;единой теории электрослабых взаимодействий, которые переносятся именно что векторными бозонами. Наконец, в&nbsp;1938&nbsp;году шведский физик <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B5%D0%B9%D0%BD,_%D0%9E%D1%81%D0%BA%D0%B0%D1%80" target=_blank>Оскар Клейн</a> рассмотрел модель слабых взаимодействий с&nbsp;настоящими векторными бозонами в&nbsp;качестве переносчиков. Эта идея в&nbsp;полном смысле слова оказалась пророческой.</p>
+
+<p>Но вернемся к&nbsp;основной триаде&nbsp;— нейтрино, позитрону и U-кваркам. Первая гипотеза была типичным предположением <i>ad&nbsp;hoc</i>, выдвинутым для спасения закона сохранения энергии. Фактически по этому же разряду надо отнести и гипотезу Дирака&nbsp;— как уже говорилось, ему надо было найти физически осмысленную (и, главное, проверяемую в&nbsp;эксперименте) интерпретацию той шутки, которую сыграло с&nbsp;ним его уравнение. И только частицы Юкавы, они же пионы, появились на свет в&nbsp;контексте очень глубокой <b>динамической</b> модели ядерных сил, над которой он работал целых два года. Это принципиально разные пути «изобретения» частиц, в&nbsp;котором Бор упрекнул своего японского коллегу.</p>
+
+<h2>Система все превозмогает</h2>
+
+<p>В 1961&nbsp;году теоретическая физика в&nbsp;лице ее блестящих представителей американца <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D0%BB-%D0%9C%D0%B0%D0%BD,_%D0%9C%D0%B0%D1%80%D1%80%D0%B8" target=_blank>Марри Гелл-Мана</a> и израильтянина <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%8D%D0%BC%D0%B0%D0%BD,_%D0%AE%D0%B2%D0%B0%D0%BB%D1%8C" target=_blank>Юваля Неэмана</a> освоила еще один способ предсказания новых частиц. Несмотря на новизну его математической реализации, в&nbsp;принципе он имел весьма почтенный возраст. В его основе лежало конструирование классификационных систем, адекватно отражающих достаточно широкий спектр свойств изучаемых объектов. Такой подход еще в&nbsp;конце XVIII&nbsp;столетия очень эффективно развил великий французский естествоиспытатель <a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%8E%D0%B2%D1%8C%D0%B5,_%D0%96%D0%BE%D1%80%D0%B6_%D0%9B%D0%B5%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D0%B4" target=_blank>Жорж Кювье</a>. В&nbsp;1798&nbsp;году он опубликовал работу, в&nbsp;которой сформулировал так называемый <a href="http://www.zoofirma.ru/knigi/zoologija-pozvonochnyh/3780-zakon-korreljatsii-organov.html" target=_blank>принцип корреляции частей организма</a> (кстати, насколько мне известно, это было первое употребление термина «корреляция» в&nbsp;научной литературе). Этот принцип утверждал, что органы живого существа соединены друг с&nbsp;другом сильными взаимосвязями. Развивая эту мысль, Кювье писал, что сравнительная анатомия достигла такого совершенства, что изучение одной единственной кости древнего животного, найденной при раскопках, нередко позволяет определить его место в&nbsp;системе анатомической классификации. Хотя практическое применение этого принципа оказалось не столь простым и успешным, как рассчитывал Кювье, ему все же удалось сделать целый ряд аккуратных палеонтологических предсказаний. Более того, идея корреляции органов со временем стала одним из основных рабочих правил палеонтологии.</p>
+
+<p>Вероятно, в прошлом столетии самым весомым примером использования классификационной системы в&nbsp;качестве прогностического средства стали работы Дмитрия Ивановича Менделеева. На базе своей Периодической системы он предсказал существование и свойства одиннадцати элементов, которые со временем все были обнаружены в&nbsp;ходе лабораторных исследований. Этот блестящий успех не нуждается в&nbsp;комментариях.</p>
+
+<p>Теперь совершим перескок к&nbsp;Гелл-Ману и Неэману. Они заметили, что совокупность открытых в&nbsp;эксперименте мезонов и барионов очевидным образом распадается на группы родственных частиц&nbsp;— мультиплетов. Например, как сейчас известно, самые легкие барионы и мезоны составляют два восьмеричных мультиплета, то&nbsp;есть два октета. Мезонный октет состоит из четырех <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BE%D0%BD" target=_blank>каонов</a>, трех пионов и одной <a href="https://ru.wikipedia.org/wiki/%D0%AD%D1%82%D0%B0-%D0%BC%D0%B5%D0%B7%D0%BE%D0%BD" target=_blank>эта-частицы</a>, которая в&nbsp;начале 1961&nbsp;года еще не была открыта. Аналогично, в&nbsp;октет барионов входят протон и нейтрон, три <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%BC%D0%B0-%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%BE%D0%BD%D1%8B" target=_blank>сигма-частицы</a>, одна нейтральная <a href="https://ru.wikipedia.org/wiki/%D0%9B%D1%8F%D0%BC%D0%B1%D0%B4%D0%B0-%D0%B1%D0%B0%D1%80%D0%B8%D0%BE%D0%BD%D1%8B" target=_blank>лямбда-частица</a> (Λ<sup>0</sup>) и пара <a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%81%D0%B8-%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%BE%D0%BD%D1%8B" target=_blank>кси-частиц</a>. Члены каждого октета обладают более или менее близкими массами, но разными электрическими зарядами и разной <a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" target=_blank>странностью</a>. Так, в&nbsp;барионном октете две частицы с&nbsp;нулевой странностью (протон и нейтрон) почти тождественны по массе, но протон несет один положительный элементарный электрический заряд, а нейтрон, в&nbsp;соответствии со своим названием, нейтрален. Три сигма-частицы и лямбда имеют странность&nbsp;−1, причем лямбда и одна из сигм нейтральны, а остальные две заряжены положительно и отрицательно (опять-таки одним элементарным зарядом). Наконец, пара кси-частиц обладает странностью&nbsp;−2, одна из них нейтральна, а вторая несет отрицательный заряд. Такова же структура мезонного октета, только в&nbsp;нем странность подгрупп составляет не 0, −1 и −2, как у&nbsp;барионов, а 1 (два каона), 0 (три пиона и эта-частица) и −1 (еще два каона). Это структурное единство особенно хорошо просматривается при графическом представлении обоих октетов, которое легко найти во множестве книг по физике элементарных частиц. Кстати, будет не лишним напомнить, что сильное взаимодействие вообще не различает частицы с&nbsp;неодинаковыми электрическими зарядами, они для него все, так сказать, на одно лицо.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/gauge_bosons_40_6_703.jpg" alt="Марри Гелл-Ман и Юваль Неэман" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p>Марри Гелл-Ман (<i>справа</i>) и Юваль Неэман, 1964&nbsp;год. Фото с&nbsp;сайта <a href="https://www.caltech.edu/about/news/50-years-quarks-43351" target=_blank>caltech.edu</a></p></div>
+
+
+</div>
+
+<p>Марри Гелл-Ман и Ювал Неэман предположили, что за возникновение обоих этих мультиплетов, как и всех прочих, как раз и отвечает некая глубинная симметрия законов природы, и им удалось ее найти. Она оказалась обобщением симметрии непрерывной группы <a href="https://en.wikipedia.org/wiki/Special_unitary_group#The_group_SU(2)" target=_blank>SU(2)</a>, которой физики уже много лет пользовались для описания спиновых квантовых чисел. Математически это связано с&nbsp;тем, что все <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BF%D1%80%D0%B8%D0%B2%D0%BE%D0%B4%D0%B8%D0%BC%D0%BE%D0%B5_%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" target=_blank>неприводимые представления</a> этой группы можно занумеровать одним целым или полуцелым числом, которое интерпретируется как значение спина, обычного или <a href="https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D0%BE%D1%82%D0%BE%D0%BF%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BF%D0%B8%D0%BD" target=_blank>изотопического</a>. Однако известные к&nbsp;тому времени адроны, чье количество уже перевалило за два десятка, имели изотопические спины 0, 1/2 или 1, поэтому упорядочить их на одной этой основе оказалось невозможным. Для полной классификации требовался еще один численный показатель.</p>
+
+<p>Создатели новой классификации частиц как раз и решили воспользоваться для классификации адронов двумя квантовыми числами, для чего симметрию пришлось расширить. В&nbsp;результате они пришли к&nbsp;группе квадратных унитарных матриц размерности 3×3 с&nbsp;комплексными элементами и единичным определителем. Это обобщение группы SU(2) на трехмерную версию, которую еще в&nbsp;начале XX&nbsp;века изучил великий французский математик <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%B0%D0%BD,_%D0%AD%D0%BB%D0%B8_%D0%96%D0%BE%D0%B7%D0%B5%D1%84" target=_blank>Эли Картан</a>. Группа <a href="https://en.wikipedia.org/wiki/Special_unitary_group#The_group_SU(3)" target=_blank>SU(3)</a> замечательна тем, что любое из ее неприводимых представлений можно занумеровать упорядоченной парой натуральных неотрицательных чисел (<i>m</i>,&nbsp;<i>n</i>). Если выбрать \(m=n=1\), получается восьмимерное представление, которое естественно сопоставить октету частиц&nbsp;— фигурально выражаясь, каждому измерению по частице. Поэтому SU(3) буквально напрашивалась на использование для классификации адронов.</p>
+
+<p>Гелл-Ман для описания частиц использовал одну из возможных пар их квантовых чисел&nbsp;— изотопический спин и <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%B7%D0%B0%D1%80%D1%8F%D0%B4" target=_blank>гиперзаряд</a>. С&nbsp;таким же успехом можно было взять другую пару&nbsp;— странность и электрический заряд. В&nbsp;любом случае из представления (1,&nbsp;1) получается октет барионов (плюс еще восемь антибарионов), и октет мезонов, о&nbsp;которых только что говорилось. Гелл-Ман назвал эту схему Восьмеричным путем (<a href="https://en.wikipedia.org/wiki/Eightfold_way_(physics)" target=_blank>Eightfold way</a>)&nbsp;— по аналогии с&nbsp;тем, <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%8C%D0%BC%D0%B5%D1%80%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D0%BF%D1%83%D1%82%D1%8C" target=_blank>который Будда указал</a> как дорогу к&nbsp;нирване.</p>
+
+<p>Гелл-Ман и Неэман опубликовали свои результаты в&nbsp;1961&nbsp;году, когда (как уже говорилось) число известных мезонов не превышало семи (M.&nbsp;Gell-Mann, 1961. <a href="https://www.osti.gov/biblio/4008239/" target=_blank>The Eightfold Way: A&nbsp;theory of strong interaction symmetry</a>, Y.&nbsp;Ne'eman, 1961. <a href="https://www.sciencedirect.com/science/article/abs/pii/0029558261901341?via%3Dihub" target=_blank>Derivation of strong interactions from a&nbsp;gauge invariance</a>). Однако Гелл-Ман не побоялся предсказать существование восьмого мезона, соседа тройки пионов (аналогично лямбде и триплету сигма-частиц в&nbsp;барионном октете). В&nbsp;этом же году <a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D0%B5%D1%81,_%D0%9B%D1%83%D0%B8%D1%81" target=_blank>Луис Альварес</a> с&nbsp;коллегами экспериментально доказали существование этой частицы и назвали ее <a href="https://ru.wikipedia.org/wiki/%D0%AD%D1%82%D0%B0-%D0%BC%D0%B5%D0%B7%D0%BE%D0%BD" target=_blank>эта-мезоном</a> (обозначается греческой буквой&nbsp;η). Это был первый успех нового метода предсказания частиц.</p>
+
+<p>Симметрия SU(3) также допускает существование десяти барионов с&nbsp;изотопическим спином 3/2, то&nbsp;есть уже не октета, а декуплета&nbsp;— ему соответствует представление (3,&nbsp;0). К&nbsp;лету 1962&nbsp;года экспериментаторы обнаружили девять крайне нестабильных частиц из семейства гиперонов со схожими массами (их называют резонансами). Гелл-Ман и Неэман предсказали и десятый резонанс с&nbsp;зарядом минус&nbsp;1, проекцией изотопического спина&nbsp;1/2, странностью минус&nbsp;3 и массой около 1685&nbsp;МэВ. Гелл-Ман выбрал для него имя Ω<sup>−</sup> (омега-минус, или <a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BC%D0%B5%D0%B3%D0%B0-%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%BE%D0%BD" target=_blank>омега-минус гиперон</a>). 31&nbsp;января 1964&nbsp;года Николас Самиос (<a href="https://en.wikipedia.org/wiki/Nicholas_P._Samios" target=_blank>Nicholas&nbsp;P. Samios</a>) и его коллеги нашли следы распада этой частицы на одной из 50&nbsp;тысяч фотографий, сделанных на новой пузырьковой камере Брукхейвенской лаборатории. Ее масса почти совпадала с&nbsp;расчетной&nbsp;— 1672&nbsp;МэВ. Это стало триумфом систематики адронов, основанной на SU(3)-симметрии.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/gauge_bosons_40_7_703.jpg" alt="Барионный декуплет" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p>Комбинация трех <i>u</i>-, <i>d</i>- или <i>s</i>-кварков с&nbsp;общим спином 3/2 формирует так называемый барионный декуплет. Рисунок с&nbsp;сайта <a href="https://en.wikipedia.org/wiki/Hyperon" target=_blank>en.wikipedia.org</a></p></div>
+
+
+</div>
+
+<p>Физическая природа обнаруженных симметрий поначалу оставалась совершенно загадочной. Она стала проясняться после того, как в&nbsp;1964&nbsp;году все тот же Гелл-Ман и его соотечественник <a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B2%D0%B5%D0%B9%D0%B3,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6" target=_blank>Джордж Цвейг</a> предложили <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C" target=_blank>теорию кварков</a>. Из нее следует, что формирование мультиплетов, которым соответствуют различные представления группы SU(3), определяется кварковым составом входящих в&nbsp;них частиц. Так что здесь вновь работает определенная классификация (или, как предпочитают говорить специалисты, систематика), только уже не чисто формальная, а физически содержательная.</p>
+
+<p>Эта систематика оказалась чрезвычайно конструктивной. Гелл-Ман и Цвейг «изобрели» всего лишь три типа кварков&nbsp;— или, как сейчас говорят, три <a href="https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%BE%D0%BC%D0%B0%D1%82_(%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0)" target=_blank>аромата</a>&nbsp;— <i>u</i>-кварк и <i>d</i>-кварк, чья странность равна нулю, и <i>s</i>-кварк с&nbsp;ненулевым значением странности. Для объяснения симметрий между известными к&nbsp;тому времени частицами этого было вполне достаточно. Однако через несколько месяцев после появления кварковой модели <a href="https://ru.wikipedia.org/wiki/%D0%91%D1%8C%D1%91%D1%80%D0%BA%D0%B5%D0%BD,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81" target=_blank>Джеймс Бьеркен</a> и <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D1%8D%D1%88%D0%BE%D1%83,_%D0%A8%D0%B5%D0%BB%D0%B4%D0%BE%D0%BD_%D0%9B%D0%B8" target=_blank>Шелдон Глэшоу</a> в&nbsp;США и, независимо, Зиро Маки и Ясуо Хара в&nbsp;Японии, предположили существование четвертого кварка, чье место в&nbsp;системе, по их мнению, явно пустовало. Ему было приписано ненулевое значение нового квантового числа, которое Глэшоу весьма поэтично назвал <a href="https://ru.wikipedia.org/wiki/%D0%9E%D1%87%D0%B0%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_(%D0%BA%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE)" target=_blank>очарованием</a>, по-английски charm. В&nbsp;расширенной ими кварковой систематике очарованный <i>c</i>-кварк и странный <i>s</i>-кварк образовали кварковый дублет второго поколения, аналогичный предшествующему дублету <i>u</i>-кварка и <i>d</i>-кварка. Эта конструкция выглядела тем более логичной, что два поколения <a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BF%D1%82%D0%BE%D0%BD%D1%8B" target=_blank>лептонов</a>, электрон + электронное нейтрино и мюон + <a href="https://ru.wikipedia.org/wiki/%D0%9C%D1%8E%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B5%D0%B9%D1%82%D1%80%D0%B8%D0%BD%D0%BE" target=_blank>мюонное нейтрино</a>, были уже известны. В&nbsp;конце 1973&nbsp;года две группы американских физиков-экспериментаторов, возглавляемые <a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BD%D0%B3,_%D0%A1%D1%8D%D0%BC%D1%8E%D1%8D%D0%BB" target=_blank>Сэмюэлом Тингом</a> и <a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D1%85%D1%82%D0%B5%D1%80,_%D0%91%D0%B5%D1%80%D1%82%D0%BE%D0%BD" target=_blank>Бертоном Рихтером</a>, обнаружили первую частицу, содержащую очарованный кварк и его антикварк. Еще два предсказанных заранее кварка третьего дублета, <i>b</i>-кварк и <i>t</i>-кварк, были обнаружены, соответственно, в 1977 и 1995&nbsp;годах; лептоны третьего поколения были открыты в&nbsp;1975&nbsp;году (тау-частица) и в&nbsp;2000&nbsp;году (парное ей тау-нейтрино). Данные астрофизики с&nbsp;большой вероятностью свидетельствует, что других кварковых и лептонных дублетов природа не удосужилась создать. Если это так, то классификационную систему кварков и лептонов, начало которой было положено Гелл-Маном и Цвейгом на основе группы SU(3), следует считать завершенной. Однако физики-теоретики уже полвека экспериментируют с&nbsp;другими группами симметрии, и эти усилия еще могут принести немало сюрпризов.</p>
+
+<h2>Промежуточные векторные бозоны</h2>
+
+<p>В седьмом десятилетии прошлого века несколько титанов от теоретической физики развили принципиально новую фундаментальную теорию микромира, которая объединила в&nbsp;единой математической конструкции слабые и электромагнитные взаимодействия. Это и была та самая единая теория <a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B1%D0%BE%D0%B5_%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5" target=_blank>электрослабых взаимодействий</a>, о&nbsp;которой говорилось во вводном абзаце. Главными актерами этой великой драмы идей стали американцы Шелдон Глэшоу и <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%B9%D0%BD%D0%B1%D0%B5%D1%80%D0%B3,_%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD" target=_blank>Стивен Вайнберг</a> и пакистанец <a href="https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B4%D1%83%D1%81_%D0%A1%D0%B0%D0%BB%D0%B0%D0%BC" target=_blank>Абдус Салам</a>, чьи труды в&nbsp;1979&nbsp;году были увенчаны Нобелевской премией. Их теория в&nbsp;полной мере использовала симметрии двух непрерывных групп&nbsp;— уже упоминавшейся группы SU(2) и родственной ей более простой группы <a href="https://ru.wikipedia.org/wiki/U(1)" target=_blank>U(1)</a>, которая описывает симметрию электромагнетизма и изоморфна группе вращений евклидовой плоскости вокруг фиксированного центра. Однако эти симметрии были однюдь не единственным аппаратом новой теории&nbsp;— в&nbsp;отличие, скажем, от систематики Гелл-Мана и Неэмана. Она в&nbsp;полной мере использовала аппарат квантовой теории поля и в&nbsp;этом плане выглядела естественным развитием теории бета-распада Ферми и теории ядерных сил Юкавы. В&nbsp;частности, она ввела в&nbsp;работу модель обретения массы элементарными частицами, основанного на спонтанном нарушении симметрии скалярного квантового поля, получившего название поля Хиггса.</p>
+
+<p>У меня нет возможности описывать здесь истоки и содержание электрослабой модели, как ее нередко для краткости именуют. Обо всем этом подробно рассказано в&nbsp;моей статье <a href="/nauchno-populyarnaya_biblioteka/431545/Imennaya_chastitsa" target=_blank>Именная частица</a>, написанной в&nbsp;преддверии экспериментального открытия кванта хиггсовского поля, бозона Хиггса. Читатель которого заинтересует эта тема, найдет дополнительную информацию в&nbsp;статье <a href="/novosti_nauki/433984/Filip_Anderson_dobryy_i_zloy_geniy_bozona_Khiggsa" target=_blank>Филип Андерсон: добрый и злой гений бозона Хиггса</a> («Элементы», 04.07.2022). А пока что достаточно сказать, что в&nbsp;течение 1970-х годов электрослабую модель удалось интегрировать с&nbsp;теорией кварков на основе объединения всех трех унитарных симметрий U(1), SU(2) и SU(3) в&nbsp;единой математической архитектуре. Это объединение привело к&nbsp;созданию <a href="/LHC/HEP/SM" target=_blank>Стандартной модели</a> элементарных частиц, которая вот уже полвека правит бал в&nbsp;фундаментальной физике.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/gauge_bosons_40_8_703.jpg" alt="Стандартная модель элементарных частиц" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p>Стандартная модель элементарных частиц. Рисунок с&nbsp;сайта <a href="https://en.wikipedia.org/wiki/Gauge_boson" target=_blank>en.wikipedia.org</a></p></div>
+
+
+</div>
+
+<p>Однако даже самая красивая теория нуждается в&nbsp;подтверждениях&nbsp;— предпочтительно полных и разносторонних. Если говорить о&nbsp;единой схеме электрослабых взаимодействий, то здесь, как понимали все специалисты, золотым стандартом была бы экспериментальная идентификация предсказанных ею массивных частиц, которые делали возможным распространение этих взаимодействий в&nbsp;пространстве. В&nbsp;отличие от U-кварков Юкавы, электрослабая теория требовала существования не пары, а тройки таких частиц, двух заряженных и одной нейтральной (и это в&nbsp;дополнение к&nbsp;освященному временем носителю чисто электромагнитного взаимодействия, сиречь, фотону). Всем троим полагалось, подобно фотону, иметь единичный спин, то есть принадлежать семейству векторных бозонов. Уточнение «промежуточные» как раз и отражало их «служебную» роль переносчиков электрослабого взаимодействия. Согласно Стандартной модели, они должны были взаимодействовать как с&nbsp;лептонами, так и с&nbsp;кварками. Заряженные <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D0%B1%D1%80%D0%BE%D0%B2%D0%BE%D1%87%D0%BD%D1%8B%D0%B5_%D0%B1%D0%BE%D0%B7%D0%BE%D0%BD%D1%8B" target=_blank>промежуточные векторные бозоны</a> (ПВБ,  их также называют калибровочными) были названы W<sup>+</sup> и W<sup>−</sup>, а нейтральный стал носить не менее гордое имя Z<sup>0</sup>.</p>
+
+<p>Конечно, у электрослабой теории были и другие подтверждения. В&nbsp;1971&nbsp;году молодой голландский физик <a href="https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%84%D1%82,_%D0%93%D0%B5%D1%80%D0%B0%D1%80%D0%B4" target=_blank>Герард 'т&nbsp;Хоофт</a> показал, что она с&nbsp;большой степенью вероятности поддается перенормировке и, следовательно, позволяет получать физически разумные амплитуды вероятностей различных превращений частиц, исключающие дурные бесконечности. Вскоре он же вместе со своим научным руководителем <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D1%82%D0%BC%D0%B0%D0%BD,_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D1%83%D1%81" target=_blank>Мартинусом Велтманом</a>, а также независимо американец Бенджамин Ли и француз Жан Зинн-Жюстен дали строгое доказательство этого результата.</p>
+
+<p>Теория укрепилась после 1973&nbsp;года, когда на церновской пузырьковой камере Гаргамель (<a href="https://en.wikipedia.org/wiki/Gargamelle" target=_blank>Gargamelle</a>) экспериментаторы зарегистрировали так называемые слабые нейтральные токи (<a href="https://cerncourier.com/a/the-discovery-of-the-weak-neutral-currents/" target=_blank>weak neutral currents</a>), указывающие на существование незаряженного промежуточного бозона. Конкретно, была выявлена реакция упругого рассеяния мюонного антинейтрино на электроне, приводящего к&nbsp;рождению тех же самых частиц. За нее отвечает слабое взаимодействие&nbsp;— следовательно, она должна осуществляться с&nbsp;помощью ПВБ. Поскольку заряды начальных и конечных продуктов не меняются, это может быть только Z<sup>0</sup> (отсюда и название&nbsp;— слабый нейтральный ток). Ученые обнаружили следы этой реакции всего на трех фотографиях из общего числа миллион четыреста тысяч, которые им пришлось просмотреть. И в&nbsp;этом не было ничего удивительного&nbsp;— события с&nbsp;участием нейтрино отличаются исключительной редкостью. Позднее экспериментаторы прибегли к&nbsp;другому способу поиска нейтральных токов и после анализа 290&nbsp;тысяч снимков выявили 166&nbsp;релевантных событий. Поскольку фотографии тогда изучались без всякой помощи компьютеров, просто с&nbsp;помощью оптических сканеров, это все равно была адская работа.</p>
+
+<p>Наконец, случившееся в том же году открытие очарованного кварка тоже пошло на пользу электрослабой модели (для краткости умолчу, почему именно). То же самое можно сказать и о&nbsp;результатах экспериментов по столкновению электронов и позитронов с&nbsp;образованием мюонов и антимюонов, которые во второй половине 1970-х годов были выполнены в США и ФРГ.</p>
+
+<p>И все же это были только косвенные подтверждения. К&nbsp;началу 1980-х годов сами ПВБ так и не были обнаружены&nbsp;— и отнюдь не случайно. Радиус действия слабого взаимодействия приблизительно в&nbsp;сто раз меньше радиуса сильного взаимодействия. Отсюда сразу следует, что массы ПВБ должны где-то на пару порядков превышать массы пионов&nbsp;— следовательно, исчисляться десятками ГэВ. Более точные вычисления, первые из которых выполнил Стивен Вайнберг, оценивали минимальную массу заряженных ПВБ в&nbsp;60&nbsp;ГэВ, а масса Z<sup>0</sup>, согласно теории, должна была быть даже больше, хотя и ненамного. К&nbsp;концу 1982&nbsp;года новые эксперименты позволили сильно поднять эти оценки. Согласно тогдашним данным, оба заряженных ПВБ тянули на (79,2&nbsp;±&nbsp;1,5)&nbsp;ГэВ, а их нейтральный партнер&nbsp;— на (90,7&nbsp;±&nbsp;1,2)&nbsp;ГэВ. Ни один из ускорителей, запущенных до начала последней четверти прошлого века, даже и близко не давал надежду на рождение частиц с&nbsp;массами 80 и 90 протонных масс. Для сравнения стоит напомнить, что масса самого тяжелого из гиперонов, омега-частицы, равна приблизительно 1,67&nbsp;ГэВ, то&nbsp;есть не доходит и до двух протонных масс. К&nbsp;тому же столь массивные частицы должны были иметь очень короткое время жизни, из-за чего обнаружить их было можно лишь по продуктам распада. Для этого требовались специальные детекторы, которых физики ранее еще не создавали. В&nbsp;общем, проблемы, проблемы и проблемы.</p>
+
+<h2>Коллайдер&nbsp;— и точка!</h2>
+
+<p>Первой машиной, на которой были получены и изучены промежуточные векторные бозоны, стал <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%BF%D0%B5%D1%80%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D1%82%D1%80%D0%BE%D0%BD" target=_blank>Протонный суперсинхротрон</a> (<a href="https://en.wikipedia.org/wiki/Super_Proton_Synchrotron" target=_blank>Super Proton Synchrotron</a>, SPS), который был запущен в&nbsp;ЦЕРНе летом 1976&nbsp;года. В&nbsp;главном кольце этого ускорителя диаметром 2,2&nbsp;километра протоны на первой стадии его работы разгонялись до энергии 400&nbsp;ГэВ. В&nbsp;качестве первой ступени разгона применялся запущенный еще в&nbsp;1959&nbsp;году протонный синхротрон (PS), разгонявший частицы до энергии 26&nbsp;ГэВ. Через несколько лет этот комплекс был сильно модифицирован, что и позволило использовать его для получения и исследования ПВБ. Это весьма занимательная история, о&nbsp;которой стоит поговорить поподробней.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/gauge_bosons_40_9_1320.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/gauge_bosons_40_9_1320.jpg','Ускорители CERN')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/gauge_bosons_40_9_703.jpg" alt="Ускорители CERN" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p>Ускорители CERN располагаются в&nbsp;районе Женевы на границе Швейцарии и Франции. Ускорительные кольца находятся на глубине 100&nbsp;метров под землей. Рисунок с&nbsp;сайта <a href="https://www.festo.com/us/en/e/journal/100-meters-below-ground-id_31671/" target=_blank>festo.com</a></p></div>
+
+
+</div>
+
+<p>Для начала немного физики. Авторы популярных изданий любят представлять ускорители-гиганты в&nbsp;качестве своего рода супермикроскопов, предназначенных для «разглядывания» элементарных частиц. В&nbsp;основе этой аналогии лежит известная формула <a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B5_%D0%91%D1%80%D0%BE%D0%B9%D0%BB%D1%8C,_%D0%9B%D1%83%D0%B8" target=_blank>де&nbsp;Бройля</a>, согласно которой каждой микрочастице соответствует квантовая волна, чья длина обратно пропорциональна импульсу частицы. А чем короче волна, тем лучше разрешение. Подобно тому, как рентгеновские микроскопы позволяют выявить более тонкие детали по сравнению с&nbsp;оптическими, быстрые частицы дают возможность глубже заглянуть внутрь материи, нежели медленные. Следовательно, для получения более полной информации о&nbsp;микромире надо увеличивать энергию частиц, разгоняемых в&nbsp;исследовательских ускорителях. Что и происходит на протяжении всей истории прогресса ускорительных технологий.</p>
+
+<p>Но микроскопная аналогия все же неполна. С&nbsp;помощью формулы де&nbsp;Бройля можно подсчитать, что, например, электроны с&nbsp;энергией 1&nbsp;ГэВ позволяют прощупать дистанции порядка 10<sup>−15</sup>&nbsp;метра (один фемтометр), а электроны с&nbsp;энергией 10&nbsp;ГэВ&nbsp;— 10<sup>−16</sup>&nbsp;метра. А что дальше? Разгоняемые в&nbsp;ускорителе частицы сами по себе никаких изображений не формируют. Каждая из них должна столкнуться с&nbsp;той или иной мишенью (в&nbsp;конечном счете, другой частицей) и как-то с&nbsp;ней прореагировать. Далее возможны варианты. Налетающая частица может просто изменить свою траекторию и уйти в&nbsp;регистрирующее устройство, оставив мишень в&nbsp;прежнем состоянии (как было отмечено в&nbsp;предшествующем разделе, такие столкновения называются упругими). Именно с их помощью в&nbsp;начале второго десятилетия XX&nbsp;века Эрнест Резерфорд и его ассистенты <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%81%D0%B4%D0%B5%D0%BD,_%D0%AD%D1%80%D0%BD%D0%B5%D1%81%D1%82" target=_blank>Эрнест Марсден</a> и <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%B9%D0%B3%D0%B5%D1%80,_%D0%A5%D0%B0%D0%BD%D1%81" target=_blank>Йоханнес Гейгер</a> пришли к&nbsp;выводу о&nbsp;существовании атомных ядер. Направив на тонкую золотую фольгу поток альфа-частиц, они обнаружили, что те иногда отклонялись на очень большие углы, что можно было естественно объяснить на основе ядерной модели.</p>
+
+<p>Однако современных специалистов по физике высоких энергий куда больше интересуют неупругие столкновения, в&nbsp;ходе которых частица-мишень переходит в&nbsp;возбужденное состояние или распадается. Чем больше энергии налетающая частица отдает мишени, тем более массивными имеют шансы оказаться продукты ее распада&nbsp;— вторичные частицы. Для их идентификации ускорители снабжают разнообразными детекторами, которые работают под контролем микросхем и компьютеров.</p>
+
+<p>Естественно, что для таких экспериментов надо посильнее разгонять налетающие частицы. Но не только. При соударении частицы с&nbsp;мишенью выполняется закон сохранения импульса, причем в&nbsp;его релятивистской форме. Это приводит к&nbsp;вполне определенным последствиям. Если сталкиваются две частицы, одна из которых покоится, а вторая движется с&nbsp;околосветовой скоростью, львиная доля полной энергии налетающей частицы будет израсходована на ускорение вторичных частиц, которые возникают в&nbsp;результате соударения. А вот на энергетическое обеспечение самого процесса их рождения, которое и является целью эксперимента, останется не так уж много. В&nbsp;результате б<i>о</i>льшая часть энергии, затраченной на работу ускорителя, будет израсходована почти что впустую.</p>
+
+<p>Почему так происходит? Всему виной кинематика специальной теории относительности. Энергия ускоряемых частиц измеряется относительно самого ускорителя, как говорят физики, в&nbsp;лабораторной системе отсчета. Чтобы оценить ту ее часть, которая может пойти на рождение новых частиц (так называемую эффективную энергию столкновения), надо вычислить энергию налетающей частицы относительно центра инерции ее и частицы-мишени. Оказывается, что она будет много меньше энергии, числящейся в&nbsp;паспорте ускорителя.</p>
+
+<p>Вот конкретный пример. Если сталкиваются одинаковые частицы, одна из которых покоится в&nbsp;лабораторной системе отсчета, а вторая движется с&nbsp;гиперрелятивистской скоростью, то энергия в&nbsp;системе центра инерции дается простой формулой&nbsp;— квадратный корень из удвоенного произведения энергии покоя частицы и ее полной энергии после разгона в&nbsp;ускорителе. Предположим, что речь идет о&nbsp;протонах. Энергия покоя протона составляет примерно 1&nbsp;ГэВ (для любителей точности, 938&nbsp;МэВ). В&nbsp;середине 1970-х годов самым мощным в&nbsp;мире протонным ускорителем был синхротрон в&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D1%80%D0%BC%D0%B8%D0%BB%D0%B0%D0%B1" target=_blank>Фермилабе</a>, который разгонял эти частицы до энергии 400&nbsp;ГэВ. Легко подсчитать, что на рождение новых частиц у&nbsp;него оставалось около 28&nbsp;ГэВ (квадратный корень из 800). Ясно, что шансы получить на этой машине частицы с&nbsp;массами 80–90&nbsp;ГэВ равны нулю.</p>
+
+<p>Но выход есть. Пусть сталкиваются частицы, чьи импульсы равны по величине и строго противоположны по направлению. В&nbsp;этом случае суммарный импульс равен нулю, и лабораторная система отсчета совпадает с&nbsp;системой центра инерции. Тогда эффективная энергия столкновения будет равна сумме энергий обеих частиц. Так работают ускорители на встречных пучках, они же коллайдеры.</p>
+
+<p>Еще одно уточнение. Плотность частиц пучка неизмеримо уступает плотности атомов неподвижной мишени, поэтому столкновения в&nbsp;коллайдерах случаются намного реже, чем в&nbsp;традиционных ускорителях. Этой беде можно помочь, если предварительно собирать частицы в&nbsp;тороидальных вакуумных камерах, помещенных в&nbsp;магнитное поле&nbsp;— так называемых накопительных кольцах. Разогнанные во вспомогательном ускорителе частицы можно направлять (физики говорят, инжектировать) в&nbsp;кольцо до тех пор, пока сила тока в&nbsp;нем не достигнет нужной величины (на практике это десятки ампер), а затем уже выпускать навстречу друг другу.</p>
+
+<p>Накопительное кольцо&nbsp;— это тоже ускоритель. Релятивистские заряженные частицы, которые вращаются внутри него по круговым путям, испускают остронаправленные электромагнитные волны (<a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" target=_blank>синхротронное излучение</a>), тратя на это часть своей энергии. Эти потери необходимо компенсировать, иначе частицы пойдут по стягивающимся спиралям и в&nbsp;конце концов столкнутся со стенками. Так что накопительные кольца приходится оснащать разгонными радиотехническими устройствами, стабилизирующими скорость частиц. Эти системы также могут придавать частицам дополнительное ускорение, увеличивая их энергию по сравнению с&nbsp;той, которой они обладали сразу после инжектирования.</p>
+
+<p>Такое кольцо, <a href="https://ru.wikipedia.org/wiki/Intersecting_Storage_Rings" target=_blank>Intersecting Storage Ring</a> (ISR), в&nbsp;середине 1970-х годов уже работало в&nbsp;ЦЕРНе. Оно было в&nbsp;состоянии разгонять встречные пучки протонов до энергии 31,5&nbsp;ГэВ и удерживать их в&nbsp;этом состоянии в&nbsp;течение нескольких суток. Но эффективная энергия доступных в&nbsp;нем столкновений не превышала 63&nbsp;ГэВ, так что в&nbsp;качестве «фабрики» ПВБ оно действовать не могло.</p>
+
+<p>И вот здесь в&nbsp;игру вступили работавший в&nbsp;ЦЕРН <a href="https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%B1%D0%B1%D0%B8%D0%B0,_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE" target=_blank>Карло Руббиа</a>, сотрудник Висконсинского университета Дэвид Клайн и гарвардский физик Питер Макинтайр. В&nbsp;1976&nbsp;году они предложили превратить два крупнейших в&nbsp;мире протонных синхротрона, SPS и ускоритель в&nbsp;Фермилабе, в&nbsp;коллайдеры, только не протон-протонные, а протон-антипротонные. Преимущество этой идеи состояло в&nbsp;том, что инжектирование в&nbsp;накопительное кольцо и в&nbsp;главный ускоритель отрицательно заряженных антипротонов позволит раскручивать их в&nbsp;обратном направлении по отношению к&nbsp;протонным пучкам с&nbsp;помощью одних и тех же магнитов и радиотехнических устройств. Это обещало сильно удешевить эксперименты по поиску как ПВБ, так и других частиц.</p>
+
+<p>Но здесь имелись свои нюансы. Получить чистый пучок протонов несложно&nbsp;— надо только полностью ионизировать газообразный водород, сфокусировать его ядра в&nbsp;нужном направлении и направить их куда следует для разгона. Для производства антипротонов нужно обстреливать неподвижную мишень потоком протонов с&nbsp;энергиями не менее 6&nbsp;ГэВ. Именно таким путем в&nbsp;1956&nbsp;году антипротоны были впервые получены на специально построенном для этой цели ускорителе <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B2%D0%B0%D1%82%D1%80%D0%BE%D0%BD" target=_blank>Беватрон</a> в&nbsp;Беркли (в&nbsp;этом эксперименте медную мишень бомбардировали потоки протонов, ускоренных до энергии 6,2&nbsp;ГэВ). За это руководители эксперимента <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B3%D1%80%D0%B5,_%D0%AD%D0%BC%D0%B8%D0%BB%D0%B8%D0%BE_%D0%94%D0%B6%D0%B8%D0%BD%D0%BE" target=_blank>Эмилио Сегре</a> и <a href="https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BC%D0%B1%D0%B5%D1%80%D0%BB%D0%B5%D0%BD,_%D0%9E%D1%83%D1%8D%D0%BD" target=_blank>Оуэн Чемберлен</a> через три года получили Нобелевскую премию.</p>
+
+<p>И всё бы ничего, но природа зачастую не любит простых решений. Этот метод приводит к&nbsp;рождению антипротонов с&nbsp;различными кинетическими энергиями, которые к&nbsp;тому же разлетаются от мишени под разными углами. Поэтому их надо, как говорят физики, охладить, то&nbsp;есть выровнять по величине и направлению импульса. К&nbsp;счастью, еще в&nbsp;1968&nbsp;году будущий нобелевский лауреат <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BD_%D0%B4%D0%B5%D1%80_%D0%9C%D0%B5%D1%80,_%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD" target=_blank>Симон ван&nbsp;дер&nbsp;Мер</a> изобрел (а через 4&nbsp;года опубликовал) очень эффективную технологию для решения этой задачи, которую он назвал стохастическим охлаждением. Для практической реализации она требовала разработки специальной электронной аппаратуры, что удалось сделать только в&nbsp;1975&nbsp;году. Тогда же метод ван&nbsp;дер&nbsp;Мера был опробовал на ISR и признан удачным. Я бы с&nbsp;удовольствием рассказал об его деталях, которые многочисленны и чрезвычайно интересны, но это увело бы нас слишком далеко от основной темы.</p>
+
+<p>К ней и вернемся. Итак, к&nbsp;моменту запуска SPS в&nbsp;распоряжении экспериментаторов уже имелся вполне эффективный метод охлаждения антипротонов, после которого их можно было инжектировать в&nbsp;накопительное кольцо и в&nbsp;главный ускоритель. В&nbsp;принципе, его можно было использовать и в&nbsp;Женеве, и в&nbsp;Фермилабе. Однако американцы сначала планировали применить другой метод, предложенный в&nbsp;1966&nbsp;году директором Института ядерной физики СОАН <a href="https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%B4%D0%BA%D0%B5%D1%80,_%D0%93%D0%B5%D1%80%D1%88_%D0%98%D1%86%D0%BA%D0%BE%D0%B2%D0%B8%D1%87" target=_blank>Гершем Ицковичем Будкером</a>, а потом, отчасти из-за ряда технических сложностей, и вовсе отказались до лучших времен от генерирования антипротонов. В&nbsp;результате все надежды получить ПВБ скрестились на ЦЕРНе. Летом 1978&nbsp;года его руководство одобрило проект превращения своего суперсинхротрона в&nbsp;протон-антипротонный коллайдер, производящий встречные пучки частиц с&nbsp;энергиями 270&nbsp;ГэВ. По всем расчетам, этого было достаточно для получения всех трех промежуточных векторных бозонов.</p>
+
+<p>В ходе подготовки к&nbsp;этим экспериментам SPS пришлось дополнить новой установкой. Как уже отмечалось, «затравочный» синхротрон PS выдавал частицы с&nbsp;энергией 26&nbsp;ГэВ. Он генерировал их пульсами по 10<sup>13</sup>&nbsp;протонов на сгусток. А вот антипротонные пульсы были куда беднее частицами&nbsp;— всего лишь 20&nbsp;миллионов в&nbsp;сгустке. Этого было совершенно недостаточно. Как показывали вычисления, для успеха эксперимента надо было довести число частиц в&nbsp;каждом антипротонном сгустке как минимум до 600&nbsp;миллиардов, 6×10<sup>11</sup>. Поэтому ускорительный комплекс получил новую систему, так называемый Антипротонный Аккумулятор (АА). Это устройство накапливало по 30&nbsp;тысяч антипротонных пульсов и затем посылало их в&nbsp;главное кольцо SPS. Его сделали с&nbsp;рекордной скоростью, всего за два года. В&nbsp;июле 1980&nbsp;года АА был в&nbsp;основном готов к&nbsp;работе. После этого SPS фактически превратился в&nbsp;новую установку, которую назвали <a href="https://en.wikipedia.org/wiki/Super_Proton%E2%80%93Antiproton_Synchrotron" target=_blank>Super Proton–Antiproton Synchrotron</a>, или Sp<span style="text-decoration:overline">p</span>S.</p>
+
+<p>14&nbsp;февраля 1981&nbsp;года на машине PS началось ускорение антипротонов&nbsp;— к&nbsp;слову, впервые в&nbsp;мире. После этого дело пошло быстро. 4&nbsp;апреля накопительное кольцо ISR приняло первые пучки протонов и антипротонов с&nbsp;энергиями 26&nbsp;ГэВ, которые сталкивались с&nbsp;рождением вторичных частиц. Поскольку эффективная энергия этих соударений не превышала 52&nbsp;ГэВ, ничего интересного обнаружено не было. Однако главная задача была выполнена&nbsp;— физики убедились, что ISR прекрасно работает. Затем еще три месяца комплекс готовили к&nbsp;инжектированию частиц в&nbsp;главное кольцо, которое дебютировало 7&nbsp;июля. Теперь всё было готово к&nbsp;началу исторического эксперимента.</p>
+
+<h2>Охота на ПВБ</h2>
+
+<p>Задолго до приведения обновленного ускорительного комплекса Sp<span style="text-decoration:overline">p</span>S в&nbsp;рабочее состояние Карло Руббиа и его многочисленные коллеги и помощники уже знали, как именно они будут искать заветные бозоны. Разумеется, речь могла идти только о&nbsp;регистрации следов их распадов&nbsp;— но каких? Теория утверждала, что W-частицы должны с&nbsp;20-процентной вероятностью превращаться в&nbsp;пары лептонов. Отрицательный бозон W<sup>− </sup>дает начало либо электрону с&nbsp;электронным антинейтрино, либо мюону с&nbsp;мюонным антинейтрино. Для положительного W-бозона исход, так сказать, антисимметричен: позитрон плюс электронное нейтрино или мюон плюс мюонное. Нейтральный бозон Z<sup>0</sup> с&nbsp;вдвое меньшей вероятностью (то&nbsp;есть 10%) превращается либо в&nbsp;пару «электрон-позитрон», либо в&nbsp;аналогичную пару второго поколения «мюон-антимюон» (стоит отметить, что после открытия лептонов третьего поколения вероятность распада по этим двум каналам была уменьшена до семи процентов). Эти-то следы трансмутаций ПВБ и предстояло найти.</p>
+
+<p>На этой стадии было бы логично рассказать о&nbsp;детекторах, которые применялись в&nbsp;этих поисках. Однако это потребовало бы слишком много места&nbsp;— практически, пришлось бы писать вторую статью. Поэтому я ограничусь лишь самыми общими сведениями.</p>
+
+<p>Начну с того, что коллайдеры предъявляют специфические требования к&nbsp;детекторам частиц. Рожденные в&nbsp;этих машинах вторичные частицы разных поколений могут разлетаться по любым направлениям. Идеальный многоцелевой детекторный комплекс обязан зарегистрировать все эти осколки, за исключением всепроникающих нейтрино и, возможно, каких-то экзотов типа гипотетических частиц темной материи, которые очень слабо взаимодействуют с&nbsp;обычным веществом. Естественно, что такой комплекс должен содержать множество разнообразных специализированных регистраторов частиц, то&nbsp;есть быть мультидетектором.</p>
+
+<p>Типичный мультидетектор «полного отлова»&nbsp;— это слоеный цилиндр, охватывающий зону межчастичных столкновений. Во внутреннем слое обычно расположены устройства, регистрирующие треки наиболее короткоживущих частиц, а ближе к&nbsp;периферии&nbsp;— детекторы других типов, такие как дрейфовые камеры и черенковские счетчики. Внешние слои, как правило, заполнены жидкими и твердыми средами (к&nbsp;примеру, жидкий аргон и железо или свинец), которые полностью поглощают фотоны и прочие частицы за исключением мюонов и нейтрино. Эти компоненты детектора оснащены собственными регистрирующими устройствами, которые измеряют полную энергию частицы (благодаря чему этот блок называют калориметром). Мюоны практически беспрепятственно проникают сквозь калориметр и регистрируются специальными внешними счетчиками, а нейтрино уходят в&nbsp;окружающее пространство. Разумеется, детектор снабжен магнитами, которые отклоняют заряженные частицы. Конечно, это общая схема, которая в&nbsp;разных коллайдерах находит те или иные конкретные воплощения.</p>
+
+<p>Поиск ПВБ вели в&nbsp;двух подземных детекторных комплексах, получивших название UA1 (underground area, experiment&nbsp;1) и, соответственно, UA2. В&nbsp;первом эксперименте участвовала коллаборация европейских и американских ученых и инженеров, чья численность доходила до 135&nbsp;человек. Общая масса этого комплекса равнялась двум тысячам тонн. Второй комплекс был меньше по размерам и весу («всего» 200&nbsp;тонн), и там работало около пятидесяти человек. Имелись также куда более скромные детекторы UA(3), UA(4) и UA(5), но они выполняли другие задачи. Так, команда комплекса за третьим номером надеялась (увы, тщетно) отловить магнитные монополи, а двадцать участников коллаборации четвертого комплекса измеряли кинематические характеристики упругих столкновений протонов и антипротонов. Работу этих приборов я не буду комментировать.</p>
+
+<p>Прежде чем идти дальше, надо еще кое-что уточнить. Во-первых, помимо эффективной энергии, у&nbsp;любого ускорителя есть еще одна важнейшая характеристика&nbsp;— <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C#%D0%A1%D0%B2%D0%B5%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_%D1%83%D1%81%D0%BA%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8F" target=_blank>светимость</a>. Этот параметр задает интенсивность столкновений между частицами налетающего пучка и мишени (или, в&nbsp;случае коллайдера, между частицами встречных пучков) в&nbsp;расчете на единицу площади поперечного среза пучка. Каждый акт столкновения приводит к&nbsp;реакции с&nbsp;определенным исходом&nbsp;— событию, как говорят физики. Вероятность той или иной реакции определяется численным показателем, <a href="/LHC/HEP/measures/cross-section" target=_blank>эффективным сечением</a>. Число событий данного типа в&nbsp;единицу времени равно произведению сечения на светимость. Так что светимость характеризует возможности ускорителя, а сечение&nbsp;— самой природы, поскольку оно зависит только от законов физики.</p>
+
+<p>Cтандартная единица светимости современного коллайдера&nbsp;— это 10<sup>30</sup>/см<sup>2</sup>&nbsp;сек. Например, светимость запущенного в&nbsp;2006&nbsp;году электронно-позитронного коллайдера <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%AD%D0%9F%D0%9F-2000" target=_blank>ВЭПП-2000</a> Института ядерной физики СОАН составляет сто таких единиц (при энергии каждого пучка 1&nbsp;ГэВ). Светимость знаменитого <a href="https://ru.wikipedia.org/wiki/%D0%A2%D1%8D%D0%B2%D0%B0%D1%82%D1%80%D0%BE%D0%BD" target=_blank>Тэватрона</a> в&nbsp;максимуме несколько превышала 170&nbsp;единиц, а светимость Большого адронного коллайдера доходит до 20&nbsp;000&nbsp;единиц. Светимость SPS в&nbsp;начале его работы летом 1981&nbsp;года не превышала одной десятитысячной стандартной единицы (10<sup>26</sup>/см<sup>2</sup>&nbsp;сек), но к&nbsp;концу года ее довели до одной двухсотой (5×10<sup>27</sup>/см<sup>2</sup>&nbsp;сек). К&nbsp;концу 1982&nbsp;года светимость удалось довести до одной двадцатой стандартной единицы, что уже давало надежду на регистрацию как минимум W-бозонов, причем за вполне разумное время порядка нескольких дней.</p>
+
+<p>Второе уточнение связано с&nbsp;энергией разогнанных в&nbsp;главном ускорителе протонов и антипротонов. Как уж говорилось, она составляла 270&nbsp;ГэВ, хотя иногда ее доводили до 310&nbsp;ГэВ. Казалось бы зачем так много при ожидаемых массах ПВБ не свыше 90&nbsp;ГэВ? Однако надо учесть, что настоящими предшественниками векторных бозонов служили не сами сталкивающиеся частицы, а составляющие их кварки и антикварки. Каждый бозон рождался на свет при, фигурально выражаясь, слиянии кварка от протона и антикварка от антипротона, которое использовало не всю эффективную энергию столкновения в&nbsp;540&nbsp;ГэВ, а только ее небольшую часть.</p>
+
+<p>Как развивались события после достижения желаемой светимости? В&nbsp;течение тридцати дней измерений в&nbsp;ноябре и декабре 1982&nbsp;года электронные триггеры комплекса UA(1) отобрали 140&nbsp;тысяч потенциально релевантных событий из приблизительно миллиарда. Дальнейшая компьютерная селекция уменьшила это число до 2125, затем до 167, и в конце концов до 39. В&nbsp;дальнейшем их «вручную» фильтровали уже сами экспериментаторы, которые отбраковали 34&nbsp;события. Оставшиеся пять (которые затем выделили еще одним способом!) выглядели вполне приемлемыми кандидатами на роль следов распада заряженных бозонов. Четыре события позволяли предположительно выявить наличие электронов высоких энергий и потому могли свидетельствовать о&nbsp;регистрации бозона W<sup>−</sup>. Пятое демонстрировало присутствие позитрона и, следовательно, возможность отлова бозона W<sup>+</sup>. Дальнейший анализ показал, что предшественниками наблюдавшихся событий с&nbsp;высокой долей вероятности были распады четырех отрицательных и одной положительной частицы с&nbsp;массой (81&nbsp;±&nbsp;5)&nbsp;ГэВ. Согласно теории, ими могли быть только W-бозоны.</p>
+
+<p>Коллаборация UA(2) действовала аналогичным образом, хотя отбор интересных событий велся по-иному. В&nbsp;конечном счете он привел к&nbsp;выделению четырех хороших кандидатов на следы распадов W-бозонов. Предложенная этой командой оценка их масс почти совпала с&nbsp;выводами группы UA(1): 80&nbsp;ГэВ (хотя и с&nbsp;куда большим разбросом). Это было вполне нормально.</p>
+
+<p>Осенняя серия регистрации протон-антипротонных столкновений, в&nbsp;ходе которой были получены первичные данные для этих выводов, закончилась 6&nbsp;декабря 1982&nbsp;года, когда коллайдер был остановлен для технического обслуживания. 20 и 21&nbsp;января обе коллаборации представили свои результаты на семинарах в&nbsp;ЦЕРНе. Их доклады были сочтены столь убедительными, что 25&nbsp;января его руководство сочло возможным сообщить о них мировым СМИ. 26&nbsp;января торжествующий Карло Руббиа доложил о&nbsp;регистрации распадов W-бозонов с&nbsp;рождением электронов и нейтрино на конференции в&nbsp;Нью-Йорке.</p>
+
+<p>Но это было только полдела&nbsp;— ведь предстояло еще зарегистрировать&nbsp;Z<sup>0</sup>. 12&nbsp;апреля 1983&nbsp;года коллайдер вновь включили, и обе коллаборации приступили к&nbsp;работе. Однако им пришлось сначала преодолеть последний порог&nbsp;— повысить светимость коллайдера. К&nbsp;концу мая ее удалось довести до 1,6×10<sup>29</sup>/см<sup>2</sup>&nbsp;сек&nbsp;— всего 16% стандартной единицы. Однако еще до этого, с&nbsp;30&nbsp;апреля до 28&nbsp;мая, команда UA(1) нашла пять событий с&nbsp;вероятными следами распада нейтрального ПВБ. Вычисления его массы дали вполне разумный результат: среднее значение составило (95,2&nbsp;±&nbsp;2,5)&nbsp;ГэВ. Группа UA(2) сначала идентифицировала восьмерку релевантных событий, но потом, для пущей надежности, отсеяла половину. В&nbsp;итоге она также сообщила об открытии Z<sup>0</sup> с&nbsp;массой (91,9&nbsp;±&nbsp;1,3)&nbsp;ГэВ. По современным данным, массы ПВБ равны, соответственно, 80,385&nbsp;ГэВ и 91,1876&nbsp;ГэВ. Так что точность результатов их первых измерений более чем впечатляет.</p>
+
+<p>3 июля 1983&nbsp;года коллайдер Sp<span style="text-decoration:overline">p</span>S был вновь остановлен. Это и стало официальным концом великого эксперимента. Интересно, что к&nbsp;этому времени коллаборация UA(1), которая продолжала работать и позднее, успела выявить около семидесяти распадов W-бозонов и восемь распадов Z-бозонов (четыре на электрон и позитрон и еще четыре на мюон и антимюон). После дальнейшей калибровки их вычисленные массы составили (80,9&nbsp;±&nbsp;1,5)&nbsp;ГэВ и (95,6&nbsp;±&nbsp;1,4)&nbsp;ГэВ. Соседняя коллаборация тоже увеличила число открытых частиц и уточнила их массы. Вряд ли нужно особо отмечать, что и новые значения полностью укладывались в&nbsp;рамки, разрешенные теорией электрослабых взаимодействий. Так что лето 1983&nbsp;года стало временем великого триумфа и самой этой теории, и проверявших ее экспериментаторов. В&nbsp;этом статусе оно и вошло в&nbsp;историю физики.</p>
+
+<p><i>Алексей Левин</i></p>
+
+
+    
+</div>
+
+<div class='cl'></div>
+<hr>
+<div class='toggle'>
+
+<div class='forum_topctrl '>
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter="" id="forum_socnets_share"></div><div class='forum_icon' onclick='toggleClick(this)' title='Комментарии'><span class='fmicon'></span><span class='fmcounter'>26</span></div>
+  
+     <div class='goto toggle_hide'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this)'><span class='hide_other'>Показать </span>комментарии (26)</span></div>
+     <div class='goto toggle_body'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this); socnetsFly();'><span class='hide_other'>Свернуть </span>комментарии <span class='hide_main'>(26)</span></span></div>
+  
+
+</div>
+
+<div class='forum toggle_body' id='forum_block'>
+<hr>
+<ul class="level0"><li class="level0 parent" id='forum_node_5349679'>
+   <div class='fmnode'>
+   <a name='fm5349679'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Мимогавиал</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349679'>03.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>21:14
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Шикарная статья. Читал с огромным интересом, как хороший детектив. И важно: уж на что я от физики элементарных частиц далек, а ни разу не почувствовал потери нити рассказа или ощущения &quot;зауми&quot;.<br>Уважаемый Алексей, а вы не хотели бы на основе своих статей написать полноценную книгу, где не нужно было бы обрывать самого себя на полуслове из-за ограничения формата? Я бы купил!</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1" id='forum_node_5349680'>
+   <div class='fmnode'>
+   <a name='fm5349680'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>alekseylevin</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Мимогавиал</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349680'>03.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>21:43
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Спасибо за столь высокую оценку. У меня в 2021-22 годах вышли три книги - одна про белые карлики, и еще две - персонализированная история астрономии (&quot;Астрономия в лицах&quot;) и астрофизики (&quot;Астрофизика в лицах&quot;). Больше ни на что пока не замахивался. Вот если какое-нибудь издательство предложит такой проект, можно будет подумать.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level0 parent" id='forum_node_5349681'>
+   <div class='fmnode'>
+   <a name='fm5349681'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Parhaev</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349681'>03.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>23:17
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>&quot; в 20 раз тяжелее электрона&quot;. Модер убей себя головой об стену, правильно 200 раз.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5349683'>
+   <div class='fmnode'>
+   <a name='fm5349683'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>alekseylevin</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Parhaev</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349683'>04.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>00:24
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Вы правы, здесь, конечно, опечатка. Пион и в самом деле по порядку величины в две сотни раз массивней электрона. Вся вина на мне, я уже посыпал пеплом главу и попросил редактора исправить. Только не стоит его так грубо ругать - поверьте, он делает очень много. Кстати, сравнение с массой протона в тексте правильное.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5349684'>
+   <div class='fmnode'>
+   <a name='fm5349684'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Parhaev</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>alekseylevin</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349684'>04.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>08:59
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Дело не в этом. Этот сайт модерирет комментарии по политическим мотивам, за что и удостаивается столь грубых ответов. Это политика КПСС при Брежневе, редакция ее придерживается.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul><li class="level0 parent" id='forum_node_5349685'>
+   <div class='fmnode'>
+   <a name='fm5349685'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>andrey30</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349685'>04.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>11:50
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Статья конечно замечательная. Вообще в наше время, несмотря на легкость доступа к любой информации, проблематично найти качественный обзор по какой-либо теме. Если коротко написано, то почти наверняка слишком популярно. Если длинно, то получается монография, да еще и с собственными тараканами автора. Не всегда конечно, но часто.<br><br>И всё же данный дайджест мне показался чуть неоправданно урезанным. Слишком часто автор дразнит читателя подробностями, которые опускает. Думаю, по крайней мере в некоторых случаях, можно было бы и расширить повествование. Такая статья в любом случае - лонгрид, поэтому даже если бы она стала вдвое длиннее, ей это не повредило. Всех благ!</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1" id='forum_node_5349687'>
+   <div class='fmnode'>
+   <a name='fm5349687'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>alekseylevin</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>andrey30</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349687'>04.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>16:25
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>При удвоении длины получилась бы не статья, а брошюра. Это уже жанр не для &quot;Элементов&quot;, а для издательских домов.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level0 parent" id='forum_node_5349686'>
+   <div class='fmnode'>
+   <a name='fm5349686'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Dr.V.</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349686'>04.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>15:50
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Спасибо, шикарная статья! Я в 2002-2005 работал в ЦЕРНе на проекте n_TOF, которым руководил Карло Руббиа, он человек, сочетающий гениальность с неуемной энергией...</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5349688'>
+   <div class='fmnode'>
+   <a name='fm5349688'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>alekseylevin</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Dr.V.</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349688'>04.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>16:26
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Не зря же итальянское правительство почтило его званием пожизненного сенатора.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2 parent" id='forum_node_5349689'>
+   <div class='fmnode'>
+   <a name='fm5349689'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Dr.V.</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>alekseylevin</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349689'>04.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>17:21
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Не зря. Хотя в свое время из президентов ENEA его итальянское правительство вышибло со скандалом. В процессе он покойного Берлускони матом посылал *8))) https://www.drive2.ru/b/649013952281318211/</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3 parent" id='forum_node_5349690'>
+   <div class='fmnode'>
+   <a name='fm5349690'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>alekseylevin</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Dr.V.</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349690'>04.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>18:09
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Много лет назад его также выслали из США из-за каких-то визовых проблем. Деталей я уже не помню, но, кажется, университет вовремя не оформил ему разрешение на продолжене работы. И при этом он уже был Нобелевским лауреатом!</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level4">
+<li class="level4 parent" id='forum_node_5349692'>
+   <div class='fmnode'>
+   <a name='fm5349692'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>OSAO</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>alekseylevin</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349692'>04.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>21:49
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Девизом императора Священой Римской империи германской нации Фердинанда I была броская фраза: Pereat mundus et fiat justicia (Пусть гибнет мир, но торжествует юстиция). В итоге его империя таки погибла...</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level5">
+<li class="level5 parent" id='forum_node_5349693'>
+   <div class='fmnode'>
+   <a name='fm5349693'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>alekseylevin</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>OSAO</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349693'>04.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>22:02
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Другой вариант перевода: &quot;Да свершится правосудие, хотя бы погиб мир&quot;. К сожалению, на практике чаще всего правосудие оказывается ложным.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level6">
+<li class="level6 parent" id='forum_node_5349696'>
+   <div class='fmnode'>
+   <a name='fm5349696'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>andrey30</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>alekseylevin</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349696'>04.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>23:37
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>&gt; К сожалению, на практике чаще всего правосудие оказывается ложным<br><br>Это довольно сильное утверждение. И конечно неверное, по крайней мере для формации, обычно именуемой Западом.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level7">
+<li class="level7" id='forum_node_5349697'>
+   <div class='fmnode'>
+   <a name='fm5349697'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>alekseylevin</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>andrey30</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349697'>05.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>00:35
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Я, вероятно, слишком лапидарно выразился. Я имел в виду, что правосудие, которое выставляет себя в качестве абсолюта, которому вообще не надо беспокоиться о последствиях своих решений, просто не может быть достойным своего названия. И позвольте процитировать старую максиму: милосердие может быть выше всего, даже выше справедливости.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul><li class="level0 parent" id='forum_node_5349694'>
+   <div class='fmnode'>
+   <a name='fm5349694'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>ms</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349694'>04.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>22:54
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Как говорят в народе: талант не пропьёшь (и пытаться тоже не надо!).<br>Глубокоуважаемый А.Е., Вы сделали, как и всегда, отличную работу. К тому же, стиль и формат - оптимальный компромисс между деталями и объёмом. И ещё: времени от предыдущего текста по инфляции было немного, что говорит само за себя. Вообще-то, вмешиваться не собирался, но вопиющую несправедливость и неоправданную резкость некоторых комментариев стерпеть не смог...вот почему. А критиковать всегда легче, чем создавать (не ндравится - так напишите лучше, кто ж запрещает? Покажите пример!). В общем - здОрово!<br>Последнее: мне хотелось бы поделиться некоторыми соображениями: но засорять сайт неуместными пассажами не гоже, а Вашего электронного адреса не нашёл.<br>Буду признателен, если сочтёте возможным поделиться....обещаю не надоедать...<br>Заранее благодарен!</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5349695'>
+   <div class='fmnode'>
+   <a name='fm5349695'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>andrey30</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>ms</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349695'>04.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>23:31
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>вообще-то e-mail автора соедержится в ссылке его имени здесь в комментариях. Кликнете</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5349700'>
+   <div class='fmnode'>
+   <a name='fm5349700'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>ms</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>andrey30</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349700'>05.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>03:20
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Да пытался: к моему стыду - не вышло...наверное, я тупой...</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level1 parent" id='forum_node_5349698'>
+   <div class='fmnode'>
+   <a name='fm5349698'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>alekseylevin</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>ms</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349698'>05.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>00:38
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>На днях будет еще одна статья - о возможном открытии наногерцевых гравитационных волн. Она в редподготовке, имеет шансы появиться на этой неделе. А адрес у меня простой:<br>alekseymeister@gmail.com</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5349699'>
+   <div class='fmnode'>
+   <a name='fm5349699'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>ms</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>alekseylevin</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349699'>05.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>03:18
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Принято, спасибо!</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level2 parent" id='forum_node_5349701'>
+   <div class='fmnode'>
+   <a name='fm5349701'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>alekseylevin</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349701'>05.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>09:10
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>наногерцевых гравитационных волн. </blockquote>Кликбейтное название. )))) В таком случае лучше перейти к длине волны. Гравитационным волнам с длиной волны 100 световых лет.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3 parent" id='forum_node_5349703'>
+   <div class='fmnode'>
+   <a name='fm5349703'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>alekseylevin</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349703'>05.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>15:16
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Наногерцевые волны - это общепринятый термин.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level4">
+<li class="level4 parent" id='forum_node_5349704'>
+   <div class='fmnode'>
+   <a name='fm5349704'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>OSAO</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>alekseylevin</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349704'>05.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>17:01
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>А вот интересно: когда рассчитывают длину волны, то скорость делится на частоту, и в случае грав. волн мне непонятно, что подставлять. Какова скорость гравитационного взаимодействия?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level5">
+<li class="level5 parent" id='forum_node_5349706'>
+   <div class='fmnode'>
+   <a name='fm5349706'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>alekseylevin</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>OSAO</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349706'>05.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>17:29
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Согласно ОТО, она равна скорости света в вакууме. К счастью, природа проявила разумную умеренность и не наделила гравитацию собственной скоростью. Не зря же Эйнштейн отметил, что Бог изощрен, но не злонамерен. Правда, в квантовых моделях гравитации скорость квантов поля тяготения, гравитонов, может отличаться от скорости фотонов, но очень незначительно. В любом случае, в экспериментах по отлову наногерцевых колебаний речь шла об очень слабых полях, где скорость волн тяготения в точности совпадает со световой.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level6">
+<li class="level6 parent" id='forum_node_5349709'>
+   <div class='fmnode'>
+   <a name='fm5349709'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>OSAO</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>alekseylevin</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349709'>05.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>18:50
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Ну, хорошо, так какова же длина наногерцевой волны в космических единицах, например, в парсеках?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level7">
+<li class="level7" id='forum_node_5349712'>
+   <div class='fmnode'>
+   <a name='fm5349712'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>alekseylevin</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>OSAO</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434117#fm5349712'>05.07.2023</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>22:25
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>31,7 световых лет, или 9,7 парсек. Посчитать несложно.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul></ul>
+<div class='fmctrl fl' id='forum_btm_btn'>Написать комментарий</div>
+
+
+<div class='cl'></div>
+</div>
+</div>
+
+<div class='forumctrls' style='display:none'>
+
+<div id='forum_edit_block'>
+<form action="/novosti_nauki/434117?ipcountry=NL" method=post onsubmit="return forum_checkMsgForm(this)">
+
+<input type='hidden' name='msgedit' id='forum_msg_id'>
+<div class='xform'>
+	<textarea id='forum_edit_textarea' name=memo placeholder="Комментарий"></textarea>
+	
+	<input type='submit' value='Сохранить' name='accept'> <input type=submit name=delete onclick='return confirm("Удалить сообщение?");' value="Удалить">
+        <div class='gap'></div>
+</div>
+</form>
+</div>
+
+<div id='forum_input_block' class='fmnode toggle'>
+
+        <div class='fmhead'><span class="nodepoint"></span>Вход в систему</div>
+	<div class='xform beige'>
+        <div class='smallform'>
+        
+		<form action="/novosti_nauki/434117?ipcountry=NL" method=post>
+                
+                <input type='hidden' name='answerto' id='forum_prev_id'>
+		<input type=text name=LOGIN  value="" maxlength=50 placeholder='Имя' id='forum_login'></td>
+		<input type=password name="PASSWD" value="" maxlength=50 placeholder='Пароль'></td></tr>
+                <div class="label fl"><span class="xcheckbox"><input id='rpw_chk' type="checkbox" name=PERSIST onclick="resetXCheck(this)"></span> <label for='rpw_chk'>запомнить пароль</label></div>
+                <input type="submit" class='right' name="accept_auth" value="   ok   ">
+                <div class='cl'></div>
+		</form>
+        <div class='goto fl'><a href="/reguser">Зарегистрироваться</a></div>
+        <div class='goto fr'><a href="/restore_password">Забыли пароль?</a></div><div class='cl'></div>
+	</div>
+        </div>
+        <div class='gap'></div>
+
+</div>
+
+</div>
+
+<script type='text/javascript'>
+var forum_user ="";
+var forum_mode = "simple";
+var forum_answerto = ""; 
+var forum_msgcnt = "26"; 
+
+
+var topbtn = document.getElementById('forum_topsocnet_button');
+if (topbtn) topbtn.style.display='';
+</script>
+<script type='text/javascript' src='/downloads/js/forum.js?v=1.10' charset="utf-8"></script>
+</div>
+
+<div class='crblock'>
+
+<div class='storyline important'>
+
+</div>
+
+
+
+     <h2><a href="/novosti_nauki">Последние новости</a></h2>
+     <hr class='nogap'>
+
+
+    <a href="/novosti_nauki/434407/Kukolki_zarazhennye_opasnym_parazitom_posylayut_rabochim_muravyam_signal_ubey_menya" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/altruistic-disease-signalling-in-ant-colonies_logo_200.jpg" alt="Рабочие муравьи Lasius neglectus проводят «разрушающую дезинфекцию»"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Куколки, зараженные опасным паразитом, посылают рабочим муравьям сигнал «убей меня»</div>
+    <div class="sublink"><span class="date">12.02</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434406/U_pervykh_pozvonochnykh_bylo_dve_pary_glaz" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/myllokunmingia_200.jpg" alt="У первых позвоночных было две пары глаз"></div>
+    
+    <div class='ib_text'>
+    <div class="title">У первых позвоночных было две пары глаз</div>
+    <div class="sublink"><span class="date">09.02</span>&nbsp;<span class='break'
+>•</span> Сергей Ястребов</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434405/Infrakrasnoe_izluchenie_drevneyshiy_signal_dlya_privlecheniya_opyliteley" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/infrared-radiation-is-an-ancient-pollination-signal_1_200.jpg" alt="Открытая шишка саговникового растения. (B) Тепловизионное изображение мужской шишки саговника в&nbsp;момент нагревания во&nbsp;время выброса пыльцы"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Инфракрасное излучение&nbsp;— древнейший сигнал для привлечения опылителей</div>
+    <div class="sublink"><span class="date">04.02</span>&nbsp;<span class='break'
+>•</span> Елена Устинова</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434404/Dazhe_krupnye_mozazavry_mogli_zhit_v_rekakh" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/260118_novikovskaya_mosasaurus_200.jpg" alt="Некоторые виды мозазавров могли быть пресноводными"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Даже крупные мозазавры могли жить в реках</div>
+    <div class="sublink"><span class="date">19.01</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+<div class='goto'><a href="/novosti_nauki">Все новости</a></div>
+<div class='gap2'></div>
+
+
+<!-- Здесь был блок картинки дня: KLBLOCK id="eltdpicture" page_size="1" template="dpicture_R_v2" page="" calendar="" features="v2" dpicture_title="Картинка дня" dpicture_th_title="*" gotoxrub="19"/ -->
+
+<div class='important'>
+
+
+<hr class='hide_main hide_hpad'><div class='gap hide_main hide_hpad'></div>
+<div class='rxblock eltpub'>
+<h2>См. также</h2><hr class='nogap'>
+
+
+
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/431545/Imennaya_chastitsa?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/eltpub/name_particles_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Именная частица</div>
+    
+    <div class="sublink">Алексей Левин&nbsp;<span class='break'>•</span> Библиотека&nbsp;<span class='break'>•</span> «Популярная механика» №3, 2012</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433984/Filip_Anderson_dobryy_i_zloy_geniy_bozona_Khiggsa?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/philip_anderson_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Филип Андерсон: добрый и злой гений бозона Хиггса</div>
+    
+    <div class="sublink"><span class="date">04.07.2022</span>&nbsp;<span class='break'>•</span> Алексей Левин&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433961/Ot_korpuskuly_do_elektrona_kto_kogda_i_kak_otkryl_pervuyu_elementarnuyu_chastitsu?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/discovery_of_electron_logo_390.jpg" alt=""></div>
+    
+    <div class="title">От корпускулы до электрона: кто, когда и как открыл первую элементарную частицу</div>
+    
+    <div class="sublink"><span class="date">30.04.2022</span>&nbsp;<span class='break'>•</span> Алексей Левин&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/430428/Utochneno_znachenie_massy_W_bozona?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/w-mass_fig1_300.jpg" alt=""></div>
+    
+    <div class="title">Уточнено значение массы W-бозона</div>
+    
+    <div class="sublink"><span class="date">09.01.2007</span>&nbsp;<span class='break'>•</span> Игорь Иванов&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/LHC/novosti_BAK/432290/Parnoe_rozhdenie_W_bozonov_novye_rezultaty_i_novye_obyasneniya?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/lhc_medium_ww_results_1_600.jpg" alt=""></div>
+    
+    <div class="title">Парное рождение W-бозонов: новые результаты и новые объяснения</div>
+    
+    <div class="sublink"><span class="date">22.07.2014</span>&nbsp;<span class='break'>•</span> Игорь Иванов&nbsp;<span class='break'>•</span> Новости LHC</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltpub'>
+
+
+
+
+<a class="nohover" href="/bookclub/chapters/432007/Osnovnye_ponyatiya_i_zakony_fiziki_i_svoystva_elementarnykh_chastits_materii?from=rxblock">
+    
+     <div class='clubbooks '>
+     <div class='img'><img src="images/eltpub/osn_pon_390.jpg" alt=""></div>
+     </div>
+    
+    <div class="title">Основные понятия и законы физики и свойства элементарных частиц материи</div>
+    
+    <div class="sublink"><span class="date">2012</span>&nbsp;<span class='break'>•</span> Лев Окунь&nbsp;<span class='break'>•</span> Книжный клуб&nbsp;<span class='break'>•</span> Главы</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433781/Myuonnye_kollaydery_razdvinut_gorizonty_fiziki_elementarnykh_chastits?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/vladimir_shiltsev_on_muon_colliders_logo02_390.jpg" alt=""></div>
+    
+    <div class="title">Мюонные коллайдеры раздвинут горизонты физики элементарных частиц</div>
+    
+    <div class="sublink"><span class="date">11.03.2021</span>&nbsp;<span class='break'>•</span> Алексей Левин&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433515/Iz_Fermilaba_v_Brukkheyven_Dmitriy_Denisov_o_top_kvarke_i_ob_ionnykh_kollayderakh?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/interview_with_dmitri_denisov_1_390.jpg" alt=""></div>
+    
+    <div class="title">Из Фермилаба в Брукхейвен: Дмитрий Денисов о топ-кварке и об&nbsp;ионных коллайдерах</div>
+    
+    <div class="sublink"><span class="date">09.08.2019</span>&nbsp;<span class='break'>•</span> Алексей Левин&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433495/Vladimir_Shiltsev_o_tom_kak_izmenitsya_uskoritelnaya_fizika_v_blizhayshie_desyatiletiya?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/interview_with_vladimir_shiltsev_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Владимир Шильцев о&nbsp;том, как изменится ускорительная физика в&nbsp;ближайшие десятилетия</div>
+    
+    <div class="sublink"><span class="date">20.06.2019</span>&nbsp;<span class='break'>•</span> Алексей Левин&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433845/Pamyati_Stivena_Vaynberga?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/steven_weinberg_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Памяти Стивена Вайнберга</div>
+    
+    <div class="sublink"><span class="date">03.08.2021</span>&nbsp;<span class='break'>•</span> Алексей Левин&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<div class='gap2'></div>
+
+</div>
+
+
+<div class='storyline important'>
+
+</div>
+
+</div>
+
+<div class='cl'></div>
+
+<div class='mb'>
+<div class='pager_one'>
+<hr>
+
+  <a class='nohover' href="/novosti_nauki/434116/Rodstvenniki_cheloveka_zanimalis_kannibalizmom_uzhe_poltora_milliona_let_nazad">
+   <div class="next">
+      <div class=icon></div> 
+      <div class="suplink">30.06.2023</div>
+      <div class="pretitle"></div>
+      <div class="title">Родственники человека занимались каннибализмом уже полтора миллиона лет назад</div>
+   </div>
+  </a>
+
+
+ <a class='nohover' href="/novosti_nauki/434118/Sostavlen_katalog_korrelyatsiy_mezhdu_chertami_lichnosti_i_umstvennymi_sposobnostyami">
+  <div class="prev">
+     <div class=icon></div> 
+     <div class="suplink">05.07.2023</div>
+     <div class="pretitle"></div>
+     <div class="title">Составлен каталог корреляций между чертами личности и умственными способностями</div>
+   </div>
+  </a>
+
+</div>
+<div class='cl'></div>
+</div>
+
+
+
+<div class='other_block'>
+<hr class='top mb'>
+<div class='mb4 other_themes'>
+ <h2>Другие новости</h2>
+ <div class="submenu hrline"><div class="sm_item">
+    <a href="/novosti_nauki/t/1763182/Aleksey_Levin">Алексей Левин</a> <span class="stat">102</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/21093/Fizika">Физика</a> <span class="stat">537</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/2381677/Istoriya_nauki">История науки</a> <span class="stat">22</span>
+</div></div>
+</div>
+<div class='scroll_container'>
+<div id='newsScrBlock' class='slider-view'><div class='slider'><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434353/Novye_izmereniya_anomalnogo_magnitnogo_momenta_myuona_soglasuyutsya_so_Standartnoy_modelyu?from=bxblock'>
+<div class='img'><span><img src='images/news/muon_anomalous_magnetic_moment_fnal_final_logo_390.jpg' alt=''></span></div>
+<div class='title'>Новые измерения аномального магнитного момента мюона согласуются со&nbsp;Стандартной моделью</div>
+<div class='sublink'><span class="date">26.06.2025</span>&nbsp;<span class='break'
+>•</span> Иван Логашенко</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434227/Retsept_pervichnogo_bulona_k_stoletiyu_pervoy_gipotezy_abiogeneza?from=bxblock'>
+<div class='img'><span><img src='images/news/oparin_primordial_broth_logo_390.jpg' alt=''></span></div>
+<div class='title'>Рецепт «первичного бульона»: к&nbsp;столетию первой гипотезы абиогенеза</div>
+<div class='sublink'><span class="date">27.05.2024</span>&nbsp;<span class='break'
+>•</span> Михаил Орлов</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434226/Astrofizikam_ne_udaetsya_snizit_khabblovskoe_napryazhenie?from=bxblock'>
+<div class='img'><span><img src='images/news/hubble_tension_review_logo_390.jpg' alt=''></span></div>
+<div class='title'>Астрофизикам не удается снизить «хаббловское напряжение»</div>
+<div class='sublink'><span class="date">22.05.2024</span>&nbsp;<span class='break'
+>•</span> Алексей Левин</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434214/Tikhiy_fizik_iz_Edinburga_pamyati_Pitera_Khiggsa?from=bxblock'>
+<div class='img'><span><img src='images/news/peter_higgs_logo_390.jpg' alt=''></span></div>
+<div class='title'>Тихий физик из Эдинбурга: памяти Питера Хиггса</div>
+<div class='sublink'><span class="date">15.04.2024</span>&nbsp;<span class='break'
+>•</span> Алексей Левин</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434205/Kristallizatsiya_yadra_tormozit_ostyvanie_belykh_karlikov?from=bxblock'>
+<div class='img'><span><img src='images/news/q_branch_white_dwarfs_logo_390.jpg' alt=''></span></div>
+<div class='title'>Кристаллизация ядра тормозит остывание белых карликов</div>
+<div class='sublink'><span class="date">20.03.2024</span>&nbsp;<span class='break'
+>•</span> Алексей Левин</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434186/Yadernyy_yanvar_Ernesta_Rezerforda_kak_byla_raskryta_struktura_atoma?from=bxblock'>
+<div class='img'><span><img src='images/news/rutherfords_legacy_logo_390.jpg' alt=''></span></div>
+<div class='title'>Ядерный январь Эрнеста Резерфорда: как была раскрыта структура атома</div>
+<div class='sublink'><span class="date">29.01.2024</span>&nbsp;<span class='break'
+>•</span> Алексей Левин</div>
+</a>
+</div></div></div>
+<div class='scr_buttons_noscript' id='newsScrBlock_buttons'>
+<span class='prev_button' id='newsScrBlock_prevbtn'></span>
+<span class='next_button' id='newsScrBlock_nextbtn'></span>
+</div>
+</div>
+<div class='cl'></div>
+<hr class='mb hide_hphone'>
+<script type="text/javascript">scrollInit('newsScrBlock', { "mode": "DOM-S", "total": 573, "pagesize": 6, "request_url": '/ajax/news', "request_params": '&features=similar&features=v2&template=news_sline_v2&news_title=Другие новости&objlink_params=from=bxblock&xpage_size=6&tnews=3371422&newsid=434117'});</script>
+</div>
+
+
+</div>
+
+<div class='blue subscribe_block'><div class='mblock'>
+<div class='subscribe'>
+<div class='mb10'>
+<FORM TARGET=_top ACTION=https://subscribe.ru/member/quick METHOD=POST>
+<INPUT TYPE=hidden NAME=action VALUE=quick>
+<INPUT TYPE=hidden NAME=grp VALUE="science.news.elementynews">
+<span class='title'>Новостная рассылка</span>
+<span class='xinput fullwidth'><INPUT TYPE=email NAME=email SIZE=25 MAXLENGTH=100 placeholder
+="ВАШ E-MAIL"
+></span>&nbsp;<INPUT TYPE=submit VALUE="ПОДПИСАТЬСЯ">
+<INPUT TYPE=hidden NAME=src VALUE="list_science.news.elementynews">
+</FORM>
+</div>
+
+<div class='mb6'>
+<span class='title'>«Элементы» в соцсетях:&nbsp; </span>
+
+<a class='icon vk' href='https://vk.com/elementy_ru' target='_blank' title='ВКонтакте'></a>
+<a class='icon twitter' href='https://twitter.com/elementy_ru' target='_blank' title='Твиттер'></a>
+<a class='icon youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank' title='Youtube'></a>
+
+<a class='icon telegram' href='https://telegram.me/elementy_ru' target='_blank' title='Telegram'></a>
+<a class='icon zen' href='https://zen.yandex.ru/elementy.ru' target='_blank' title='Яндекс.Дзен'></a>
+</div>
+</div>
+<div class='cl'></div>
+</div></div>
+ 
+      
+             <script type="text/javascript" src="/downloads/js/linkhint.js?v=1.02"></script>
+             <script type="text/javascript">linkhint_init();</script>
+       
+   
+
+</div>
+
+
+
+<div class='hfooter'>
+<div class='mblock'>
+
+<div class='mb4 i1'><img src='images/eltnewdesign/ft_logo.png' alt='Элементы'></div>
+
+
+
+<div class='mb3 rub1'><ul>
+<li><a href='/novosti_nauki'>Новости науки</a></li>
+<li><a href='/LHC'>LHC</a></li>
+<li><a href='/kartinka_dnya'>Картинка дня</a></li>
+<li><a href='/problems'>Задачи</a></li>
+<li><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a></li>
+<li><a href='/video'>Видеотека</a></li>
+<li><a href='/bookclub'>Книжный клуб</a></li>
+</ul></div>
+<div class='mb3 rub2'><ul>
+<li><a href='/events'>Научный календарь</a></li>
+<li><a href='/email'>Детские вопросы</a></li>
+<li><a href='/time'>Масштабы: времена</a></li>
+<li><a href='/posters'>Плакаты</a></li>
+<li><a href='/trefil'>200 законов мироздания</a></li>
+<li><a href='/genbio'>Журнал общей биологии</a></li>
+<li><a href='/catalog'>Наука в Рунете</a></li>
+</ul></div>
+
+<div class='mb3 socnets'>
+<ul>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>ВКонтакте</span></a></li>
+<li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Twitter</span></a></li>
+<li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'><span class='icon'></span><span class='name'>Youtube</span></a></li>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Telegram</span></a></li>
+<li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'><span class='icon'></span><span class='name'>Яндекс.Дзен</span></a></li>
+<li class='hide_main hide_hpad hide_vpad'><a class='rss' href='/rss/news' target='_blank'><span class='icon'></span><span class='name'>RSS</span></a> <span class='name'>(<a href='/rss/'  target='_blank'>все ленты</a>)</span></li>
+</ul>
+</div>
+<div class='mb3 l2 zimin'>
+<div class='msg'><a href='https://basis-foundation.ru/' target="_blank">При поддержке фонда «Базис»</a></div>
+<a href='https://basis-foundation.ru/' target="_blank"><img src='images/eltnewdesign/basis2.png' alt='Фонд поддержки фундаментальной физики Базис'></a>
+</div>
+<div class='cl'></div>
+<hr>
+<div class='mb4 l2 copy'>© 2005–2026 «Элементы»</div>
+<div class='mb3 about'><a href='/about'>О проекте</a></div>
+<div class='mb3 feedback'><a href='mailto:info@elementy.ru'>Обратная связь</a></div>
+<div class='mb3 rss hide_phone'><a href='/rss/news' target='_blank'>RSS</a> (<a href='/rss/'  target='_blank'>все ленты</a>)</div>
+<div class='mb3 subscrb'><a href='https://subscribe.ru/catalog/science.news.elementynews'>Подписаться на рассылку</a></div>
+<!--<div class='mb3 l2 design'><a href='http://charmerstudio.com' target='_blank'>Дизайн: Charmer Studio</a></div>-->
+<div class='cl gap'></div>
+
+
+<div class='mb counters'>
+<!--LiveInternet counter--><script language="JavaScript"><!--
+document.write('<img src="//counter.yadro.ru/hit?r'+escape(document.referrer)+((typeof(screen)=='undefined')?'':';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+'" width=1 height=1 alt="">')
+//-->
+</script><!--/LiveInternet-->
+<!-- Yandex.Metrika counter --><script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter31698571 = new Ya.Metrika({ id:31698571, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="https://mc.yandex.ru/watch/31698571" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+<!-- Google Analytics --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65855867-1', 'auto');
+  ga('send', 'pageview');
+</script><!-- // Google Analytics -->
+<!--begin of Rambler's Top100 code -->
+<script id="top100Counter" type="text/javascript" src="//counter.rambler.ru/top100.jcn?707804"></script>
+<noscript><a href="http://top100.rambler.ru/top100/"><img src="//counter.rambler.ru/top100.cnt?707804" alt="" width=1 height=1 border=0></a>
+</noscript>
+<!--end of Top100 code-->
+</div>
+
+
+</div>
+</div>
+
+</div>
+</body>
+</html>

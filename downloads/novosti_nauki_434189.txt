@@ -1,0 +1,2820 @@
+<!DOCTYPE html>
+<html lang='ru' prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+<head>
+<title>Отвергнутые самцы дрозофил становятся агрессивнее и хуже справляются с жизненными трудностями • Александр Марков • Новости науки на «Элементах» • Этология, Энтомология, Генетика</title>
+<noscript><meta name="viewport" content="width=device-width, initial-scale=1.0"></noscript>
+<script type='text/javascript'>if (!document.cookie.match(/\bdesktop_mode=1/)) document.write('<meta name="viewport" content="width=device-width, initial-scale=1.0">');</script>
+
+
+<META name="description" content="Любовные неудачи самцов дрозофил приводят к целому комплексу поведенческих и физиологических изменений. Отвергнутые самцы становятся необщительными и агрессивными, их сексуальная мотивация растет, а способность переносить жизненные тяготы снижается. Эти изменения связаны с активацией небольшой группы нейронов, чувствительных к мушиному гомологу человеческого нейропептида Y."/>
+
+
+
+<link rel="canonical" href="https://elementy.ru/novosti_nauki/434189/Otvergnutye_samtsy_drozofil_stanovyatsya_agressivnee_i_khuzhe_spravlyayutsya_s_zhiznennymi_trudnostyami" />
+
+
+<base href="//elementy.ru/">
+
+
+
+<meta property="og:title" content="Отвергнутые самцы дрозофил становятся агрессивнее и хуже справляются с&nbsp;жизненными трудностями • Новости науки"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Любовные неудачи самцов дрозофил приводят к&nbsp;целому комплексу поведенческих и физиологических изменений. Отвергнутые самцы становятся необщительными и агрессивными, их сексуальная мотивация растет, а способность переносить жизненные тяготы снижается. Эти изменения связаны с&nbsp;активацией небольшой группы нейронов, чувствительных к&nbsp;мушиному гомологу человеческого нейропептида&nbsp;Y."/>
+<meta property="og:url" content="https://elementy.ru/novosti_nauki/434189/Otvergnutye_samtsy_drozofil_stanovyatsya_agressivnee_i_khuzhe_spravlyayutsya_s_zhiznennymi_trudnostyami"/>
+<meta property="og:image" content="https://elementy.ru/images/news/failure_to_mate_enhances_1_640.jpg"/>
+
+<meta property="article:section" content="Наука" />
+<meta property="article:tag" content="Этология"/><meta property="article:tag" content="Генетика"/><meta property="article:tag" content="Энтомология"/>
+<meta property="og:site_name" content="«Элементы»"/>
+<meta property="og:locale" content="ru_RU"/>
+
+
+<link rel="manifest" href="/downloads/js/manifest.json?v=1.02">
+
+
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo16bw.png"  sizes="16x16"/>
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo32bw.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo48bw.png" sizes="48x48" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo64bw.png" sizes="64x64" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo128bw.png" sizes="128x128" />
+<link rel="shortcut icon" type="image/png" href="/images/eltnewdesign/logo32bw.png"/>
+
+<meta content='Элементы' name='apple-mobile-web-app-title'>
+
+<link rel="apple-touch-icon" type="image/png" href="/images/eltnewdesign/logo128bw.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/eltnewdesign/logo57bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/eltnewdesign/logo114bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/eltnewdesign/logo72wb.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/eltnewdesign/logo120bw.png" />
+
+<meta name="application-name" content="Элементы"/>
+<meta name="msapplication-TileColor" content="#001034" />
+<meta name="msapplication-TileImage" content="/images/eltnewdesign/logo128bw.png" />
+
+<meta name="yandex-tableau-widget" content="logo=https://elementy.ru/images/eltnewdesign/logo128bw.png, color=#001034" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://elementy.ru/rss"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/style2.css?v=1.125"/>
+
+<noscript>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>
+</noscript>
+<script type='text/javascript'>
+if (!document.cookie.match(/\bdesktop_mode=1/))
+   document.write(
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>');
+</script>
+
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-print.css?v=1.09"/>
+
+<script type="text/javascript" src="/download/mathjax_2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" async></script>
+<script src="//yastatic.net/share2/share.js" async></script>
+<script type="text/javascript" src='/downloads/js/menu.js?v=1.10'></script>
+<script type="text/javascript" src='/downloads/js/hor.js' async></script>
+<script type='text/javascript' src='/downloads/js/request.js' async></script>
+<script type='text/javascript' src='/downloads/js/scroll.js?v=1.03'></script>
+<script type='text/javascript' src='/downloads/js/more.js?v=1.02'></script>
+<script type='text/javascript' src='/downloads/js/ttlhover.js' async></script>
+<script type='text/javascript' src='/downloads/js/rfilters.js'></script>
+
+<script type="text/javascript">
+function pict_popup(src,title) {
+        var w = window.open(src,'','channelmode=no,toolbar=no,location=no,status=no,directories=no,menubar=no,');
+        if(navigator.appName=='Microsoft Internet Explorer') w.document.write('<title>'+title+'</title><img src="'+src+'" onLoad="i=document.images[0]; window.resizeTo(i.width+50,i.height+100)">')
+        return false
+}
+</script>
+
+
+
+
+</head>
+
+<body class="xrub-novosti_nauki xrubpage-no">
+<div class='allarea'  id='pgarea'>
+<a id="page_top"></a>
+
+<div class='mainmenublock hmenu' id='mmenubody' >
+     <div class='mbshading' id='mshading' onclick='toggleHMenu("mmenubody")'></div> 
+     <div class='hmenu'>
+      <div class='menuarea' id='mmenuarea'>
+       <a href='/' class='close' onclick='return toggleHMenu("mmenubody")'><span class='icon close'></span><span class='hint'>Закрыть</span></a>
+       <script type='text/javascript'>
+            var desktop_mode = document.cookie.match(/\bdesktop_mode=1/); 
+            if (!desktop_mode) document.write('<div class="oldlink hide_other"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div><hr class="hide_other">');
+       </script>
+       <ul class="level0"><li class="level0 selected">
+  <div><a href='/novosti_nauki'>Новости науки</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/kartinka_dnya'>Картинка дня</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/events'>Календарь событий</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/problems'>Задачи</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/email'>Детские вопросы</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/LHC'>Большой адронный коллайдер</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/LHC/novosti_BAK'>Новости LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/monitory_bolshogo_adronnogo_kollajdera'>Мониторы LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/LHC_results'>Результаты LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/zagadki_lhc'>Загадки LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_s_mu_mu'>Распад b→sμμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_1'>Распад B<sup>+</sup>→K<sup>+</sup>ll</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_2'>Распад B→Dlν</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_mu_mu'>Распад B→μμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/raspad_higgsa_na_muon_i_tau'>Распад H→μτ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/top_antitop_higgs'>Комбинация топ-антитоп-хиггс</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/zaryazhennyj_bozon_higgsa'>Заряженный бозон Хиггса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/dvuhfotonnyj_vsplesk_pri_750_gev'>Двухфотонный всплеск 750&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptony_odnogo_znaka_na_atlas'>Лептоны одного знака на ATLAS</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/eejj-otklonenije'>eejj-отклонение</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/sobytije_2.9tev'>Событие при 2,9 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_2_tev_atlas'>WZ-пик при 2 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_1.8_tev_cms'>WH-пик при 1,8 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_CMS'>Поиск суперсимметрии — 1</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_ATLAS'>Поиск суперсимметрии — 2</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_iii'>Поиск суперсимметрии — 3</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_results/beyondSM'>Отклонения от Стандартной модели</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/susy_search'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/exotic_search'>Экзотические частицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_search'>Поиск бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_study'>Изучение бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/top-quark'>Свойства топ-кварка</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/hadrons'>Рождение и распады адронов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/rare_decays'>Редкие распады B-мезонов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/difraction'>Адронная дифракция</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/nuclei'>Ядерные столкновения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/astro'>Астрофизика</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC_working'>LHC в работе</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lhc/timeline'>Хронология создания и работы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/general_schedule'>Общее расписание</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/what-to-check'>Как следить за новостями с LHC</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/working_cycle'>Рабочий цикл коллайдера</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/initial'>Ранние этапы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2008'>2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/incident'>Авария 19.09.2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009'>2009</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009/results_2009'>Результаты работы LHC в&nbsp;2009&nbsp;году</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_1'>Сеанс LHC Run&nbsp;1</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010'>2010</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010/results_2010'>Результаты работы LHC в&nbsp;2010&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011'>2011</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011/results_2011'>Результаты работы LHC в&nbsp;2011&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2012'>2012</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/schedule_2015'>Техническая пауза LS1</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_2'>Сеанс LHC Run&nbsp;2</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2015'>2015</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2016'>2016</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2017'>2017</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2018'>2018</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_3'>Сеанс LHC Run&nbsp;3</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_3/2022'>2022</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC'>Устройство и задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/LHC/about'>LHC: ключевые факты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/accelerator'>Устройство LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/beams'>Протонные пучки</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnets'>Магнитная система</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnet_training'>Как тренируют магниты</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/detectors'>Детекторы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ATLAS'>ATLAS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/CMS'>CMS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ALICE'>ALICE</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCb'>LHCb</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/TOTEM'>TOTEM</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCf'>LHCf</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/MoEDAL'>MoEDAL</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/why'>Зачем нужен LHC?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/tasks'>Задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/hadrons'>Свойства адронов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/decays'>Адронные распады</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/higgs'>Поиск бозона Хиггса</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/production_decay'>Рождение и распад</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/search_strategies'>Стратегии поиска</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/top-quark'>Топ-кварк</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/SUSY'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/exotic'>Экзотические теории</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/nuclei'>Ядерные столкновения</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/safety'>Безопасность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/estimates'>Вероятность катастрофы</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/black_holes'>Микроскопические черные дыры</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/phrases'>Толковый словарик журналистских штампов</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/HEP'>Физика элементарных частиц</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/HEP/educational'>Образовательные онлайн-ресурсы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/HEP/measures'>Величины и единицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/cross-section'>Сечение процесса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/luminosity'>Светимость</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/invariant-mass'>Инвариантная масса</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/study'>Как изучают частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/detecting'>Принципы детектирования</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/errors'>Погрешности</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/statistical'>Статистическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/systematic'>Систематическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/theoretical'>Теория и моделирование</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/sigma'>Сигма</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/subtleties'>Тонкости анализа</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/experiments'>Эксперименты на коллайдерах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/quark_model'>Классификация адронов</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/partonic_densities'>Партоны</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/hadronization'>Конфайнмент и адронизация</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/rapidity-angle_diagram'>Быстрота–угол</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/analysis_methods'>Приемы анализа</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/SM'>Стандартная модель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/problems'>Трудности</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/beyondSM'>За пределами СМ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/SUSY'>Суперсимметрия</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/higgs_theory'>Хиггсовский механизм</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/explanations'>Аналогии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/SM_Higgs'>Хиггс с&nbsp;массой 125&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/nonminimal'>Неминимальные варианты</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/gallery'>Галерея</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly'>В популярных журналах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/vmirenauki'>«В мире науки»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/znanijesila'>«Знание — сила»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvant'>«Квант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvantik'>«Квантик»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kommersant_nauka'>«Коммерсантъ Наука»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kot_shryodingera'>«Кот Шрёдингера»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_i_zhizn'>«Наука и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_iz_pervyh_ruk'>«Наука из первых рук»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/popularnaja_mehanika'>«Популярная механика»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_himija_biologija_meditsina'>«Потенциал»: Химия. Биология. Медицина</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_matematika_fizika_informatika'>«Потенциал»: Математика. Физика. Информатика</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda'>«Природа»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/o_zhurnale'>О журнале</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/priroda_v_internete'>«Природа» в интернете</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/kak_podpisatsya'>Как подписаться</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/gazeta_troitskiy_variant'>«Троицкий вариант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/khimiya_i_zhizn'>«Химия и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/chto_novogo_v_nauke_i_tekhnike'>«Что нового в науке и технике»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/ecologiya_i_zhizn'>«Экология и жизнь»</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/izbrannoe'>Избранное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/lektsii_dlya_shkolnikov'>Лекции для школьников</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/interview'>Интервью</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/vystavka_vse_v_mire_otnositelno'>Выставка «Всё в мире относительно»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lib/exhibition/authors'>О художниках</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/lib/exhibition/about'>О выставке</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/video'>Видеотека</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/bookclub'>Книжный клуб</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/bookclub/book'>Книги</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/author'>Авторы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/chapters'>Главы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/bookclub/chapters/knigi_opublikovannyje_polnostju'>Опубликовано полностью</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera'>Происхождение жизни</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/evolutsija_i_priroda_nauki'>Глава 1</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/svidetelstva_biologicheskoj_evolutsii'>Глава 2</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/vzglyady_kreatsionistov'>Глава 3</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/FAQ'>Заключение</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/bookclub/publisher'>Издательства</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/series'>Серии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review'>Рецензии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review_users'>Отзывы</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/time'>Масштабы: времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/time/estimating'>В помощь читателю</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-1.html'>Как оценивать типичные времена</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-2.html'>Как применять формулы&nbsp;— иллюстрация</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-3.html'>Тонкости и предостережения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-4.html'>Опорные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-5.html'>Колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-6.html'>Гармонические колебания и их период</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-7.html'>Волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-8.html'>Закон распада</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/milli'>Миллисекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/milli/milli-1.html'>Миллисекунды в нашей жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-2.html'>Фото вместо видео</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-3.html'>Мерцающие огоньки</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-4.html'>Скрытые возможности невооруженного взгляда</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/micro'>Микросекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/micro/micro-1.html'>Остановившийся мир</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-2.html'>И всё-таки он движется!</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-3.html'>Пределы механического затвора</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nano'>Наносекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nano/nano-1.html'>От предметов к веществу</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-2.html'>Коллективные явления</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-3.html'>Электромагнитные колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-4.html'>Информационная емкость радиоволны</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/pico'>Пикосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/pico/pico-1.html'>Атомное движение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-2.html'>Пределы звука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-3.html'>Как начинается плавление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-4.html'>Пределы электроники</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-5.html'>Электромагнитные волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-6.html'>Элементарные частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/femto'>Фемтосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/femto/femto-1.html'>Мир электронов и света</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-2.html'>Оптические вычислительные технологии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-3.html'>Фемтохимия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-4.html'>Фемтобиология</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/atto'>Аттосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/atto/atto-1.html'>Личная жизнь атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-2.html'>Самые внутренние электроны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-3.html'>Как взрезать атом</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-4.html'>Электроны на службе аттофизики</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/zepto'>Зептосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-1.html'>Жизнь атомных ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-2.html'>Энергия, время и соотношение неопределенностей</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/yocto'>Йоктосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-1.html'>На границе известного</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-2.html'>Столкновение тяжелых ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-3.html'>Вглубь йоктосекунды</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/year'>От секунды до года</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/year/year-1.html'>Семь с половиной порядков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-2.html'>Искусственные спутники Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-3.html'>Эхо землетрясений</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-4.html'>Астероид-убийца</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-5.html'>Как растекается тепло</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/very-long'>Астрономические времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-1.html'>Солнечная система</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-2.html'>Солнечная система на больших временах</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-3.html'>Глубокий космос</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-4.html'>Межгалактические отношения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-5.html'>Танец земного климата</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-6.html'>Тектоническая жизнь Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-7.html'>Сверхдолгоживущие частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/sonoluminescence'>Сонолюминесценция</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-1.html'>Свечение, порожденное звуком</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-2.html'>Поведение пузырька</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-3.html'>Последние мгновения коллапса</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/biophysics'>Фолдинг белков</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-1.html'>Физическая основа жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-2.html'>Главная и боковые цепи</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-3.html'>«Жизнь» белковой молекулы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-4.html'>Компьютерное моделирование фолдинга</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/excited'>Возбужденные атомы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-1.html'>Возбужденные атомы: кто такие и где встречаются</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-2.html'>Быстротечная жизнь возбужденных атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-3.html'>Миллионы безуспешных попыток</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-4.html'>Ридберговские атомы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-5.html'>Атомы-долгожители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-6.html'>Водородная линия 21&nbsp;см</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nuclear'>Ядерные распады</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-1.html'>«Ядерная секунда»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-2.html'>Альфа-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-3.html'>Тяжелые элементы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-4.html'>Бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-5.html'>Двойной бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-6.html'>Ядерные изомеры</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/particles'>Элементарные частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/particles/particles-1.html'>Законы элементарных частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-2.html'>Два руководящих принципа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-3.html'>Сильные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-4.html'>Электромагнитные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-5.html'>Слабые распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-6.html'>Повышенная жизнеспособность на&nbsp;околосветовых скоростях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-7.html'>На переднем крае физики элементарных частиц</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/continents'>Движение континентов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/continents/continents-1.html'>Такты тектонической жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-2.html'>Возраст Гималаев</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-3.html'>Когда задышал Северный Ледовитый океан?</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/posters'>Плакаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/posters/moment'>Мгновение</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/posters/fractals'>Фракталы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/fractals/fractals'>Что такое фракталы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/geometric'>Геометрические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Koch'>Снежинка Коха</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/T-square'>Т-квадрат</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/H-fractal'>H-фрактал</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Sierpinski'>Треугольник Серпинского</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Pythagoras'>Дерево Пифагора</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Levy'>Кривая Леви</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/dragon'>Дракон</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/dynamic'>Динамические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Mandelbrot'>Множество Мандельброта</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Julia'>Множества Жюлиа</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Halley'>Фрактал Галлея</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Newton'>Фрактал Ньютона</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/complex_numbers'>Комплексные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/dimensions'>Фрактальные размерности</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/how_to_draw'>Как это рисовать</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/nature'>Фракталы в природе</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/about'>О плакате</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/collider'>Ускоритель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/collider/1'>Зачем нужен ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/2'>Единицы измерения расстояний, энергий и масс</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/3'>Краткая история ускорителей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/4'>Как работает ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/5'>Детектор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/6'>Как на ускорителе изучают свойства частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/7'>Природные ускорители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/8'>Применение ускорителей и детекторов в медицине</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/aviation'>Покорение воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/aviation/light'>Аппараты легче воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/light/balloons'>Аэростаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/montgolfiere'>Первый аппарат легче воздуха, способный поднять человека</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/today'>Шары-монгольфьеры сегодня</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/light/dirigibles'>Дирижабли</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/france'>Типичный дирижабль конца XIX&nbsp;века рыбообразной формы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/tsiolkovsky'>Цельнометаллический бескаркасный дирижабль с&nbsp;изменением объема в&nbsp;полете и с&nbsp;подогревом газа</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/zeppelin'>Серийный дирижабль Германии времен Первой мировой войны</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/akron'>Гелиевые дирижабли США</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/hindenburg_disaster'>Гибель «Гинденбурга» 6&nbsp;мая 1937&nbsp;года</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/today'>Дирижабли сегодня</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/heavy'>Аппараты тяжелее воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/helicopters'>Вертолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/sikorskys1'>Первый вертолет И.&nbsp;И.&nbsp;Сикорского</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/cagi_1-ea'>Первый летающий аппарат классической схемы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/mi-26'>Тяжелый военно-транспортный вертолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/an-64'>Ударный вертолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans'>Экранопланы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/km'>Самый крупный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/orlenok'>Единственный российский серийный десантный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/bartini'>Экраноплан Бартини</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/lun'>Летающий госпиталь</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/planes'>Самолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/theory'>Теоретические основы полета аппаратов тяжелее воздуха</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mozhajskij'>Первый реализованный проект, однако достоверных сведений о полете нет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/wrights'>Первый самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ilya_muromec'>Первый «тяжелый самолет»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/newport17'>Первый самолет с «зализанными» обводами</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ant-6'>Тяжелый бомбардировщик-моноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/messerschmitt'>Самый массовый истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/yak-1'>Самый легкий и маневренный истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/supermarine_spitfire'>Лучший истребитель битвы за Британию в 1940&nbsp;г.</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mosquito'>Цельнодеревянный скоростной бомбардировщик «Мечта термита»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mitsubishi_a6m_reisen'>Истребитель&nbsp;— символ японской авиации</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/il-2'>Тяжелый штурмовик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-15'>Фронтовой истребитель, один из первых серийных реактивных самолетов</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-86_sabre'>Многоцелевой истребитель, противник МиГ-15 в корейской войне</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-21'>Выдающийся сверхзвуковой истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/lockheed'>Высотный разведывательный самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_b-52'>Стратегический бомбардировщик с велосипедным шасси</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-144'>Сверхзвуковой пассажирский самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_747_jumbo'>«Реактивный слон»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-15_eagle'>Тактический истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/su-27'>Маневренный истребитель-перехватчик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-160'>Стратегический бомбардировщик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/an-124_ruslan'>Тяжелый военно-транспортный самолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/terms'>Основные параметры самолетов, указанные на плакате</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/literature'>Список литературы</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/light_version'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/gravity'>Гравитация</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/gravity/1'>Парабола или прямая?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/2'>Все дома стоят криво</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/3'>Из Москвы в&nbsp;Питер за&nbsp;полчаса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/4'>На Луну в комфортных условиях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/5'>Скоростной спутник Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/6'>Перевернутый небоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/7'>Супернебоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/8'>Запуск спутника без затрат энергии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/9'>Раскрутим Землю</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/perpetuum'>Вечный двигатель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/first'>Вечный двигатель первого рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/second'>Вечный двигатель второго рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/third'>Вечный двигатель «третьего рода»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/1'>Колесо и&nbsp;шары</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/2'>Цепочка шаров</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/3'>«Птичка Хоттабыча»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/4'>Цепочка поплавков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/5'>Архимедов винт</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/6'>Машина Орфиреуса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/7'>Магнит и желоба</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/8'>«Вечный водопровод»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/9'>Автоматический подзавод часов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/10'>Подъем масла по&nbsp;фитилям</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/11'>Колесо и&nbsp;грузы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/12'>Установка Потапова</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/13'>Луна и планеты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/spectrum'>Электромагнитное излучение</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/spectrum/nature'>Природа электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/wave'>Частота и длина волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/history'>История открытия электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/union'>Великое объединение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/energy'>Энергия кванта</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/temperature'>Температура излучения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/diapasons'>Диапазоны излучения и вещество</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/about'>Что изображено на плакате</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/units'>Соотношения и единицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/gamma'>Гамма-излучение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/roentgen'>Рентген</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/ultraviolet'>Ультрафиолет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/visible'>Видимый диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/infrared'>Инфракрасный диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/radio'>Радиоизлучение и микроволны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/other'>За пределами спектра</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/human'>Возможности человека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/human/muscular'>Сила</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/mind'>Мышление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/science'>Наука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/evolution'>Эволюционный принцип</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/factor'>Человеческий фактор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/weight'>Поднятие тяжестей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/flight'>Полет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/walk'>Бег</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/swim'>Плавание</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/trefil'>200 законов мироздания</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/trefil/introduction'><i>Введение</i></a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/physics'>Физика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/astronomy'>Астрономия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/maths'>Математика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/chemistry'>Химия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biology'>Науки о жизни</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/geo'>Науки о Земле</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/misc'>Разное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/rvm'>Взгляд в прошлое</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biography'><i>Биографии</i></a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/genbio'>Журнал общей биологии</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/genbio/english'>In English</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/genbio/english/all'>All Issues</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/genbio/abstracts'>All Abstracts</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/genbio/last'>Свежий выпуск</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/all'>Все выпуски</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/resume'>Статьи</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/synopsis'>Синопсисы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about'>О журнале</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about/rules'>Авторам</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/law'>Наука, образование и право</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/law/organ.htm'>Федеральные органы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/program.htm'>Федеральные программы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/intellectual.htm'>Интеллектуальная собственность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/law/intellectual/international.htm'>Международное законодательство</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/russian.htm'>Законодательство РФ </a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/patent.htm'>Патентование</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/contact.htm'>Сделки и договоры</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/payment.htm'>Вознаграждение</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/law/degree.htm'>Ученые степени</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nostr.htm'>Нострификация</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/vuz.htm'>Образование, вузы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nii.htm'>Научные организации</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/prize.htm'>Премии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/grant.htm'>Гранты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/work.htm'>Трудовое законодательство </a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/kodex.htm'>Конституция и кодексы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/other.htm'>Другие нормативные акты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/all_laws.htm'>Все нормативные акты</a>
+  </div></li>
+
+  </li></ul></ul>
+       <script type='text/javascript'>
+            document.write('<hr'+(!desktop_mode?"  class='hide_main'":"")+'>');
+            document.write('<div class="oldlink hide_main"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div>');
+            if (desktop_mode )
+               document.write('<div class="chmod mob hide_main"><a href="/" onclick="return setDesktopMode(false)">Мобильная версия сайта</a></div>');
+            else
+               document.write('<div class="chmod dsk hide_main"><a href="/" onclick="return setDesktopMode(true)">Полная версия сайта</a></div>');
+       </script>
+       <hr>
+       <ul class='img'>
+        <li class='first'><a class='facebook' href='https://www.facebook.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'></a></li>
+        <li><a class='instagram' href='https://www.instagram.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'></a></li>
+        <li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'></a></li>
+        <li><a class='rss' href='/rss/news' target='_blank'></a></li>
+       </ul>
+      </div>
+     </div>
+</div>
+
+<div class='print_logo hide_screen'><script type='text/javascript'>document.write("<img src='/images/eltnewdesign/logo_wpr.png'>");</script></div>
+
+<div class='hhead' id='pghead'>
+  <div class='hmenu'>
+    <div class='lmenu' id='hmainmenu'>
+      <a href='/' class='item' onclick='return toggleHMenu("mmenubody")'><span class='icon menu'></span><span class='hint'>Меню</span></a>
+    </div>
+    <div class='rmenu' id='rmenu'>
+       <a href='/' class='item' onclick='return toggleHMenu(this, true)'><span class='icon search'></span><span class='hint'>Поиск</span></a>
+       <a href='/' class='close' onclick='return toggleHMenu(this)'><span class='icon close2'></span><span class='hint'>Закрыть</span></a>
+       <div class='menuarea'>
+         <div class='menusearch xform'> 
+         <form action="find">
+             <input type="text" class="search" name="words" value="" placeholder="Поиск">
+             <input type="image" name="search" src="images/eltnewdesign/search_b.png">
+         </form>
+         </div> 
+       </div>
+    </div>
+    <div class='logo'><a href="/" onclick='return checkHMScroll()'><span>&nbsp;</span></a></div>
+  </div>  
+</div>
+
+
+<div class='body'  id='pgbody'>
+
+  
+   <div class='mblock chead'>
+     
+     
+<div class='rubpath'><span class='first last'><a href='/novosti_nauki'>Новости науки</a></span> </div>
+
+</div>
+   
+  
+
+   
+       <div class='mblock nogap'>
+<div class='mb itemhead newslist'><h1>Отвергнутые самцы дрозофил становятся агрессивнее и хуже справляются с&nbsp;жизненными трудностями</h1>
+<div class="sublink"><span class="date">05.02.2024</span>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/379113/Aleksandr_Markov">Александр Марков</a>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/2638820/Etologiya">Этология</a><span class="comma">,</span> <a href="/novosti_nauki/t/69870/Genetika">Генетика</a><span class="comma">,</span> <a href="/novosti_nauki/t/5271835/Entomologiya">Энтомология</a>&nbsp;<span class='break'>•</span> <a href="/novosti_nauki/434189#forum" onclick="forum_goto(); return false;">27&nbsp;комментариев</a></div></div>
+</div>
+
+<div class='mblock'>
+
+<div class='socnetblock'><script src="/downloads/js/snfly.js?v=1.04"></script>
+<div  id="socnets_share">
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter=""></div>
+<div id='forum_topsocnet_button' style='display:none' title='Написать комментарий'><span class='fmicon'></span><div class='counter' id='forum_topsocnet_count'></div></div>
+</div>
+</div>
+
+<div class='itemblock'><div class='memo'>
+    <!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block imedium cmt">
+
+
+
+<div align=center class='img'><img src="images/news/failure_to_mate_enhances_1_640.jpg" alt="FlyBowl — комплексная система для изучения поведения дрозофил" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 1.</b> <a href="https://www.janelia.org/open-science/fly-bowl" target=_blank>FlyBowl</a> — комплексная система для изучения поведения дрозофил. Специальное программное обеспечение позволяет анализировать не только индивидуальное поведение мух, но и их социальные взаимодействия. Фото с сайта <a href="http://www.janelia.org/open-science/fly-bowl" target=_blank>janelia.org</a> и кадр из видео с сайта <a href="https://research.janelia.org/bransonlab/FlyBowl/BehaviorResults/GMR_10A07_AE_01/index.html" target=_blank>research.janelia.org</a></p></div>
+
+
+</div>
+
+    <p><b>Ранее было показано, что у&nbsp;самцов дрозофил, отвергнутых самками, усиливается тяга к&nbsp;алкоголю. Как выяснилось, это лишь вершина айсберга. Новые эксперименты показали, что любовные неудачи приводят к&nbsp;целому комплексу поведенческих и физиологических изменений. Отвергнутые самцы становятся необщительными и агрессивными, их сексуальная мотивация растет, а способность переносить жизненные тяготы, такие как голод и окислительный стресс, снижается. Эти изменения связаны с&nbsp;активацией небольшой группы нейронов, чувствительных к&nbsp;мушиному гомологу человеческого нейропептида&nbsp;Y. У&nbsp;людей и других млекопитающих этот нейропептид играет важную роль в&nbsp;системах внутреннего подкрепления и реакции на стресс. Исследование подтвердило, что общие принципы организации этих систем сходны у&nbsp;млекопитающих и мух.</b></p>
+
+<p>Плодовая мушка <a href="https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%BE%D0%B7%D0%BE%D1%84%D0%B8%D0%BB%D0%B0_%D1%84%D1%80%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F" target=_blank>дрозофила</a> (<i>Drosophila melanogaster</i>)&nbsp;— важнейший модельный объект, на котором сделано множество открытий в&nbsp;самых разных областях биологии. На дрозофилах изучают в&nbsp;том числе и принципы устройства нейронных контуров, управляющих поведением животных, таких как системы внутреннего подкрепления (см.&nbsp;<a href="https://en.wikipedia.org/wiki/Reward_system" target=_blank>Reward system</a>) и реакции на стресс (stress response). По-видимому, эти системы существовали уже у&nbsp;общих предков членистоногих и хордовых. Поэтому то, что верно для мухи, может оказаться в&nbsp;какой-то мере верным и для человека.</p>
+
+<p>Ранее было показано, что самцы дрозофил, многократно отвергнутые самками, проявляют повышенную тягу к&nbsp;алкоголю. Об этом важном исследовании рассказано в&nbsp;новости <a href="/novosti_nauki/431786/Otvergnutye_samkami_samtsy_mukh_ishchut_utesheniya_v_alkogole" target=_blank>Отвергнутые самками самцы мух ищут утешения в&nbsp;алкоголе</a> («Элементы», 16.03.2012). Эффект связан со снижением уровня нейропептида&nbsp;F (NPF) в&nbsp;мозге отвергнутого самца. Изюминка здесь в&nbsp;том, что NPF дрозофилы гомологичен нейропептиду&nbsp;Y млекопитающих (<a href="https://en.wikipedia.org/wiki/Neuropeptide_Y" target=_blank>NPY</a>), про который известно, что он подавляет тягу к&nbsp;алкоголю у&nbsp;спившихся лабораторных млекопитающих (<span class="small">K.&nbsp;Pleil et&nbsp;al., 2015. <a href="https://www.nature.com/articles/nn.3972" target=_blank>NPY signaling inhibits extended amygdala CRF neurons to suppress binge alcohol drinking</a></span>).</p>
+
+<p>Продолжая развивать эту интригующую тему, исследователи из Израиля и США тщательно изучили поведенческие изменения, характерные для отвергнутых самками самцов дрозофил. Помимо прочего, авторы хотели понять, является ли общение с&nbsp;неприступными самками стрессором, вызывающим специфическую реакцию на стресс, или всё можно свести просто к&nbsp;отсутствию вознаграждения (в&nbsp;данном случае секса). Этот вопрос остался не до конца проясненным в&nbsp;«алкогольном» эксперименте.</p>
+
+<p>Поведение мух изучали при помощи системы <a href="https://www.janelia.org/open-science/fly-bowl" target=_blank>FlyBowl</a> (рис.&nbsp;1). Она позволяет отслеживать и обсчитывать множество аспектов не только индивидуального, но и социального поведения десятков мух. Сравнивались самцы трех типов, различавшиеся своим жизненным опытом (рис.&nbsp;2; эта методика также описана в&nbsp;новости <a href="/novosti_nauki/431786/Otvergnutye_samkami_samtsy_mukh_ishchut_utesheniya_v_alkogole" target=_blank>Отвергнутые самками самцы мух ищут утешения в&nbsp;алкоголе</a>): <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>1) Отвергнутые</b> (Rejected). Этих самцов трижды в&nbsp;сутки помещали на один час в&nbsp;камеру с&nbsp;самками, которые незадолго до этого спарились с&nbsp;другим самцом и поэтому отвергали все ухаживания. Издевательство продолжалось четверо суток. Если спаривание все-таки происходило, удачливого любовника исключали из исследования.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>2) Сексуально успешные</b> (Mated). Эти самцы общались с&nbsp;девственными самками, которые относились к&nbsp;ухаживаниям благосклонно.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>3) Неопытные</b> (в&nbsp;статье и на рис.&nbsp;2 они обозначены иногда как Naive, а иногда как Virgin, последний термин менее удачен, потому что отвергнутые тоже были девственниками). Эти самцы вообще не видели самок до начала тестирования.</p>
+
+<p>Тестирование состояло в&nbsp;том, что 10&nbsp;самцов помещали в&nbsp;низкую чашку Петри, где муха может только ходить пешком, и в&nbsp;течение 30&nbsp;минут регистрировали, а потом анализировали все их телодвижения при помощи системы FlyBowl.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/failure_to_mate_enhances_2_703.jpg" alt="Рис. 2. Схема эксперимента и некоторые поведенческие показатели" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 2.</b> Схема эксперимента (<i>вверху</i>, пояснения в&nbsp;тексте) и некоторые поведенческие показатели. <i>Верхний ряд графиков</i> показывает, что общая двигательная активность у&nbsp;отвергнутых самцов (Rejected) такая же высокая, как у&nbsp;неопытных (Naive/Virgin), в то время как сексуально успешные самцы (Mated) двигаются меньше. <i>Нижний ряд графиков</i> показывает, что по показателям, характеризующим общительность (мирные контакты с&nbsp;другими самцами), отвергнутые самцы сильно отстают от наивных, а по некоторым из этих показателей они уступают даже сексуально успешным, несмотря на общую вялость последних. Рисунок из обсуждаемой статьи из <i>PLoS Genetics</i></p></div>
+
+
+</div>
+
+<p>Выяснилось, что многократные сексуальные неудачи, в&nbsp;отличие от удач, не делают самцов более вялыми. Общая двигательная активность отвергнутых самцов оказалась такой же высокой, как у&nbsp;неопытных, и намного более высокой, чем у&nbsp;сексуально успешных. Совсем другая картина получилась по показателям, характеризующим «общительность», то&nbsp;есть склонность к&nbsp;мирному взаимодействию с&nbsp;другими самцами (приближения, прикосновения, хождение гуськом и т.&nbsp;п.). У&nbsp;отвергнутых самцов эти показатели оказались резко понижены и по сравнению с&nbsp;неопытными, и по сравнению с&nbsp;успешными самцами (хотя последние в&nbsp;целом меньше двигались). Таким образом, отвергнутые самцы не стали менее бодрыми, но стали менее общительными.</p>
+
+<p>Этот вывод подтвердился в&nbsp;ходе более сложного анализа поведенческих данных, показавшего, что отвергнутые самцы не просто ничего специально не делают, чтобы вступить в&nbsp;контакт с&nbsp;другим самцом. Они активно избегают контактов и стараются быть подальше от сородичей. Это видно, в&nbsp;частности, из анализа средних расстояний между мухами. Когда же контакт все-таки происходит, отвергнутые самцы чаще проявляют агрессию по отношению к&nbsp;другим самцам (отталкивают, прогоняют их), чем неопытные и сексуально успешные. Для количественной оценки агрессивности были проведены отдельные тесты (см.&nbsp;ниже).</p>
+
+<p>Таким образом, исследование показало, что поведение отвергнутых значимо отличается от поведения неопытных, которые тоже не имели секса. Это согласуется с&nbsp;предположением о том, что для самцов дрозофил сексуальные неудачи&nbsp;— это не просто отсутствие секса, а настоящий стрессор, комплексная реакция на который включает в&nbsp;себя избегание социальных контактов и рост агрессивности. Показанная ранее тяга к&nbsp;алкоголю сюда тоже хорошо вписывается, потому что такой симптом отмечается у&nbsp;многих животных при стрессе.</p>
+
+<p>Не останавливаясь на достигнутом, исследователи решили выяснить, снижается ли у&nbsp;отвергнутых самцов мотивация. Приходят ли они в&nbsp;уныние, которое иногда называют выученной беспомощностью или «loser-like state»? Теоретически это возможно, но возможен и обратный эффект, то&nbsp;есть усиление мотивации и решимости добиться желаемого. Такое тоже иногда наблюдается у&nbsp;животных, не получивших ожидаемой награды. Результаты «алкогольного» исследования вроде бы намекали, что отвергнутые самцы теряют волю к&nbsp;победе, что проявляется в&nbsp;снижении интенсивности ухаживания за самками. В&nbsp;новой работе это перепроверили на основе гораздо более тщательного и всестороннего анализа поведения. Вывод получился прямо противоположный.</p>
+
+<p>Во-первых, упомянутый выше рост агрессивности противоречит идее «loser-like state». У&nbsp;павших духом животных агрессия, как правило, снижается, а не растет. Дополнительные эксперименты подтвердили, что отвергнутые самцы агрессивнее сексуально успешных. Например, если посадить отвергнутого самца в&nbsp;одну пробирку с&nbsp;успешным, то инициатором примерно 80% агрессивных столкновений становится отвергнутый самец.</p>
+
+<p>Во-вторых, прежние предположения о&nbsp;менее активных ухаживаниях не подтвердились. Самка, недавно спарившаяся с&nbsp;другим самцом, сама по себе малопривлекательна для самцов. Это объясняется действием мужского феромона-антиафродизиака cVA (11-cis-vaccenyl acetate; о&nbsp;нем рассказано в&nbsp;новостях <a href="/novosti_nauki/431473/Obnaruzheny_neyrony_otvechayushchie_za_otlichiya_muzhskogo_povedeniya_ot_zhenskogo" target=_blank>Обнаружены нейроны, отвечающие за отличия мужского поведения от женского</a>, «Элементы», 08.12.2010 и <a href="/novosti_nauki/431890/Dofaminovye_neyrony_nuzhny_mukham_chtoby_uchitsya_na_oshibkakh" target=_blank>Дофаминовые нейроны нужны мухам, чтобы учиться на ошибках</a>, «Элементы», 10.09.2012). Поэтому самцы, которых готовили на роль «отвергнутых», не так охотно ухаживали за самками, как будущие «успешные», имевшие дело с&nbsp;привлекательными девственницами. Однако это различие постепенно сходило на нет по мере того, как «отвергнутые» привыкали к&nbsp;общению с&nbsp;уже спарившимися самками. Когда же отвергнутым самцам дали возможность поухаживать за девственницами, они делали это даже с&nbsp;большим энтузиазмом, чем неопытные. Спаривание отвергнутого самца с&nbsp;девственницей продолжалось в&nbsp;среднем на 25% (3,5&nbsp;минуты) дольше, чем у&nbsp;наивного самца. Кроме того, у&nbsp;отвергнутых оказалась повышена экспрессия двух ключевых генов, продукты которых входят в&nbsp;состав семенной жидкости и влияют на рецептивность и яйценоскость самки, тем самым повышая репродуктивный успех самца (<i><a href="https://www.sdbonline.org/sites/fly/sturtevant/sexpeptide1.htm" target=_blank>Sex-Peptide</a></i> и <i>Acp-63</i>). Таким образом, отвергнутые самцы вовсе не падают духом, а наоборот, вкладывают больше ресурсов в&nbsp;попытки оставить потомство. В&nbsp;естественных условиях это должно способствовать репродуктивному успеху. В&nbsp;данную схему вписываются и агрессия по отношению к&nbsp;другим самцам, и долгая копуляция, и усиленное производство компонентов семенной жидкости, заставляющих самку откладывать больше яиц и отвергать других самцов. Все это, по мнению авторов, соответствует не «синдрому проигравшего», а состоянию, похожему на <a href="https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D1%83%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F_(%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" target=_blank>фрустрацию</a>, которое порождается конфликтом между высокой сексуальной мотивацией и невозможностью добиться желаемого.</p>
+
+<p>Известно, что стресс может снижать устойчивость животных к&nbsp;различным жизненным тяготам. Исследователи проверили, как отвергнутые, успешные и наивные самцы справляются с&nbsp;двумя видами невзгод: голодом и окислительным стрессом. Для окислительного стресса самцам добавляли в&nbsp;корм гербицид <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%BA%D0%B2%D0%B0%D1%82" target=_blank>паракват</a>, ну а для голода просто не кормили. Отвергнутые самцы в&nbsp;обоих случаях оказались менее стойкими (быстрее погибали), чем успешные и наивные. Это согласуется с&nbsp;идеей о том, что сексуальные неудачи (но не отсутствие секса как таковое) являются стрессором, снижающим способность животного справляться с&nbsp;другими стрессорами.</p>
+
+<p>Ученые попытались также разобраться в&nbsp;нейробиологическом базисе обнаруженных эффектов. В&nbsp;<a href="/novosti_nauki/431786/Otvergnutye_samkami_samtsy_mukh_ishchut_utesheniya_v_alkogole" target=_blank>«алкогольном» исследовании</a> было показано, что тяга отвергнутых самцов к&nbsp;алкоголю связана со снижением уровня нейропептида&nbsp;F (NPF) в&nbsp;мушином мозге. Как уже говорилось, NPF гомологичен нейропептиду Y (<a href="https://en.wikipedia.org/wiki/Neuropeptide_Y" target=_blank>NPY</a>) млекопитающих. Нейропептид&nbsp;Y играет важную роль в&nbsp;координации работы систем внутреннего подкрепления и ответа на стресс. NPY подавляет активность нейронов, имеющих рецепторы к&nbsp;этому нейропептиду (нейронов NPYR), и в&nbsp;результате у&nbsp;животных снижается тревожность и тяга к&nbsp;алкоголю. Исследователи, естественно, предположили, что у&nbsp;дрозофил происходит что-то похожее. Их гипотеза состояла в&nbsp;том, что сексуальные неудачи снижают активность нейронов, производящих NPF. Это ведет к&nbsp;росту активности (дезингибированию) нейронов NPFR, что, в&nbsp;свою очередь, вызывает либо весь комплекс обнаруженных стрессовых реакций, либо какую-то его часть.</p>
+
+<p>В серии сложных генно-инженерных и оптогенетических экспериментов эта гипотеза в&nbsp;общих чертах подтвердилась. Сначала исследователи обнаружили, что дезингибирование нейронов NPFR снижает устойчивость самцов к&nbsp;голоданию, даже если они были успешны в&nbsp;любви или вообще никогда не встречались с&nbsp;самками. Впрочем, поведение самцов при этом изменилось мало. Таким образом, если искусственно активировать (дезингибировать) <i>все</i> нейроны, которые в&nbsp;норме тормозятся нейропептидом&nbsp;F (то&nbsp;есть все нейроны NPFR), то самец становится чувствительным к&nbsp;голоду, как если бы он был отвергнут самками, но другие изменения, связанные с&nbsp;отверженностью, у&nbsp;него не появляются.</p>
+
+<p>Возможно, дело в том, что нейроны NPFR довольно разнообразны, они производят разные нейромедиаторы и выполняют разные функции. Исследователи предположили, что за изменения, характерные для отвергнутых самцов, отвечает лишь какая-то конкретная подгруппа (субпопуляция) этих нейронов. Чтобы это проверить, стали активировать по очереди разные субпопуляции нейронов NPFR. В&nbsp;итоге удалось выявить одну небольшую группу из 22–26&nbsp;нейронов NPFR, производящих нейропептид <a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%85%D0%B8%D0%BA%D0%B8%D0%BD%D0%B8%D0%BD%D1%8B" target=_blank>тахикинин</a>. Активация этих нейронов не только снижает устойчивость самцов к&nbsp;голоданию, но и меняет их социальное поведение, причем изменения отчасти напоминают те, что наблюдались у&nbsp;отвергнутых самцов. Ясно, что не всё сводится именно к&nbsp;этой субпопуляции нейронов, но какой-то вклад в&nbsp;поведенческие и физиологические эффекты отверженности они, по-видимому, вносят. Хотя нейробиологическая часть исследования была крайне трудоемкой, она не дала ответов на все вопросы. Мягко говоря, здесь еще есть над чем поработать.</p>
+
+<p>Обсуждаемое исследование интересно в&nbsp;нескольких отношениях. Во-первых, впервые удалось получить весомые аргументы в&nbsp;пользу того, что дрозофилы реагируют на социальный стресс целым комплексом поведенческих и физиологических изменений, во многом похожих на те, что наблюдаются в&nbsp;подобных ситуациях у&nbsp;позвоночных. Во-вторых, получила дополнительную поддержку идея о&nbsp;сходстве базовых принципов организации и взаимодействия систем внутреннего подкрепления и ответа на стресс в&nbsp;мозге насекомых и позвоночных. В&nbsp;частности, у&nbsp;тех и других система внутреннего подкрепления, по-видимому, использует нейропептид NPY/NPF, чтобы сгладить остроту реакции на стресс или вовсе ее отключить. Возможно, дело идет к&nbsp;тому, что плодовая мушка скоро станет классическим модельным объектом еще и в&nbsp;нейропсихологии.</p>
+
+<p class="small"><b>Источник:</b> Julia Ryvkin, Liora Omesi, Yong-Kyu Kim, Mali Levi, Hadar Pozeilov, Lital Barak-Buchris, Bella Agranovich, Ifat Abramovich, Eyal Gottlieb, Avi Jacob, Dick R. Nässel, Ulrike Heberlein, Galit Shohat-Ophir. <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011054" target=_blank>Failure to mate enhances investment in behaviors that may promote mating reward and impairs the ability to cope with stressors via a&nbsp;subpopulation of Neuropeptide&nbsp;F receptor neurons</a>&nbsp;// <i>PLoS Genetics</i>. 2024. DOI:&nbsp;10.1371/journal.pgen.1011054.</p>
+
+<p class="small"><b>См. также:</b><br>
+<a href="/novosti_nauki/431786/Otvergnutye_samkami_samtsy_mukh_ishchut_utesheniya_v_alkogole" target=_blank>Отвергнутые самками самцы мух ищут утешения в&nbsp;алкоголе</a>, «Элементы», 16.03.2012.</p>
+
+<p><i><a href="http://evol-biol.ru" target=_blank>Александр Марков</a></i></p>
+
+
+    
+</div>
+
+<div class='cl'></div>
+<hr>
+<div class='toggle'>
+
+<div class='forum_topctrl '>
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter="" id="forum_socnets_share"></div><div class='forum_icon' onclick='toggleClick(this)' title='Комментарии'><span class='fmicon'></span><span class='fmcounter'>27</span></div>
+  
+     <div class='goto toggle_hide'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this)'><span class='hide_other'>Показать </span>комментарии (27)</span></div>
+     <div class='goto toggle_body'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this); socnetsFly();'><span class='hide_other'>Свернуть </span>комментарии <span class='hide_main'>(27)</span></span></div>
+  
+
+</div>
+
+<div class='forum toggle_body' id='forum_block'>
+<hr>
+<ul class="level0"><li class="level0 parent" id='forum_node_5352423'>
+   <div class='fmnode'>
+   <a name='fm5352423'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Combinator</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352423'>05.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>10:48
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Спасибо за статью! Уму непостижимо, как жалкие 100 тыс. нейронов могут обеспечить не только примитивные рефлексы, но и весьма сложное социальное поведение!</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1" id='forum_node_5352427'>
+   <div class='fmnode'>
+   <a name='fm5352427'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>erwins</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Combinator</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352427'>05.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:48
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>100т нейронов это сноcный переводчик с десятком языков</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level0 parent" id='forum_node_5352425'>
+   <div class='fmnode'>
+   <a name='fm5352425'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>capushon</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352425'>05.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>17:45
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Ждём подобных исследований про нематод и тихоходок.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5352426'>
+   <div class='fmnode'>
+   <a name='fm5352426'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>protopop</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>capushon</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352426'>05.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:07
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>нематод и тихоходок</blockquote>Или сразу медуз.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5352428'>
+   <div class='fmnode'>
+   <a name='fm5352428'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>erwins</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>protopop</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352428'>05.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:48
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Слизневика</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level2 parent" id='forum_node_5352429'>
+   <div class='fmnode'>
+   <a name='fm5352429'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>capushon</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>protopop</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352429'>05.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>21:45
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Наука разная важна, наука разная нужна.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3 parent" id='forum_node_5352431'>
+   <div class='fmnode'>
+   <a name='fm5352431'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>protopop</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>capushon</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352431'>06.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>06:41
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Здесь важно не разнообразие само по себе, а наоборот - сходства брачного (и околобрачного) поведения столь различных существ, находящихся на диаметрально-противоположных концах эволюционного древа, позволяющее (если таковое обнаружится) выявить какие-то фундаментальные закономерности.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level4">
+<li class="level4 parent" id='forum_node_5352432'>
+   <div class='fmnode'>
+   <a name='fm5352432'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>erwins</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>protopop</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352432'>06.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>09:10
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>А может мы видим, что хотим видеть )</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level5">
+<li class="level5" id='forum_node_5352433'>
+   <div class='fmnode'>
+   <a name='fm5352433'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>protopop</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>erwins</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352433'>06.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>16:31
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Проблема предвзятости прекрасно известна в науке, и серьёзные учёные принимают максимум мер для противодействия этому соблазну. У несерьёзных - да, такое бывает.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level5" id='forum_node_5352436'>
+   <div class='fmnode'>
+   <a name='fm5352436'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Наукообраз</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>erwins</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352436'>07.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>04:48
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>У &quot;отверженных&quot; резко возрастают энергозатраты на выработку семенной жидкости. Соответственно, остается меньше ресурсов на противодействие другим неспецефическим отрицательны факторам.<br>Можно было бы провести и обратные эксперименты -- о том, как стрессовые ситуации влияют на репродуктивное поведение дрозофил. Что-то мне подсказывает, что они были бы &quot;зеркальными&quot; по многим параметрам...</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul><li class="level0 parent" id='forum_node_5352434'>
+   <div class='fmnode'>
+   <a name='fm5352434'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Влад</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352434'>06.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>18:40
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Что я год или два назад говорил, что и теперь продолжаю говорить мысль - к анализу поведения мух надо прикручиваться машинное зрение и тогда делать такие исследования станет на полтора-два порядка проще.<br><br>Бедные мухи, за которыми следит большой брат - могут стать бесконечным источником научных знаний!!! Хорошенько натаскать готовый YOLOv8 на такие задачи в наше время может уже студент.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5352437'>
+   <div class='fmnode'>
+   <a name='fm5352437'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Наукообраз</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Влад</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352437'>07.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>04:49
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>натаскать готовый YOLOv8 на такие задачи в наше время может уже студент</blockquote>Останется натаскать студентов на правильную интерпретацию результатов.... ))</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5352439'>
+   <div class='fmnode'>
+   <a name='fm5352439'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>napa3um</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Наукообраз</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352439'>07.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>05:16
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Да LLM/GPT сам должен неплохо справиться с задачей описания найденных инвариантов в динамической системе (это с синтезом подобных инвариантов у него туго, галлюцинирует :)).</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level1 parent" id='forum_node_5352443'>
+   <div class='fmnode'>
+   <a name='fm5352443'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>HellMaus</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Влад</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352443'>08.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>14:09
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Машинное зрение сюда уже десять лет как прикрутили, в этой статье оно использовалось.<br>Вот немного про машинное зрение и нейросети в анализе поведения животных:<br>https://pubmed.ncbi.nlm.nih.gov/23202433/<br>https://www.pnas.org/doi/full/10.1073/pnas.1607601113<br>https://royalsocietypublishing.org/doi/10.1098/rsif.2014.067<wbr>2</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5352460'>
+   <div class='fmnode'>
+   <a name='fm5352460'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Влад</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>HellMaus</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352460'>09.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>22:42
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Ну так так я и говорю, что у них оно есть. А у нас есть опыты на дрозофилах, в которых оно не используется. Значит надо либо их взять готовое, если они его дают в свободный доступ, либо наше прикрутить.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul><li class="level0 parent" id='forum_node_5352438'>
+   <div class='fmnode'>
+   <a name='fm5352438'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>napa3um</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352438'>07.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>05:12
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>В эволюционирующих системах любого уровня (даже в самых примитивных симуляциях на компьютере) можно выделить/формализовать подобное явление - формирование некоего типового пути организма, к которому он будет адаптироваться, некой абстрактной судьбы, некоего алгоритма (выраженного в генах) обслуживания онтогенеза, направленного на решение меняющихся задач среды, сопровождающих организм от рождения до конечной точки влияния на генофонд (до последнего акта размножения или до смерти, если и без размножения стареющий организм влияет на остальную популяцию). Возможно, это будет путь с несколькими развилками, но обычно не содержащий циклов.<br><br>Судьба мушки - вырасти до половозрелости и оставить потомство, и отбор будет вытаптывать эту магистраль в её генетических алгоритмах. А вот дальше регуляция поведения оказывается не важной для передачи генов мушки в будущее и почти перестаёт быть &quot;видимой&quot; для отбора. Вероятно, не так много шансов у мушки на второй заход, её судьба после первой неудачи не так интересна отбору :).<br><br>Судьба - это объективное явление в эволюционной динамике, реальный предмет, который можно измерять и изучать (некая вероятностная цепочка активаций регулировочных генов, растянутая во времени) :3.<br><br>Проводить напрямую аналогии с высшей психической деятельностью человека, называя это психологическим стрессом или фрустрацией мушки, наверное, не стОит. Да, у человека это тоже некий выход за пределы отобранных программ поведения, но в случае высшей психической деятельности эти программы существенной частью импринтингованные, культурные, т.е. в некотором смысле виртуальные. Грубо говоря, в нас каждую ночь во сне умирает триллион отрбакованных мушек-программ (размеченных механизмами обслуживания стрессов), выраженных не генетически, а состоянием нейронов, синапсов и градиентами гормонов, а генетически у нас обусловлены в большей степени программы преодоления не конкретных стрессов, а стрессов вообще (там у нас закодированы стратегии поиска альтернативных программ, откат до предыдущих проверенных/закреплённых и т.п.)</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5352483'>
+   <div class='fmnode'>
+   <a name='fm5352483'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>itchynail</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>napa3um</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352483'>11.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>16:16
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Судьба - это объективное явление в эволюционной динамике, реальный предмет, который можно измерять и изучать</blockquote>Мне нравится. Один последний шаг до энтелехии остался.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2 parent" id='forum_node_5352494'>
+   <div class='fmnode'>
+   <a name='fm5352494'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>napa3um</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>itchynail</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352494'>12.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>01:05
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Скорее, до аттракторов в динамических системах 🤷‍♂️<br><br>Судьба - это не романтизированное/идеализированное «предначертанный путь», а объективизированное «усреднённая траектория активации генов усреднённого генома изучаемого вида в течение онтогенеза усреднённой особи».<br><br>Или ещё формулировка (банальная): генофонд как предиктор факторов среды, влияющих на особь в течение онтогенеза (удобная для анализа форма этого предиктора и будет представлять собой «судьбу», некий коридор взаимозависимых вероятностей активации генов) :3.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3 parent" id='forum_node_5352500'>
+   <div class='fmnode'>
+   <a name='fm5352500'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>itchynail</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>napa3um</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352500'>12.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>07:20
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Судьба - это не романтизированное/идеализированное «предначертанный путь»</blockquote>Все понятия, которыми вы пользуетесь, есть порождение поэзии и философского (&quot;идеализированного&quot;) творчества, осмысления. Материалистам-атомистам приходится воровать слова у идеалистов и редуцировать или извращать их значение. Зачем, например, вы берете слово судьба и прибавляете ему какое-то свое значение. Выдумайте свое слово, дайте ему определение и пользуйтесь. Иначе у вас делимый &quot;атом&quot;, т.е. неделимое в своем главном и единственном значении, вдруг стал деиализированным, то есть &quot;неделимое есть делимое&quot;. Опять волна безумия прошла через научника ).<br><br>Судьба у древних, Ананке, от которых вы взяли это слово, не понимая его логоса, значило необходимость.<br>&quot;Даже солнце не смеет преступить положенный ему предел, иначе эриннии разыщут его и привлекут к ответу. &quot;<br>&quot;Тройственное ананке правит нами: ананке догматов, ананке законов, ананке слепой материи.&quot;<blockquote>объективизированное «усреднённая траектория активации генов</blockquote>Хаос правит головами усредненных. В которых все и происходит, появляются &quot;объекты&quot; из ничто и усредняются.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level4">
+<li class="level4 parent" id='forum_node_5352501'>
+   <div class='fmnode'>
+   <a name='fm5352501'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>napa3um</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>itchynail</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352501'>12.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>07:22
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Ваша литературная критика была очень уместна, конечно. Уж простите меня за любовь к поэзии и за использование слова «судьба», надеюсь, ваш редукционистский и очаровательный (как кварк) мозг не сломался от этого :3.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level5">
+<li class="level5 parent" id='forum_node_5352502'>
+   <div class='fmnode'>
+   <a name='fm5352502'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>itchynail</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>napa3um</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352502'>12.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>07:24
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>кстати тут рассылка пришла. Начет этих генов и усреднений https://www.nature.com/articles/d41586-024-00327-x</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level6">
+<li class="level6 parent" id='forum_node_5352503'>
+   <div class='fmnode'>
+   <a name='fm5352503'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>napa3um</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>itchynail</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352503'>12.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>07:31
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>По вашей ссылке речь идёт об устаревшем понимании генофонда как «плане жизни», в котором каждый ген - некая инструкция, как в компьютерной программе, а не «судьбе», поэтически определённой выше (по сути в книжке и приходят к той самой статистической «судьбе», критикуя детерминированный «план жизни»).<br><br>Я не спешу :).<br><br>Или вот ещё поэтическая метафора: генофонд играет мелодию жизни на факторах среды, извлекая (экспрессируя) ноты и угадывая продолжение мелодии (гармонию, ритм). Как вам? Согласен, самоочевидная пошлятина, при этом не раскрывающая механизма предсказания, формируемого математикой эволюционной динамики (хотя уже намекает на многоуровневость этого предиктора - предсказывается и ритм, и гармония, которые взаимодополяют контексты уровней) :)</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level7">
+<li class="level7 parent" id='forum_node_5352504'>
+   <div class='fmnode'>
+   <a name='fm5352504'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>itchynail</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>napa3um</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352504'>12.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>08:40
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>По вашей ссылке речь идёт об</blockquote>Later in the book, Ball grapples with the philosophical question of what makes an organism alive. Agency — the ability of an organism to bring about change to itself or its environment to achieve a goal — is the author’s central focus. Such agency, he argues, is attributable to whole organisms, not just to their genomes. Genes, proteins and processes such as evolution don’t have goals, but a person certainly does.<br><br>Видите, как неожиданно появилось слово личность? И ведь тоже сперли у христиан и извратили, понимая под личностью индивида ).<blockquote>Или вот ещё поэтическая метафора: генофонд играет мелодию жизни на факторах среды, извлекая (экспрессируя) ноты и угадывая продолжение мелодии (гармонию, ритм). Как вам? </blockquote>Неплохо. Но &quot;генофонд&quot; изменчив, как и поток среды, сам часто служа средой для самого себя, т.к. по вере вашей &quot;материален и состоит из частиц&quot;, не так ли? Но ведь на каком-то этапе возникает &quot;личность&quot;, и вы уже не детерминированный частицами агрегат материального хаоса, сколлапсировавшего в агента, а говорящий и мыслящий бытие, действующий Герой. Хотя и обреченный на рок, но все равно бросающий вызов богам, мойрам.<br>Или вы не герой?)</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level8">
+<li class="level8 parent" id='forum_node_5352510'>
+   <div class='fmnode'>
+   <a name='fm5352510'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>napa3um</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>itchynail</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352510'>12.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>19:24
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Почему вы заговорили о личности? Зачем? В нашей задаче, вроде, не было в этом необходимости :).<br><br>Да, генофонд изменчив, среда изменчива, генофонд влияет и на среду, и среда отражается в генофонде, такая вот коэволюция. И, конечно, сама по себе изменчивость генофонда/среды не лишает нас возможности изучать их, мы описываем динамические системы как квазистабильные (условно стационарные между фазовыми переходами). У мушки есть своя типичная среда, запечатлённая в её генофонде, и в среде какого-нибудь морского червя мушке не выжить (судьба мушки не приведёт её на дно океана).<br><br>О какой вере вы говорите? О каком героизме? У вас всё хорошо? :3<br><br>Попробуйте сформулировать тезис, который вы пытаетесь аргументировать или контраргументировать. Любопытно, с кем вы разговариваете помимо меня :3.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level9">
+<li class="level9 parent" id='forum_node_5352516'>
+   <div class='fmnode'>
+   <a name='fm5352516'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>itchynail</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>napa3um</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352516'>13.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>06:37
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>генофонд изменчив, среда изменчива, генофонд влияет и на среду, и среда отражается в генофонде, такая вот коэволюция....мы описываем динамические системы как квазистабильные</blockquote>Так писали бы стихи, о мушках, например. Так вместо этого &quot;вы&quot; (ученые) в лабах сидите, за компами, летаете на сессии и фигней страдаете, лжете, да еще и бабки из бюджетов тянете. Надо с этим кончать.<br>Нужна риторическая физика, генетика вообще лженаука, как оказалось (а ведь говорили, но никто не слушал!), закрывать надо, биологов в поля отправлять, чтобы писали рассказы про пронизывающую биос и зою любовь, красоту. Зачем нужны иначе ученые, неужели чтобы промывать людям мозги своим сухим депрессивным бредом про какие-то среды обитания мушек и изменения частичек, её составляющих?<br>Я лишь частично шучу.<blockquote>Почему вы заговорили о личности? Зачем? В нашей задаче, вроде, не было в этом необходимости :).</blockquote>Вы начали с судьбы, как сложения суммы снимков жизни мушки в потоке (но целое сложнее суммы слагаемых в жизни). Постулировали какие-то эксплицитно заданные &quot;цели&quot; у потока и генофонда. Откуда вы это вообще взяли, что это сущее, а не галюцинация? Слово цель подразумевает агентность, у вас агентен и поток и генофонд. А агентность предполагает пределы, волю, необходимость. Вы это не можете приписать ни мушке, ни потоку (среде, как вы это называете неточно).<br>Another metaphor that Ball criticizes is that of a protein with a fixed shape binding to its target being similar to how a key fits into a lock. Many proteins, he points out, have disordered domains — sections whose shape is not fixed, but changes constantly.<br><br>This “fuzziness and imprecision” is not sloppy design, but an essential feature of protein interactions. Being disordered makes proteins “versatile communicators”, able to respond rapidly to changes in the cell, binding to different partners and transmitting different signals depending on the circumstance. For example, the protein aconitase can switch from metabolizing sugar to promoting iron intake to red blood cells when iron is scarce. Almost 70% of protein domains might be disordered.<br><br>Всю жизнь миллионы ученых могут изучать снимки мушек в потоке, и потока с мушкой, и через 100 лет скажут - ладно, мы неверно потратили 100 триллионов долларов, так ничего и не поняли. Дайте нам еще 100 триллионов, мы ща придумаем, какую новую хрень нам наблюдать и болтать.<br><br>А что уж говорить про человека, который имеет личность, если вы и мушек никогда не изучите?<br>Нельзя одной мушке войти в реку жизни дважды. И воды сменились и мушка поменялась. Что же там изучать, если нет ни миллисекунды покоя, постоянства?<br><br>Я имею ввиду, что разве не лучше было бы и вам и людям, если бы вы бродили по полям просто, с котомками, с соломинкой в зубах, и изучали природу непосредственно, находя паучков, ткущих перед рассветом покрывало над полем в мае, листок цвета сакуры, упавший на паутинку, писали бы танку о этом бифуркационном событии, повлиявшем на вашу душу, потрясшем её?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level10">
+<li class="level10" id='forum_node_5352517'>
+   <div class='fmnode'>
+   <a name='fm5352517'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>napa3um</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>itchynail</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352517'>13.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>08:15
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>С чего ты взял, что разговариваешь со мной, а не со своей галлюцинацией? Нет, я не биолог, твои налоги на гранты не пилю (или на что там у тебя ещё болит). А вот тебе с твоими обидами лучше обратиться к психиатру, кажется, ты их проецируешь на совершенно посторонних людей. Выздоравливай :).</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul><li class="level0" id='forum_node_5352482'>
+   <div class='fmnode'>
+   <a name='fm5352482'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>itchynail</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434189#fm5352482'>11.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>16:14
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>И какой вывод из статьи? Все научники дружно взяли и спроецировали состояние самца дрозофил на себя в привычном состоянии лишенности секса и постоянного отвержения их лаборанткой? Так вот почему спирт всегда перерасходуется...<br><br>А вот у пятнистой гиены не так. Вообще храмовую бесплатную проституцию надо возрождать. В Университетах - Храмах Науки.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+</ul>
+<div class='fmctrl fl' id='forum_btm_btn'>Написать комментарий</div>
+
+
+<div class='cl'></div>
+</div>
+</div>
+
+<div class='forumctrls' style='display:none'>
+
+<div id='forum_edit_block'>
+<form action="/novosti_nauki/434189?ipcountry=NL" method=post onsubmit="return forum_checkMsgForm(this)">
+
+<input type='hidden' name='msgedit' id='forum_msg_id'>
+<div class='xform'>
+	<textarea id='forum_edit_textarea' name=memo placeholder="Комментарий"></textarea>
+	
+	<input type='submit' value='Сохранить' name='accept'> <input type=submit name=delete onclick='return confirm("Удалить сообщение?");' value="Удалить">
+        <div class='gap'></div>
+</div>
+</form>
+</div>
+
+<div id='forum_input_block' class='fmnode toggle'>
+
+        <div class='fmhead'><span class="nodepoint"></span>Вход в систему</div>
+	<div class='xform beige'>
+        <div class='smallform'>
+        
+		<form action="/novosti_nauki/434189?ipcountry=NL" method=post>
+                
+                <input type='hidden' name='answerto' id='forum_prev_id'>
+		<input type=text name=LOGIN  value="" maxlength=50 placeholder='Имя' id='forum_login'></td>
+		<input type=password name="PASSWD" value="" maxlength=50 placeholder='Пароль'></td></tr>
+                <div class="label fl"><span class="xcheckbox"><input id='rpw_chk' type="checkbox" name=PERSIST onclick="resetXCheck(this)"></span> <label for='rpw_chk'>запомнить пароль</label></div>
+                <input type="submit" class='right' name="accept_auth" value="   ok   ">
+                <div class='cl'></div>
+		</form>
+        <div class='goto fl'><a href="/reguser">Зарегистрироваться</a></div>
+        <div class='goto fr'><a href="/restore_password">Забыли пароль?</a></div><div class='cl'></div>
+	</div>
+        </div>
+        <div class='gap'></div>
+
+</div>
+
+</div>
+
+<script type='text/javascript'>
+var forum_user ="";
+var forum_mode = "simple";
+var forum_answerto = ""; 
+var forum_msgcnt = "27"; 
+
+
+var topbtn = document.getElementById('forum_topsocnet_button');
+if (topbtn) topbtn.style.display='';
+</script>
+<script type='text/javascript' src='/downloads/js/forum.js?v=1.10' charset="utf-8"></script>
+</div>
+
+<div class='crblock'>
+
+<div class='storyline important'>
+
+</div>
+
+
+
+     <h2><a href="/novosti_nauki">Последние новости</a></h2>
+     <hr class='nogap'>
+
+
+    <a href="/novosti_nauki/434407/Kukolki_zarazhennye_opasnym_parazitom_posylayut_rabochim_muravyam_signal_ubey_menya" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/altruistic-disease-signalling-in-ant-colonies_logo_200.jpg" alt="Рабочие муравьи Lasius neglectus проводят «разрушающую дезинфекцию»"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Куколки, зараженные опасным паразитом, посылают рабочим муравьям сигнал «убей меня»</div>
+    <div class="sublink"><span class="date">12.02</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434406/U_pervykh_pozvonochnykh_bylo_dve_pary_glaz" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/myllokunmingia_200.jpg" alt="У первых позвоночных было две пары глаз"></div>
+    
+    <div class='ib_text'>
+    <div class="title">У первых позвоночных было две пары глаз</div>
+    <div class="sublink"><span class="date">09.02</span>&nbsp;<span class='break'
+>•</span> Сергей Ястребов</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434405/Infrakrasnoe_izluchenie_drevneyshiy_signal_dlya_privlecheniya_opyliteley" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/infrared-radiation-is-an-ancient-pollination-signal_1_200.jpg" alt="Открытая шишка саговникового растения. (B) Тепловизионное изображение мужской шишки саговника в&nbsp;момент нагревания во&nbsp;время выброса пыльцы"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Инфракрасное излучение&nbsp;— древнейший сигнал для привлечения опылителей</div>
+    <div class="sublink"><span class="date">04.02</span>&nbsp;<span class='break'
+>•</span> Елена Устинова</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434404/Dazhe_krupnye_mozazavry_mogli_zhit_v_rekakh" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/260118_novikovskaya_mosasaurus_200.jpg" alt="Некоторые виды мозазавров могли быть пресноводными"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Даже крупные мозазавры могли жить в реках</div>
+    <div class="sublink"><span class="date">19.01</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+<div class='goto'><a href="/novosti_nauki">Все новости</a></div>
+<div class='gap2'></div>
+
+
+<!-- Здесь был блок картинки дня: KLBLOCK id="eltdpicture" page_size="1" template="dpicture_R_v2" page="" calendar="" features="v2" dpicture_title="Картинка дня" dpicture_th_title="*" gotoxrub="19"/ -->
+
+<div class='important'>
+
+
+<hr class='hide_main hide_hpad'><div class='gap hide_main hide_hpad'></div>
+<div class='rxblock eltnews'>
+<h2>См. также</h2><hr class='nogap'>
+
+
+
+<a class="nohover" href="/novosti_nauki/431786/Otvergnutye_samkami_samtsy_mukh_ishchut_utesheniya_v_alkogole?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/alcohol_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Отвергнутые самками самцы мух ищут утешения в алкоголе</div>
+    
+    <div class="sublink"><span class="date">16.03.2012</span>&nbsp;<span class='break'>•</span> Вера Башмакова&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/431473/Obnaruzheny_neyrony_otvechayushchie_za_otlichiya_muzhskogo_povedeniya_ot_zhenskogo?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/dimorphic_pheromone_drosophila_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Обнаружены нейроны, отвечающие за отличия мужского поведения от женского</div>
+    
+    <div class="sublink"><span class="date">08.12.2010</span>&nbsp;<span class='break'>•</span> Александр Марков&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/431890/Dofaminovye_neyrony_nuzhny_mukham_chtoby_uchitsya_na_oshibkakh?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/mated-flies_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Дофаминовые нейроны нужны мухам, чтобы учиться на ошибках</div>
+    
+    <div class="sublink"><span class="date">10.09.2012</span>&nbsp;<span class='break'>•</span> Александр Марков&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/431782/Brachnaya_pesnya_drozofily_zapuskaet_ekspressiyu_genov_immunnoy_zashchity?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/drosophila-song_390.jpg" alt=""></div>
+    
+    <div class="title">Брачная песня дрозофилы запускает экспрессию генов иммунной защиты</div>
+    
+    <div class="sublink"><span class="date">14.03.2012</span>&nbsp;<span class='break'>•</span> Варвара Веденина&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433751/U_drozofil_obnaruzhili_sostoyanie_pokhozhee_na_paradoksalnyy_son_mlekopitayushchikh?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/paradoxical_sleep_in_drosophila_logo_390.jpg" alt=""></div>
+    
+    <div class="title">У дрозофил обнаружили состояние, похожее на парадоксальный сон млекопитающих</div>
+    
+    <div class="sublink"><span class="date">08.01.2021</span>&nbsp;<span class='break'>•</span> Светлана Ястребова&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433788/Poterya_chuvstvitelnosti_k_gorkomu_vkusu_prevrashchaet_drozofil_vo_vrediteley?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/shifts_in_taste_in_drosophila_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Потеря чувствительности к горькому вкусу превращает дрозофил во вредителей</div>
+    
+    <div class="sublink"><span class="date">24.03.2021</span>&nbsp;<span class='break'>•</span> Анастасия Вабищевич&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433381/Drozofily_uchatsya_drug_u_druga_i_khranyat_kulturnye_traditsii?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/cultural_fruitflies_conformist_social_learning_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Дрозофилы учатся друг у&nbsp;друга и хранят культурные традиции</div>
+    
+    <div class="sublink"><span class="date">03.12.2018</span>&nbsp;<span class='break'>•</span> Александр Марков&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433817/Novye_eksperimenty_ne_podtverdili_sposobnost_drozofil_k_sotsialnomu_obucheniyu?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/mate_choice_copying_in_drosophila_questioned_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Новые эксперименты не подтвердили способность дрозофил к&nbsp;социальному обучению</div>
+    
+    <div class="sublink"><span class="date">24.05.2021</span>&nbsp;<span class='break'>•</span> Александр Марков&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<div class='gap2'></div>
+
+</div>
+
+
+<div class='storyline important'>
+
+</div>
+
+</div>
+
+<div class='cl'></div>
+
+<div class='mb'>
+<div class='pager_one'>
+<hr>
+
+  <a class='nohover' href="/novosti_nauki/434188/Kraby_mnogokratno_vykhodili_na_sushu_i_vozvrashchalis_obratno_v_vodu">
+   <div class="next">
+      <div class=icon></div> 
+      <div class="suplink">02.02.2024</div>
+      <div class="pretitle"></div>
+      <div class="title">Крабы многократно выходили на сушу и возвращались обратно в&nbsp;воду</div>
+   </div>
+  </a>
+
+
+ <a class='nohover' href="/novosti_nauki/434190/Marsokhod_Perseverance_rasshifroval_geologicheskuyu_istoriyu_kratera_Ezero">
+  <div class="prev">
+     <div class=icon></div> 
+     <div class="suplink">08.02.2024</div>
+     <div class="pretitle"></div>
+     <div class="title">Марсоход Perseverance расшифровал геологическую историю кратера Езеро</div>
+   </div>
+  </a>
+
+</div>
+<div class='cl'></div>
+</div>
+
+
+
+<div class='other_block'>
+<hr class='top mb'>
+<div class='mb4 other_themes'>
+ <h2>Другие новости</h2>
+ <div class="submenu hrline"><div class="sm_item">
+    <a href="/novosti_nauki/t/379113/Aleksandr_Markov">Александр Марков</a> <span class="stat">944</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/2638820/Etologiya">Этология</a> <span class="stat">239</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/69870/Genetika">Генетика</a> <span class="stat">868</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/5271835/Entomologiya">Энтомология</a> <span class="stat">150</span>
+</div></div>
+</div>
+<div class='scroll_container'>
+<div id='newsScrBlock' class='slider-view'><div class='slider'><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434407/Kukolki_zarazhennye_opasnym_parazitom_posylayut_rabochim_muravyam_signal_ubey_menya?from=bxblock'>
+<div class='img'><span><img src='images/news/altruistic-disease-signalling-in-ant-colonies_logo_390.jpg' alt=''></span></div>
+<div class='title'>Куколки, зараженные опасным паразитом, посылают рабочим муравьям сигнал «убей меня»</div>
+<div class='sublink'><span class="date">12.02</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434405/Infrakrasnoe_izluchenie_drevneyshiy_signal_dlya_privlecheniya_opyliteley?from=bxblock'>
+<div class='img'><span><img src='images/news/infrared-radiation-is-an-ancient-pollination-signal_1_390.jpg' alt=''></span></div>
+<div class='title'>Инфракрасное излучение&nbsp;— древнейший сигнал для привлечения опылителей</div>
+<div class='sublink'><span class="date">04.02</span>&nbsp;<span class='break'
+>•</span> Елена Устинова</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434403/Ne_vse_yazykovye_universalii_okazalis_universalnymi?from=bxblock'>
+<div class='img'><span><img src='images/news/260111_kurakin_universals_390.jpg' alt=''></span></div>
+<div class='title'>Не все языковые универсалии оказались универсальными</div>
+<div class='sublink'><span class="date">12.01</span>&nbsp;<span class='break'
+>•</span> Георгий Куракин</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434399/Bobrovye_zaprudy_uvelichivayut_chislennost_mukh_zhurchalok_i_babochek?from=bxblock'>
+<div class='img'><span><img src='images/news/beavers_for_pollinators_logo_390.jpg' alt=''></span></div>
+<div class='title'>Бобровые запруды увеличивают численность мух-журчалок и&nbsp;бабочек</div>
+<div class='sublink'><span class="date">08.12.2025</span>&nbsp;<span class='break'
+>•</span> Елена Устинова</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434398/U_gelad_kormyashchie_samki_obmanyvayut_samtsov_radi_bezopasnosti_detey?from=bxblock'>
+<div class='img'><span><img src='images/news/deceptive_fertility_in_gelade_logo_390.jpg' alt=''></span></div>
+<div class='title'>У гелад кормящие самки обманывают самцов ради безопасности детей</div>
+<div class='sublink'><span class="date">04.12.2025</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434397/Muravi_parazity_podstrekayut_k_myatezhu_protiv_chuzhoy_tsaritsy_chtoby_zanyat_ee_mesto?from=bxblock'>
+<div class='img'><span><img src='images/news/chemically_induced_queen_matricide_in_ants_logo_390.jpg' alt=''></span></div>
+<div class='title'>Муравьи-паразиты подстрекают к&nbsp;мятежу против чужой царицы, чтобы занять ее место</div>
+<div class='sublink'><span class="date">01.12.2025</span>&nbsp;<span class='break'
+>•</span> Александр Храмов</div>
+</a>
+</div></div></div>
+<div class='scr_buttons_noscript' id='newsScrBlock_buttons'>
+<span class='prev_button' id='newsScrBlock_prevbtn'></span>
+<span class='next_button' id='newsScrBlock_nextbtn'></span>
+</div>
+</div>
+<div class='cl'></div>
+<hr class='mb hide_hphone'>
+<script type="text/javascript">scrollInit('newsScrBlock', { "mode": "DOM-S", "total": 1614, "pagesize": 6, "request_url": '/ajax/news', "request_params": '&features=similar&features=v2&template=news_sline_v2&news_title=Другие новости&objlink_params=from=bxblock&xpage_size=6&tnews=3371422&newsid=434189'});</script>
+</div>
+
+
+</div>
+
+<div class='blue subscribe_block'><div class='mblock'>
+<div class='subscribe'>
+<div class='mb10'>
+<FORM TARGET=_top ACTION=https://subscribe.ru/member/quick METHOD=POST>
+<INPUT TYPE=hidden NAME=action VALUE=quick>
+<INPUT TYPE=hidden NAME=grp VALUE="science.news.elementynews">
+<span class='title'>Новостная рассылка</span>
+<span class='xinput fullwidth'><INPUT TYPE=email NAME=email SIZE=25 MAXLENGTH=100 placeholder
+="ВАШ E-MAIL"
+></span>&nbsp;<INPUT TYPE=submit VALUE="ПОДПИСАТЬСЯ">
+<INPUT TYPE=hidden NAME=src VALUE="list_science.news.elementynews">
+</FORM>
+</div>
+
+<div class='mb6'>
+<span class='title'>«Элементы» в соцсетях:&nbsp; </span>
+
+<a class='icon vk' href='https://vk.com/elementy_ru' target='_blank' title='ВКонтакте'></a>
+<a class='icon twitter' href='https://twitter.com/elementy_ru' target='_blank' title='Твиттер'></a>
+<a class='icon youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank' title='Youtube'></a>
+
+<a class='icon telegram' href='https://telegram.me/elementy_ru' target='_blank' title='Telegram'></a>
+<a class='icon zen' href='https://zen.yandex.ru/elementy.ru' target='_blank' title='Яндекс.Дзен'></a>
+</div>
+</div>
+<div class='cl'></div>
+</div></div>
+ 
+      
+             <script type="text/javascript" src="/downloads/js/linkhint.js?v=1.02"></script>
+             <script type="text/javascript">linkhint_init();</script>
+       
+   
+
+</div>
+
+
+
+<div class='hfooter'>
+<div class='mblock'>
+
+<div class='mb4 i1'><img src='images/eltnewdesign/ft_logo.png' alt='Элементы'></div>
+
+
+
+<div class='mb3 rub1'><ul>
+<li><a href='/novosti_nauki'>Новости науки</a></li>
+<li><a href='/LHC'>LHC</a></li>
+<li><a href='/kartinka_dnya'>Картинка дня</a></li>
+<li><a href='/problems'>Задачи</a></li>
+<li><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a></li>
+<li><a href='/video'>Видеотека</a></li>
+<li><a href='/bookclub'>Книжный клуб</a></li>
+</ul></div>
+<div class='mb3 rub2'><ul>
+<li><a href='/events'>Научный календарь</a></li>
+<li><a href='/email'>Детские вопросы</a></li>
+<li><a href='/time'>Масштабы: времена</a></li>
+<li><a href='/posters'>Плакаты</a></li>
+<li><a href='/trefil'>200 законов мироздания</a></li>
+<li><a href='/genbio'>Журнал общей биологии</a></li>
+<li><a href='/catalog'>Наука в Рунете</a></li>
+</ul></div>
+
+<div class='mb3 socnets'>
+<ul>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>ВКонтакте</span></a></li>
+<li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Twitter</span></a></li>
+<li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'><span class='icon'></span><span class='name'>Youtube</span></a></li>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Telegram</span></a></li>
+<li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'><span class='icon'></span><span class='name'>Яндекс.Дзен</span></a></li>
+<li class='hide_main hide_hpad hide_vpad'><a class='rss' href='/rss/news' target='_blank'><span class='icon'></span><span class='name'>RSS</span></a> <span class='name'>(<a href='/rss/'  target='_blank'>все ленты</a>)</span></li>
+</ul>
+</div>
+<div class='mb3 l2 zimin'>
+<div class='msg'><a href='https://basis-foundation.ru/' target="_blank">При поддержке фонда «Базис»</a></div>
+<a href='https://basis-foundation.ru/' target="_blank"><img src='images/eltnewdesign/basis2.png' alt='Фонд поддержки фундаментальной физики Базис'></a>
+</div>
+<div class='cl'></div>
+<hr>
+<div class='mb4 l2 copy'>© 2005–2026 «Элементы»</div>
+<div class='mb3 about'><a href='/about'>О проекте</a></div>
+<div class='mb3 feedback'><a href='mailto:info@elementy.ru'>Обратная связь</a></div>
+<div class='mb3 rss hide_phone'><a href='/rss/news' target='_blank'>RSS</a> (<a href='/rss/'  target='_blank'>все ленты</a>)</div>
+<div class='mb3 subscrb'><a href='https://subscribe.ru/catalog/science.news.elementynews'>Подписаться на рассылку</a></div>
+<!--<div class='mb3 l2 design'><a href='http://charmerstudio.com' target='_blank'>Дизайн: Charmer Studio</a></div>-->
+<div class='cl gap'></div>
+
+
+<div class='mb counters'>
+<!--LiveInternet counter--><script language="JavaScript"><!--
+document.write('<img src="//counter.yadro.ru/hit?r'+escape(document.referrer)+((typeof(screen)=='undefined')?'':';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+'" width=1 height=1 alt="">')
+//-->
+</script><!--/LiveInternet-->
+<!-- Yandex.Metrika counter --><script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter31698571 = new Ya.Metrika({ id:31698571, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="https://mc.yandex.ru/watch/31698571" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+<!-- Google Analytics --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65855867-1', 'auto');
+  ga('send', 'pageview');
+</script><!-- // Google Analytics -->
+<!--begin of Rambler's Top100 code -->
+<script id="top100Counter" type="text/javascript" src="//counter.rambler.ru/top100.jcn?707804"></script>
+<noscript><a href="http://top100.rambler.ru/top100/"><img src="//counter.rambler.ru/top100.cnt?707804" alt="" width=1 height=1 border=0></a>
+</noscript>
+<!--end of Top100 code-->
+</div>
+
+
+</div>
+</div>
+
+</div>
+</body>
+</html>

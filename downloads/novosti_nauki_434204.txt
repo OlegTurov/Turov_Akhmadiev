@@ -1,0 +1,3751 @@
+<!DOCTYPE html>
+<html lang='ru' prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+<head>
+<title>Биодоступный азот можно получить связыванием в водной плазме • Роман Балабин • Новости науки на «Элементах» • Химия</title>
+<noscript><meta name="viewport" content="width=device-width, initial-scale=1.0"></noscript>
+<script type='text/javascript'>if (!document.cookie.match(/\bdesktop_mode=1/)) document.write('<meta name="viewport" content="width=device-width, initial-scale=1.0">');</script>
+
+
+<META name="description" content="Команда химиков из Китая и России продемонстрировала возможность связать азот водной плазмой и получить в результате гидроксиламин и нитроксил. В отличие от классического синтеза аммиака, новый метод можно реализовать при комнатной температуре и атмосферном давлении, а для его осуществления достаточно иметь элементарное разрядное устройство, воду и электричество."/>
+
+
+
+<link rel="canonical" href="https://elementy.ru/novosti_nauki/434204/Biodostupnyy_azot_mozhno_poluchit_svyazyvaniem_v_vodnoy_plazme" />
+
+
+<base href="//elementy.ru/">
+
+
+
+<meta property="og:title" content="Биодоступный азот можно получить связыванием в&nbsp;водной плазме • Новости науки"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Команда химиков из Китая и России продемонстрировала возможность связать азот водной плазмой и получить в&nbsp;результате гидроксиламин и нитроксил. В&nbsp;отличие от классического синтеза аммиака, новый метод можно реализовать при комнатной температуре и атмосферном давлении, а для его осуществления достаточно иметь элементарное разрядное устройство, воду и электричество."/>
+<meta property="og:url" content="https://elementy.ru/novosti_nauki/434204/Biodostupnyy_azot_mozhno_poluchit_svyazyvaniem_v_vodnoy_plazme"/>
+<meta property="og:image" content="https://elementy.ru/images/news/nitrogen_through_plasma_1_1400.jpg"/>
+
+<meta property="article:section" content="Наука" />
+<meta property="article:tag" content="Химия"/>
+<meta property="og:site_name" content="«Элементы»"/>
+<meta property="og:locale" content="ru_RU"/>
+
+
+<link rel="manifest" href="/downloads/js/manifest.json?v=1.02">
+
+
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo16bw.png"  sizes="16x16"/>
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo32bw.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo48bw.png" sizes="48x48" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo64bw.png" sizes="64x64" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo128bw.png" sizes="128x128" />
+<link rel="shortcut icon" type="image/png" href="/images/eltnewdesign/logo32bw.png"/>
+
+<meta content='Элементы' name='apple-mobile-web-app-title'>
+
+<link rel="apple-touch-icon" type="image/png" href="/images/eltnewdesign/logo128bw.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/eltnewdesign/logo57bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/eltnewdesign/logo114bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/eltnewdesign/logo72wb.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/eltnewdesign/logo120bw.png" />
+
+<meta name="application-name" content="Элементы"/>
+<meta name="msapplication-TileColor" content="#001034" />
+<meta name="msapplication-TileImage" content="/images/eltnewdesign/logo128bw.png" />
+
+<meta name="yandex-tableau-widget" content="logo=https://elementy.ru/images/eltnewdesign/logo128bw.png, color=#001034" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://elementy.ru/rss"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/style2.css?v=1.125"/>
+
+<noscript>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>
+</noscript>
+<script type='text/javascript'>
+if (!document.cookie.match(/\bdesktop_mode=1/))
+   document.write(
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>');
+</script>
+
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-print.css?v=1.09"/>
+
+<script type="text/javascript" src="/download/mathjax_2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" async></script>
+<script src="//yastatic.net/share2/share.js" async></script>
+<script type="text/javascript" src='/downloads/js/menu.js?v=1.10'></script>
+<script type="text/javascript" src='/downloads/js/hor.js' async></script>
+<script type='text/javascript' src='/downloads/js/request.js' async></script>
+<script type='text/javascript' src='/downloads/js/scroll.js?v=1.03'></script>
+<script type='text/javascript' src='/downloads/js/more.js?v=1.02'></script>
+<script type='text/javascript' src='/downloads/js/ttlhover.js' async></script>
+<script type='text/javascript' src='/downloads/js/rfilters.js'></script>
+
+<script type="text/javascript">
+function pict_popup(src,title) {
+        var w = window.open(src,'','channelmode=no,toolbar=no,location=no,status=no,directories=no,menubar=no,');
+        if(navigator.appName=='Microsoft Internet Explorer') w.document.write('<title>'+title+'</title><img src="'+src+'" onLoad="i=document.images[0]; window.resizeTo(i.width+50,i.height+100)">')
+        return false
+}
+</script>
+
+
+
+
+</head>
+
+<body class="xrub-novosti_nauki xrubpage-no">
+<div class='allarea'  id='pgarea'>
+<a id="page_top"></a>
+
+<div class='mainmenublock hmenu' id='mmenubody' >
+     <div class='mbshading' id='mshading' onclick='toggleHMenu("mmenubody")'></div> 
+     <div class='hmenu'>
+      <div class='menuarea' id='mmenuarea'>
+       <a href='/' class='close' onclick='return toggleHMenu("mmenubody")'><span class='icon close'></span><span class='hint'>Закрыть</span></a>
+       <script type='text/javascript'>
+            var desktop_mode = document.cookie.match(/\bdesktop_mode=1/); 
+            if (!desktop_mode) document.write('<div class="oldlink hide_other"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div><hr class="hide_other">');
+       </script>
+       <ul class="level0"><li class="level0 selected">
+  <div><a href='/novosti_nauki'>Новости науки</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/kartinka_dnya'>Картинка дня</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/events'>Календарь событий</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/problems'>Задачи</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/email'>Детские вопросы</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/LHC'>Большой адронный коллайдер</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/LHC/novosti_BAK'>Новости LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/monitory_bolshogo_adronnogo_kollajdera'>Мониторы LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/LHC_results'>Результаты LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/zagadki_lhc'>Загадки LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_s_mu_mu'>Распад b→sμμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_1'>Распад B<sup>+</sup>→K<sup>+</sup>ll</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_2'>Распад B→Dlν</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_mu_mu'>Распад B→μμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/raspad_higgsa_na_muon_i_tau'>Распад H→μτ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/top_antitop_higgs'>Комбинация топ-антитоп-хиггс</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/zaryazhennyj_bozon_higgsa'>Заряженный бозон Хиггса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/dvuhfotonnyj_vsplesk_pri_750_gev'>Двухфотонный всплеск 750&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptony_odnogo_znaka_na_atlas'>Лептоны одного знака на ATLAS</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/eejj-otklonenije'>eejj-отклонение</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/sobytije_2.9tev'>Событие при 2,9 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_2_tev_atlas'>WZ-пик при 2 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_1.8_tev_cms'>WH-пик при 1,8 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_CMS'>Поиск суперсимметрии — 1</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_ATLAS'>Поиск суперсимметрии — 2</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_iii'>Поиск суперсимметрии — 3</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_results/beyondSM'>Отклонения от Стандартной модели</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/susy_search'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/exotic_search'>Экзотические частицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_search'>Поиск бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_study'>Изучение бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/top-quark'>Свойства топ-кварка</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/hadrons'>Рождение и распады адронов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/rare_decays'>Редкие распады B-мезонов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/difraction'>Адронная дифракция</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/nuclei'>Ядерные столкновения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/astro'>Астрофизика</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC_working'>LHC в работе</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lhc/timeline'>Хронология создания и работы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/general_schedule'>Общее расписание</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/what-to-check'>Как следить за новостями с LHC</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/working_cycle'>Рабочий цикл коллайдера</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/initial'>Ранние этапы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2008'>2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/incident'>Авария 19.09.2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009'>2009</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009/results_2009'>Результаты работы LHC в&nbsp;2009&nbsp;году</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_1'>Сеанс LHC Run&nbsp;1</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010'>2010</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010/results_2010'>Результаты работы LHC в&nbsp;2010&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011'>2011</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011/results_2011'>Результаты работы LHC в&nbsp;2011&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2012'>2012</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/schedule_2015'>Техническая пауза LS1</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_2'>Сеанс LHC Run&nbsp;2</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2015'>2015</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2016'>2016</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2017'>2017</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2018'>2018</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_3'>Сеанс LHC Run&nbsp;3</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_3/2022'>2022</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC'>Устройство и задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/LHC/about'>LHC: ключевые факты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/accelerator'>Устройство LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/beams'>Протонные пучки</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnets'>Магнитная система</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnet_training'>Как тренируют магниты</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/detectors'>Детекторы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ATLAS'>ATLAS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/CMS'>CMS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ALICE'>ALICE</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCb'>LHCb</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/TOTEM'>TOTEM</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCf'>LHCf</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/MoEDAL'>MoEDAL</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/why'>Зачем нужен LHC?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/tasks'>Задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/hadrons'>Свойства адронов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/decays'>Адронные распады</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/higgs'>Поиск бозона Хиггса</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/production_decay'>Рождение и распад</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/search_strategies'>Стратегии поиска</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/top-quark'>Топ-кварк</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/SUSY'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/exotic'>Экзотические теории</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/nuclei'>Ядерные столкновения</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/safety'>Безопасность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/estimates'>Вероятность катастрофы</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/black_holes'>Микроскопические черные дыры</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/phrases'>Толковый словарик журналистских штампов</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/HEP'>Физика элементарных частиц</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/HEP/educational'>Образовательные онлайн-ресурсы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/HEP/measures'>Величины и единицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/cross-section'>Сечение процесса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/luminosity'>Светимость</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/invariant-mass'>Инвариантная масса</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/study'>Как изучают частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/detecting'>Принципы детектирования</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/errors'>Погрешности</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/statistical'>Статистическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/systematic'>Систематическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/theoretical'>Теория и моделирование</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/sigma'>Сигма</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/subtleties'>Тонкости анализа</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/experiments'>Эксперименты на коллайдерах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/quark_model'>Классификация адронов</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/partonic_densities'>Партоны</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/hadronization'>Конфайнмент и адронизация</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/rapidity-angle_diagram'>Быстрота–угол</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/analysis_methods'>Приемы анализа</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/SM'>Стандартная модель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/problems'>Трудности</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/beyondSM'>За пределами СМ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/SUSY'>Суперсимметрия</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/higgs_theory'>Хиггсовский механизм</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/explanations'>Аналогии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/SM_Higgs'>Хиггс с&nbsp;массой 125&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/nonminimal'>Неминимальные варианты</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/gallery'>Галерея</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly'>В популярных журналах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/vmirenauki'>«В мире науки»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/znanijesila'>«Знание — сила»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvant'>«Квант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvantik'>«Квантик»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kommersant_nauka'>«Коммерсантъ Наука»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kot_shryodingera'>«Кот Шрёдингера»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_i_zhizn'>«Наука и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_iz_pervyh_ruk'>«Наука из первых рук»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/popularnaja_mehanika'>«Популярная механика»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_himija_biologija_meditsina'>«Потенциал»: Химия. Биология. Медицина</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_matematika_fizika_informatika'>«Потенциал»: Математика. Физика. Информатика</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda'>«Природа»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/o_zhurnale'>О журнале</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/priroda_v_internete'>«Природа» в интернете</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/kak_podpisatsya'>Как подписаться</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/gazeta_troitskiy_variant'>«Троицкий вариант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/khimiya_i_zhizn'>«Химия и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/chto_novogo_v_nauke_i_tekhnike'>«Что нового в науке и технике»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/ecologiya_i_zhizn'>«Экология и жизнь»</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/izbrannoe'>Избранное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/lektsii_dlya_shkolnikov'>Лекции для школьников</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/interview'>Интервью</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/vystavka_vse_v_mire_otnositelno'>Выставка «Всё в мире относительно»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lib/exhibition/authors'>О художниках</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/lib/exhibition/about'>О выставке</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/video'>Видеотека</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/bookclub'>Книжный клуб</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/bookclub/book'>Книги</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/author'>Авторы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/chapters'>Главы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/bookclub/chapters/knigi_opublikovannyje_polnostju'>Опубликовано полностью</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera'>Происхождение жизни</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/evolutsija_i_priroda_nauki'>Глава 1</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/svidetelstva_biologicheskoj_evolutsii'>Глава 2</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/vzglyady_kreatsionistov'>Глава 3</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/FAQ'>Заключение</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/bookclub/publisher'>Издательства</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/series'>Серии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review'>Рецензии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review_users'>Отзывы</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/time'>Масштабы: времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/time/estimating'>В помощь читателю</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-1.html'>Как оценивать типичные времена</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-2.html'>Как применять формулы&nbsp;— иллюстрация</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-3.html'>Тонкости и предостережения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-4.html'>Опорные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-5.html'>Колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-6.html'>Гармонические колебания и их период</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-7.html'>Волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-8.html'>Закон распада</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/milli'>Миллисекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/milli/milli-1.html'>Миллисекунды в нашей жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-2.html'>Фото вместо видео</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-3.html'>Мерцающие огоньки</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-4.html'>Скрытые возможности невооруженного взгляда</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/micro'>Микросекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/micro/micro-1.html'>Остановившийся мир</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-2.html'>И всё-таки он движется!</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-3.html'>Пределы механического затвора</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nano'>Наносекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nano/nano-1.html'>От предметов к веществу</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-2.html'>Коллективные явления</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-3.html'>Электромагнитные колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-4.html'>Информационная емкость радиоволны</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/pico'>Пикосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/pico/pico-1.html'>Атомное движение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-2.html'>Пределы звука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-3.html'>Как начинается плавление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-4.html'>Пределы электроники</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-5.html'>Электромагнитные волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-6.html'>Элементарные частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/femto'>Фемтосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/femto/femto-1.html'>Мир электронов и света</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-2.html'>Оптические вычислительные технологии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-3.html'>Фемтохимия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-4.html'>Фемтобиология</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/atto'>Аттосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/atto/atto-1.html'>Личная жизнь атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-2.html'>Самые внутренние электроны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-3.html'>Как взрезать атом</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-4.html'>Электроны на службе аттофизики</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/zepto'>Зептосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-1.html'>Жизнь атомных ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-2.html'>Энергия, время и соотношение неопределенностей</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/yocto'>Йоктосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-1.html'>На границе известного</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-2.html'>Столкновение тяжелых ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-3.html'>Вглубь йоктосекунды</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/year'>От секунды до года</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/year/year-1.html'>Семь с половиной порядков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-2.html'>Искусственные спутники Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-3.html'>Эхо землетрясений</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-4.html'>Астероид-убийца</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-5.html'>Как растекается тепло</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/very-long'>Астрономические времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-1.html'>Солнечная система</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-2.html'>Солнечная система на больших временах</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-3.html'>Глубокий космос</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-4.html'>Межгалактические отношения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-5.html'>Танец земного климата</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-6.html'>Тектоническая жизнь Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-7.html'>Сверхдолгоживущие частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/sonoluminescence'>Сонолюминесценция</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-1.html'>Свечение, порожденное звуком</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-2.html'>Поведение пузырька</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-3.html'>Последние мгновения коллапса</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/biophysics'>Фолдинг белков</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-1.html'>Физическая основа жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-2.html'>Главная и боковые цепи</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-3.html'>«Жизнь» белковой молекулы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-4.html'>Компьютерное моделирование фолдинга</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/excited'>Возбужденные атомы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-1.html'>Возбужденные атомы: кто такие и где встречаются</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-2.html'>Быстротечная жизнь возбужденных атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-3.html'>Миллионы безуспешных попыток</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-4.html'>Ридберговские атомы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-5.html'>Атомы-долгожители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-6.html'>Водородная линия 21&nbsp;см</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nuclear'>Ядерные распады</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-1.html'>«Ядерная секунда»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-2.html'>Альфа-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-3.html'>Тяжелые элементы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-4.html'>Бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-5.html'>Двойной бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-6.html'>Ядерные изомеры</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/particles'>Элементарные частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/particles/particles-1.html'>Законы элементарных частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-2.html'>Два руководящих принципа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-3.html'>Сильные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-4.html'>Электромагнитные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-5.html'>Слабые распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-6.html'>Повышенная жизнеспособность на&nbsp;околосветовых скоростях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-7.html'>На переднем крае физики элементарных частиц</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/continents'>Движение континентов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/continents/continents-1.html'>Такты тектонической жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-2.html'>Возраст Гималаев</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-3.html'>Когда задышал Северный Ледовитый океан?</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/posters'>Плакаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/posters/moment'>Мгновение</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/posters/fractals'>Фракталы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/fractals/fractals'>Что такое фракталы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/geometric'>Геометрические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Koch'>Снежинка Коха</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/T-square'>Т-квадрат</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/H-fractal'>H-фрактал</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Sierpinski'>Треугольник Серпинского</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Pythagoras'>Дерево Пифагора</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Levy'>Кривая Леви</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/dragon'>Дракон</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/dynamic'>Динамические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Mandelbrot'>Множество Мандельброта</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Julia'>Множества Жюлиа</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Halley'>Фрактал Галлея</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Newton'>Фрактал Ньютона</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/complex_numbers'>Комплексные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/dimensions'>Фрактальные размерности</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/how_to_draw'>Как это рисовать</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/nature'>Фракталы в природе</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/about'>О плакате</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/collider'>Ускоритель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/collider/1'>Зачем нужен ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/2'>Единицы измерения расстояний, энергий и масс</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/3'>Краткая история ускорителей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/4'>Как работает ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/5'>Детектор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/6'>Как на ускорителе изучают свойства частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/7'>Природные ускорители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/8'>Применение ускорителей и детекторов в медицине</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/aviation'>Покорение воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/aviation/light'>Аппараты легче воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/light/balloons'>Аэростаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/montgolfiere'>Первый аппарат легче воздуха, способный поднять человека</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/today'>Шары-монгольфьеры сегодня</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/light/dirigibles'>Дирижабли</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/france'>Типичный дирижабль конца XIX&nbsp;века рыбообразной формы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/tsiolkovsky'>Цельнометаллический бескаркасный дирижабль с&nbsp;изменением объема в&nbsp;полете и с&nbsp;подогревом газа</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/zeppelin'>Серийный дирижабль Германии времен Первой мировой войны</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/akron'>Гелиевые дирижабли США</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/hindenburg_disaster'>Гибель «Гинденбурга» 6&nbsp;мая 1937&nbsp;года</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/today'>Дирижабли сегодня</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/heavy'>Аппараты тяжелее воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/helicopters'>Вертолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/sikorskys1'>Первый вертолет И.&nbsp;И.&nbsp;Сикорского</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/cagi_1-ea'>Первый летающий аппарат классической схемы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/mi-26'>Тяжелый военно-транспортный вертолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/an-64'>Ударный вертолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans'>Экранопланы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/km'>Самый крупный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/orlenok'>Единственный российский серийный десантный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/bartini'>Экраноплан Бартини</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/lun'>Летающий госпиталь</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/planes'>Самолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/theory'>Теоретические основы полета аппаратов тяжелее воздуха</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mozhajskij'>Первый реализованный проект, однако достоверных сведений о полете нет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/wrights'>Первый самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ilya_muromec'>Первый «тяжелый самолет»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/newport17'>Первый самолет с «зализанными» обводами</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ant-6'>Тяжелый бомбардировщик-моноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/messerschmitt'>Самый массовый истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/yak-1'>Самый легкий и маневренный истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/supermarine_spitfire'>Лучший истребитель битвы за Британию в 1940&nbsp;г.</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mosquito'>Цельнодеревянный скоростной бомбардировщик «Мечта термита»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mitsubishi_a6m_reisen'>Истребитель&nbsp;— символ японской авиации</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/il-2'>Тяжелый штурмовик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-15'>Фронтовой истребитель, один из первых серийных реактивных самолетов</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-86_sabre'>Многоцелевой истребитель, противник МиГ-15 в корейской войне</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-21'>Выдающийся сверхзвуковой истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/lockheed'>Высотный разведывательный самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_b-52'>Стратегический бомбардировщик с велосипедным шасси</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-144'>Сверхзвуковой пассажирский самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_747_jumbo'>«Реактивный слон»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-15_eagle'>Тактический истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/su-27'>Маневренный истребитель-перехватчик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-160'>Стратегический бомбардировщик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/an-124_ruslan'>Тяжелый военно-транспортный самолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/terms'>Основные параметры самолетов, указанные на плакате</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/literature'>Список литературы</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/light_version'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/gravity'>Гравитация</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/gravity/1'>Парабола или прямая?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/2'>Все дома стоят криво</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/3'>Из Москвы в&nbsp;Питер за&nbsp;полчаса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/4'>На Луну в комфортных условиях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/5'>Скоростной спутник Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/6'>Перевернутый небоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/7'>Супернебоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/8'>Запуск спутника без затрат энергии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/9'>Раскрутим Землю</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/perpetuum'>Вечный двигатель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/first'>Вечный двигатель первого рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/second'>Вечный двигатель второго рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/third'>Вечный двигатель «третьего рода»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/1'>Колесо и&nbsp;шары</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/2'>Цепочка шаров</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/3'>«Птичка Хоттабыча»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/4'>Цепочка поплавков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/5'>Архимедов винт</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/6'>Машина Орфиреуса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/7'>Магнит и желоба</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/8'>«Вечный водопровод»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/9'>Автоматический подзавод часов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/10'>Подъем масла по&nbsp;фитилям</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/11'>Колесо и&nbsp;грузы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/12'>Установка Потапова</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/13'>Луна и планеты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/spectrum'>Электромагнитное излучение</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/spectrum/nature'>Природа электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/wave'>Частота и длина волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/history'>История открытия электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/union'>Великое объединение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/energy'>Энергия кванта</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/temperature'>Температура излучения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/diapasons'>Диапазоны излучения и вещество</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/about'>Что изображено на плакате</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/units'>Соотношения и единицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/gamma'>Гамма-излучение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/roentgen'>Рентген</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/ultraviolet'>Ультрафиолет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/visible'>Видимый диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/infrared'>Инфракрасный диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/radio'>Радиоизлучение и микроволны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/other'>За пределами спектра</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/human'>Возможности человека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/human/muscular'>Сила</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/mind'>Мышление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/science'>Наука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/evolution'>Эволюционный принцип</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/factor'>Человеческий фактор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/weight'>Поднятие тяжестей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/flight'>Полет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/walk'>Бег</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/swim'>Плавание</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/trefil'>200 законов мироздания</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/trefil/introduction'><i>Введение</i></a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/physics'>Физика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/astronomy'>Астрономия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/maths'>Математика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/chemistry'>Химия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biology'>Науки о жизни</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/geo'>Науки о Земле</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/misc'>Разное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/rvm'>Взгляд в прошлое</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biography'><i>Биографии</i></a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/genbio'>Журнал общей биологии</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/genbio/english'>In English</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/genbio/english/all'>All Issues</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/genbio/abstracts'>All Abstracts</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/genbio/last'>Свежий выпуск</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/all'>Все выпуски</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/resume'>Статьи</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/synopsis'>Синопсисы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about'>О журнале</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about/rules'>Авторам</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/law'>Наука, образование и право</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/law/organ.htm'>Федеральные органы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/program.htm'>Федеральные программы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/intellectual.htm'>Интеллектуальная собственность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/law/intellectual/international.htm'>Международное законодательство</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/russian.htm'>Законодательство РФ </a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/patent.htm'>Патентование</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/contact.htm'>Сделки и договоры</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/payment.htm'>Вознаграждение</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/law/degree.htm'>Ученые степени</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nostr.htm'>Нострификация</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/vuz.htm'>Образование, вузы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nii.htm'>Научные организации</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/prize.htm'>Премии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/grant.htm'>Гранты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/work.htm'>Трудовое законодательство </a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/kodex.htm'>Конституция и кодексы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/other.htm'>Другие нормативные акты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/all_laws.htm'>Все нормативные акты</a>
+  </div></li>
+
+  </li></ul></ul>
+       <script type='text/javascript'>
+            document.write('<hr'+(!desktop_mode?"  class='hide_main'":"")+'>');
+            document.write('<div class="oldlink hide_main"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div>');
+            if (desktop_mode )
+               document.write('<div class="chmod mob hide_main"><a href="/" onclick="return setDesktopMode(false)">Мобильная версия сайта</a></div>');
+            else
+               document.write('<div class="chmod dsk hide_main"><a href="/" onclick="return setDesktopMode(true)">Полная версия сайта</a></div>');
+       </script>
+       <hr>
+       <ul class='img'>
+        <li class='first'><a class='facebook' href='https://www.facebook.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'></a></li>
+        <li><a class='instagram' href='https://www.instagram.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'></a></li>
+        <li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'></a></li>
+        <li><a class='rss' href='/rss/news' target='_blank'></a></li>
+       </ul>
+      </div>
+     </div>
+</div>
+
+<div class='print_logo hide_screen'><script type='text/javascript'>document.write("<img src='/images/eltnewdesign/logo_wpr.png'>");</script></div>
+
+<div class='hhead' id='pghead'>
+  <div class='hmenu'>
+    <div class='lmenu' id='hmainmenu'>
+      <a href='/' class='item' onclick='return toggleHMenu("mmenubody")'><span class='icon menu'></span><span class='hint'>Меню</span></a>
+    </div>
+    <div class='rmenu' id='rmenu'>
+       <a href='/' class='item' onclick='return toggleHMenu(this, true)'><span class='icon search'></span><span class='hint'>Поиск</span></a>
+       <a href='/' class='close' onclick='return toggleHMenu(this)'><span class='icon close2'></span><span class='hint'>Закрыть</span></a>
+       <div class='menuarea'>
+         <div class='menusearch xform'> 
+         <form action="find">
+             <input type="text" class="search" name="words" value="" placeholder="Поиск">
+             <input type="image" name="search" src="images/eltnewdesign/search_b.png">
+         </form>
+         </div> 
+       </div>
+    </div>
+    <div class='logo'><a href="/" onclick='return checkHMScroll()'><span>&nbsp;</span></a></div>
+  </div>  
+</div>
+
+
+<div class='body'  id='pgbody'>
+
+  
+   <div class='mblock chead'>
+     
+     
+<div class='rubpath'><span class='first last'><a href='/novosti_nauki'>Новости науки</a></span> </div>
+
+</div>
+   
+  
+
+   
+       <div class='mblock nogap'>
+<div class='mb itemhead newslist'><h1>Биодоступный азот можно получить связыванием в&nbsp;водной плазме</h1>
+<div class="sublink"><span class="date">18.03.2024</span>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/5272194/Roman_Balabin">Роман Балабин</a>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/21099/Khimiya">Химия</a>&nbsp;<span class='break'>•</span> <a href="/novosti_nauki/434204#forum" onclick="forum_goto(); return false;">68&nbsp;комментариев</a></div></div>
+</div>
+
+<div class='mblock'>
+
+<div class='socnetblock'><script src="/downloads/js/snfly.js?v=1.04"></script>
+<div  id="socnets_share">
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter=""></div>
+<div id='forum_topsocnet_button' style='display:none' title='Написать комментарий'><span class='fmicon'></span><div class='counter' id='forum_topsocnet_count'></div></div>
+</div>
+</div>
+
+<div class='itemblock'><div class='memo'>
+    <!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/nitrogen_through_plasma_1_1400.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/nitrogen_through_plasma_1_1400.jpg','Завод по производству аммиака')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/nitrogen_through_plasma_1_703.jpg" alt="Завод по производству аммиака" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 1.</b> Завод по производству аммиака по <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81_%D0%93%D0%B0%D0%B1%D0%B5%D1%80%D0%B0" target=_blank>методу Габера&nbsp;&mdash; Боша</a>, запатентованному в&nbsp;1908&nbsp;году. Показаны химические реакторы высокого давления для синтеза NH<sub>3</sub> из смеси N<sub>2</sub> и H<sub>2</sub>. Аналогичное оборудование используется для связывания атмосферного азота и в&nbsp;наши дни. Фото с&nbsp;сайт <a href="https://www.wired.com/2016/05/chemical-reaction-revolutionized-farming-100-years-ago-now-needs-go/" target=_blank>wired.com</a></p></div>
+
+
+</div>
+
+    <p><b>Молекула простого вещества N<sub>2</sub>&nbsp;— наиболее устойчивая и распространенная форма существования азота. Азот необходим для всего живого, но в&nbsp;таком виде он недоступен для потребления. Перевод азота в&nbsp;биологически доступную форму (азотфиксация) является весьма нетривиальной задачей, на выполнение которой способны лишь считанные виды бактерий. Человечество освоило искусственный метод азотфиксации только в&nbsp;начале XX&nbsp;века, начав масштабный промышленный синтез аммиака по методу Габера&nbsp;— Боша. Новое время диктует новые требования к&nbsp;экономичности и экологичности методов связывания азота. Среди множества альтернатив плазменные методы часто выделяют как наиболее перспективные. В&nbsp;новом исследовании команда химиков из Китая и России впервые продемонстрировала возможность связать азот водной плазмой и получить в&nbsp;результате два ценных продукта: гидроксиламин и нитроксил. В&nbsp;отличие от классического синтеза аммиака, новый метод можно реализовать при комнатной температуре и атмосферном давлении, а для его осуществления достаточно иметь элементарное разрядное устройство, воду и электричество.</b></p>
+
+<h2>Азот атмосферный и биогенный</h2>
+
+<p>В течение всей своей жизни человек окружен молекулярным азотом (N<sub>2</sub>), который составляет основную часть земной атмосферы. Поэтому на первый взгляд кажется неудивительным, что атомы азота входят во многие жизненно важные химические системы в&nbsp;человеческом теле (да и в&nbsp;любом живом организме). В&nbsp;живых клетках на долю «биогенного» азота приходится до 10% состава. Он содержится в&nbsp;нуклеиновых кислотах (ДНК и РНК), в&nbsp;белках, в&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B5%D0%BD%D0%BE%D0%B7%D0%B8%D0%BD%D1%82%D1%80%D0%B8%D1%84%D0%BE%D1%81%D1%84%D0%B0%D1%82" target=_blank>аденозинтрифосфорной кислоте</a> (АТФ) и во множестве других органических соединений. Азот даже иногда рассматривают как альтернативную углероду основу жизни (см.&nbsp;<a href="https://en.wikipedia.org/wiki/Hypothetical_types_of_biochemistry" target=_blank>Hypothetical types of biochemistry</a>).</p>
+
+<p>Однако переход азота из молекулярного состояния в&nbsp;биохимические соединения является крайне необычным природным процессом. Атмосферный азот может быть «связан» только <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D0%B0%D1%80%D0%B8%D0%BE%D1%82%D1%8B" target=_blank>прокариотными организмами</a>&nbsp;— особыми азотфиксирующими бактериями и <a href="https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B5%D0%B8" target=_blank>археями</a>. В&nbsp;процессе азотфиксации данные организмы, и только они, переводят&nbsp;N<sub>2</sub> из исходного инертного состояния в&nbsp;реакционноспособное, восстанавливая его в&nbsp;аммиак NH<sub>3</sub>. На этом пути им приходится преодолевать высокую устойчивость молекулы&nbsp;N<sub>2</sub>, вызванную рекордной энергией тройной связи двух атомов азота между собой.</p>
+
+<p>При распаде (диссоциации) молекулы N<sub>2</sub> на два отдельных атома азота изменение энергии (энтальпии) составляет 945&nbsp;кДж/моль (для сравнения, аналогичная величина для кислорода составляет только 498&nbsp;кДж/моль). <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B0_%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%B8_%D1%80%D0%B5%D0%B0%D0%BA%D1%86%D0%B8%D0%B8" target=_blank>Константа скорости реакции</a> распада азота при комнатной температуре исключительно мала, имея порядок около 10<sup>−120</sup>. В&nbsp;результате даже при температуре в&nbsp;несколько тысяч градусов степень термической диссоциации молекулярного азота составляет лишь доли процента.</p>
+
+<h2>В шаге от голода: метод Габера&nbsp;— Боша</h2>
+
+<p>В период индустриальной революции XIX&nbsp;века мир столкнулся с&nbsp;острой нехваткой азотных соединений. Экспоненциальный рост промышленности привел к&nbsp;многократному скачку спроса на сырье для красителей, лекарств и взрывчатых веществ. Но особенно острой стала ситуация в&nbsp;мировом сельском хозяйстве: для повышения урожайности требовалось все больше азотных удобрений. Масштаб природного круговорота азота перестал удовлетворять потребности человечества. А запасы чилийской селитры&nbsp;— минерального источника большей части соединений азота того времени&nbsp;— стали истощаться уже к&nbsp;началу XX&nbsp;века.</p>
+
+<p>В июне 1898&nbsp;года британский химик и будущий президент Лондонского Королевского общества <a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D1%83%D0%BA%D1%81,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC" target=_blank>Уильям Крукс</a> выступил в&nbsp;Бристоле с&nbsp;речью перед Британской ассоциацией развития науки. В&nbsp;своем выступлении Крукс объяснил, что через два десятилетия спрос на соединения азота намного превысит их предложение. С&nbsp;помощью несложных расчетов он показал, что миру грозил голод беспрецедентного масштаба. Выступление британца вызвало отклик как у&nbsp;специалистов, так и у&nbsp;мировой прессы. И многие исследователи занялись данной проблемой.</p>
+
+<p>13 октября 1908&nbsp;года немецкий химик <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B1%D0%B5%D1%80,_%D0%A4%D1%80%D0%B8%D1%86" target=_blank>Фриц Габер</a> обратился в&nbsp;патентное ведомство Германской империи с&nbsp;просьбой о&nbsp;защите изобретенного им «способа синтетического получения аммиака из элементов». Метод предполагал простейший из возможных синтезов NH<sub>3</sub>: прямую газофазную ассоциацию N<sub>2</sub> и H<sub>2</sub>. Однако, для реакции требовались жесткие условия&nbsp;— только высокая температура в&nbsp;сочетании с&nbsp;очень высоким давлением позволяли добиться приемлемого количества продукта.</p>
+
+<p>Патент за номером 235421 был выдан в&nbsp;июне 1911&nbsp;года и передан компании BASF, где к&nbsp;тому моменту работал изобретатель. Через семь лет Габер стал лауреатом Нобелевской премии по химии (Габер был очень талантливым химиком, но его научный вклад оказался сильно неоднозначным, подробно об его изобретениях можно узнать из статьи М.&nbsp;Молчановой <a href="/nauchno-populyarnaya_biblioteka/436994/Frits_Gaber_chelovek_pered_sudom_istorii" target=_blank>Фриц Габер: человек перед судом истории</a> и из <a href="https://www.youtube.com/watch?v=QQkmJI63ykI" target=_blank>видео</a> на Youtube-канале Veritasium (<a href="https://www.youtube.com/watch?v=p3k6oAPgNEU" target=_blank>здесь</a> доступна версия на русском)). Еще через тринадцать лет инженер <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%88,_%D0%9A%D0%B0%D1%80%D0%BB" target=_blank>Карл Бош</a> был удостоен той же награды за разработку уникального для тех лет оборудования, требовавшегося для поддержания температуры и давления в&nbsp;промышленных ректорах синтеза аммиака.</p>
+
+<p>В Советском Союзе первая партия синтетического аммиака с&nbsp;использованием нового для того времен искусственного процесса «<a href="https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%BE%D1%82%D1%84%D0%B8%D0%BA%D1%81%D0%B0%D1%86%D0%B8%D1%8F" target=_blank>азотфиксации</a>» по Габеру&nbsp;— Бошу была получена в&nbsp;1928&nbsp;году. В&nbsp;настоящее время мировое производство NH<sub>3</sub> превышает 180&nbsp;миллионов тонн в&nbsp;год и продолжает расти на 3,6% ежегодно. Как и в&nbsp;начале прошлого века, основным применением синтетического аммиака остается производство азотных удобрений для сельского хозяйства.</p>
+
+<h2>Аммиак и его недостатки</h2>
+
+<p>Метод Габера&nbsp;— Боша, отодвинувший человечество от грани голода, не лишен и ряда недостатков. Столь масштабное производство не может не оказывать влияния на окружающую среду&nbsp;— и влияние это с&nbsp;каждым годом становится все более ощутимым. Высокие температуры и давление, необходимые для синтеза, приводят к&nbsp;колоссальному расходу топлива. Одновременно, необходимый для процесса водород не содержится в&nbsp;атмосфере. Его необходимо получать отдельно, в&nbsp;основном, из природного газа. В&nbsp;наши дни до 5% всего добываемого в&nbsp;мире природного газа расходуется исключительно на синтез аммиака.</p>
+
+<p>Необходимость использования специальных веществ&nbsp;— катализаторов&nbsp;— для облегчения протекания химической реакции в&nbsp;процесса Габера&nbsp;— Боша еще больше усугубляет проблему. При столь высоких температурах катализаторы склонны к&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D0%B0%D0%BD%D0%B8%D0%B5" target=_blank>спеканию</a> (<a href="https://en.wikipedia.org/wiki/Sintering" target=_blank>sintering</a>), а малейшая примесь воды или кислорода в&nbsp;исходном сырье «отравляет» катализатор, лишая его активности.</p>
+
+
+<p>Осознавая указанные недостатки, химики, физики, инженеры и биологи всего мира на протяжении XX&nbsp;века безуспешно пытались разработать экономически эффективные и, в то же время, менее вредные альтернативы методу Габера&nbsp;— Боша. Эксперименты по поиску альтернативных стратегий фиксации N<sub>2</sub> продолжились и в&nbsp;XXI&nbsp;веке. В&nbsp;мире проводились и продолжают реализоваться обширные исследовательские программы, включающие в&nbsp;себя поиск и изучение электрокаталитических, фотокаталитических, биологических и плазменных методов азотфиксации. Но до сих пор данная проблема так и не была решена.</p>
+
+<h2>Вода и азот</h2>
+
+<p>20 февраля в&nbsp;журнале <i>Nature Communications</i> были опубликованы результаты масштабного проекта трех китайских университетов. В&nbsp;статье <a href="https://www.nature.com/articles/s41467-024-45832-9" target=_blank>Efficient catalyst-free N<sub>2</sub> fixation by water radical cations under ambient conditions</a> описан и теоретически обоснован новый плазменный метод фиксации азота с&nbsp;помощью обычной воды.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/nitrogen_through_plasma_2_1400.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/nitrogen_through_plasma_2_1400.jpg','Рис. 2. Общая схема реакции диспропорционирования азота катион-радикалами воды')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/nitrogen_through_plasma_2_703.jpg" alt="Рис. 2. Общая схема реакции диспропорционирования азота катион-радикалами воды" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 2.</b> Общая схема реакции диспропорционирования азота катион-радикалами воды (<i>слева</i>) и относительные энергии промежуточных и итоговых продуктов реакции (<i>справа</i>). Электронное возбуждение и релаксации показаны <i>вертикальными стрелками</i> (вверх и вниз, соответственно). Рисунок из обсуждаемой статьи</p></div>
+
+
+</div>
+
+<p>Если синтез аммиака по методу Габера&nbsp;— Боша основан на каталитическом восстановлении молекулярного азота с&nbsp;помощью водорода, то новый метод предлагает диспропорционирование молекулы N<sub>2</sub> без использования катализаторов. Диспропорционирование&nbsp;— <a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE-%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%80%D0%B5%D0%B0%D0%BA%D1%86%D0%B8%D0%B8" target=_blank>окислительно-восстановительный процесс</a>, при котором атомы азота одновременно как окисляются, так и восстанавливаются. Такие реакции часто называют реакциями «самоокисления-самовосстановления» или «дисмутации»&nbsp;— приводя в&nbsp;пример общеизвестное разложение пероксида водорода на воду и кислород. Более современным примером диспропорционирования является <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D1%82%D0%B5%D0%B7%D0%B8%D1%81_%D0%BE%D0%BB%D0%B5%D1%84%D0%B8%D0%BD%D0%BE%D0%B2" target=_blank>метатезис олефинов</a> (<a href="https://en.wikipedia.org/wiki/Olefin_metathesis" target=_blank>olefin metathesis</a>), за реализацию которого <a href="https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B1%D0%B1%D1%81,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82" target=_blank>Роберт Граббс</a>, <a href="https://ru.wikipedia.org/wiki/%D0%A8%D0%BE%D0%B2%D0%B5%D0%BD,_%D0%98%D0%B2" target=_blank>Ив Шовен</a> и <a href="https://ru.wikipedia.org/wiki/%D0%A8%D1%80%D0%BE%D0%BA,_%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4" target=_blank>Ричард Шрок</a> получили Нобелевскую премию в&nbsp;2005&nbsp;году.</p>
+
+<p>В случае с&nbsp;азотом в&nbsp;новом исследовании было обнаружено, что диспропорционирование N<sub>2</sub> возможно осуществить с&nbsp;помощью водной плазмы. Столь неочевидное на первый взгляд наблюдение стало результатом многолетних усилий трех основных авторов обсуждаемой статьи, направленных на исследование катионов водных кластеров, образующихся в&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BF%D1%80%D0%B5%D0%B9" target=_blank>электроспрее</a>. Ведущий автор статьи Хуанвэн Чен (Huanwen Chen), и двое его российских коллег, Константин Чингин и Роман Балабин, впервые заинтересовались непростой химией заряженной воды еще в&nbsp;2008&nbsp;году, когда все трое работали в&nbsp;лаборатории органической химии в&nbsp;Швейцарском федеральном технологическом институте в&nbsp;Цюрихе. С&nbsp;тех пор они продолжали изучать необычные процессы, которые протекают как в&nbsp;ионизованных микро- и нанокаплях, так и в&nbsp;нейтральных водных кластерах. С&nbsp;помощью экспериментальных и теоретических методов ими с&nbsp;коллегами были исследованы реакции воды с&nbsp;бензолом, ацетоном, этилацетатом и диметилдисульфидом, а также&nbsp;— с&nbsp;азотсодержащими аминокислотами, глицином и аланином.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/nitrogen_through_plasma_3_1262.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/nitrogen_through_plasma_3_1262.jpg','Рис. 3. Схема лабораторной разрядной установки для реакции диспропорционирования азота водой')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/nitrogen_through_plasma_3_703.jpg" alt="Рис. 3. Схема лабораторной разрядной установки для реакции диспропорционирования азота водой" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 3.</b> <i>Слева</i>&nbsp;&mdash; схема лабораторной разрядной установки для реакции диспропорционирования азота водой. <i>Справа</i>&nbsp;&mdash; <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%B5%D1%8F%D0%BD%D0%B8%D0%B5_%D1%81%D0%B2%D0%B5%D1%82%D0%B0" target=_blank>рамановский вибрационный спектр</a> одного из продуктов реакции, <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%BB%D0%B0%D0%BC%D0%B8%D0%BD" target=_blank>гидроксиламина</a> (<i>красная кривая</i>); <i>черным</i> показан спектр стандартного образца данного вещества. Рисунок из обсуждаемой статьи</p></div>
+
+
+</div>
+
+<p>Но даже в&nbsp;этом списке крайне инертный молекулярный азот занимает особое место. Необычность наблюдавшихся результатов привела к&nbsp;тому, что их осмысление и теоретическое описание заняли несколько лет. Точнее, реакция азота с&nbsp;водой не поддавалась объяснению в&nbsp;течение двух лет&nbsp;— пока квантово-химическими методами не был выявлен весьма «экзотический» механизм данного химического превращения. По заказу редакции <i>Nature</i> краткая история проекта была описана в&nbsp;отдельной заметке <a href="https://communities.springernature.com/posts/vitalizing-nitrogen-n2-fixation-by-water-radical-cations" target=_blank>Vitalizing nitrogen: N<sub>2</sub> fixation by water radical cations</a>.</p>
+
+<p>Итоговый механизм нового процесса выглядит следующим образом. На первом этапе на металлические иголки, окруженные парами воды и азотом, подается киловольтное напряжение. В&nbsp;получающемся электрическом разряде образуются катион-радикалы димера воды (H<sub>2</sub>O)<sub>2</sub><sup>+</sup> и, одновременно, азот переходит из своего основного инертного состояния в&nbsp;более реакционноспособное возбужденное. Затем электронно-возбужденный азот взаимодействует с&nbsp;катионами (H<sub>2</sub>O)<sub>2</sub><sup>+</sup>, в&nbsp;результате чего они объединяются в&nbsp;единую химическую систему: образуется весьма необычный промежуточный продукт вида HONH-HNOH<sup>+</sup>.</p>
+
+<p>На следующем этапе неустойчивый катион HONH-HNOH<sup>+</sup> распадается на два конечных продукта, которыми являются нитроксил (азанон, HNO) и гидроксиламин (NH<sub>2</sub>OH). Первый образуется как нейтральная частица, а второй&nbsp;— как катион. Оба продукта являются формой биологически доступного азота. В&nbsp;новой статье показано, что нитроксил можно использовать для прямого превращения серосодержащей аминокислоты, <a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%81%D1%82%D0%B5%D0%B8%D0%BD" target=_blank>цистеина</a>, в&nbsp;цистин. Причем степень превращения достигает почти 100% всего за час. Этот эксперимент позволяет предположить, что HNO можно использовать для специфической химической модификации <a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BE%D0%BB%D1%8B" target=_blank>тиолов</a>, являющихся составной частью многих белков.</p>
+
+<p>Гидроксиламин, в свою очередь, можно легко превращать в&nbsp;аммиак, используя для этого обычную электролитическую ячейку, работающую на солнечных батареях. NH<sub>2</sub>OH можно использовать и напрямую: к&nbsp;примеру, в&nbsp;органическом синтезе из него получают аминокислоты (глицин), а в&nbsp;фарминдустрии он позволяет получать сырье для лекарственных препаратов (анилин). Полимерная промышленность также активно применяет гидроксиламин как ключевой реагент в&nbsp;производстве капрона (нейлона-6).</p>
+
+<p>В отличие от процесса Габера&nbsp;— Боша, новый метод связывания азота можно реализовывать при комнатной температуре и атмосферном давлении, что существенно упрощает требования к&nbsp;химическому оборудованию. Для осуществления дисмутации азота достаточно иметь элементарное разрядное устройство, воду и электричество. Основным отличием нового метода является весьма необычный состав продуктов реакции. Более ранние работы по плазменной фиксации азота позволяли получать из него только весьма ядовитые оксиды азота, включая и печально известный веселящий газ (N<sub>2</sub>O). Во многом из-за этого плазменные методы до сих пор и не получили сколь-либо заметного распространения в&nbsp;азотной промышленности.</p>
+
+<h2>Итоги и перспективы</h2>
+
+<p>В лаборатории Цзянсийского университета уже сейчас функционирует лабораторный химический реактор, основанный на дисмутациии азота водой новым плазменным методом. Он способен производить азотсодержащие вещества стоимостью в&nbsp;сотни долларов на каждый киловатт-час использованной электроэнергии. В&nbsp;дальнейшем исследователи планируют создание более крупного реактора, рассчитанного на связывание азота водой уже в&nbsp;промышленных масштабах. Масштабирование процесса выглядит перспективным проектом, поскольку в&nbsp;установке полностью отсутствуют подвижные части, а весь процесс ведется при атмосферном давлении. Таким образом установка не нуждается ни в&nbsp;специальном вакуумном оборудовании, ни в&nbsp;металлоемких реакторах высокого давления. Предварительные оценки, полученные авторами, показывают, что промышленное внедрение плазменного диспропорционирования азота водой позволит кратно снизить энергоемкость всего процесса азотфиксации. Оно же позволит и полностью исключить использование для «оживления» азота невозобновляемых природных ресурсов, в&nbsp;частности&nbsp;— природного газа.</p>
+
+<p class="small"><b>Источник:</b> Xiaoping Zhang, Rui&nbsp;Su, Jingling&nbsp;Li, Liping Huang, Wenwen Yang, Konstantin Chingin, Roman Balabin, Jingjing Wang, Xinglei Zhang, Weifeng Zhu, Keke Huang, Shouhua Feng & Huanwen Chen. <a href="https://www.nature.com/articles/s41467-024-45832-9" target=_blank>Efficient catalyst-free N<sub>2</sub> fixation by water radical cations under ambient conditions</a>&nbsp;// <i>Nature Communications</i>. 2024. DOI:&nbsp;10.1038/s41467-024-45832-9.</p>
+
+<p><i>Роман Балабин</i></p>
+
+
+    
+</div>
+
+<div class='cl'></div>
+<hr>
+<div class='toggle'>
+
+<div class='forum_topctrl '>
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter="" id="forum_socnets_share"></div><div class='forum_icon' onclick='toggleClick(this)' title='Комментарии'><span class='fmicon'></span><span class='fmcounter'>68</span></div>
+  
+     <div class='goto toggle_hide'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this)'><span class='hide_other'>Показать </span>комментарии (68)</span></div>
+     <div class='goto toggle_body'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this); socnetsFly();'><span class='hide_other'>Свернуть </span>комментарии <span class='hide_main'>(68)</span></span></div>
+  
+
+</div>
+
+<div class='forum toggle_body' id='forum_block'>
+<hr>
+<ul class="level0"><li class="level0 parent" id='forum_node_5352894'>
+   <div class='fmnode'>
+   <a name='fm5352894'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352894'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>06:50
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Оно же позволит и полностью исключить использование для «оживления» азота невозобновляемых природных ресурсов, в частНости — природного газа.</blockquote>Какой удар серпом по экономикам использующим природный газ. Браво! Но природный газ нужен для получения водорода, а водород можно получать и электролизом, так что.<br>Затраты энергии на 1 т аммиака в аммиачном методе составляют 5 МДж, в цианамидном – 12 МДж, в дуговом – 70 МДж. Осталось понять сколько требует этот новый &quot;эффективный метод&quot; и пересчитав деньги забыть о нем.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1" id='forum_node_5352928'>
+   <div class='fmnode'>
+   <a name='fm5352928'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>olegov</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352928'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>17:17
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>точно они и гелий этим способом получать собрались, к черту природный газ даешь плазму ))</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level0 parent" id='forum_node_5352895'>
+   <div class='fmnode'>
+   <a name='fm5352895'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Chyyr</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352895'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>10:15
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Я правильно помню, что &quot;в дикой природе&quot; биодоступные соединения азота могут образовываться во время разрядов молнии? Какие там реакции идут? И насколько эффективен этот процесс?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1" id='forum_node_5352896'>
+   <div class='fmnode'>
+   <a name='fm5352896'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Chyyr</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352896'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>10:43
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>При пропускании воздуха через электрическую дугу образуется небольшое количество NO, в промышленности этот процесс был реализован в 19-м веке.<br>https://en.wikipedia.org/wiki/Birkeland%E2%80%93Eyde_process<wbr><br><br>Ту же реакцию осуществляет молния, являющаяся естественным источником преобразования атмосферного азота в растворимые нитраты.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level1" id='forum_node_5352929'>
+   <div class='fmnode'>
+   <a name='fm5352929'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>olegov</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Chyyr</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352929'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>17:22
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>вас реально интересуют радикальные реакции в плазме? думаю нет. если на бытовом уровне то О2+N2=2NO, и далее уже в атмосфере до NO2 и HNO3. Эффективно? ну после грозы пахнет &quot;грозой&quot; это вот они и есть окислы азота.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level0" id='forum_node_5352898'>
+   <div class='fmnode'>
+   <a name='fm5352898'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>PavelS</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352898'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>13:32
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Какая-то очень фантастическая статья. Электрические методы мне казалось всегда дорогие. Даже дату вспоменал, но до апреля вроде далеко.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level0 parent" id='forum_node_5352899'>
+   <div class='fmnode'>
+   <a name='fm5352899'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>PavelS</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352899'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>13:35
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Меня интересовал бы метод газификации угля. При этом при газификации угля возникает водород. Если же газифицировать под давлением, например через относительно глубокие скважины, то может сразу выйдет и аммиак синтезировать или органику с азотом?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5352901'>
+   <div class='fmnode'>
+   <a name='fm5352901'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Bipolar Disorder</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>PavelS</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352901'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>13:58
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>при газификации угля возникает водород</blockquote>Каким образом, если уголь из углерода состоит?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2 parent" id='forum_node_5352904'>
+   <div class='fmnode'>
+   <a name='fm5352904'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Artemo</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Bipolar Disorder</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352904'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>15:14
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>С+Н2О =СО+Н2<br>Водяной газ</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3" id='forum_node_5352907'>
+   <div class='fmnode'>
+   <a name='fm5352907'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Bipolar Disorder</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Artemo</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352907'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>18:44
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Ah, ok. Я чёт подумал про газификацию пиролизом</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level3 parent" id='forum_node_5352912'>
+   <div class='fmnode'>
+   <a name='fm5352912'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>PavelS</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Artemo</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352912'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>22:19
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Именно так. Но надо учесть что для реакции нужны температуры, иначе уголь с водой реагировать не будет. Т.е. надо уголь сначала жечь, желательно в чистом кислороде. Ну а где кислород из воздуха, там можно использовать не полную степень очистки кислорода - допускать подмес азота. Также ожидаю что объём подземного реактора-газгольдера в угольных пластах может быть очень большим.<br>......<br>В Британии нет газа, но фонари 19 века были газовыми, помните? Но люди этим газом травились очень часто, т.к. угарный газ гораздо опасней метана.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level4">
+<li class="level4 parent" id='forum_node_5352916'>
+   <div class='fmnode'>
+   <a name='fm5352916'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Kostja</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>PavelS</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352916'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>01:31
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>фонари 19 века были газовыми, помните?</blockquote>В Германии они сейчас есть, если не отключили из-за подорожания газа.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level5">
+<li class="level5 parent" id='forum_node_5352923'>
+   <div class='fmnode'>
+   <a name='fm5352923'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Kostja</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352923'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>07:07
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Их отключили из-за изобретения лампы накаливания Эдисоном.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level6">
+<li class="level6 parent" id='forum_node_5352930'>
+   <div class='fmnode'>
+   <a name='fm5352930'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Kostja</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352930'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>17:51
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Кругозор надо расширять<br>https://www.dw.com/ru/газовый-конфликт-в-берлине-могут-погас<wbr>нуть-культовые-фонари/a-16159205<blockquote>Но газовое освещение стоит сегодня недешево, и власти Берлина решили, что пришла пора от него отказаться. 36,6 тысячи еще имеющихся в столице уличных газовых фонарей (а это - примерно половина оставшихся в Германии экземпляров) планируется демонтировать и либо отправить на свалку, либо передать в собрание берлинского Технического музея.</blockquote></div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level7">
+<li class="level7 parent" id='forum_node_5352932'>
+   <div class='fmnode'>
+   <a name='fm5352932'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Kostja</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352932'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>18:28
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>https://www.dw.com/ru/газовый-конфликт-в-берлине<wbr>-могут-погаснуть-культовые-фонари/a-16159205<br></blockquote>В великой России твоя помойка заблокирована иди похрюкай от горя. ))))<br>https://www.forbes.ru/society/458039-roskomnadzor-soobsil-o-<wbr>blokirovke-bi-bi-si-deutsche-welle-i-ese-neskol-kih-smi</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level8">
+<li class="level8 parent" id='forum_node_5352934'>
+   <div class='fmnode'>
+   <a name='fm5352934'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Kostja</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352934'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:22
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Для альтернативно одаренных я цитату приложил, лол.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level9">
+<li class="level9 parent" id='forum_node_5352935'>
+   <div class='fmnode'>
+   <a name='fm5352935'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dark</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Kostja</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352935'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>23:14
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>я цитату приложил</blockquote>Какая к ядреной матери цитата?<br>В моем мире этого не существует. Баста:)</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level10">
+<li class="level10 parent" id='forum_node_5352939'>
+   <div class='fmnode'>
+   <a name='fm5352939'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dark</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352939'>20.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>04:41
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Зачем я буду спорить с хрюканом у которого не работают блокировки роскомнадзора?<br><br>https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BC%D0%BF%D0%B0<wbr>_%D0%BD%D0%B0%D0%BA%D0%B0%D0%BB%D0%B8%D0%B2%D0%B0%D0%BD%D0%B<wbr>8%D1%8F<br><br>В 1879 году американский изобретатель Томас Эдисон патентует лампу с угольным волокном[14] и создаёт лампу с временем жизни 40 часов. Подбирая материал для нити, Эдисон провёл около 1500 испытаний различных материалов, а затем - ещё около 6000 опытов по карбонизации различных растений[11][17]. Одновременно с изобретениями по усовершенствованию конструкций ламп Эдисон внёс большой вклад в развитие принципов системы электроосвещения и централизованного электроснабжения, что само собой способствовало широкому внедрению электрических ламп в быту и на производстве. Также он изобрёл бытовой поворотный выключатель, унифицированные цоколи и т. д. Несмотря на столь непродолжительный срок службы, его лампы вытесняют использовавшееся до тех пор газовое освещение.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level11">
+<li class="level11 parent" id='forum_node_5352949'>
+   <div class='fmnode'>
+   <a name='fm5352949'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dark</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352949'>20.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>17:03
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Зачем я буду спорить с хрюканом у которого не работают блокировки роскомнадзора?</blockquote>Без вживленного чипа это уже не человек, а недоразумение. Но ретрограды упорно нас тянут в каменный век. А сами при этом криворукие, и не сделали ни одного каменного топора.<blockquote>Томас Эдисон патентует лампу </blockquote>К чему эта реклама? Эту лампу запретили:<br>https://profobrmedvedevo12.ru/blog/zakony/zapret-lamp-nakali<wbr>vaniya-v-rossii-prichiny-posledstviya-i-alternativnye-reshen<wbr>iya<br>Ая-яй! Это запрещенка!</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level12">
+<li class="level12" id='forum_node_5352960'>
+   <div class='fmnode'>
+   <a name='fm5352960'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Kostja</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dark</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352960'>21.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>06:33
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Эти ужасные лампы отнимают детство, потому их и запретили!</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul><li class="level9" id='forum_node_5352938'>
+   <div class='fmnode'>
+   <a name='fm5352938'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Kostja</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352938'>20.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>04:38
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Жителю хрюканины, где работают dw.com советую идти и похрюкать с горя.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul><li class="level1 parent" id='forum_node_5352905'>
+   <div class='fmnode'>
+   <a name='fm5352905'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>PavelS</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352905'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>15:28
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>то может сразу выйдет и аммиак синтезировать или органику с азотом?</blockquote>Аммиак в каждом общественном туалете синтезируется, путем разложения мочевины. Таким образом каждый человек выделяет 20г связанного азота в сутки или 7.3 кг в год. а все население России ~1 млн т в год, что сравнимо с промышленным производством.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2 parent" id='forum_node_5352910'>
+   <div class='fmnode'>
+   <a name='fm5352910'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>bonacon</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352910'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:50
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Как это наше правительство проморгало такую статью экспортных доходов?!</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3 parent" id='forum_node_5352914'>
+   <div class='fmnode'>
+   <a name='fm5352914'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dark</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>bonacon</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352914'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>23:49
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Как это наше правительство проморгало такую статью экспортных доходов?!</blockquote>Неучи и транжиры. За сбор мочи еще в древнем риме налоги взимали.<br>А во времена наполеоновских войн моча являлась стратегическим продуктом, и собиралась у населения на нужды ВПК (для производства пороха).</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level4">
+<li class="level4" id='forum_node_5352918'>
+   <div class='fmnode'>
+   <a name='fm5352918'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dark</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352918'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>03:42
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Неучи и транжиры.</blockquote>При самом большом в мире проценте деревянных сортиров на душу населения это экономический провал.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level4 parent" id='forum_node_5352920'>
+   <div class='fmnode'>
+   <a name='fm5352920'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Artemo</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dark</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352920'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>04:08
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Ее не хватит - азота будет не больше, чем растения извлекут из земли, даже если выход азота будет 100% (а это не так) и люди съедят и переварят урожай вместе с соломой (а это не так). Нынешние сорта пшеницы не просто так имеют урожайность выше средневековых</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level5">
+<li class="level5" id='forum_node_5352925'>
+   <div class='fmnode'>
+   <a name='fm5352925'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dark</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Artemo</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352925'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>15:50
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Ее не хватит</blockquote>Эх, молодёжь! А нам всегда чего-то не хватает!<br>&quot;Кто сдает продукт вторичный, тот питается отлично!&quot; (ц)</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul><li class="level3" id='forum_node_5352936'>
+   <div class='fmnode'>
+   <a name='fm5352936'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Alef</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>bonacon</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352936'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>23:17
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Биотопливо уже давно получают, например в Скандинавии. С некоторой долей гос субсидий - денег от налогов, вполне экономический метод. Получать аммиак с водоочистительных сооружений многие бы хотели, био эко и зелёное, да вот только один запах и получается.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level2 parent" id='forum_node_5352911'>
+   <div class='fmnode'>
+   <a name='fm5352911'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>PavelS</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352911'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>22:07
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Моча плохое удобрение, т.к. много повареной соли. Выделять аммиак из фекальных стоков может и можно, но я скорее про фекальный метан слышал.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3 parent" id='forum_node_5352919'>
+   <div class='fmnode'>
+   <a name='fm5352919'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>PavelS</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352919'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>03:50
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Аммиак выделяется при аэробном разложении белков. При анаэробном выделяются амины - путресцин и кадаверин. Гуано также богато азотом и использовалось для изготовления дымного пороха.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level4">
+<li class="level4 parent" id='forum_node_5352937'>
+   <div class='fmnode'>
+   <a name='fm5352937'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Alef</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352937'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>23:27
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Интересно. А чего лучше добавить в деревенском &quot;сухом туалете&quot;, чтоб не было этого самого аммиака? Двоюродная сестра набросала памперсов, не почистить.<br>Из экспериментов понял, всё, что разлагает органику как раз и прибавляет аромат нашатырного спирта. А вот серная кислота может создать феерверк.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level5">
+<li class="level5" id='forum_node_5352951'>
+   <div class='fmnode'>
+   <a name='fm5352951'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>PavelS</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Alef</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352951'>20.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:53
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Сеном закидать. Помогает.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level5" id='forum_node_5353193'>
+   <div class='fmnode'>
+   <a name='fm5353193'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>OSAO</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Alef</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5353193'>02.04.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>10:15
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Древесный уголь растолочь и засыпать. Поищите в сети материалы по терра прета. Начать можно отсюда https://es.wikipedia.org/wiki/Terra_preta</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul><li class="level0" id='forum_node_5352900'>
+   <div class='fmnode'>
+   <a name='fm5352900'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Bipolar Disorder</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352900'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>13:55
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>химией заряженной воды</blockquote>https://петропавловск.kz/wp-content/uploads<wbr>/2021/08/skrinshot-15-08-2021-223300.png</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level0" id='forum_node_5352902'>
+   <div class='fmnode'>
+   <a name='fm5352902'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Kostja</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352902'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>14:27
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Эпическая новость.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level0 parent" id='forum_node_5352906'>
+   <div class='fmnode'>
+   <a name='fm5352906'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>antiximik</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352906'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>18:15
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>А что там с выходом? И с производительностью?.. оО</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5352915'>
+   <div class='fmnode'>
+   <a name='fm5352915'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dark</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>antiximik</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352915'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>23:50
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>А что там с выходом? И с производительностью?.. оО</blockquote>Судя по всему печально. 1000 электрон-вольт для производства одного катион-радикала.<br>Но само по себе исследование неплохое, тем более для института китайской медицины.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2 parent" id='forum_node_5352922'>
+   <div class='fmnode'>
+   <a name='fm5352922'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dark</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352922'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>04:54
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Полегче! Roman Balabin он же РОМАН БАЛАБИН автор обоих статей (на элементах и научной).</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3 parent" id='forum_node_5352933'>
+   <div class='fmnode'>
+   <a name='fm5352933'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dark</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352933'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>18:48
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Роману и его команде уважуха за изобретательность при исследовании невозможной реакции, а также за ее объяснение.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level4">
+<li class="level4 parent" id='forum_node_5352940'>
+   <div class='fmnode'>
+   <a name='fm5352940'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dark</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352940'>20.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>05:17
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Не умеешь подхалимничать, нужно глыбже!<br><br>Роману и его команде из Xiaoping Zhang, Rui Su, Jingling Li, Liping Huang, Wenwen Yang, Konstantin Chingin, Jingjing Wang, Xinglei Zhang, Weifeng Zhu, Keke Huang, Shouhua Feng &amp; Huanwen Chen Zūnzhòng</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level5">
+<li class="level5 parent" id='forum_node_5352952'>
+   <div class='fmnode'>
+   <a name='fm5352952'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dark</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352952'>20.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>21:53
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Так я не только учусь,. Смотрю на профессионалов и замираю от восторга.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level6">
+<li class="level6 parent" id='forum_node_5352962'>
+   <div class='fmnode'>
+   <a name='fm5352962'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dark</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352962'>21.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>07:07
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Зачем вы скопипастили этот унылый ответ с форума смузихлебов? Придумайте что нибудь оригинальное, креативное - вы можете, я в вас верю!</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level7">
+<li class="level7 parent" id='forum_node_5352970'>
+   <div class='fmnode'>
+   <a name='fm5352970'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dark</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352970'>21.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>16:09
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Спасибо. Вы опять меня заинтриговали и обнадежили.<br>Можете скинуть ссылку на ответ братьев по разуму с форума смузихлебов?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level8">
+<li class="level8 parent" id='forum_node_5352983'>
+   <div class='fmnode'>
+   <a name='fm5352983'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dark</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352983'>22.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>08:12
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Вы и так можете &quot;замирать от восторга&quot; от моих комментариев, так что ссылка будет излишней.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level9">
+<li class="level9" id='forum_node_5352987'>
+   <div class='fmnode'>
+   <a name='fm5352987'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dark</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352987'>22.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>14:58
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Умом нам kbobа не понять<br>мы kbobу можем только верить</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul><li class="level0 parent" id='forum_node_5352909'>
+   <div class='fmnode'>
+   <a name='fm5352909'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>bonacon</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352909'>18.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:49
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>А в этом веке неорганики Нобелевку получали? Хотя не дадут, русские в соавторах.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1" id='forum_node_5352917'>
+   <div class='fmnode'>
+   <a name='fm5352917'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>bonacon</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352917'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>03:41
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Шнобелевскую дадут, не беспокойтесь. Немецкая физика и русская химия нонче не в почете.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level0 parent" id='forum_node_5352921'>
+   <div class='fmnode'>
+   <a name='fm5352921'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352921'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>04:22
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Странно, что не упомянут электролитический способ фиксации азота, при огромном количестве статей.<br>https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202300<wbr>951<br>https://pubs.acs.org/doi/10.1021/acscatal.3c03951<br>https://onlinelibrary.wiley.com/doi/full/10.1002/smll.202305<wbr>616<br><br>видимо национальность авторов вызывает неприязнь.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5352926'>
+   <div class='fmnode'>
+   <a name='fm5352926'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Artemo</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352926'>19.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>16:29
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Там пишут, что аммиака выделяется столько, что непонятно, это фиксация азота или примесь аммиака была изначально из-за его повсеместного наличия в природе, что много говорит о количестве продукта</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5352941'>
+   <div class='fmnode'>
+   <a name='fm5352941'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Artemo</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352941'>20.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>10:08
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>перспективный метод</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul><li class="level0 parent" id='forum_node_5352954'>
+   <div class='fmnode'>
+   <a name='fm5352954'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Наукообраз</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352954'>20.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>22:02
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Читаю эти комментарии и невольно вспоминаю слова Марека:<br>— На профосе лучше всего видно, как ожесточает людей военная служба,— возобновил свои рассуждения вольноопределяющийся.— Несомненно, до поступления на военную службу наш профос был молодым человеком с идеалами. Этакий светловолосый херувим, нежный и чувствительный ко всем, защитник несчастных, за которых он заступался во время драки из-за девочки где-нибудь в родном краю в престольный праздник. Без сомнения, все его уважали, но теперь... боже мой! С каким удовольствием я съездил бы ему по роже, колотил бы головой об нару и всунул бы его по шею в сортирную яму! И это, брат, тоже доказывает огрубение нравов, вызванное военным ремеслом.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1" id='forum_node_5352963'>
+   <div class='fmnode'>
+   <a name='fm5352963'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Наукообраз</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352963'>21.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>08:40
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>— На профосе лучше всего видно, как ожесточает людей военная служба,— возобновил свои рассуждения вольноопределяющийся.— Несомненно, до поступления на военную службу наш профос был молодым человеком с идеалами.</blockquote>Профос — специальный чин, воинская должность в управлении вооружёнными силами (ВС) (армия и флот), существовавшая для нижних чинов до XIX века. В Воинском уставе Вооружённых сил Российской империи (глава XLIII), изданном Петром Великим 30 марта (10 апреля) 1716 года, профосам было предписано исполнять полицейские обязанности:<br>1. наблюдение за чистотой и порядком в местах расположения войск и сил;<br>2. надзор за арестантами;<br>3. исполнение телесных наказаний;<br>От названия этой должности произошло современное слово «прохвост» — непорядочный человек, подлец, негодяй.<br><br>Это какая то неправильная военная служба у прохвоста - в горящем танке не воевал, наверное это и &quot;огрубляет&quot; ))))</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level0 parent" id='forum_node_5352971'>
+   <div class='fmnode'>
+   <a name='fm5352971'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dro</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352971'>21.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>16:15
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>не понятно, как образовалась молекула (H2O)2+, за счет какой связи между думя Н2О?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5352972'>
+   <div class='fmnode'>
+   <a name='fm5352972'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dro</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352972'>21.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>16:40
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>за счет водородной связи</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2 parent" id='forum_node_5352974'>
+   <div class='fmnode'>
+   <a name='fm5352974'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dark</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352974'>21.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>19:17
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>А может быть за счет обобщения неспаренного электрона в катион-радикале димера воды?<br>Как в диоксиде азота.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3 parent" id='forum_node_5352980'>
+   <div class='fmnode'>
+   <a name='fm5352980'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dark</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352980'>22.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>06:28
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Может вам статью прочитать. ))))<br><br>In agreement with previous theoretical and experimental reports, our calculations indicate the co-existence of two (H2O)2+• configurations, i.e., hydrogen-bonded [H3O+•••OH] and [H2O•••OH2]+ (+0.3 eV)<br><br>Вы уже замираете от восторга? Можете начинать! )))</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level4">
+<li class="level4 parent" id='forum_node_5352986'>
+   <div class='fmnode'>
+   <a name='fm5352986'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dark</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352986'>22.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>14:55
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Вы уже замираете от восторга? Можете начинать! )))</blockquote>А я никогда и не прекращал восхищаться вашей самоуверенностью.<br>Чтобы не вводить в заблуждение непосвященных следовало уточнить, что сама концепция водородной связи кардинально изменилась.<br>Теперь это частный случай ковалентной связи с делокализацией электронной плотности по цепи атомов с образованием трёхцентровых четырёхэлектронных и даже четырехцентровых пятиэлектронных связей.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level5">
+<li class="level5 parent" id='forum_node_5352999'>
+   <div class='fmnode'>
+   <a name='fm5352999'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dark</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5352999'>22.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>19:01
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote> трёхцентровых четырёхэлектронных и даже четырехцентровых пятиэлектронных связей.</blockquote>Теперь ясно, что ваше образование - два курса википедии.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level6">
+<li class="level6 parent" id='forum_node_5353001'>
+   <div class='fmnode'>
+   <a name='fm5353001'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dark</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5353001'>22.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:52
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Хорошо, что вы начинаете что-то понимать.<br>А мне до сих пор непонятно, почему вы возбудились, когда я заявил об обобществлении неспаренного электрона. Википедию не читали?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level7">
+<li class="level7 parent" id='forum_node_5353010'>
+   <div class='fmnode'>
+   <a name='fm5353010'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dark</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5353010'>23.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>05:27
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Хорошо, что вы начинаете что-то понимать.</blockquote>Давно уже понял, что вы только цитируете википедию и пишите полунамеками, потому что побаиваетесь высказаться &quot;без бумажки&quot; ибо глупость ваша станет видна.<blockquote>я заявил об обобществлении неспаренного электрона. </blockquote>Заявили? Я бы сказал намекнули сильно побаиваясь, как бы не облажаться.<br>Для ЗАЯВЛЕНИЯ вам нужно указать на какой орбитали сидит этот неспаренный электрон, проведя квантовохимические расчеты. Можете выбрать любую программу из перечисленных: TURBOMOLE, Psi4, CFOUR, ORCA, Molpro, NWChem, Q-Chem.<blockquote>Википедию не читали?</blockquote>Только для того чтобы проверить откуда вы копипастите свои &quot;глубокомысленные&quot; комментарии.<br><br>Соберитесь с силами и опровергните существование водородной связи в этой молекуле (катион-радикале, но это слово для умных вы можете и не понять).</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level8">
+<li class="level8 parent" id='forum_node_5353011'>
+   <div class='fmnode'>
+   <a name='fm5353011'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dark</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5353011'>23.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>06:15
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>пишите полунамеками, потому что побаиваетесь высказаться &quot;без бумажки&quot; ибо глупость ваша станет видна</blockquote>Да уж, не героическая у меня натура. Отважно и гордо демонстрировать собственную глупость это восхитительно, но не всем доступно.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level9">
+<li class="level9 parent" id='forum_node_5353012'>
+   <div class='fmnode'>
+   <a name='fm5353012'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dark</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5353012'>23.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>07:08
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Отважно и гордо демонстрировать собственную глупость это восхитительно, но не всем доступно.</blockquote>Вы решили продемонстрировать свою глупость трусливо с цитатами из википедии? Понимаю вас.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level10">
+<li class="level10 parent" id='forum_node_5353020'>
+   <div class='fmnode'>
+   <a name='fm5353020'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dark</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5353020'>23.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>22:14
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Вы решили продемонстрировать свою глупость трусливо с цитатами из википедии? Понимаю вас.</blockquote>Если понял - то не так.<br>Цитаты из википедии недостаточно глупы, что бы цинично используя их, я мог составить вам конкуренцию. Вы признаетесь победителем.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level11">
+<li class="level11 parent" id='forum_node_5353021'>
+   <div class='fmnode'>
+   <a name='fm5353021'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dark</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5353021'>24.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>07:29
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Цитаты из википедии недостаточно глупы</blockquote>Единственным определением водородной связи может считаться только определение из &quot;золотой&quot; книги (Gold Book) если вы вообще знаете что это такое.<br>А так же более поздние уточнения этого определения в рекомендациях авторов этой книги.<br><br>Водородная связь обозначается X–H•••Y, где где три точки обозначают связь. X – H представляет собой донор водородной связи. Акцептором может быть атом или анион Y, либо фрагмент или молекула Y–Z, в некоторых случаях X и Y совпадают или могут являются частью одной молекулы.<br><br>У авторов статьи использованы неправильные обозначения, возможно это очепятка..</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level12">
+<li class="level12" id='forum_node_5353025'>
+   <div class='fmnode'>
+   <a name='fm5353025'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dark</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5353025'>24.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>17:40
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Единственным определением водородной связи может считаться только определение из &quot;золотой&quot; книги (Gold Book) если вы вообще знаете что это такое.</blockquote>Не знаю, но поддерживаю:<br>« hydrogen bond является результатом электростатического взаимодействия, а также от орбитального взаимодействия антиверсинг σ*(xh) молекулы , действующей в качестве донора водорода и не связанной с одиночной электронной парой мони молекулы акцептора водорода» (извиняюсь за гугл-перевод)<blockquote>У авторов статьи использованы неправильные обозначения, возможно это очепятка..</blockquote>Это просто детские шалости на фоне того, как менялось отношение к закону сохранения энергии от Зельдовича до Рубакова. Такой уровень девиации недоступен даже вам.<br>Не переставая восхищаться, будем снисходительны.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul><li class="level3 parent" id='forum_node_5353002'>
+   <div class='fmnode'>
+   <a name='fm5353002'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dro</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dark</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5353002'>22.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>20:58
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Да, похоже вы правы. действительно, в тексте (H2O)2+ без точки на рисунке (H2O)2+ с точкой. я поленился надеть очки и не разглядел рисунок должным образом, а Балабин поленился в тексте с точкой написать.<br>Но тогда это не просто ион, а радикал, и время его жизнивызывает большие вопросы. странно, что реакция (видимо) устойчива к примесям кислорода и углекислиого. и плохо, что про время жизни ничего не сказано, это ключевой момент.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level4">
+<li class="level4" id='forum_node_5353008'>
+   <div class='fmnode'>
+   <a name='fm5353008'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>dark</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>dro</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5353008'>22.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>23:39
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote> про время жизни ничего не сказано, это ключевой момент</blockquote>Там не просто радикалы, а катион-радикалы. Они будут существовать до нейтрализации электростатического заряда плазмы.<br>Ключевой момент, о котором не написано в статье, это регенерация катион-радикала димера воды для улучшения энергоэффективности.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul>
+   </li></ul><li class="level0" id='forum_node_5353016'>
+   <div class='fmnode'>
+   <a name='fm5353016'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>-claim-</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434204#fm5353016'>23.03.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>15:19
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Так Роман Балабин там ничего не сделал… Великое достижение, вписался для гранта.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+</ul>
+<div class='fmctrl fl' id='forum_btm_btn'>Написать комментарий</div>
+
+
+<div class='cl'></div>
+</div>
+</div>
+
+<div class='forumctrls' style='display:none'>
+
+<div id='forum_edit_block'>
+<form action="/novosti_nauki/434204?ipcountry=NL" method=post onsubmit="return forum_checkMsgForm(this)">
+
+<input type='hidden' name='msgedit' id='forum_msg_id'>
+<div class='xform'>
+	<textarea id='forum_edit_textarea' name=memo placeholder="Комментарий"></textarea>
+	
+	<input type='submit' value='Сохранить' name='accept'> <input type=submit name=delete onclick='return confirm("Удалить сообщение?");' value="Удалить">
+        <div class='gap'></div>
+</div>
+</form>
+</div>
+
+<div id='forum_input_block' class='fmnode toggle'>
+
+        <div class='fmhead'><span class="nodepoint"></span>Вход в систему</div>
+	<div class='xform beige'>
+        <div class='smallform'>
+        
+		<form action="/novosti_nauki/434204?ipcountry=NL" method=post>
+                
+                <input type='hidden' name='answerto' id='forum_prev_id'>
+		<input type=text name=LOGIN  value="" maxlength=50 placeholder='Имя' id='forum_login'></td>
+		<input type=password name="PASSWD" value="" maxlength=50 placeholder='Пароль'></td></tr>
+                <div class="label fl"><span class="xcheckbox"><input id='rpw_chk' type="checkbox" name=PERSIST onclick="resetXCheck(this)"></span> <label for='rpw_chk'>запомнить пароль</label></div>
+                <input type="submit" class='right' name="accept_auth" value="   ok   ">
+                <div class='cl'></div>
+		</form>
+        <div class='goto fl'><a href="/reguser">Зарегистрироваться</a></div>
+        <div class='goto fr'><a href="/restore_password">Забыли пароль?</a></div><div class='cl'></div>
+	</div>
+        </div>
+        <div class='gap'></div>
+
+</div>
+
+</div>
+
+<script type='text/javascript'>
+var forum_user ="";
+var forum_mode = "simple";
+var forum_answerto = ""; 
+var forum_msgcnt = "68"; 
+
+
+var topbtn = document.getElementById('forum_topsocnet_button');
+if (topbtn) topbtn.style.display='';
+</script>
+<script type='text/javascript' src='/downloads/js/forum.js?v=1.10' charset="utf-8"></script>
+</div>
+
+<div class='crblock'>
+
+<div class='storyline important'>
+
+</div>
+
+
+
+     <h2><a href="/novosti_nauki">Последние новости</a></h2>
+     <hr class='nogap'>
+
+
+    <a href="/novosti_nauki/434407/Kukolki_zarazhennye_opasnym_parazitom_posylayut_rabochim_muravyam_signal_ubey_menya" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/altruistic-disease-signalling-in-ant-colonies_logo_200.jpg" alt="Рабочие муравьи Lasius neglectus проводят «разрушающую дезинфекцию»"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Куколки, зараженные опасным паразитом, посылают рабочим муравьям сигнал «убей меня»</div>
+    <div class="sublink"><span class="date">12.02</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434406/U_pervykh_pozvonochnykh_bylo_dve_pary_glaz" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/myllokunmingia_200.jpg" alt="У первых позвоночных было две пары глаз"></div>
+    
+    <div class='ib_text'>
+    <div class="title">У первых позвоночных было две пары глаз</div>
+    <div class="sublink"><span class="date">09.02</span>&nbsp;<span class='break'
+>•</span> Сергей Ястребов</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434405/Infrakrasnoe_izluchenie_drevneyshiy_signal_dlya_privlecheniya_opyliteley" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/infrared-radiation-is-an-ancient-pollination-signal_1_200.jpg" alt="Открытая шишка саговникового растения. (B) Тепловизионное изображение мужской шишки саговника в&nbsp;момент нагревания во&nbsp;время выброса пыльцы"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Инфракрасное излучение&nbsp;— древнейший сигнал для привлечения опылителей</div>
+    <div class="sublink"><span class="date">04.02</span>&nbsp;<span class='break'
+>•</span> Елена Устинова</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434404/Dazhe_krupnye_mozazavry_mogli_zhit_v_rekakh" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/260118_novikovskaya_mosasaurus_200.jpg" alt="Некоторые виды мозазавров могли быть пресноводными"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Даже крупные мозазавры могли жить в реках</div>
+    <div class="sublink"><span class="date">19.01</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+<div class='goto'><a href="/novosti_nauki">Все новости</a></div>
+<div class='gap2'></div>
+
+
+<!-- Здесь был блок картинки дня: KLBLOCK id="eltdpicture" page_size="1" template="dpicture_R_v2" page="" calendar="" features="v2" dpicture_title="Картинка дня" dpicture_th_title="*" gotoxrub="19"/ -->
+
+<div class='important'>
+
+
+<hr class='hide_main hide_hpad'><div class='gap hide_main hide_hpad'></div>
+<div class='rxblock eltpub'>
+<h2>См. также</h2><hr class='nogap'>
+
+
+
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/436994/Frits_Gaber_chelovek_pered_sudom_istorii?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/eltpub/frits_gaber_chelovek_pered_sudom_istorii_logo_390.png" alt=""></div>
+    
+    <div class="title">Фриц Габер: человек перед судом истории</div>
+    
+    <div class="sublink">Марина Молчанова&nbsp;<span class='break'>•</span> Библиотека&nbsp;<span class='break'>•</span> «Квантик» №4, 2023</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltpub'>
+
+
+
+
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/437017/Frits_Gaber_okonchanie?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/eltpub/frits_gaber_okonchanie_logo_390.png" alt=""></div>
+    
+    <div class="title">Фриц Габер: окончание</div>
+    
+    <div class="sublink">Марина Молчанова&nbsp;<span class='break'>•</span> Библиотека&nbsp;<span class='break'>•</span> «Квантик» №5, 2023</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltpub'>
+
+
+
+
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/434643/Paradoksalnyy_trivialnyy_azot?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/eltpub/paradoksalnyj_trivialnyj_azot_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Парадоксальный тривиальный азот</div>
+    
+    <div class="sublink">Александр Рулёв&nbsp;<span class='break'>•</span> Библиотека&nbsp;<span class='break'>•</span> «Наука и жизнь» №3, 2019</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433414/Plazmennyy_elektroliz_pozvolyaet_poluchat_ammiak_iz_azota_i_vody_bez_katalizatora?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/catalyst_free_synthesis_of_ammonia_via_plasma_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Плазменный электролиз позволяет получать аммиак из азота и воды без катализатора</div>
+    
+    <div class="sublink"><span class="date">24.01.2019</span>&nbsp;<span class='break'>•</span> Аркадий Курамшин&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltpub'>
+
+
+
+
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/433488/Nobelevskie_nelaureaty?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/eltpub/nobelevskie_nelaureaty_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Нобелевские нелауреаты</div>
+    
+    <div class="sublink">Аркадий Курамшин&nbsp;<span class='break'>•</span> Библиотека&nbsp;<span class='break'>•</span> «Химия и жизнь» №10, 2016</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<div class='gap2'></div>
+
+</div>
+
+
+<div class='storyline important'>
+
+</div>
+
+</div>
+
+<div class='cl'></div>
+
+<div class='mb'>
+<div class='pager_one'>
+<hr>
+
+  <a class='nohover' href="/novosti_nauki/434203/Kolchatye_chervyagi_vykarmlivayut_detenyshey_kloakalnym_molokom">
+   <div class="next">
+      <div class=icon></div> 
+      <div class="suplink">15.03.2024</div>
+      <div class="pretitle"></div>
+      <div class="title">Кольчатые червяги выкармливают детенышей клоакальным молоком</div>
+   </div>
+  </a>
+
+
+ <a class='nohover' href="/novosti_nauki/434205/Kristallizatsiya_yadra_tormozit_ostyvanie_belykh_karlikov">
+  <div class="prev">
+     <div class=icon></div> 
+     <div class="suplink">20.03.2024</div>
+     <div class="pretitle"></div>
+     <div class="title">Кристаллизация ядра тормозит остывание белых карликов</div>
+   </div>
+  </a>
+
+</div>
+<div class='cl'></div>
+</div>
+
+
+
+<div class='other_block'>
+<hr class='top mb'>
+<div class='mb4 other_themes'>
+ <h2>Другие новости</h2>
+ <div class="submenu hrline"><div class="sm_item">
+    <a href="/novosti_nauki/t/5272194/Roman_Balabin">Роман Балабин</a> <span class="stat">1</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/21099/Khimiya">Химия</a> <span class="stat">144</span>
+</div></div>
+</div>
+<div class='scroll_container'>
+<div id='newsScrBlock' class='slider-view'><div class='slider'><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434390/Nobelevskaya_premiya_po_khimii_2025?from=bxblock'>
+<div class='img'><span><img src='images/news/nobel_medal_physics_345.jpg' alt=''></span></div>
+<div class='title'>Нобелевская премия по химии&nbsp;— 2025</div>
+<div class='sublink'><span class="date">03.11.2025</span>&nbsp;<span class='break'
+>•</span> Наталия Самойлова</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434386/Obnaruzhen_realistichnyy_sposob_prisoedineniya_aminokislot_k_RNK_bez_pomoshchi_fermentov_i_ribozimov?from=bxblock'>
+<div class='img'><span><img src='images/news/thioester_mediated_rna_aminoacylation_logo_390.jpg' alt=''></span></div>
+<div class='title'>Обнаружен реалистичный способ присоединения аминокислот к&nbsp;РНК без помощи ферментов и рибозимов</div>
+<div class='sublink'><span class="date">16.10.2025</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434307/V_obraztsakh_asteroida_Bennu_obnaruzhena_rekordnaya_kontsentratsiya_azotsoderzhashchikh_soedineniy?from=bxblock'>
+<div class='img'><span><img src='images/news/ammonia_and_nitrogen_rich_soluble_organic_matter_in_bennu_logo_390.jpg' alt=''></span></div>
+<div class='title'>В образцах астероида Бенну обнаружена рекордная концентрация азотсодержащих соединений</div>
+<div class='sublink'><span class="date">07.02.2025</span>&nbsp;<span class='break'
+>•</span> Кирилл Власов</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434269/Nobelevskaya_premiya_po_khimii_2024?from=bxblock'>
+<div class='img'><span><img src='images/news/nobel_medal_physics_345.jpg' alt=''></span></div>
+<div class='title'>Нобелевская премия по химии&nbsp;— 2024</div>
+<div class='sublink'><span class="date">19.10.2024</span>&nbsp;<span class='break'
+>•</span> Михаил Орлов</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434187/Sintezirovan_aromaticheskiy_geksazin_koltso_iz_shesti_atomov_azota?from=bxblock'>
+<div class='img'><span><img src='images/news/aromatic_hexazine_logo_390.jpg' alt=''></span></div>
+<div class='title'>Синтезирован ароматический гексазин&nbsp;— кольцо из шести атомов азота</div>
+<div class='sublink'><span class="date">14.02.2024</span>&nbsp;<span class='break'
+>•</span> Александр Сигеев</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434157/Nobelevskaya_premiya_po_khimii_2023?from=bxblock'>
+<div class='img'><span><img src='images/news/nobel_medal_physics_345.jpg' alt=''></span></div>
+<div class='title'>Нобелевская премия по химии&nbsp;— 2023</div>
+<div class='sublink'><span class="date">06.11.2023</span>&nbsp;<span class='break'
+>•</span> Александр Сигеев</div>
+</a>
+</div></div></div>
+<div class='scr_buttons_noscript' id='newsScrBlock_buttons'>
+<span class='prev_button' id='newsScrBlock_prevbtn'></span>
+<span class='next_button' id='newsScrBlock_nextbtn'></span>
+</div>
+</div>
+<div class='cl'></div>
+<hr class='mb hide_hphone'>
+<script type="text/javascript">scrollInit('newsScrBlock', { "mode": "DOM-S", "total": 134, "pagesize": 6, "request_url": '/ajax/news', "request_params": '&features=similar&features=v2&template=news_sline_v2&news_title=Другие новости&objlink_params=from=bxblock&xpage_size=6&tnews=3371422&newsid=434204'});</script>
+</div>
+
+
+</div>
+
+<div class='blue subscribe_block'><div class='mblock'>
+<div class='subscribe'>
+<div class='mb10'>
+<FORM TARGET=_top ACTION=https://subscribe.ru/member/quick METHOD=POST>
+<INPUT TYPE=hidden NAME=action VALUE=quick>
+<INPUT TYPE=hidden NAME=grp VALUE="science.news.elementynews">
+<span class='title'>Новостная рассылка</span>
+<span class='xinput fullwidth'><INPUT TYPE=email NAME=email SIZE=25 MAXLENGTH=100 placeholder
+="ВАШ E-MAIL"
+></span>&nbsp;<INPUT TYPE=submit VALUE="ПОДПИСАТЬСЯ">
+<INPUT TYPE=hidden NAME=src VALUE="list_science.news.elementynews">
+</FORM>
+</div>
+
+<div class='mb6'>
+<span class='title'>«Элементы» в соцсетях:&nbsp; </span>
+
+<a class='icon vk' href='https://vk.com/elementy_ru' target='_blank' title='ВКонтакте'></a>
+<a class='icon twitter' href='https://twitter.com/elementy_ru' target='_blank' title='Твиттер'></a>
+<a class='icon youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank' title='Youtube'></a>
+
+<a class='icon telegram' href='https://telegram.me/elementy_ru' target='_blank' title='Telegram'></a>
+<a class='icon zen' href='https://zen.yandex.ru/elementy.ru' target='_blank' title='Яндекс.Дзен'></a>
+</div>
+</div>
+<div class='cl'></div>
+</div></div>
+ 
+      
+             <script type="text/javascript" src="/downloads/js/linkhint.js?v=1.02"></script>
+             <script type="text/javascript">linkhint_init();</script>
+       
+   
+
+</div>
+
+
+
+<div class='hfooter'>
+<div class='mblock'>
+
+<div class='mb4 i1'><img src='images/eltnewdesign/ft_logo.png' alt='Элементы'></div>
+
+
+
+<div class='mb3 rub1'><ul>
+<li><a href='/novosti_nauki'>Новости науки</a></li>
+<li><a href='/LHC'>LHC</a></li>
+<li><a href='/kartinka_dnya'>Картинка дня</a></li>
+<li><a href='/problems'>Задачи</a></li>
+<li><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a></li>
+<li><a href='/video'>Видеотека</a></li>
+<li><a href='/bookclub'>Книжный клуб</a></li>
+</ul></div>
+<div class='mb3 rub2'><ul>
+<li><a href='/events'>Научный календарь</a></li>
+<li><a href='/email'>Детские вопросы</a></li>
+<li><a href='/time'>Масштабы: времена</a></li>
+<li><a href='/posters'>Плакаты</a></li>
+<li><a href='/trefil'>200 законов мироздания</a></li>
+<li><a href='/genbio'>Журнал общей биологии</a></li>
+<li><a href='/catalog'>Наука в Рунете</a></li>
+</ul></div>
+
+<div class='mb3 socnets'>
+<ul>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>ВКонтакте</span></a></li>
+<li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Twitter</span></a></li>
+<li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'><span class='icon'></span><span class='name'>Youtube</span></a></li>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Telegram</span></a></li>
+<li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'><span class='icon'></span><span class='name'>Яндекс.Дзен</span></a></li>
+<li class='hide_main hide_hpad hide_vpad'><a class='rss' href='/rss/news' target='_blank'><span class='icon'></span><span class='name'>RSS</span></a> <span class='name'>(<a href='/rss/'  target='_blank'>все ленты</a>)</span></li>
+</ul>
+</div>
+<div class='mb3 l2 zimin'>
+<div class='msg'><a href='https://basis-foundation.ru/' target="_blank">При поддержке фонда «Базис»</a></div>
+<a href='https://basis-foundation.ru/' target="_blank"><img src='images/eltnewdesign/basis2.png' alt='Фонд поддержки фундаментальной физики Базис'></a>
+</div>
+<div class='cl'></div>
+<hr>
+<div class='mb4 l2 copy'>© 2005–2026 «Элементы»</div>
+<div class='mb3 about'><a href='/about'>О проекте</a></div>
+<div class='mb3 feedback'><a href='mailto:info@elementy.ru'>Обратная связь</a></div>
+<div class='mb3 rss hide_phone'><a href='/rss/news' target='_blank'>RSS</a> (<a href='/rss/'  target='_blank'>все ленты</a>)</div>
+<div class='mb3 subscrb'><a href='https://subscribe.ru/catalog/science.news.elementynews'>Подписаться на рассылку</a></div>
+<!--<div class='mb3 l2 design'><a href='http://charmerstudio.com' target='_blank'>Дизайн: Charmer Studio</a></div>-->
+<div class='cl gap'></div>
+
+
+<div class='mb counters'>
+<!--LiveInternet counter--><script language="JavaScript"><!--
+document.write('<img src="//counter.yadro.ru/hit?r'+escape(document.referrer)+((typeof(screen)=='undefined')?'':';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+'" width=1 height=1 alt="">')
+//-->
+</script><!--/LiveInternet-->
+<!-- Yandex.Metrika counter --><script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter31698571 = new Ya.Metrika({ id:31698571, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="https://mc.yandex.ru/watch/31698571" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+<!-- Google Analytics --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65855867-1', 'auto');
+  ga('send', 'pageview');
+</script><!-- // Google Analytics -->
+<!--begin of Rambler's Top100 code -->
+<script id="top100Counter" type="text/javascript" src="//counter.rambler.ru/top100.jcn?707804"></script>
+<noscript><a href="http://top100.rambler.ru/top100/"><img src="//counter.rambler.ru/top100.cnt?707804" alt="" width=1 height=1 border=0></a>
+</noscript>
+<!--end of Top100 code-->
+</div>
+
+
+</div>
+</div>
+
+</div>
+</body>
+</html>

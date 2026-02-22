@@ -1,0 +1,2321 @@
+<!DOCTYPE html>
+<html lang='ru' prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+<head>
+<title>Японский мозазавр мегаптеригий обладал огромными задними ластами и спинным плавником • Анна Новиковская • Новости науки на «Элементах» • Палеонтология</title>
+<noscript><meta name="viewport" content="width=device-width, initial-scale=1.0"></noscript>
+<script type='text/javascript'>if (!document.cookie.match(/\bdesktop_mode=1/)) document.write('<meta name="viewport" content="width=device-width, initial-scale=1.0">');</script>
+
+
+<META name="description" content="Мозазавр Megapterygius wakayamaensis, найденный в 2006 году в Японии, имел ряд необычных особенностей: его ласты были невероятно большими, а на спине, вероятно, располагался спинной плавник. Ученые предположили, что «вакаямский большекрыл» весьма необычно плавал, сочетая горизонтальные S-образные движения позвоночника и хвоста с активным использованием гипертрофированных ласт."/>
+
+
+
+<link rel="canonical" href="https://elementy.ru/novosti_nauki/434181/Yaponskiy_mozazavr_megapterigiy_obladal_ogromnymi_zadnimi_lastami_i_spinnym_plavnikom" />
+
+
+<base href="//elementy.ru/">
+
+
+
+<meta property="og:title" content="Японский мозазавр мегаптеригий обладал огромными задними ластами и спинным плавником • Новости науки"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Мозазавр Megapterygius wakayamaensis, найденный в 2006&nbsp;году в&nbsp;Японии, имел ряд необычных особенностей: его ласты были невероятно большими, а на спине, вероятно, располагался спинной плавник. Ученые предположили, что «вакаямский большекрыл» весьма необычно плавал, сочетая горизонтальные S-образные движения позвоночника и хвоста с&nbsp;активным использованием гипертрофированных ласт."/>
+<meta property="og:url" content="https://elementy.ru/novosti_nauki/434181/Yaponskiy_mozazavr_megapterigiy_obladal_ogromnymi_zadnimi_lastami_i_spinnym_plavnikom"/>
+<meta property="og:image" content="https://elementy.ru/images/news/new_derived_mosasaurine_from_japan_1_1400.jpg"/>
+
+<meta property="article:section" content="Наука" />
+<meta property="article:tag" content="Палеонтология"/>
+<meta property="og:site_name" content="«Элементы»"/>
+<meta property="og:locale" content="ru_RU"/>
+
+
+<link rel="manifest" href="/downloads/js/manifest.json?v=1.02">
+
+
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo16bw.png"  sizes="16x16"/>
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo32bw.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo48bw.png" sizes="48x48" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo64bw.png" sizes="64x64" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo128bw.png" sizes="128x128" />
+<link rel="shortcut icon" type="image/png" href="/images/eltnewdesign/logo32bw.png"/>
+
+<meta content='Элементы' name='apple-mobile-web-app-title'>
+
+<link rel="apple-touch-icon" type="image/png" href="/images/eltnewdesign/logo128bw.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/eltnewdesign/logo57bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/eltnewdesign/logo114bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/eltnewdesign/logo72wb.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/eltnewdesign/logo120bw.png" />
+
+<meta name="application-name" content="Элементы"/>
+<meta name="msapplication-TileColor" content="#001034" />
+<meta name="msapplication-TileImage" content="/images/eltnewdesign/logo128bw.png" />
+
+<meta name="yandex-tableau-widget" content="logo=https://elementy.ru/images/eltnewdesign/logo128bw.png, color=#001034" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://elementy.ru/rss"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/style2.css?v=1.125"/>
+
+<noscript>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>
+</noscript>
+<script type='text/javascript'>
+if (!document.cookie.match(/\bdesktop_mode=1/))
+   document.write(
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>');
+</script>
+
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-print.css?v=1.09"/>
+
+<script type="text/javascript" src="/download/mathjax_2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" async></script>
+<script src="//yastatic.net/share2/share.js" async></script>
+<script type="text/javascript" src='/downloads/js/menu.js?v=1.10'></script>
+<script type="text/javascript" src='/downloads/js/hor.js' async></script>
+<script type='text/javascript' src='/downloads/js/request.js' async></script>
+<script type='text/javascript' src='/downloads/js/scroll.js?v=1.03'></script>
+<script type='text/javascript' src='/downloads/js/more.js?v=1.02'></script>
+<script type='text/javascript' src='/downloads/js/ttlhover.js' async></script>
+<script type='text/javascript' src='/downloads/js/rfilters.js'></script>
+
+<script type="text/javascript">
+function pict_popup(src,title) {
+        var w = window.open(src,'','channelmode=no,toolbar=no,location=no,status=no,directories=no,menubar=no,');
+        if(navigator.appName=='Microsoft Internet Explorer') w.document.write('<title>'+title+'</title><img src="'+src+'" onLoad="i=document.images[0]; window.resizeTo(i.width+50,i.height+100)">')
+        return false
+}
+</script>
+
+
+
+
+</head>
+
+<body class="xrub-novosti_nauki xrubpage-no">
+<div class='allarea'  id='pgarea'>
+<a id="page_top"></a>
+
+<div class='mainmenublock hmenu' id='mmenubody' >
+     <div class='mbshading' id='mshading' onclick='toggleHMenu("mmenubody")'></div> 
+     <div class='hmenu'>
+      <div class='menuarea' id='mmenuarea'>
+       <a href='/' class='close' onclick='return toggleHMenu("mmenubody")'><span class='icon close'></span><span class='hint'>Закрыть</span></a>
+       <script type='text/javascript'>
+            var desktop_mode = document.cookie.match(/\bdesktop_mode=1/); 
+            if (!desktop_mode) document.write('<div class="oldlink hide_other"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div><hr class="hide_other">');
+       </script>
+       <ul class="level0"><li class="level0 selected">
+  <div><a href='/novosti_nauki'>Новости науки</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/kartinka_dnya'>Картинка дня</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/events'>Календарь событий</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/problems'>Задачи</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/email'>Детские вопросы</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/LHC'>Большой адронный коллайдер</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/LHC/novosti_BAK'>Новости LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/monitory_bolshogo_adronnogo_kollajdera'>Мониторы LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/LHC_results'>Результаты LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/zagadki_lhc'>Загадки LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_s_mu_mu'>Распад b→sμμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_1'>Распад B<sup>+</sup>→K<sup>+</sup>ll</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_2'>Распад B→Dlν</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_mu_mu'>Распад B→μμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/raspad_higgsa_na_muon_i_tau'>Распад H→μτ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/top_antitop_higgs'>Комбинация топ-антитоп-хиггс</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/zaryazhennyj_bozon_higgsa'>Заряженный бозон Хиггса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/dvuhfotonnyj_vsplesk_pri_750_gev'>Двухфотонный всплеск 750&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptony_odnogo_znaka_na_atlas'>Лептоны одного знака на ATLAS</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/eejj-otklonenije'>eejj-отклонение</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/sobytije_2.9tev'>Событие при 2,9 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_2_tev_atlas'>WZ-пик при 2 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_1.8_tev_cms'>WH-пик при 1,8 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_CMS'>Поиск суперсимметрии — 1</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_ATLAS'>Поиск суперсимметрии — 2</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_iii'>Поиск суперсимметрии — 3</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_results/beyondSM'>Отклонения от Стандартной модели</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/susy_search'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/exotic_search'>Экзотические частицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_search'>Поиск бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_study'>Изучение бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/top-quark'>Свойства топ-кварка</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/hadrons'>Рождение и распады адронов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/rare_decays'>Редкие распады B-мезонов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/difraction'>Адронная дифракция</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/nuclei'>Ядерные столкновения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/astro'>Астрофизика</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC_working'>LHC в работе</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lhc/timeline'>Хронология создания и работы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/general_schedule'>Общее расписание</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/what-to-check'>Как следить за новостями с LHC</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/working_cycle'>Рабочий цикл коллайдера</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/initial'>Ранние этапы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2008'>2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/incident'>Авария 19.09.2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009'>2009</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009/results_2009'>Результаты работы LHC в&nbsp;2009&nbsp;году</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_1'>Сеанс LHC Run&nbsp;1</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010'>2010</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010/results_2010'>Результаты работы LHC в&nbsp;2010&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011'>2011</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011/results_2011'>Результаты работы LHC в&nbsp;2011&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2012'>2012</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/schedule_2015'>Техническая пауза LS1</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_2'>Сеанс LHC Run&nbsp;2</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2015'>2015</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2016'>2016</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2017'>2017</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2018'>2018</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_3'>Сеанс LHC Run&nbsp;3</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_3/2022'>2022</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC'>Устройство и задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/LHC/about'>LHC: ключевые факты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/accelerator'>Устройство LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/beams'>Протонные пучки</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnets'>Магнитная система</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnet_training'>Как тренируют магниты</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/detectors'>Детекторы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ATLAS'>ATLAS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/CMS'>CMS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ALICE'>ALICE</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCb'>LHCb</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/TOTEM'>TOTEM</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCf'>LHCf</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/MoEDAL'>MoEDAL</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/why'>Зачем нужен LHC?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/tasks'>Задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/hadrons'>Свойства адронов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/decays'>Адронные распады</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/higgs'>Поиск бозона Хиггса</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/production_decay'>Рождение и распад</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/search_strategies'>Стратегии поиска</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/top-quark'>Топ-кварк</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/SUSY'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/exotic'>Экзотические теории</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/nuclei'>Ядерные столкновения</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/safety'>Безопасность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/estimates'>Вероятность катастрофы</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/black_holes'>Микроскопические черные дыры</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/phrases'>Толковый словарик журналистских штампов</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/HEP'>Физика элементарных частиц</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/HEP/educational'>Образовательные онлайн-ресурсы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/HEP/measures'>Величины и единицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/cross-section'>Сечение процесса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/luminosity'>Светимость</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/invariant-mass'>Инвариантная масса</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/study'>Как изучают частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/detecting'>Принципы детектирования</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/errors'>Погрешности</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/statistical'>Статистическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/systematic'>Систематическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/theoretical'>Теория и моделирование</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/sigma'>Сигма</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/subtleties'>Тонкости анализа</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/experiments'>Эксперименты на коллайдерах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/quark_model'>Классификация адронов</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/partonic_densities'>Партоны</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/hadronization'>Конфайнмент и адронизация</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/rapidity-angle_diagram'>Быстрота–угол</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/analysis_methods'>Приемы анализа</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/SM'>Стандартная модель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/problems'>Трудности</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/beyondSM'>За пределами СМ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/SUSY'>Суперсимметрия</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/higgs_theory'>Хиггсовский механизм</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/explanations'>Аналогии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/SM_Higgs'>Хиггс с&nbsp;массой 125&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/nonminimal'>Неминимальные варианты</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/gallery'>Галерея</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly'>В популярных журналах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/vmirenauki'>«В мире науки»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/znanijesila'>«Знание — сила»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvant'>«Квант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvantik'>«Квантик»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kommersant_nauka'>«Коммерсантъ Наука»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kot_shryodingera'>«Кот Шрёдингера»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_i_zhizn'>«Наука и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_iz_pervyh_ruk'>«Наука из первых рук»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/popularnaja_mehanika'>«Популярная механика»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_himija_biologija_meditsina'>«Потенциал»: Химия. Биология. Медицина</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_matematika_fizika_informatika'>«Потенциал»: Математика. Физика. Информатика</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda'>«Природа»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/o_zhurnale'>О журнале</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/priroda_v_internete'>«Природа» в интернете</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/kak_podpisatsya'>Как подписаться</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/gazeta_troitskiy_variant'>«Троицкий вариант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/khimiya_i_zhizn'>«Химия и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/chto_novogo_v_nauke_i_tekhnike'>«Что нового в науке и технике»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/ecologiya_i_zhizn'>«Экология и жизнь»</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/izbrannoe'>Избранное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/lektsii_dlya_shkolnikov'>Лекции для школьников</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/interview'>Интервью</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/vystavka_vse_v_mire_otnositelno'>Выставка «Всё в мире относительно»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lib/exhibition/authors'>О художниках</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/lib/exhibition/about'>О выставке</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/video'>Видеотека</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/bookclub'>Книжный клуб</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/bookclub/book'>Книги</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/author'>Авторы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/chapters'>Главы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/bookclub/chapters/knigi_opublikovannyje_polnostju'>Опубликовано полностью</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera'>Происхождение жизни</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/evolutsija_i_priroda_nauki'>Глава 1</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/svidetelstva_biologicheskoj_evolutsii'>Глава 2</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/vzglyady_kreatsionistov'>Глава 3</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/FAQ'>Заключение</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/bookclub/publisher'>Издательства</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/series'>Серии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review'>Рецензии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review_users'>Отзывы</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/time'>Масштабы: времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/time/estimating'>В помощь читателю</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-1.html'>Как оценивать типичные времена</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-2.html'>Как применять формулы&nbsp;— иллюстрация</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-3.html'>Тонкости и предостережения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-4.html'>Опорные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-5.html'>Колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-6.html'>Гармонические колебания и их период</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-7.html'>Волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-8.html'>Закон распада</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/milli'>Миллисекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/milli/milli-1.html'>Миллисекунды в нашей жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-2.html'>Фото вместо видео</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-3.html'>Мерцающие огоньки</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-4.html'>Скрытые возможности невооруженного взгляда</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/micro'>Микросекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/micro/micro-1.html'>Остановившийся мир</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-2.html'>И всё-таки он движется!</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-3.html'>Пределы механического затвора</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nano'>Наносекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nano/nano-1.html'>От предметов к веществу</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-2.html'>Коллективные явления</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-3.html'>Электромагнитные колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-4.html'>Информационная емкость радиоволны</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/pico'>Пикосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/pico/pico-1.html'>Атомное движение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-2.html'>Пределы звука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-3.html'>Как начинается плавление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-4.html'>Пределы электроники</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-5.html'>Электромагнитные волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-6.html'>Элементарные частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/femto'>Фемтосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/femto/femto-1.html'>Мир электронов и света</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-2.html'>Оптические вычислительные технологии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-3.html'>Фемтохимия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-4.html'>Фемтобиология</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/atto'>Аттосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/atto/atto-1.html'>Личная жизнь атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-2.html'>Самые внутренние электроны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-3.html'>Как взрезать атом</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-4.html'>Электроны на службе аттофизики</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/zepto'>Зептосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-1.html'>Жизнь атомных ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-2.html'>Энергия, время и соотношение неопределенностей</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/yocto'>Йоктосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-1.html'>На границе известного</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-2.html'>Столкновение тяжелых ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-3.html'>Вглубь йоктосекунды</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/year'>От секунды до года</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/year/year-1.html'>Семь с половиной порядков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-2.html'>Искусственные спутники Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-3.html'>Эхо землетрясений</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-4.html'>Астероид-убийца</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-5.html'>Как растекается тепло</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/very-long'>Астрономические времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-1.html'>Солнечная система</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-2.html'>Солнечная система на больших временах</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-3.html'>Глубокий космос</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-4.html'>Межгалактические отношения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-5.html'>Танец земного климата</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-6.html'>Тектоническая жизнь Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-7.html'>Сверхдолгоживущие частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/sonoluminescence'>Сонолюминесценция</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-1.html'>Свечение, порожденное звуком</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-2.html'>Поведение пузырька</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-3.html'>Последние мгновения коллапса</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/biophysics'>Фолдинг белков</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-1.html'>Физическая основа жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-2.html'>Главная и боковые цепи</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-3.html'>«Жизнь» белковой молекулы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-4.html'>Компьютерное моделирование фолдинга</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/excited'>Возбужденные атомы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-1.html'>Возбужденные атомы: кто такие и где встречаются</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-2.html'>Быстротечная жизнь возбужденных атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-3.html'>Миллионы безуспешных попыток</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-4.html'>Ридберговские атомы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-5.html'>Атомы-долгожители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-6.html'>Водородная линия 21&nbsp;см</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nuclear'>Ядерные распады</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-1.html'>«Ядерная секунда»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-2.html'>Альфа-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-3.html'>Тяжелые элементы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-4.html'>Бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-5.html'>Двойной бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-6.html'>Ядерные изомеры</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/particles'>Элементарные частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/particles/particles-1.html'>Законы элементарных частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-2.html'>Два руководящих принципа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-3.html'>Сильные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-4.html'>Электромагнитные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-5.html'>Слабые распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-6.html'>Повышенная жизнеспособность на&nbsp;околосветовых скоростях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-7.html'>На переднем крае физики элементарных частиц</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/continents'>Движение континентов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/continents/continents-1.html'>Такты тектонической жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-2.html'>Возраст Гималаев</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-3.html'>Когда задышал Северный Ледовитый океан?</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/posters'>Плакаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/posters/moment'>Мгновение</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/posters/fractals'>Фракталы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/fractals/fractals'>Что такое фракталы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/geometric'>Геометрические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Koch'>Снежинка Коха</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/T-square'>Т-квадрат</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/H-fractal'>H-фрактал</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Sierpinski'>Треугольник Серпинского</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Pythagoras'>Дерево Пифагора</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Levy'>Кривая Леви</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/dragon'>Дракон</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/dynamic'>Динамические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Mandelbrot'>Множество Мандельброта</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Julia'>Множества Жюлиа</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Halley'>Фрактал Галлея</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Newton'>Фрактал Ньютона</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/complex_numbers'>Комплексные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/dimensions'>Фрактальные размерности</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/how_to_draw'>Как это рисовать</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/nature'>Фракталы в природе</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/about'>О плакате</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/collider'>Ускоритель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/collider/1'>Зачем нужен ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/2'>Единицы измерения расстояний, энергий и масс</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/3'>Краткая история ускорителей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/4'>Как работает ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/5'>Детектор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/6'>Как на ускорителе изучают свойства частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/7'>Природные ускорители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/8'>Применение ускорителей и детекторов в медицине</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/aviation'>Покорение воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/aviation/light'>Аппараты легче воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/light/balloons'>Аэростаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/montgolfiere'>Первый аппарат легче воздуха, способный поднять человека</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/today'>Шары-монгольфьеры сегодня</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/light/dirigibles'>Дирижабли</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/france'>Типичный дирижабль конца XIX&nbsp;века рыбообразной формы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/tsiolkovsky'>Цельнометаллический бескаркасный дирижабль с&nbsp;изменением объема в&nbsp;полете и с&nbsp;подогревом газа</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/zeppelin'>Серийный дирижабль Германии времен Первой мировой войны</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/akron'>Гелиевые дирижабли США</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/hindenburg_disaster'>Гибель «Гинденбурга» 6&nbsp;мая 1937&nbsp;года</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/today'>Дирижабли сегодня</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/heavy'>Аппараты тяжелее воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/helicopters'>Вертолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/sikorskys1'>Первый вертолет И.&nbsp;И.&nbsp;Сикорского</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/cagi_1-ea'>Первый летающий аппарат классической схемы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/mi-26'>Тяжелый военно-транспортный вертолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/an-64'>Ударный вертолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans'>Экранопланы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/km'>Самый крупный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/orlenok'>Единственный российский серийный десантный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/bartini'>Экраноплан Бартини</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/lun'>Летающий госпиталь</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/planes'>Самолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/theory'>Теоретические основы полета аппаратов тяжелее воздуха</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mozhajskij'>Первый реализованный проект, однако достоверных сведений о полете нет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/wrights'>Первый самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ilya_muromec'>Первый «тяжелый самолет»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/newport17'>Первый самолет с «зализанными» обводами</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ant-6'>Тяжелый бомбардировщик-моноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/messerschmitt'>Самый массовый истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/yak-1'>Самый легкий и маневренный истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/supermarine_spitfire'>Лучший истребитель битвы за Британию в 1940&nbsp;г.</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mosquito'>Цельнодеревянный скоростной бомбардировщик «Мечта термита»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mitsubishi_a6m_reisen'>Истребитель&nbsp;— символ японской авиации</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/il-2'>Тяжелый штурмовик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-15'>Фронтовой истребитель, один из первых серийных реактивных самолетов</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-86_sabre'>Многоцелевой истребитель, противник МиГ-15 в корейской войне</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-21'>Выдающийся сверхзвуковой истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/lockheed'>Высотный разведывательный самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_b-52'>Стратегический бомбардировщик с велосипедным шасси</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-144'>Сверхзвуковой пассажирский самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_747_jumbo'>«Реактивный слон»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-15_eagle'>Тактический истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/su-27'>Маневренный истребитель-перехватчик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-160'>Стратегический бомбардировщик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/an-124_ruslan'>Тяжелый военно-транспортный самолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/terms'>Основные параметры самолетов, указанные на плакате</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/literature'>Список литературы</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/light_version'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/gravity'>Гравитация</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/gravity/1'>Парабола или прямая?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/2'>Все дома стоят криво</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/3'>Из Москвы в&nbsp;Питер за&nbsp;полчаса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/4'>На Луну в комфортных условиях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/5'>Скоростной спутник Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/6'>Перевернутый небоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/7'>Супернебоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/8'>Запуск спутника без затрат энергии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/9'>Раскрутим Землю</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/perpetuum'>Вечный двигатель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/first'>Вечный двигатель первого рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/second'>Вечный двигатель второго рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/third'>Вечный двигатель «третьего рода»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/1'>Колесо и&nbsp;шары</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/2'>Цепочка шаров</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/3'>«Птичка Хоттабыча»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/4'>Цепочка поплавков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/5'>Архимедов винт</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/6'>Машина Орфиреуса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/7'>Магнит и желоба</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/8'>«Вечный водопровод»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/9'>Автоматический подзавод часов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/10'>Подъем масла по&nbsp;фитилям</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/11'>Колесо и&nbsp;грузы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/12'>Установка Потапова</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/13'>Луна и планеты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/spectrum'>Электромагнитное излучение</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/spectrum/nature'>Природа электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/wave'>Частота и длина волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/history'>История открытия электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/union'>Великое объединение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/energy'>Энергия кванта</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/temperature'>Температура излучения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/diapasons'>Диапазоны излучения и вещество</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/about'>Что изображено на плакате</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/units'>Соотношения и единицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/gamma'>Гамма-излучение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/roentgen'>Рентген</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/ultraviolet'>Ультрафиолет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/visible'>Видимый диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/infrared'>Инфракрасный диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/radio'>Радиоизлучение и микроволны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/other'>За пределами спектра</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/human'>Возможности человека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/human/muscular'>Сила</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/mind'>Мышление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/science'>Наука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/evolution'>Эволюционный принцип</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/factor'>Человеческий фактор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/weight'>Поднятие тяжестей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/flight'>Полет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/walk'>Бег</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/swim'>Плавание</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/trefil'>200 законов мироздания</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/trefil/introduction'><i>Введение</i></a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/physics'>Физика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/astronomy'>Астрономия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/maths'>Математика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/chemistry'>Химия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biology'>Науки о жизни</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/geo'>Науки о Земле</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/misc'>Разное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/rvm'>Взгляд в прошлое</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biography'><i>Биографии</i></a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/genbio'>Журнал общей биологии</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/genbio/english'>In English</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/genbio/english/all'>All Issues</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/genbio/abstracts'>All Abstracts</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/genbio/last'>Свежий выпуск</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/all'>Все выпуски</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/resume'>Статьи</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/synopsis'>Синопсисы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about'>О журнале</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about/rules'>Авторам</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/law'>Наука, образование и право</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/law/organ.htm'>Федеральные органы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/program.htm'>Федеральные программы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/intellectual.htm'>Интеллектуальная собственность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/law/intellectual/international.htm'>Международное законодательство</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/russian.htm'>Законодательство РФ </a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/patent.htm'>Патентование</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/contact.htm'>Сделки и договоры</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/payment.htm'>Вознаграждение</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/law/degree.htm'>Ученые степени</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nostr.htm'>Нострификация</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/vuz.htm'>Образование, вузы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nii.htm'>Научные организации</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/prize.htm'>Премии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/grant.htm'>Гранты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/work.htm'>Трудовое законодательство </a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/kodex.htm'>Конституция и кодексы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/other.htm'>Другие нормативные акты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/all_laws.htm'>Все нормативные акты</a>
+  </div></li>
+
+  </li></ul></ul>
+       <script type='text/javascript'>
+            document.write('<hr'+(!desktop_mode?"  class='hide_main'":"")+'>');
+            document.write('<div class="oldlink hide_main"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div>');
+            if (desktop_mode )
+               document.write('<div class="chmod mob hide_main"><a href="/" onclick="return setDesktopMode(false)">Мобильная версия сайта</a></div>');
+            else
+               document.write('<div class="chmod dsk hide_main"><a href="/" onclick="return setDesktopMode(true)">Полная версия сайта</a></div>');
+       </script>
+       <hr>
+       <ul class='img'>
+        <li class='first'><a class='facebook' href='https://www.facebook.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'></a></li>
+        <li><a class='instagram' href='https://www.instagram.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'></a></li>
+        <li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'></a></li>
+        <li><a class='rss' href='/rss/news' target='_blank'></a></li>
+       </ul>
+      </div>
+     </div>
+</div>
+
+<div class='print_logo hide_screen'><script type='text/javascript'>document.write("<img src='/images/eltnewdesign/logo_wpr.png'>");</script></div>
+
+<div class='hhead' id='pghead'>
+  <div class='hmenu'>
+    <div class='lmenu' id='hmainmenu'>
+      <a href='/' class='item' onclick='return toggleHMenu("mmenubody")'><span class='icon menu'></span><span class='hint'>Меню</span></a>
+    </div>
+    <div class='rmenu' id='rmenu'>
+       <a href='/' class='item' onclick='return toggleHMenu(this, true)'><span class='icon search'></span><span class='hint'>Поиск</span></a>
+       <a href='/' class='close' onclick='return toggleHMenu(this)'><span class='icon close2'></span><span class='hint'>Закрыть</span></a>
+       <div class='menuarea'>
+         <div class='menusearch xform'> 
+         <form action="find">
+             <input type="text" class="search" name="words" value="" placeholder="Поиск">
+             <input type="image" name="search" src="images/eltnewdesign/search_b.png">
+         </form>
+         </div> 
+       </div>
+    </div>
+    <div class='logo'><a href="/" onclick='return checkHMScroll()'><span>&nbsp;</span></a></div>
+  </div>  
+</div>
+
+
+<div class='body'  id='pgbody'>
+
+  
+   <div class='mblock chead'>
+     
+     
+<div class='rubpath'><span class='first last'><a href='/novosti_nauki'>Новости науки</a></span> </div>
+
+</div>
+   
+  
+
+   
+       <div class='mblock nogap'>
+<div class='mb itemhead newslist'><h1>Японский мозазавр мегаптеригий обладал огромными задними ластами и спинным плавником</h1>
+<div class="sublink"><span class="date">12.01.2024</span>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/5272117/Anna_Novikovskaya">Анна Новиковская</a>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/162677/Paleontologiya">Палеонтология</a>&nbsp;<span class='break'>•</span> <a href="/novosti_nauki/434181#forum" onclick="forum_goto(); return false;">6&nbsp;комментариев</a></div></div>
+</div>
+
+<div class='mblock'>
+
+<div class='socnetblock'><script src="/downloads/js/snfly.js?v=1.04"></script>
+<div  id="socnets_share">
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter=""></div>
+<div id='forum_topsocnet_button' style='display:none' title='Написать комментарий'><span class='fmicon'></span><div class='counter' id='forum_topsocnet_count'></div></div>
+</div>
+</div>
+
+<div class='itemblock'><div class='memo'>
+    <!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/new_derived_mosasaurine_from_japan_1_1400.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/new_derived_mosasaurine_from_japan_1_1400.jpg','Новый вид мозазавров Megapterygius wakayamaensis')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/new_derived_mosasaurine_from_japan_1_703.jpg" alt="Новый вид мозазавров Megapterygius wakayamaensis" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p>Новый вид мозазавров <i><a href="https://en.wikipedia.org/wiki/Megapterygius" target=_blank>Megapterygius wakayamaensis</a></i>, найденный в Японии, сравнительно невелик — от носа до хвоста в нем около шести метров, — но отличается необычным строением ласт. На этой реконструкции показаны найденные кости и предполагаемый внешний вид <i>M. wakayamaensis</i>. Обратите внимание на необычайно крупные ласты — особенно задние. Рисунок с сайта <a href="https://www.sci.news/paleontology/megapterygius-wakayamaensis-12526.html" target=_blank>sci.news</a></p></div>
+
+
+</div>
+
+    <p><b>В 2006 году на юго-западе Японии в&nbsp;префектуре Вакаяма был найден один из самых полных скелетов мозазавров из когда-либо обнаруженных в&nbsp;северо-западной части Тихого океана. Этот шестиметровый ископаемый хищник, получивший название <i>Megapterygius wakayamaensis</i>, имел ряд необычных особенностей: его ласты были невероятно большими, причем задние оказались даже крупнее передних, а на спине, вероятно, располагался спинной плавник, как у&nbsp;китов и ихтиозавров. Предположив, что у&nbsp;этого мозазавра, как и у&nbsp;его сородичей, был мощный хвостовой плавник, служивший главным движителем при плавании, ученые сделали вывод, что мегаптеригий отличался весьма необычным способом передвижения, сочетавшим горизонтальные S-образные движения позвоночника и&nbsp;хвоста с&nbsp;активным использованием гипертрофированных ласт.</b></p>
+
+<p>В позднем меловом периоде, после почти полного исчезновения <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B8%D0%BE%D0%B7%D0%B0%D0%B2%D1%80%D1%8B" target=_blank>плиозавров</a> в&nbsp;ходе так называемого <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE-%D1%82%D1%83%D1%80%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%B1%D0%B8%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B5" target=_blank>сеномано-туронского вымирания</a> около 90&nbsp;миллионов лет назад (см.&nbsp;<a href="/novosti_nauki/433620/Naydennyy_na_beregu_Volgi_pozvonok_udlinil_vremya_sushchestvovaniya_gigantskikh_pliozavrov" target=_blank>Найденный на берегу Волги позвонок удлинил время существования гигантских плиозавров</a>, «Элементы», 16.03.2020), ниша морских хищников, специализирующихся на крупной добыче, резко опустела. Уцелевшие <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B5%D0%B7%D0%B8%D0%BE%D0%B7%D0%B0%D0%B2%D1%80%D1%8B" target=_blank>плезиозавры</a> были в&nbsp;основном специалистами по ловле мелкой рыбы и&nbsp;моллюсков: их небольшие черепа плохо годились для того, чтобы рвать акул и&nbsp;другую крупную добычу (хотя именно тогда возникли короткошеие <a href="https://ru.wikipedia.org/wiki/Polycotylidae" target=_blank>поликотилиды</a>, снабженные внушительными черепами; см.&nbsp;<a href="/kartinka_dnya/461/Morskie_reptilii_polikotilidy" target=_blank>Морские рептилии поликотилиды</a>).</p>
+
+<p>Однако свято место пусто не бывает, и на смену вымершим плиозаврам пришли новые морские хищники&nbsp;— <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B7%D0%B0%D0%B7%D0%B0%D0%B2%D1%80%D1%8B" target=_blank>мозазавры</a> (Mosasauria), представители современного отряда <a href="https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%88%D1%83%D0%B9%D1%87%D0%B0%D1%82%D1%8B%D0%B5" target=_blank>чешуйчатых</a> (Squamata), куда входят ящерицы и змеи&nbsp;— хотя ученые до сих пор спорят, к&nbsp;кому мозазавры ближе, к&nbsp;варанам или к&nbsp;питонам (J.&nbsp;Wiens et&nbsp;al., 2010. <a href="https://academic.oup.com/sysbio/article/59/6/674/1710706" target=_blank>Combining Phylogenomics and Fossils in Higher-Level Squamate Reptile Phylogeny: Molecular Data Change the Placement of Fossil Taxa</a>; R.&nbsp;A.&nbsp;Pyron, 2016. <a href="https://academic.oup.com/sysbio/article/66/1/38/2670090" target=_blank>Novel Approaches for Phylogenetic Inference from Morphological Data and Total-Evidence Dating in Squamate Reptiles (Lizards, Snakes, and Amphisbaenians)</a>). Впервые эти впечатляющие ящеры стали известны человечеству еще в&nbsp;1764&nbsp;году, когда в&nbsp;Нидерландах, неподалеку от города <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B0%D1%81%D1%82%D1%80%D0%B8%D1%85%D1%82" target=_blank>Маастрихт</a>, обнаружили челюсти <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B7%D0%B0%D0%B7%D0%B0%D0%B2%D1%80_%D0%93%D0%BE%D1%84%D1%84%D0%BC%D0%B0%D0%BD%D0%B0" target=_blank>мозазавра Гоффмана</a> (<i>Mosasaurus hoffmannii</i>)&nbsp;— впечатляющего морского ящера, длина которого могла достигать 15–17&nbsp;метров! Его родовое название, означающее «ящер с&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B0%D1%81" target=_blank>Мааса</a>» (латинское название этой реки&nbsp;— Mosa), в&nbsp;дальнейшем стало обозначать всех представителей группы. Впрочем, большая часть мозазавров была куда более скромных габаритов: в&nbsp;основном они вырастали не больше 6&nbsp;метров в&nbsp;длину, то&nbsp;есть были не крупнее современной <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%8F_%D0%B0%D0%BA%D1%83%D0%BB%D0%B0" target=_blank>белой акулы</a> (<i>Carcharodon carcharias</i>).</p>
+
+<p>За время, прошедшее с&nbsp;XVIII&nbsp;века, понимание людьми внешнего облика мозазавров существенно изменилось: если долгое время их представляли как <a href="https://commons.wikimedia.org/wiki/File:Mosasaurus_ichthyosaurus.jpg" target=_blank>«морских змеев»</a>, обладавших гибким телом и&nbsp;плававших, извиваясь в&nbsp;воде, то сегодня известно, что хвостовые плавники продвинутых мозазавров были <a href="https://ru.wikipedia.org/wiki/%D0%A5%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BB%D0%B0%D0%B2%D0%BD%D0%B8%D0%BA" target=_blank>гипоцеркальными</a> (то&nbsp;есть ассиметричными, с&nbsp;перекосом в&nbsp;нижнюю лопасть, в&nbsp;состав которой входил позвоночник животного) и&nbsp;строением напоминали плавники других морских рептилий&nbsp;— <a href="https://ru.wikipedia.org/wiki/%D0%98%D1%85%D1%82%D0%B8%D0%BE%D0%B7%D0%B0%D0%B2%D1%80%D1%8B" target=_blank>ихтиозавров</a> (см.&nbsp;J.&nbsp;Lindgren et&nbsp;al., 2010. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0011998" target=_blank>Convergent Evolution in Aquatic Tetrapods: Insights from an Exceptional Fossil Mosasaur</a>). Как и у&nbsp;рыб, хвостовые плавники мозазавров были вертикальными, и&nbsp;при движении хвост изгибался вправо-влево, в&nbsp;отличие от горизонтального плавника и хвоста современных китов&nbsp;— у&nbsp;них он изгибается вверх-вниз.</p>
+
+<p>Помимо хвоста у&nbsp;мозазавров были все четыре конечности, доставшиеся им от наземных предков и преобразованные в&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%81%D1%82_(%D0%B0%D0%BD%D0%B0%D1%82%D0%BE%D0%BC%D0%B8%D1%8F)" target=_blank>ласты</a>, как у&nbsp;современных морских черепах (у&nbsp;китов сохранилась только передняя пара конечностей, а&nbsp;от задних остались лишь крохотные тазовые кости, скрытые в&nbsp;теле). Преобразование ног в&nbsp;ласты&nbsp;— обычная «практика» для вторичноводных животных, повторно заселивших океаны, хотя у&nbsp;разных видов функции ласт могут заметно отличаться: например, у&nbsp;морских черепах ласты&nbsp;— главный движитель, толкающий тело вперед, а&nbsp;китам конечности нужны для стабилизации тела при плавании (чтобы тело не переворачивалось) и&nbsp;маневрирования.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/new_derived_mosasaurine_from_japan_2_2000.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/new_derived_mosasaurine_from_japan_2_2000.jpg','Среди мозазавров были как сравнительно некрупные, так и гигантские виды, достигавшие более 15 метров в длину')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/new_derived_mosasaurine_from_japan_2_703.jpg" alt="Среди мозазавров были как сравнительно некрупные, так и гигантские виды, достигавшие более 15 метров в длину" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p>Среди мозазавров были как сравнительно некрупные, так и гигантские виды, достигавшие более 15&nbsp;метров в&nbsp;длину (здесь длина указана в&nbsp;футах, 1&nbsp;фут&nbsp;≈&nbsp;30&nbsp;см). Рисунок&nbsp;&copy; EmilyStepp с&nbsp;сайта <a href="https://www.deviantart.com/emilystepp/art/Epoch-Mosasaurs-932215484" target=_blank>deviantart.com</a></p></div>
+
+
+</div>
+
+<p>Мозазавры оказались весьма успешной группой. Во второй половине мелового периода они были распространены по всему Мировому океану: их остатки сегодня находят на всех континентах, включая Антарктиду. Однако в&nbsp;разных точках земного шара шансы обнаружить окаменелости мозазавров заметно отличаются: если на территории США и Канады <a href="https://siris-libraries.si.edu/ipac20/ipac.jsp?uri=full=3100001~!373383!0" target=_blank>были найдены</a> тысячи экземпляров мозазавров, некоторые&nbsp;— в&nbsp;весьма хорошем состоянии (например, «Брюс», 13-метровый <a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BB%D0%BE%D0%B7%D0%B0%D0%B2%D1%80%D1%8B" target=_blank>тилозавр</a>, <a href="https://www.guinnessworldrecords.com/world-records/118041-largest-mosasaur-on-display" target=_blank>занесенный</a> в&nbsp;Книгу рекордов Гиннеса, сохранился примерно на 65–70%), то в&nbsp;других регионах нередко находили лишь единичные скелеты очень плохой сохранности. В&nbsp;теплом Русском море тоже плавали мозазавры, однако практически всё, что сохранилось от них до наших дней,&nbsp;— это зубы и&nbsp;редкие обломки костей (см.&nbsp;картинку дня <a href="/kartinka_dnya/348/Mozazavry_Povolzhya" target=_blank>Мозазавры Поволжья</a>). Аналогичная ситуация наблюдалась и в&nbsp;Японии: хотя в&nbsp;этой стране нашли около 40&nbsp;экземпляров мозазавров, большая их часть сохранилась плохо (T.&nbsp;Sato et&nbsp;al., 2010. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0195667112000481" target=_blank>A&nbsp;review of the Upper Cretaceous marine reptiles from Japan</a>).</p>
+
+<p>Ученые полагают, что мозазавры, как и рыбы, создавали тягу в&nbsp;воде за&nbsp;счет горизонтальных S-образных движений хвоста, тогда как грудные и брюшные ласты отвечали за стабилизацию тела и&nbsp;маневрирование (M.&nbsp;DeBlois, R.&nbsp;Motani, 2019. <a href="https://onlinelibrary.wiley.com/doi/10.1002/jmor.20992" target=_blank>Flipper bone distribution reveals flexible trailing edge in underwater flying marine tetrapods</a>). Этим мозазавры отличались от своих современников плезиозавров, у&nbsp;которых главными движителями <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2451.2008.00659.x" target=_blank>служили</a> как раз ласты (хвост у&nbsp;плезиозавров был слишком короткий, чтобы выполнять роль эффективного движителя для морского хищника). У&nbsp;мозазавров же ласты в&nbsp;среднем были пропорционально меньше, чем у&nbsp;плезиозавров. Для некоторых родов мозазавров, таких как <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B8%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%BA%D0%B0%D1%80%D0%BF%D1%83%D1%81" target=_blank>плиоплатекарпы</a> (<i>Plioplatecarpus</i>), предполагалось сочетание гребли хвостом и «подводного полета» с&nbsp;помощью ласт (аналогично тому, как гребут пингвины, см.&nbsp;R.&nbsp;Holmes et&nbsp;al., 1999. <a href="https://cdnsciencepub.com/doi/10.1139/e98-112" target=_blank>A&nbsp;new specimen of <i>Plioplatecarpus</i> (Mosasauridae) from the lower Maastrichtian of Alberta: comments on allometry, functional morphology, and paleoecology</a>). Впрочем, пояса передних конечностей этих мозазавров сохранились недостаточно хорошо, чтобы можно было делать надежные выводы.</p>
+
+<p>Тем интереснее выглядит описание нового вида и рода мозазавров, жившего 72&nbsp;миллиона лет назад на территории современной Японии, которая в&nbsp;позднем меловом периоде была лишь частью морского дна у&nbsp;восточных берегов Азии. В&nbsp;2006&nbsp;году палеонтолог Акихиро Мисаки (<a href="https://www.researchgate.net/scientific-contributions/Akihiro-Misaki-2021111036" target=_blank>Akihiro Misaki</a>) из Токийского университета обнаружил позвонок мозазавра в&nbsp;обнажениях формации Тоядзё (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0195667109000913" target=_blank>Toyajo Formation</a>) в&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BA%D0%B0%D1%8F%D0%BC%D0%B0_(%D0%BF%D1%80%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" target=_blank>префектуре Вакаяма</a>. В&nbsp;ходе следующих экспедиций 2006-го и 2010–2011&nbsp;годов удалось обнаружить почти полный скелет: частично сохранившийся череп, больше 40&nbsp;позвонков, ребра, оба передних и левый задний ласт. Новый вид получил название <i><a href="https://en.wikipedia.org/wiki/Megapterygius" target=_blank>Megapterygius wakayamaensis</a></i> (от греч. <i>μέγας</i> ‘большой’ и  <i>πτερύγιο</i> ‘крылышко; плавник, ласт’), то&nbsp;есть «вакаямский большеласт», а на родине его уже прозвали «синим драконом из Вакаямы» (和歌山滄竜; «синими <a href="https://ru.wikipedia.org/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD" target=_blank>драконами</a>», или «сорю», в&nbsp;Японии называют мозазавров).</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/new_derived_mosasaurine_from_japan_3_1280.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/new_derived_mosasaurine_from_japan_3_1280.jpg','Скелетные остатки Megapterygius wakayamaensis')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/new_derived_mosasaurine_from_japan_3_703.jpg" alt="Скелетные остатки Megapterygius wakayamaensis" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p>Скелетные остатки <i>Megapterygius wakayamaensis</i>, образецWMNH-Ge-1140240002: ради удобства не показана половина ребер, а задний ласт и тазовые кости перевернуты для лучшего обзора. На вставке показаны сохранившиеся хвостовые позвонки. <i>Черная стрелка</i> указывает на <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%B7%D0%B4%D0%BE%D1%88%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D1%82%D1%8C" target=_blank>подвздошную кость</a>, которая у&nbsp;мозазавра четко отделена от крестцовых позвонков (то&nbsp;есть таз не связан с&nbsp;позвоночником). Обратите внимание на высокий нервный отросток второго спинного позвонка (отмечен <i>звездочкой</i>) и наклоненные вперед отростки спинных позвонков перед d21 (<i>две звездочки</i>). <i>Длина масштабного отрезка</i>&nbsp;&mdash; 100&nbsp;см. Рисунок из обсуждаемой статьи в&nbsp;<i>Journal of Systematic Palaeontology</i></p></div>
+
+
+</div>
+
+<p>Мегаптеригий&nbsp;— мозазавр среднего размера: длина его черепа оценивается в&nbsp;80&nbsp;сантиметров, общая длина тела с&nbsp;хвостом&nbsp;— около 6&nbsp;метров. При этом обе пары ласт животного длиннее его головы, а&nbsp;задние ласты длиннее передних (длина задних ласт больше 90&nbsp;см, длина передних&nbsp;— 88&nbsp;см). Такой «перекос» (когда задние ласты длиннее передних) <a href="https://www.jstor.org/stable/j.ctvxkn75d" target=_blank>отмечался</a> у&nbsp;некоторых мозазавров и раньше, но объяснения ему тогда не нашли. У&nbsp;современных китообразных, таких как <a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B8%D0%BD%D0%B4%D0%B0" target=_blank>обыкновенная гринда</a> (<i>Globicephala melas</i>; кстати, в&nbsp;длину она примерно такого же размера, как и этот мозазавр) и <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B1%D0%B0%D1%82%D1%8B%D0%B9_%D0%BA%D0%B8%D1%82" target=_blank>горбатый кит</a> (<i>Megaptera novaeangliae</i>), грудные ласты тоже длиннее черепа. Однако сравнивать эти виды между собой нужно аккуратно, ведь киты определенно являются осевыми пловцами, то&nbsp;есть движутся в&nbsp;воде за счет движений хвоста, тогда как в&nbsp;отношении мегаптеригия, с&nbsp;его мощными задними ластами, все далеко не так очевидно. Продвинутые мозазавры (к&nbsp;ним относится мегаптеригий) тоже считаются осевыми пловцами (J.&nbsp;Lindgren et&nbsp;al., 2010. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0011998" target=_blank>Convergent Evolution in Aquatic Tetrapods: Insights from an Exceptional Fossil Mosasaur</a>), ведь у&nbsp;большинства из них ласты сравнительно невелики и не могут выполнять функцию главного движителя. Однако громадные ласты мегаптеригия наводят на мысль, что в&nbsp;его стиле плавания конечностям отводилась большая роль.</p>
+
+<p>Какая именно? Чтобы прояснить этот вопрос, авторы за неимением лучших вариантов решили положиться на анатомию современных китообразных (хоть они и плавают в&nbsp;своей собственной, «млекопитающей» манере), у&nbsp;которых чем длиннее ласты и больше их площадь относительно размеров тела, тем лучше маневренность. Также некоторые ученые предполагают, что крупные ласты у&nbsp;мозазавров могли выполнять ту же роль, что и <a href="https://www.fisheries.noaa.gov/feature-story/fun-facts-about-atlantic-tunas" target=_blank>длинные брюшные плавники</a> у&nbsp;современных <a href="https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D1%86%D1%8B" target=_blank>тунцов</a>: расставив их в&nbsp;стороны, рыбы «скользят» сквозь воду, экономя энергию, и могут с&nbsp;меньшими усилиями преодолевать значительные дистанции (J.&nbsp;Lindgren et&nbsp;al., 2007. <a href="https://www.idunn.no/doi/10.1111/j.1502-3931.2007.00009.x" target=_blank>A&nbsp;fishy mosasaur: the axial skeleton of <i>Plotosaurus</i> (Reptilia, Squamata) reassessed</a>). Однако у&nbsp;мегаптеригия не одна, а две пары длинных ласт, и в&nbsp;случае плавания за счет движений хвоста они могли замедлять движение животного, увеличивая встречное сопротивление воды (B.&nbsp;Woodward et&nbsp;al., 2006. <a href="https://onlinelibrary.wiley.com/doi/10.1002/jmor.10474" target=_blank>Morphological specializations of baleen whales associated with hydrodynamic performance and ecological niche</a>).</p>
+
+<p>Судя по форме суставов бедренной и плечевых костей, длинные ласты мегаптеригия отличались большей подвижностью, тогда как высокие нервные отростки позвонков указывают на относительно жесткий, малоподвижный позвоночник. Поскольку у&nbsp;всех продвинутых мозазавров основным движителем выступает хвост, авторы исследования сохранили за ним эту роль у&nbsp;мегаптеригия, но предположили, что, как и современные пингвины, длинные передние ласты животное использовало для резких и стремительных поворотов, а с&nbsp;помощью задних эффективно тормозило и всплывало/ныряло. К&nbsp;сожалению, хвост голотипа практически не сохранился, но если судить по анатомии других мозазавров, в&nbsp;том числе его близких родственников, то у&nbsp;мегаптеригия был мощный хвост с&nbsp;плавником в&nbsp;форме полумесяца. Поскольку для охоты на крупных жертв излишняя поворотливость обычно ни к&nbsp;чему, скорее всего, основной добычей этого мозазавра были рыба и некрупные головоногие моллюски. Это подтверждается тем, что рядом с&nbsp;местонахождением мегаптеригия <a href="https://www.jstage.jst.go.jp/article/agcjchikyukagaku/75/2/75_147/_article/-char/ja/" target=_blank>нашли</a> окаменелости <a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D1%8B_(%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BD%D0%BE%D0%B3%D0%B8%D0%B5)" target=_blank>аммонитов</a>, двустворчатых и брюхоногих моллюсков, а&nbsp;также множество акульих зубов, что может указывать на то, что погибшего мозазавра съели акулы (возможно, они-то и «избавили» его от хвоста и правого заднего ласта).</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/new_derived_mosasaurine_from_japan_4_1400.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/new_derived_mosasaurine_from_japan_4_1400.jpg','Реконструкция внешнего вида Megapterygius wakayamaensis')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/new_derived_mosasaurine_from_japan_4_703.jpg" alt="Реконструкция внешнего вида Megapterygius wakayamaensis" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p>Бугорчатые передние поверхности ласт, придающие сходство с&nbsp;горбатым китом,&nbsp;&mdash; домысел художника, но в&nbsp;остальном не исключено, что японский &laquo;большекрыл&raquo; выглядел именно так. Рисунок YakWadDinosao с&nbsp;сайта <a href="https://twitter.com/YakWadDinosao/status/1735321457033633899/photo/1" target=_blank>twitter.com</a></p></div>
+
+
+</div>
+
+<p>Также обращает на себя внимание строение некоторых спинных позвонков мегаптеригия, а именно резкое изменение направления по меньшей мере пяти нервных отростков в&nbsp;задней части спины. Если у&nbsp;предшествующих позвонков отростки «смотрят» назад, то у&nbsp;этих пяти ориентированы более вертикально или даже наклонены вперед. Хотя авторы не исключают возможности посмертной деформации позвоночника, они обращают внимание на необычное сходство строения спины мегаптеригия и спин современных китообразных&nbsp;— например, <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B2%D0%B8%D0%BD%D1%8C%D1%8F" target=_blank>обыкновенной морской свиньи</a> (<i>Phocoena phocoena</i>). У&nbsp;нынешних морских млекопитающих такое изменение направления отростков позвонков соответствует основанию спинного плавника и&nbsp;происходит позади центра тяжести животного&nbsp;— возможно, как и у&nbsp;мегаптеригия. Такая структура повышает устойчивость животного при плавании и маневрировании, и это первое свидетельство наличия такого плавника у&nbsp;мозазавров.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/new_derived_mosasaurine_from_japan_5_1300.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/new_derived_mosasaurine_from_japan_5_1300.jpg','Сравнение позвоночника морской свиньи и мегаптеригия')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/new_derived_mosasaurine_from_japan_5_703.jpg" alt="Сравнение позвоночника морской свиньи и мегаптеригия" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p>Сравнение позвоночника морской свиньи (<b>A</b>&ndash;<b>C</b>; <i>звездочками</i> на фото <b>B</b> и <b>C</b> обозначен один и тот же позвонок) и мегаптеригия (<b>D</b>). Возможно ли, что резкое изменение направления нервных позвонков мозазавра тоже связано с расположением над ними спинного плавника? Рисунок из обсуждаемой статьи в&nbsp;<i>Journal of Systematic Palaeontology</i></p></div>
+
+
+</div>
+
+<p>У вторичноводных позвоночных спинной плавник необходим для дополнительной стабилизации тела при быстром и маневренном плавании: он не дает киту или дельфину поворачиваться вокруг продольной оси, причем чем медленнее плавает животное, тем плавник меньше&nbsp;— сравните его относительные размеры у&nbsp;<a href="https://images.squarespace-cdn.com/content/v1/628e883b9acf651abab9c609/247e1d4f-9438-4c00-a9db-1ca93b2235f6/Male+v+Female+Orcas+Dorsal+Fins.png" target=_blank>косатки</a> и <a href="https://t3.ftcdn.net/jpg/02/67/23/00/360_F_267230044_yOkyl2TZPf3hVSSI1ZqBGnUyPtfK4pAs.jpg" target=_blank>синего кита</a>. К&nbsp;сожалению, только по искривлению отростков позвонков вряд ли удастся установить размер плавника или его форму, но можно предположить, что манера плавания мегаптеригия была энергичнее и маневреннее, чем у&nbsp;других мозазавров, на чьих позвоночниках не сохранилось следов наличия спинного плавника. К&nbsp;примеру, мегаптеригий мог быть обитателем прибрежных вод, изобилующих морскими скалами и рифами, или охотиться в&nbsp;основном на быстроплавающую добычу, которую нужно было еще успеть схватить.</p>
+
+<p>В довершение «экологического портрета» мегаптеригия надо сказать, что, судя по длинным, выступающим вбок скуловым отросткам, слегка разворачивающим глазницы вперед, у&nbsp;него могло быть бинокулярное зрение, что помогало ему точно оценивать расстояние до добычи. Это второй случай, когда у&nbsp;мозазавра обнаружили такую адаптацию: первым был фосфорозавр (<i><a href="https://en.wikipedia.org/wiki/Phosphorosaurus" target=_blank>Phosphorosaurus</a></i>), тоже найденный в&nbsp;Японии. У&nbsp;других мозазавров зрение было <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%BE%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D0%B5_%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" target=_blank>монокулярным</a>, как у&nbsp;большинства современных змей и ящериц.</p>
+
+
+<p class="small"><b>Источник:</b> T.&nbsp;Konishi, M.&nbsp;Ohara, A.&nbsp;Misaki, H.&nbsp;Matsuoka, H.&nbsp;P.&nbsp;Street, M.&nbsp;W.&nbsp;Caldwell. <a href="https://www.tandfonline.com/doi/full/10.1080/14772019.2023.2277921" target=_blank>A&nbsp;new derived mosasaurine (Squamata: Mosasaurinae) from south-western Japan reveals unexpected postcranial diversity among hydropedalmosasaurs</a>&nbsp;// <i>Journal of Systematic Palaeontology</i>. 2023. DOI:&nbsp;10.1080/14772019.2023.2277921.</p>
+
+<p><i>Анна Новиковская</i></p>
+
+
+    
+</div>
+
+<div class='cl'></div>
+<hr>
+<div class='toggle'>
+
+<div class='forum_topctrl '>
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter="" id="forum_socnets_share"></div><div class='forum_icon' onclick='toggleClick(this)' title='Комментарии'><span class='fmicon'></span><span class='fmcounter'>6</span></div>
+  
+     <div class='goto toggle_hide'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this)'><span class='hide_other'>Показать </span>комментарии (6)</span></div>
+     <div class='goto toggle_body'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this); socnetsFly();'><span class='hide_other'>Свернуть </span>комментарии <span class='hide_main'>(6)</span></span></div>
+  
+
+</div>
+
+<div class='forum toggle_body' id='forum_block'>
+<hr>
+<ul class="level0"><li class="level0" id='forum_node_5352145'>
+   <div class='fmnode'>
+   <a name='fm5352145'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>KAAB</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434181#fm5352145'>12.01.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>08:38
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>мегаптеригий отличался весьма необычным способом передвижения, сочетавшим горизонтальные S-образные движения позвоночника и хвоста с активным использованием гипертрофированных ласт</blockquote>В-общем говоря, пловец из него получается никудышный )<br>Огромные задние ласты мешали горизонтальным движениям, а вертикальный хвост - вертикальным.<blockquote>чем медленнее плавает животное, тем плавник меньше — сравните его относительные размеры у косатки и синего кита</blockquote>Киты, в основном, заныривают на глубину или выныривают оттуда с раскрытой пастью, косатки же охотятся вблизи поверхности воды. Китам большая маневренность в горизонтальной плоскости не нужна, поэтому спинной плавник у них небольшой. Для активной охоты у поверхности нужна скорее маневренность, чем стабилизация. Скорее всего, именно поэтому косаткам нужен большой спинной плавник.<br><br>А вот акулам большой спинной плавник нужен - как киль для яхты - чтобы развивать большую скорость. Ну и для маневренности тоже.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level0 parent" id='forum_node_5352147'>
+   <div class='fmnode'>
+   <a name='fm5352147'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Аннаэйра</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434181#fm5352147'>12.01.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>09:35
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Для активной охоты у поверхности нужна скорее маневренность, чем стабилизация. Скорее всего, именно поэтому у касаткам нужен большой спинной плавник.</blockquote>Так спинной плавник маневренность не повысит, он более-менее неподвижный. Для маневрирования у косаток есть грудные плавники. А вот высокий спинной как раз не дает при резком повороте &quot;завалиться&quot; на бок.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5352150'>
+   <div class='fmnode'>
+   <a name='fm5352150'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>KAAB</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Аннаэйра</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434181#fm5352150'>12.01.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>11:13
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Ну, так, заваливаться набок при резких поворотах им и не надо. ) В этом и заключается маневренность - не заваливаться на поворотах.<br>Ускоряются же косатки за счет вертикальных нырков, и заваливаться на бок от этого не должны. Тем более, что имеются боковые &quot;рули-стабилизаторы&quot;. А вот акулы могут, если ускоряться без спинного плавника.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2 parent" id='forum_node_5352180'>
+   <div class='fmnode'>
+   <a name='fm5352180'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Аннаэйра</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>KAAB</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434181#fm5352180'>13.01.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>07:02
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Ну, так, заваливаться набок при резких поворотах им и не надо. ) В этом и заключается маневренность - не заваливаться на поворотах.</blockquote>Это называется стабильность. :D Маневренность - это способность совершать резкие повороты, стабильность - способность при этом сохранять привычное положение тела. Но это уже вопрос терминологии.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3" id='forum_node_5352181'>
+   <div class='fmnode'>
+   <a name='fm5352181'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>KAAB</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Аннаэйра</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434181#fm5352181'>13.01.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>08:47
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Ok.) Хотя Вы делали акцент на скорости, а я на маневренности. ;)<br>Горизонтальные плавники косатки вполне справляются со стабилизацией. А резко поворачивать вправо-влево косатке помогает именно большой спинной плавник за счёт небольшого поворота головы и соответствующего изгиба тела, придающего этому плавнику небольшой угол от направления прямолинейного движения. Ещё более крутой поворот косатка может совершить за счёт заваливания направо или налево, прям, как самолёт. Тогда уже ей помогают хвост и горизонтальные плавники.<blockquote>чем медленнее плавает животное, тем плавник меньше — сравните его относительные размеры у косатки и синего кита</blockquote>Оказывается, синий кит может развивать скорость до 48км/ч, а косатки до 55км/ч - разница не так уж и велика.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul>
+   </li></ul><li class="level0" id='forum_node_5352153'>
+   <div class='fmnode'>
+   <a name='fm5352153'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>protopop</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434181#fm5352153'>12.01.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>14:52
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Зверушка с полным приводом.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+</ul>
+<div class='fmctrl fl' id='forum_btm_btn'>Написать комментарий</div>
+
+
+<div class='cl'></div>
+</div>
+</div>
+
+<div class='forumctrls' style='display:none'>
+
+<div id='forum_edit_block'>
+<form action="/novosti_nauki/434181?ipcountry=NL" method=post onsubmit="return forum_checkMsgForm(this)">
+
+<input type='hidden' name='msgedit' id='forum_msg_id'>
+<div class='xform'>
+	<textarea id='forum_edit_textarea' name=memo placeholder="Комментарий"></textarea>
+	
+	<input type='submit' value='Сохранить' name='accept'> <input type=submit name=delete onclick='return confirm("Удалить сообщение?");' value="Удалить">
+        <div class='gap'></div>
+</div>
+</form>
+</div>
+
+<div id='forum_input_block' class='fmnode toggle'>
+
+        <div class='fmhead'><span class="nodepoint"></span>Вход в систему</div>
+	<div class='xform beige'>
+        <div class='smallform'>
+        
+		<form action="/novosti_nauki/434181?ipcountry=NL" method=post>
+                
+                <input type='hidden' name='answerto' id='forum_prev_id'>
+		<input type=text name=LOGIN  value="" maxlength=50 placeholder='Имя' id='forum_login'></td>
+		<input type=password name="PASSWD" value="" maxlength=50 placeholder='Пароль'></td></tr>
+                <div class="label fl"><span class="xcheckbox"><input id='rpw_chk' type="checkbox" name=PERSIST onclick="resetXCheck(this)"></span> <label for='rpw_chk'>запомнить пароль</label></div>
+                <input type="submit" class='right' name="accept_auth" value="   ok   ">
+                <div class='cl'></div>
+		</form>
+        <div class='goto fl'><a href="/reguser">Зарегистрироваться</a></div>
+        <div class='goto fr'><a href="/restore_password">Забыли пароль?</a></div><div class='cl'></div>
+	</div>
+        </div>
+        <div class='gap'></div>
+
+</div>
+
+</div>
+
+<script type='text/javascript'>
+var forum_user ="";
+var forum_mode = "simple";
+var forum_answerto = ""; 
+var forum_msgcnt = "6"; 
+
+
+var topbtn = document.getElementById('forum_topsocnet_button');
+if (topbtn) topbtn.style.display='';
+</script>
+<script type='text/javascript' src='/downloads/js/forum.js?v=1.10' charset="utf-8"></script>
+</div>
+
+<div class='crblock'>
+
+<div class='storyline important'>
+
+</div>
+
+
+
+     <h2><a href="/novosti_nauki">Последние новости</a></h2>
+     <hr class='nogap'>
+
+
+    <a href="/novosti_nauki/434407/Kukolki_zarazhennye_opasnym_parazitom_posylayut_rabochim_muravyam_signal_ubey_menya" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/altruistic-disease-signalling-in-ant-colonies_logo_200.jpg" alt="Рабочие муравьи Lasius neglectus проводят «разрушающую дезинфекцию»"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Куколки, зараженные опасным паразитом, посылают рабочим муравьям сигнал «убей меня»</div>
+    <div class="sublink"><span class="date">12.02</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434406/U_pervykh_pozvonochnykh_bylo_dve_pary_glaz" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/myllokunmingia_200.jpg" alt="У первых позвоночных было две пары глаз"></div>
+    
+    <div class='ib_text'>
+    <div class="title">У первых позвоночных было две пары глаз</div>
+    <div class="sublink"><span class="date">09.02</span>&nbsp;<span class='break'
+>•</span> Сергей Ястребов</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434405/Infrakrasnoe_izluchenie_drevneyshiy_signal_dlya_privlecheniya_opyliteley" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/infrared-radiation-is-an-ancient-pollination-signal_1_200.jpg" alt="Открытая шишка саговникового растения. (B) Тепловизионное изображение мужской шишки саговника в&nbsp;момент нагревания во&nbsp;время выброса пыльцы"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Инфракрасное излучение&nbsp;— древнейший сигнал для привлечения опылителей</div>
+    <div class="sublink"><span class="date">04.02</span>&nbsp;<span class='break'
+>•</span> Елена Устинова</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434404/Dazhe_krupnye_mozazavry_mogli_zhit_v_rekakh" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/260118_novikovskaya_mosasaurus_200.jpg" alt="Некоторые виды мозазавров могли быть пресноводными"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Даже крупные мозазавры могли жить в реках</div>
+    <div class="sublink"><span class="date">19.01</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+<div class='goto'><a href="/novosti_nauki">Все новости</a></div>
+<div class='gap2'></div>
+
+
+<!-- Здесь был блок картинки дня: KLBLOCK id="eltdpicture" page_size="1" template="dpicture_R_v2" page="" calendar="" features="v2" dpicture_title="Картинка дня" dpicture_th_title="*" gotoxrub="19"/ -->
+
+<div class='important'>
+
+
+<hr class='hide_main hide_hpad'><div class='gap hide_main hide_hpad'></div>
+<div class='rxblock eltnews'>
+<h2>См. также</h2><hr class='nogap'>
+
+
+
+<a class="nohover" href="/novosti_nauki/433620/Naydennyy_na_beregu_Volgi_pozvonok_udlinil_vremya_sushchestvovaniya_gigantskikh_pliozavrov?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/gigantic_pliosaurid_from_volga_region_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Найденный на берегу Волги позвонок удлинил время существования гигантских плиозавров</div>
+    
+    <div class="sublink"><span class="date">16.03.2020</span>&nbsp;<span class='break'>•</span> Антон Нелихов&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltdpicture'>
+
+
+
+
+<a class="nohover" href="/kartinka_dnya/461/Morskie_reptilii_polikotilidy?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/kartinka_dnya/picture_of_the_day_georgiasaurus_penzensis_1_570.jpg" alt=""></div>
+    
+    <div class="title">Морские рептилии поликотилиды</div>
+    
+    <div class="sublink"><span class="date">27.11.2017</span>&nbsp;<span class='break'>•</span> Антон Нелихов&nbsp;<span class='break'>•</span> Картинки дня</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltdpicture'>
+
+
+
+
+<a class="nohover" href="/kartinka_dnya/348/Mozazavry_Povolzhya?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/kartinka_dnya/picture_of_the_day_mosasaurus_1_570.jpg" alt=""></div>
+    
+    <div class="title">Мозазавры Поволжья</div>
+    
+    <div class="sublink"><span class="date">27.06.2017</span>&nbsp;<span class='break'>•</span> Антон Нелихов&nbsp;<span class='break'>•</span> Картинки дня</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/434105/Zuby_mozazavra_Stelladens_mysteriosus_napominali_krestovuyu_otvertku?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/stelladens_mysteriosus_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Зубы мозазавра <i>Stelladens mysteriosus</i> напоминали крестовую отвертку</div>
+    
+    <div class="sublink"><span class="date">25.05.2023</span>&nbsp;<span class='break'>•</span> Анна Новиковская&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltpub'>
+
+
+
+
+<a class="nohover" href="/nauchno-populyarnaya_biblioteka/434270/Gigantskaya_morskaya_yashcheritsa_so_sklona_Zolotogo_khrebta_na_Chukotke?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/eltpub/gigantskaya_morskaya_yasheritsa_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Гигантская морская ящерица со&nbsp;склона Золотого хребта на&nbsp;Чукотке</div>
+    
+    <div class="sublink">Владимир Алифанов<span class="comma">,</span> Александр Грабовский&nbsp;<span class='break'>•</span> Библиотека&nbsp;<span class='break'>•</span> «Природа» №1, 2017</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltdpicture'>
+
+
+
+
+<a class="nohover" href="/kartinka_dnya/451/Morskie_cherepakhi_melovogo_perioda?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/kartinka_dnya/picture_of_the_day_protostegidae_1_570.jpg" alt=""></div>
+    
+    <div class="title">Морские черепахи мелового периода</div>
+    
+    <div class="sublink"><span class="date">14.11.2017</span>&nbsp;<span class='break'>•</span> Антон Нелихов&nbsp;<span class='break'>•</span> Картинки дня</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<div class='gap2'></div>
+
+</div>
+
+
+<div class='storyline important'>
+
+</div>
+
+</div>
+
+<div class='cl'></div>
+
+<div class='mb'>
+<div class='pager_one'>
+<hr>
+
+  <a class='nohover' href="/novosti_nauki/434180/Poisk_v_internete_povyshaet_doverie_k_lozhnoy_informatsii">
+   <div class="next">
+      <div class=icon></div> 
+      <div class="suplink">10.01.2024</div>
+      <div class="pretitle"></div>
+      <div class="title">Поиск в&nbsp;интернете повышает доверие к&nbsp;ложной информации</div>
+   </div>
+  </a>
+
+
+ <a class='nohover' href="/novosti_nauki/434182/1_75_mlrd_let_nazad_u_tsianobakteriy_uzhe_byli_tilakoidy_dlya_effektivnogo_fotosinteza">
+  <div class="prev">
+     <div class=icon></div> 
+     <div class="suplink">16.01.2024</div>
+     <div class="pretitle"></div>
+     <div class="title">1,75 млрд лет назад у цианобактерий уже были тилакоиды для эффективного фотосинтеза</div>
+   </div>
+  </a>
+
+</div>
+<div class='cl'></div>
+</div>
+
+
+
+<div class='other_block'>
+<hr class='top mb'>
+<div class='mb4 other_themes'>
+ <h2>Другие новости</h2>
+ <div class="submenu hrline"><div class="sm_item">
+    <a href="/novosti_nauki/t/5272117/Anna_Novikovskaya">Анна Новиковская</a> <span class="stat">116</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/162677/Paleontologiya">Палеонтология</a> <span class="stat">471</span>
+</div></div>
+</div>
+<div class='scroll_container'>
+<div id='newsScrBlock' class='slider-view'><div class='slider'><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434406/U_pervykh_pozvonochnykh_bylo_dve_pary_glaz?from=bxblock'>
+<div class='img'><span><img src='images/news/myllokunmingia_390.jpg' alt=''></span></div>
+<div class='title'>У первых позвоночных было две пары глаз</div>
+<div class='sublink'><span class="date">09.02</span>&nbsp;<span class='break'
+>•</span> Сергей Ястребов</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434404/Dazhe_krupnye_mozazavry_mogli_zhit_v_rekakh?from=bxblock'>
+<div class='img'><span><img src='images/news/260118_novikovskaya_mosasaurus_390.jpg' alt=''></span></div>
+<div class='title'>Даже крупные мозазавры могли жить в реках</div>
+<div class='sublink'><span class="date">19.01</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434402/Ne_togo_dinozavra_nazvali_oviraptorom?from=bxblock'>
+<div class='img'><span><img src='images/news/manipulonyx_390.jpg' alt=''></span></div>
+<div class='title'>Не того динозавра назвали овираптором</div>
+<div class='sublink'><span class="date">29.12.2025</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434401/Diplodoki_byli_pyatnistymi_ili_polosatymi?from=bxblock'>
+<div class='img'><span><img src='images/news/colorful_diplodocus_logo_390.jpg' alt=''></span></div>
+<div class='title'>Диплодоки были пятнистыми или полосатыми</div>
+<div class='sublink'><span class="date">17.12.2025</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434398/U_gelad_kormyashchie_samki_obmanyvayut_samtsov_radi_bezopasnosti_detey?from=bxblock'>
+<div class='img'><span><img src='images/news/deceptive_fertility_in_gelade_logo_390.jpg' alt=''></span></div>
+<div class='title'>У гелад кормящие самки обманывают самцов ради безопасности детей</div>
+<div class='sublink'><span class="date">04.12.2025</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434396/Posle_smerti_trikhoplaks_mgnovenno_raspadaetsya_na_kletki?from=bxblock'>
+<div class='img'><span><img src='images/news/trichoplax_taphonomy_logo_390.jpg' alt=''></span></div>
+<div class='title'>После смерти трихоплакс мгновенно распадается на клетки</div>
+<div class='sublink'><span class="date">28.11.2025</span>&nbsp;<span class='break'
+>•</span> Елена Наймарк</div>
+</a>
+</div></div></div>
+<div class='scr_buttons_noscript' id='newsScrBlock_buttons'>
+<span class='prev_button' id='newsScrBlock_prevbtn'></span>
+<span class='next_button' id='newsScrBlock_nextbtn'></span>
+</div>
+</div>
+<div class='cl'></div>
+<hr class='mb hide_hphone'>
+<script type="text/javascript">scrollInit('newsScrBlock', { "mode": "DOM-S", "total": 490, "pagesize": 6, "request_url": '/ajax/news', "request_params": '&features=similar&features=v2&template=news_sline_v2&news_title=Другие новости&objlink_params=from=bxblock&xpage_size=6&tnews=3371422&newsid=434181'});</script>
+</div>
+
+
+</div>
+
+<div class='blue subscribe_block'><div class='mblock'>
+<div class='subscribe'>
+<div class='mb10'>
+<FORM TARGET=_top ACTION=https://subscribe.ru/member/quick METHOD=POST>
+<INPUT TYPE=hidden NAME=action VALUE=quick>
+<INPUT TYPE=hidden NAME=grp VALUE="science.news.elementynews">
+<span class='title'>Новостная рассылка</span>
+<span class='xinput fullwidth'><INPUT TYPE=email NAME=email SIZE=25 MAXLENGTH=100 placeholder
+="ВАШ E-MAIL"
+></span>&nbsp;<INPUT TYPE=submit VALUE="ПОДПИСАТЬСЯ">
+<INPUT TYPE=hidden NAME=src VALUE="list_science.news.elementynews">
+</FORM>
+</div>
+
+<div class='mb6'>
+<span class='title'>«Элементы» в соцсетях:&nbsp; </span>
+
+<a class='icon vk' href='https://vk.com/elementy_ru' target='_blank' title='ВКонтакте'></a>
+<a class='icon twitter' href='https://twitter.com/elementy_ru' target='_blank' title='Твиттер'></a>
+<a class='icon youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank' title='Youtube'></a>
+
+<a class='icon telegram' href='https://telegram.me/elementy_ru' target='_blank' title='Telegram'></a>
+<a class='icon zen' href='https://zen.yandex.ru/elementy.ru' target='_blank' title='Яндекс.Дзен'></a>
+</div>
+</div>
+<div class='cl'></div>
+</div></div>
+ 
+      
+             <script type="text/javascript" src="/downloads/js/linkhint.js?v=1.02"></script>
+             <script type="text/javascript">linkhint_init();</script>
+       
+   
+
+</div>
+
+
+
+<div class='hfooter'>
+<div class='mblock'>
+
+<div class='mb4 i1'><img src='images/eltnewdesign/ft_logo.png' alt='Элементы'></div>
+
+
+
+<div class='mb3 rub1'><ul>
+<li><a href='/novosti_nauki'>Новости науки</a></li>
+<li><a href='/LHC'>LHC</a></li>
+<li><a href='/kartinka_dnya'>Картинка дня</a></li>
+<li><a href='/problems'>Задачи</a></li>
+<li><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a></li>
+<li><a href='/video'>Видеотека</a></li>
+<li><a href='/bookclub'>Книжный клуб</a></li>
+</ul></div>
+<div class='mb3 rub2'><ul>
+<li><a href='/events'>Научный календарь</a></li>
+<li><a href='/email'>Детские вопросы</a></li>
+<li><a href='/time'>Масштабы: времена</a></li>
+<li><a href='/posters'>Плакаты</a></li>
+<li><a href='/trefil'>200 законов мироздания</a></li>
+<li><a href='/genbio'>Журнал общей биологии</a></li>
+<li><a href='/catalog'>Наука в Рунете</a></li>
+</ul></div>
+
+<div class='mb3 socnets'>
+<ul>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>ВКонтакте</span></a></li>
+<li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Twitter</span></a></li>
+<li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'><span class='icon'></span><span class='name'>Youtube</span></a></li>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Telegram</span></a></li>
+<li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'><span class='icon'></span><span class='name'>Яндекс.Дзен</span></a></li>
+<li class='hide_main hide_hpad hide_vpad'><a class='rss' href='/rss/news' target='_blank'><span class='icon'></span><span class='name'>RSS</span></a> <span class='name'>(<a href='/rss/'  target='_blank'>все ленты</a>)</span></li>
+</ul>
+</div>
+<div class='mb3 l2 zimin'>
+<div class='msg'><a href='https://basis-foundation.ru/' target="_blank">При поддержке фонда «Базис»</a></div>
+<a href='https://basis-foundation.ru/' target="_blank"><img src='images/eltnewdesign/basis2.png' alt='Фонд поддержки фундаментальной физики Базис'></a>
+</div>
+<div class='cl'></div>
+<hr>
+<div class='mb4 l2 copy'>© 2005–2026 «Элементы»</div>
+<div class='mb3 about'><a href='/about'>О проекте</a></div>
+<div class='mb3 feedback'><a href='mailto:info@elementy.ru'>Обратная связь</a></div>
+<div class='mb3 rss hide_phone'><a href='/rss/news' target='_blank'>RSS</a> (<a href='/rss/'  target='_blank'>все ленты</a>)</div>
+<div class='mb3 subscrb'><a href='https://subscribe.ru/catalog/science.news.elementynews'>Подписаться на рассылку</a></div>
+<!--<div class='mb3 l2 design'><a href='http://charmerstudio.com' target='_blank'>Дизайн: Charmer Studio</a></div>-->
+<div class='cl gap'></div>
+
+
+<div class='mb counters'>
+<!--LiveInternet counter--><script language="JavaScript"><!--
+document.write('<img src="//counter.yadro.ru/hit?r'+escape(document.referrer)+((typeof(screen)=='undefined')?'':';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+'" width=1 height=1 alt="">')
+//-->
+</script><!--/LiveInternet-->
+<!-- Yandex.Metrika counter --><script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter31698571 = new Ya.Metrika({ id:31698571, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="https://mc.yandex.ru/watch/31698571" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+<!-- Google Analytics --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65855867-1', 'auto');
+  ga('send', 'pageview');
+</script><!-- // Google Analytics -->
+<!--begin of Rambler's Top100 code -->
+<script id="top100Counter" type="text/javascript" src="//counter.rambler.ru/top100.jcn?707804"></script>
+<noscript><a href="http://top100.rambler.ru/top100/"><img src="//counter.rambler.ru/top100.cnt?707804" alt="" width=1 height=1 border=0></a>
+</noscript>
+<!--end of Top100 code-->
+</div>
+
+
+</div>
+</div>
+
+</div>
+</body>
+</html>

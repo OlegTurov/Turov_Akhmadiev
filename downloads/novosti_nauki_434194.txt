@@ -1,0 +1,3191 @@
+<!DOCTYPE html>
+<html lang='ru' prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+<head>
+<title>Сапиенсы жили на севере Европы уже 45 000 лет назад • Александр Марков • Новости науки на «Элементах» • Антропология, Палеогенетика, Палеонтология</title>
+<noscript><meta name="viewport" content="width=device-width, initial-scale=1.0"></noscript>
+<script type='text/javascript'>if (!document.cookie.match(/\bdesktop_mode=1/)) document.write('<meta name="viewport" content="width=device-width, initial-scale=1.0">');</script>
+
+
+<META name="description" content="По новым данным возраст слоя с каменными орудиями среднего палеолита в пещере Ильзенхёле в Ранисе (Германия) — около 45 000 лет, а все 11 найденных там человеческих костных фрагментов, из которых удалось извлечь митохондриальную ДНК, принадлежат сапиенсам. Значит, сапиенсы проникли в северные районы Европы раньше, чем считалось, и задолго до исчезновения европейских неандертальцев."/>
+
+
+
+<link rel="canonical" href="https://elementy.ru/novosti_nauki/434194/Sapiensy_zhili_na_severe_Evropy_uzhe_45_000_let_nazad" />
+
+
+<base href="//elementy.ru/">
+
+
+
+<meta property="og:title" content="Сапиенсы жили на севере Европы уже 45&nbsp;000&nbsp;лет назад • Новости науки"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="По новым данным возраст слоя с&nbsp;каменными орудиями среднего палеолита в&nbsp;пещере Ильзенхёле в&nbsp;Ранисе (Германия)&nbsp;— около 45&nbsp;000&nbsp;лет, а все 11&nbsp;найденных там человеческих костных фрагментов, из которых удалось извлечь митохондриальную ДНК, принадлежат сапиенсам. Значит, сапиенсы проникли в&nbsp;северные районы Европы раньше, чем считалось, и задолго до исчезновения европейских неандертальцев."/>
+<meta property="og:url" content="https://elementy.ru/novosti_nauki/434194/Sapiensy_zhili_na_severe_Evropy_uzhe_45_000_let_nazad"/>
+<meta property="og:image" content="https://elementy.ru/images/news/homo_sapiens_in_europe_1_1400.jpg"/>
+
+<meta property="article:section" content="Наука" />
+<meta property="article:tag" content="Антропология"/><meta property="article:tag" content="Палеогенетика"/><meta property="article:tag" content="Палеонтология"/>
+<meta property="og:site_name" content="«Элементы»"/>
+<meta property="og:locale" content="ru_RU"/>
+
+
+<link rel="manifest" href="/downloads/js/manifest.json?v=1.02">
+
+
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo16bw.png"  sizes="16x16"/>
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo32bw.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo48bw.png" sizes="48x48" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo64bw.png" sizes="64x64" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo128bw.png" sizes="128x128" />
+<link rel="shortcut icon" type="image/png" href="/images/eltnewdesign/logo32bw.png"/>
+
+<meta content='Элементы' name='apple-mobile-web-app-title'>
+
+<link rel="apple-touch-icon" type="image/png" href="/images/eltnewdesign/logo128bw.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/eltnewdesign/logo57bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/eltnewdesign/logo114bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/eltnewdesign/logo72wb.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/eltnewdesign/logo120bw.png" />
+
+<meta name="application-name" content="Элементы"/>
+<meta name="msapplication-TileColor" content="#001034" />
+<meta name="msapplication-TileImage" content="/images/eltnewdesign/logo128bw.png" />
+
+<meta name="yandex-tableau-widget" content="logo=https://elementy.ru/images/eltnewdesign/logo128bw.png, color=#001034" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://elementy.ru/rss"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/style2.css?v=1.125"/>
+
+<noscript>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>
+</noscript>
+<script type='text/javascript'>
+if (!document.cookie.match(/\bdesktop_mode=1/))
+   document.write(
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>');
+</script>
+
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-print.css?v=1.09"/>
+
+<script type="text/javascript" src="/download/mathjax_2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" async></script>
+<script src="//yastatic.net/share2/share.js" async></script>
+<script type="text/javascript" src='/downloads/js/menu.js?v=1.10'></script>
+<script type="text/javascript" src='/downloads/js/hor.js' async></script>
+<script type='text/javascript' src='/downloads/js/request.js' async></script>
+<script type='text/javascript' src='/downloads/js/scroll.js?v=1.03'></script>
+<script type='text/javascript' src='/downloads/js/more.js?v=1.02'></script>
+<script type='text/javascript' src='/downloads/js/ttlhover.js' async></script>
+<script type='text/javascript' src='/downloads/js/rfilters.js'></script>
+
+<script type="text/javascript">
+function pict_popup(src,title) {
+        var w = window.open(src,'','channelmode=no,toolbar=no,location=no,status=no,directories=no,menubar=no,');
+        if(navigator.appName=='Microsoft Internet Explorer') w.document.write('<title>'+title+'</title><img src="'+src+'" onLoad="i=document.images[0]; window.resizeTo(i.width+50,i.height+100)">')
+        return false
+}
+</script>
+
+
+
+
+</head>
+
+<body class="xrub-novosti_nauki xrubpage-no">
+<div class='allarea'  id='pgarea'>
+<a id="page_top"></a>
+
+<div class='mainmenublock hmenu' id='mmenubody' >
+     <div class='mbshading' id='mshading' onclick='toggleHMenu("mmenubody")'></div> 
+     <div class='hmenu'>
+      <div class='menuarea' id='mmenuarea'>
+       <a href='/' class='close' onclick='return toggleHMenu("mmenubody")'><span class='icon close'></span><span class='hint'>Закрыть</span></a>
+       <script type='text/javascript'>
+            var desktop_mode = document.cookie.match(/\bdesktop_mode=1/); 
+            if (!desktop_mode) document.write('<div class="oldlink hide_other"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div><hr class="hide_other">');
+       </script>
+       <ul class="level0"><li class="level0 selected">
+  <div><a href='/novosti_nauki'>Новости науки</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/kartinka_dnya'>Картинка дня</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/events'>Календарь событий</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/problems'>Задачи</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/email'>Детские вопросы</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/LHC'>Большой адронный коллайдер</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/LHC/novosti_BAK'>Новости LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/monitory_bolshogo_adronnogo_kollajdera'>Мониторы LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/LHC_results'>Результаты LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/zagadki_lhc'>Загадки LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_s_mu_mu'>Распад b→sμμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_1'>Распад B<sup>+</sup>→K<sup>+</sup>ll</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_2'>Распад B→Dlν</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_mu_mu'>Распад B→μμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/raspad_higgsa_na_muon_i_tau'>Распад H→μτ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/top_antitop_higgs'>Комбинация топ-антитоп-хиггс</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/zaryazhennyj_bozon_higgsa'>Заряженный бозон Хиггса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/dvuhfotonnyj_vsplesk_pri_750_gev'>Двухфотонный всплеск 750&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptony_odnogo_znaka_na_atlas'>Лептоны одного знака на ATLAS</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/eejj-otklonenije'>eejj-отклонение</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/sobytije_2.9tev'>Событие при 2,9 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_2_tev_atlas'>WZ-пик при 2 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_1.8_tev_cms'>WH-пик при 1,8 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_CMS'>Поиск суперсимметрии — 1</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_ATLAS'>Поиск суперсимметрии — 2</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_iii'>Поиск суперсимметрии — 3</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_results/beyondSM'>Отклонения от Стандартной модели</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/susy_search'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/exotic_search'>Экзотические частицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_search'>Поиск бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_study'>Изучение бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/top-quark'>Свойства топ-кварка</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/hadrons'>Рождение и распады адронов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/rare_decays'>Редкие распады B-мезонов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/difraction'>Адронная дифракция</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/nuclei'>Ядерные столкновения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/astro'>Астрофизика</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC_working'>LHC в работе</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lhc/timeline'>Хронология создания и работы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/general_schedule'>Общее расписание</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/what-to-check'>Как следить за новостями с LHC</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/working_cycle'>Рабочий цикл коллайдера</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/initial'>Ранние этапы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2008'>2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/incident'>Авария 19.09.2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009'>2009</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009/results_2009'>Результаты работы LHC в&nbsp;2009&nbsp;году</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_1'>Сеанс LHC Run&nbsp;1</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010'>2010</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010/results_2010'>Результаты работы LHC в&nbsp;2010&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011'>2011</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011/results_2011'>Результаты работы LHC в&nbsp;2011&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2012'>2012</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/schedule_2015'>Техническая пауза LS1</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_2'>Сеанс LHC Run&nbsp;2</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2015'>2015</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2016'>2016</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2017'>2017</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2018'>2018</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_3'>Сеанс LHC Run&nbsp;3</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_3/2022'>2022</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC'>Устройство и задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/LHC/about'>LHC: ключевые факты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/accelerator'>Устройство LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/beams'>Протонные пучки</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnets'>Магнитная система</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnet_training'>Как тренируют магниты</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/detectors'>Детекторы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ATLAS'>ATLAS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/CMS'>CMS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ALICE'>ALICE</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCb'>LHCb</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/TOTEM'>TOTEM</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCf'>LHCf</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/MoEDAL'>MoEDAL</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/why'>Зачем нужен LHC?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/tasks'>Задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/hadrons'>Свойства адронов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/decays'>Адронные распады</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/higgs'>Поиск бозона Хиггса</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/production_decay'>Рождение и распад</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/search_strategies'>Стратегии поиска</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/top-quark'>Топ-кварк</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/SUSY'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/exotic'>Экзотические теории</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/nuclei'>Ядерные столкновения</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/safety'>Безопасность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/estimates'>Вероятность катастрофы</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/black_holes'>Микроскопические черные дыры</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/phrases'>Толковый словарик журналистских штампов</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/HEP'>Физика элементарных частиц</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/HEP/educational'>Образовательные онлайн-ресурсы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/HEP/measures'>Величины и единицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/cross-section'>Сечение процесса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/luminosity'>Светимость</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/invariant-mass'>Инвариантная масса</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/study'>Как изучают частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/detecting'>Принципы детектирования</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/errors'>Погрешности</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/statistical'>Статистическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/systematic'>Систематическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/theoretical'>Теория и моделирование</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/sigma'>Сигма</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/subtleties'>Тонкости анализа</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/experiments'>Эксперименты на коллайдерах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/quark_model'>Классификация адронов</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/partonic_densities'>Партоны</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/hadronization'>Конфайнмент и адронизация</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/rapidity-angle_diagram'>Быстрота–угол</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/analysis_methods'>Приемы анализа</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/SM'>Стандартная модель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/problems'>Трудности</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/beyondSM'>За пределами СМ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/SUSY'>Суперсимметрия</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/higgs_theory'>Хиггсовский механизм</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/explanations'>Аналогии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/SM_Higgs'>Хиггс с&nbsp;массой 125&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/nonminimal'>Неминимальные варианты</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/gallery'>Галерея</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly'>В популярных журналах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/vmirenauki'>«В мире науки»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/znanijesila'>«Знание — сила»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvant'>«Квант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvantik'>«Квантик»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kommersant_nauka'>«Коммерсантъ Наука»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kot_shryodingera'>«Кот Шрёдингера»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_i_zhizn'>«Наука и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_iz_pervyh_ruk'>«Наука из первых рук»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/popularnaja_mehanika'>«Популярная механика»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_himija_biologija_meditsina'>«Потенциал»: Химия. Биология. Медицина</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_matematika_fizika_informatika'>«Потенциал»: Математика. Физика. Информатика</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda'>«Природа»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/o_zhurnale'>О журнале</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/priroda_v_internete'>«Природа» в интернете</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/kak_podpisatsya'>Как подписаться</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/gazeta_troitskiy_variant'>«Троицкий вариант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/khimiya_i_zhizn'>«Химия и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/chto_novogo_v_nauke_i_tekhnike'>«Что нового в науке и технике»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/ecologiya_i_zhizn'>«Экология и жизнь»</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/izbrannoe'>Избранное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/lektsii_dlya_shkolnikov'>Лекции для школьников</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/interview'>Интервью</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/vystavka_vse_v_mire_otnositelno'>Выставка «Всё в мире относительно»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lib/exhibition/authors'>О художниках</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/lib/exhibition/about'>О выставке</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/video'>Видеотека</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/bookclub'>Книжный клуб</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/bookclub/book'>Книги</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/author'>Авторы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/chapters'>Главы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/bookclub/chapters/knigi_opublikovannyje_polnostju'>Опубликовано полностью</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera'>Происхождение жизни</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/evolutsija_i_priroda_nauki'>Глава 1</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/svidetelstva_biologicheskoj_evolutsii'>Глава 2</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/vzglyady_kreatsionistov'>Глава 3</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/FAQ'>Заключение</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/bookclub/publisher'>Издательства</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/series'>Серии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review'>Рецензии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review_users'>Отзывы</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/time'>Масштабы: времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/time/estimating'>В помощь читателю</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-1.html'>Как оценивать типичные времена</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-2.html'>Как применять формулы&nbsp;— иллюстрация</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-3.html'>Тонкости и предостережения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-4.html'>Опорные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-5.html'>Колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-6.html'>Гармонические колебания и их период</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-7.html'>Волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-8.html'>Закон распада</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/milli'>Миллисекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/milli/milli-1.html'>Миллисекунды в нашей жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-2.html'>Фото вместо видео</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-3.html'>Мерцающие огоньки</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-4.html'>Скрытые возможности невооруженного взгляда</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/micro'>Микросекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/micro/micro-1.html'>Остановившийся мир</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-2.html'>И всё-таки он движется!</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-3.html'>Пределы механического затвора</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nano'>Наносекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nano/nano-1.html'>От предметов к веществу</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-2.html'>Коллективные явления</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-3.html'>Электромагнитные колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-4.html'>Информационная емкость радиоволны</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/pico'>Пикосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/pico/pico-1.html'>Атомное движение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-2.html'>Пределы звука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-3.html'>Как начинается плавление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-4.html'>Пределы электроники</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-5.html'>Электромагнитные волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-6.html'>Элементарные частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/femto'>Фемтосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/femto/femto-1.html'>Мир электронов и света</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-2.html'>Оптические вычислительные технологии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-3.html'>Фемтохимия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-4.html'>Фемтобиология</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/atto'>Аттосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/atto/atto-1.html'>Личная жизнь атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-2.html'>Самые внутренние электроны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-3.html'>Как взрезать атом</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-4.html'>Электроны на службе аттофизики</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/zepto'>Зептосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-1.html'>Жизнь атомных ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-2.html'>Энергия, время и соотношение неопределенностей</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/yocto'>Йоктосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-1.html'>На границе известного</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-2.html'>Столкновение тяжелых ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-3.html'>Вглубь йоктосекунды</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/year'>От секунды до года</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/year/year-1.html'>Семь с половиной порядков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-2.html'>Искусственные спутники Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-3.html'>Эхо землетрясений</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-4.html'>Астероид-убийца</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-5.html'>Как растекается тепло</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/very-long'>Астрономические времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-1.html'>Солнечная система</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-2.html'>Солнечная система на больших временах</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-3.html'>Глубокий космос</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-4.html'>Межгалактические отношения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-5.html'>Танец земного климата</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-6.html'>Тектоническая жизнь Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-7.html'>Сверхдолгоживущие частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/sonoluminescence'>Сонолюминесценция</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-1.html'>Свечение, порожденное звуком</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-2.html'>Поведение пузырька</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-3.html'>Последние мгновения коллапса</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/biophysics'>Фолдинг белков</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-1.html'>Физическая основа жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-2.html'>Главная и боковые цепи</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-3.html'>«Жизнь» белковой молекулы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-4.html'>Компьютерное моделирование фолдинга</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/excited'>Возбужденные атомы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-1.html'>Возбужденные атомы: кто такие и где встречаются</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-2.html'>Быстротечная жизнь возбужденных атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-3.html'>Миллионы безуспешных попыток</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-4.html'>Ридберговские атомы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-5.html'>Атомы-долгожители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-6.html'>Водородная линия 21&nbsp;см</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nuclear'>Ядерные распады</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-1.html'>«Ядерная секунда»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-2.html'>Альфа-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-3.html'>Тяжелые элементы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-4.html'>Бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-5.html'>Двойной бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-6.html'>Ядерные изомеры</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/particles'>Элементарные частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/particles/particles-1.html'>Законы элементарных частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-2.html'>Два руководящих принципа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-3.html'>Сильные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-4.html'>Электромагнитные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-5.html'>Слабые распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-6.html'>Повышенная жизнеспособность на&nbsp;околосветовых скоростях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-7.html'>На переднем крае физики элементарных частиц</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/continents'>Движение континентов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/continents/continents-1.html'>Такты тектонической жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-2.html'>Возраст Гималаев</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-3.html'>Когда задышал Северный Ледовитый океан?</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/posters'>Плакаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/posters/moment'>Мгновение</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/posters/fractals'>Фракталы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/fractals/fractals'>Что такое фракталы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/geometric'>Геометрические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Koch'>Снежинка Коха</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/T-square'>Т-квадрат</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/H-fractal'>H-фрактал</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Sierpinski'>Треугольник Серпинского</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Pythagoras'>Дерево Пифагора</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Levy'>Кривая Леви</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/dragon'>Дракон</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/dynamic'>Динамические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Mandelbrot'>Множество Мандельброта</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Julia'>Множества Жюлиа</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Halley'>Фрактал Галлея</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Newton'>Фрактал Ньютона</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/complex_numbers'>Комплексные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/dimensions'>Фрактальные размерности</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/how_to_draw'>Как это рисовать</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/nature'>Фракталы в природе</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/about'>О плакате</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/collider'>Ускоритель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/collider/1'>Зачем нужен ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/2'>Единицы измерения расстояний, энергий и масс</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/3'>Краткая история ускорителей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/4'>Как работает ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/5'>Детектор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/6'>Как на ускорителе изучают свойства частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/7'>Природные ускорители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/8'>Применение ускорителей и детекторов в медицине</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/aviation'>Покорение воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/aviation/light'>Аппараты легче воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/light/balloons'>Аэростаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/montgolfiere'>Первый аппарат легче воздуха, способный поднять человека</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/today'>Шары-монгольфьеры сегодня</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/light/dirigibles'>Дирижабли</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/france'>Типичный дирижабль конца XIX&nbsp;века рыбообразной формы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/tsiolkovsky'>Цельнометаллический бескаркасный дирижабль с&nbsp;изменением объема в&nbsp;полете и с&nbsp;подогревом газа</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/zeppelin'>Серийный дирижабль Германии времен Первой мировой войны</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/akron'>Гелиевые дирижабли США</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/hindenburg_disaster'>Гибель «Гинденбурга» 6&nbsp;мая 1937&nbsp;года</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/today'>Дирижабли сегодня</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/heavy'>Аппараты тяжелее воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/helicopters'>Вертолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/sikorskys1'>Первый вертолет И.&nbsp;И.&nbsp;Сикорского</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/cagi_1-ea'>Первый летающий аппарат классической схемы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/mi-26'>Тяжелый военно-транспортный вертолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/an-64'>Ударный вертолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans'>Экранопланы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/km'>Самый крупный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/orlenok'>Единственный российский серийный десантный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/bartini'>Экраноплан Бартини</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/lun'>Летающий госпиталь</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/planes'>Самолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/theory'>Теоретические основы полета аппаратов тяжелее воздуха</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mozhajskij'>Первый реализованный проект, однако достоверных сведений о полете нет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/wrights'>Первый самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ilya_muromec'>Первый «тяжелый самолет»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/newport17'>Первый самолет с «зализанными» обводами</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ant-6'>Тяжелый бомбардировщик-моноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/messerschmitt'>Самый массовый истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/yak-1'>Самый легкий и маневренный истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/supermarine_spitfire'>Лучший истребитель битвы за Британию в 1940&nbsp;г.</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mosquito'>Цельнодеревянный скоростной бомбардировщик «Мечта термита»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mitsubishi_a6m_reisen'>Истребитель&nbsp;— символ японской авиации</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/il-2'>Тяжелый штурмовик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-15'>Фронтовой истребитель, один из первых серийных реактивных самолетов</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-86_sabre'>Многоцелевой истребитель, противник МиГ-15 в корейской войне</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-21'>Выдающийся сверхзвуковой истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/lockheed'>Высотный разведывательный самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_b-52'>Стратегический бомбардировщик с велосипедным шасси</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-144'>Сверхзвуковой пассажирский самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_747_jumbo'>«Реактивный слон»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-15_eagle'>Тактический истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/su-27'>Маневренный истребитель-перехватчик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-160'>Стратегический бомбардировщик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/an-124_ruslan'>Тяжелый военно-транспортный самолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/terms'>Основные параметры самолетов, указанные на плакате</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/literature'>Список литературы</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/light_version'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/gravity'>Гравитация</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/gravity/1'>Парабола или прямая?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/2'>Все дома стоят криво</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/3'>Из Москвы в&nbsp;Питер за&nbsp;полчаса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/4'>На Луну в комфортных условиях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/5'>Скоростной спутник Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/6'>Перевернутый небоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/7'>Супернебоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/8'>Запуск спутника без затрат энергии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/9'>Раскрутим Землю</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/perpetuum'>Вечный двигатель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/first'>Вечный двигатель первого рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/second'>Вечный двигатель второго рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/third'>Вечный двигатель «третьего рода»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/1'>Колесо и&nbsp;шары</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/2'>Цепочка шаров</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/3'>«Птичка Хоттабыча»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/4'>Цепочка поплавков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/5'>Архимедов винт</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/6'>Машина Орфиреуса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/7'>Магнит и желоба</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/8'>«Вечный водопровод»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/9'>Автоматический подзавод часов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/10'>Подъем масла по&nbsp;фитилям</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/11'>Колесо и&nbsp;грузы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/12'>Установка Потапова</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/13'>Луна и планеты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/spectrum'>Электромагнитное излучение</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/spectrum/nature'>Природа электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/wave'>Частота и длина волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/history'>История открытия электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/union'>Великое объединение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/energy'>Энергия кванта</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/temperature'>Температура излучения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/diapasons'>Диапазоны излучения и вещество</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/about'>Что изображено на плакате</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/units'>Соотношения и единицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/gamma'>Гамма-излучение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/roentgen'>Рентген</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/ultraviolet'>Ультрафиолет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/visible'>Видимый диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/infrared'>Инфракрасный диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/radio'>Радиоизлучение и микроволны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/other'>За пределами спектра</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/human'>Возможности человека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/human/muscular'>Сила</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/mind'>Мышление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/science'>Наука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/evolution'>Эволюционный принцип</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/factor'>Человеческий фактор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/weight'>Поднятие тяжестей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/flight'>Полет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/walk'>Бег</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/swim'>Плавание</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/trefil'>200 законов мироздания</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/trefil/introduction'><i>Введение</i></a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/physics'>Физика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/astronomy'>Астрономия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/maths'>Математика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/chemistry'>Химия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biology'>Науки о жизни</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/geo'>Науки о Земле</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/misc'>Разное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/rvm'>Взгляд в прошлое</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biography'><i>Биографии</i></a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/genbio'>Журнал общей биологии</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/genbio/english'>In English</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/genbio/english/all'>All Issues</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/genbio/abstracts'>All Abstracts</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/genbio/last'>Свежий выпуск</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/all'>Все выпуски</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/resume'>Статьи</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/synopsis'>Синопсисы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about'>О журнале</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about/rules'>Авторам</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/law'>Наука, образование и право</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/law/organ.htm'>Федеральные органы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/program.htm'>Федеральные программы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/intellectual.htm'>Интеллектуальная собственность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/law/intellectual/international.htm'>Международное законодательство</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/russian.htm'>Законодательство РФ </a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/patent.htm'>Патентование</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/contact.htm'>Сделки и договоры</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/payment.htm'>Вознаграждение</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/law/degree.htm'>Ученые степени</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nostr.htm'>Нострификация</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/vuz.htm'>Образование, вузы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nii.htm'>Научные организации</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/prize.htm'>Премии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/grant.htm'>Гранты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/work.htm'>Трудовое законодательство </a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/kodex.htm'>Конституция и кодексы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/other.htm'>Другие нормативные акты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/all_laws.htm'>Все нормативные акты</a>
+  </div></li>
+
+  </li></ul></ul>
+       <script type='text/javascript'>
+            document.write('<hr'+(!desktop_mode?"  class='hide_main'":"")+'>');
+            document.write('<div class="oldlink hide_main"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div>');
+            if (desktop_mode )
+               document.write('<div class="chmod mob hide_main"><a href="/" onclick="return setDesktopMode(false)">Мобильная версия сайта</a></div>');
+            else
+               document.write('<div class="chmod dsk hide_main"><a href="/" onclick="return setDesktopMode(true)">Полная версия сайта</a></div>');
+       </script>
+       <hr>
+       <ul class='img'>
+        <li class='first'><a class='facebook' href='https://www.facebook.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'></a></li>
+        <li><a class='instagram' href='https://www.instagram.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'></a></li>
+        <li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'></a></li>
+        <li><a class='rss' href='/rss/news' target='_blank'></a></li>
+       </ul>
+      </div>
+     </div>
+</div>
+
+<div class='print_logo hide_screen'><script type='text/javascript'>document.write("<img src='/images/eltnewdesign/logo_wpr.png'>");</script></div>
+
+<div class='hhead' id='pghead'>
+  <div class='hmenu'>
+    <div class='lmenu' id='hmainmenu'>
+      <a href='/' class='item' onclick='return toggleHMenu("mmenubody")'><span class='icon menu'></span><span class='hint'>Меню</span></a>
+    </div>
+    <div class='rmenu' id='rmenu'>
+       <a href='/' class='item' onclick='return toggleHMenu(this, true)'><span class='icon search'></span><span class='hint'>Поиск</span></a>
+       <a href='/' class='close' onclick='return toggleHMenu(this)'><span class='icon close2'></span><span class='hint'>Закрыть</span></a>
+       <div class='menuarea'>
+         <div class='menusearch xform'> 
+         <form action="find">
+             <input type="text" class="search" name="words" value="" placeholder="Поиск">
+             <input type="image" name="search" src="images/eltnewdesign/search_b.png">
+         </form>
+         </div> 
+       </div>
+    </div>
+    <div class='logo'><a href="/" onclick='return checkHMScroll()'><span>&nbsp;</span></a></div>
+  </div>  
+</div>
+
+
+<div class='body'  id='pgbody'>
+
+  
+   <div class='mblock chead'>
+     
+     
+<div class='rubpath'><span class='first last'><a href='/novosti_nauki'>Новости науки</a></span> </div>
+
+</div>
+   
+  
+
+   
+       <div class='mblock nogap'>
+<div class='mb itemhead newslist'><h1>Сапиенсы жили на севере Европы уже 45&nbsp;000&nbsp;лет назад</h1>
+<div class="sublink"><span class="date">19.02.2024</span>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/379113/Aleksandr_Markov">Александр Марков</a>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/125949/Antropologiya">Антропология</a><span class="comma">,</span> <a href="/novosti_nauki/t/5272133/Paleogenetika">Палеогенетика</a><span class="comma">,</span> <a href="/novosti_nauki/t/162677/Paleontologiya">Палеонтология</a>&nbsp;<span class='break'>•</span> <a href="/novosti_nauki/434194#forum" onclick="forum_goto(); return false;">37&nbsp;комментариев</a></div></div>
+</div>
+
+<div class='mblock'>
+
+<div class='socnetblock'><script src="/downloads/js/snfly.js?v=1.04"></script>
+<div  id="socnets_share">
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter=""></div>
+<div id='forum_topsocnet_button' style='display:none' title='Написать комментарий'><span class='fmicon'></span><div class='counter' id='forum_topsocnet_count'></div></div>
+</div>
+</div>
+
+<div class='itemblock'><div class='memo'>
+    <!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/homo_sapiens_in_europe_1_1400.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/homo_sapiens_in_europe_1_1400.jpg','Пещера Ильзенхёле в Ранисе')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/homo_sapiens_in_europe_1_703.jpg" alt="Пещера Ильзенхёле в Ранисе" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 1.</b> Пещера Ильзенхёле в Ранисе (Германия). Вход в пещеру на фото <b>a</b> — <i>слева внизу</i>, на фото <b>b</b> — <i>справа</i>. <b>c</b>, <b>d</b> — найденные в пещере остроконечники культуры Линкомб-Ранис-Ежмановице. Изображение из <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06923-7/MediaObjects/41586_2023_6923_MOESM1_ESM.pdf" target=_blank>дополнительных материалов</a> к обсуждаемой статье в <i>Nature</i></p></div>
+
+
+</div>
+
+    <p><b>Переход от среднего к&nbsp;верхнему палеолиту в&nbsp;Европе был тесно связан с&nbsp;вытеснением коренных европейцев&nbsp;— неандертальцев пришельцами с&nbsp;Ближнего Востока&nbsp;— сапиенсами. Многие детали этого сложного процесса остаются неясными. Изучение находок из пещеры Ильзенхёле в&nbsp;Ранисе (Германия) позволило разгадать одну из загадок. Еще в&nbsp;1930-е годы там были найдены каменные орудия культуры Линкомб-Ранис-Ежмановице, ареал которой простирается от Англии до Польши. Это одна из загадочных «переходных» культур, созданных то ли неандертальцами, то ли сапиенсами. Новые методы анализа позволили показать, что возраст слоя с&nbsp;орудиями&nbsp;— около 45&nbsp;000&nbsp;лет, а все 11&nbsp;найденных там человеческих костных фрагментов, из которых удалось извлечь митохондриальную ДНК, принадлежат сапиенсам. Исследование показало, что сапиенсы проникли в&nbsp;северные районы Европы раньше, чем считалось, и задолго до исчезновения последних европейских неандертальцев. Есть косвенные основания предполагать, что эти сапиенсы-первопроходцы принадлежали к&nbsp;исчезнувшей популяции, которая не внесла вклада в&nbsp;генофонд современного человечества.</b></p>
+
+<p>Последние открытия археологов и палеогенетиков показывают, что переход от <a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B0%D0%BB%D0%B5%D0%BE%D0%BB%D0%B8%D1%82" target=_blank>среднего</a> к&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B7%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B0%D0%BB%D0%B5%D0%BE%D0%BB%D0%B8%D1%82" target=_blank>верхнему</a> палеолиту в&nbsp;Европе был процессом сложным и многоэтапным (см.&nbsp;<a href="/novosti_nauki/434106/Sapiensy_zaselili_neandertalskuyu_Evropu_s_tretey_popytki" target=_blank>Сапиенсы заселили неандертальскую Европу с&nbsp;третьей попытки</a>, «Элементы», 26.05.2023). Одной из неразрешенных загадок остаются переходные (между средним и верхним палеолитом) культуры&nbsp;— комплексы каменных изделий, отличающиеся и от типичной среднепалеолитической неандертальской <a href="https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%81%D1%82%D1%8C%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0" target=_blank>мустьерской культуры</a>, и от первых бесспорных верхнепалеолитических культур европейских сапиенсов (протоориньяк и <a href="https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B8%D0%BD%D1%8C%D1%8F%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0" target=_blank>ориньяк</a>, см.&nbsp;<a href="/novosti_nauki/432467/Paleogeneticheskie_dannye_podtverdili_chto_sozdatelyami_protoorinyakskoy_kultury_byli_lyudi_sovremennogo_tipa" target=_blank>Палеогенетические данные подтвердили, что создателями протоориньякской культуры были люди современного типа</a>, «Элементы», 27.04.2015). Переходные культуры были распространены в&nbsp;разных регионах Европы как раз в то время, когда там могли еще оставаться неандертальцы, но и сапиенсы уже могли прийти (рис.&nbsp;2).</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/homo_sapiens_in_europe_2_703.jpg" alt="Рис. 2. Ареалы важнейших «переходных» культур" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 2.</b> Ареалы важнейших &laquo;переходных&raquo; культур, технологические особенности и возраст которых позволяют допускать их возможную связь как с&nbsp;неандертальцами, так и с&nbsp;сапиенсами. <i>Точкой</i> отмечена пещера Ильзенхёле. Культура Bachokirian (по пещере <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%87%D0%BE_%D0%9A%D0%B8%D1%80%D0%BE_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)" target=_blank>Бачо Киро</a> в&nbsp;Болгарии) уже надежно привязана к&nbsp;сапиенсам по ДНК из человеческих костей. C&nbsp;богуницкой культурой (<a href="https://en.wikipedia.org/wiki/Bohunician" target=_blank>Bohunician</a>) сложнее, но и она, скорее всего, связана с&nbsp;сапиенсами. <a href="https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BF%D0%B5%D1%80%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0" target=_blank>Шательперонская</a> и улуццианская (<a href="https://en.wikipedia.org/wiki/Uluzzian" target=_blank>Uluzzian</a>) культуры многими специалистами трактуются как терминальные неандертальские, но окончательно это не доказано. Рисунок из <a href="https://www.nature.com/articles/d41586-024-00072-1" target=_blank>популярного синопсиса</a> к&nbsp;обсуждаемой статье в&nbsp;<i>Nature</i></p></div>
+
+
+</div>
+
+<p>Для понимания тогдашних событий важно разобраться, какой из двух видов людей создал переходные культуры. Были ли это неандертальцы, почему-то вдруг ускорившие напоследок свой культурный прогресс? Или это были сапиенсы-первопроходцы, просто еще не успевшие подняться до подлинно ориньякских культурных высот? Выяснить это оказалось нелегко, потому что для многих комплексов каменных орудий нет надежно привязанных к&nbsp;ним человеческих костей.</p>
+
+<p>Культура Линкомб-Ранис-Ежмановице (<a href="https://en.wikipedia.org/wiki/Lincombian-Ranisian-Jerzmanowician" target=_blank>Lincombian–Ranisian–Jerzmanowician</a>, LRJ) распространена в&nbsp;центральной и северо-восточной Европе от Польши до Англии. Для нее характерны явно не мустьерские остроконечники особого типа (рис.&nbsp;1), способ производства которых отличался от более поздних верхнепалеолитических технологий. Разные исследователи интерпретировали LRJ то как начальную фазу верхнего палеолита сапиенсов, то как новаторское достижение местных неандертальцев.</p>
+
+<p>Большой международный коллектив археологов, палеоантропологов и палеогенетиков во главе с&nbsp;Жан-Жаком Юбланом (<a href="https://en.wikipedia.org/wiki/Jean-Jacques_Hublin" target=_blank>Jean-Jacques Hublin</a>) из Института эволюционной антропологии общества Макса Планка в&nbsp;Лейпциге сумел разрешить этот спор благодаря тщательному изучению материалов из пещеры Ильзенхёле (<a href="https://de.wikipedia.org/wiki/Ilsenh%C3%B6hle" target=_blank>Ilsenhöhle</a>) в&nbsp;Ранисе (рис.&nbsp;1). Статья с&nbsp;результатами исследования <a href="https://www.nature.com/articles/s41586-023-06923-7" target=_blank>опубликована</a> в&nbsp;журнале <i>Nature</i>.</p>
+
+<p>Раскопки в&nbsp;пещере в&nbsp;первый раз проводились в&nbsp;1926–1938&nbsp;годах. Именно тогда там нашли слой с&nbsp;каменными пластинами и остроконечниками, характерными для культуры LRJ. Авторы обсуждаемой статьи возобновили раскопки в&nbsp;Ильзенхёле в&nbsp;2016&nbsp;году. Они разобрались в&nbsp;стратиграфии пещерных отложений, нашли все выделенные ранее слои, а главное, сумели их надежно датировать. Надежность обеспечивается, в&nbsp;частности, тем, что в&nbsp;костях млекопитающих прекрасно сохранился коллаген. Это позволило провести независимое радиоуглеродное датирование коллагена из множества костных фрагментов.</p>
+
+<p>Для двух последовательных слоев, содержащих орудия LRJ, получился такой возраст: 47&nbsp;500–45&nbsp;770&nbsp;лет для нижнего слоя и 46&nbsp;820–43&nbsp;260&nbsp;лет для верхнего. Под ними находится слой возрастом 55&nbsp;860–48&nbsp;710&nbsp;лет с&nbsp;небогатым набором каменных артефактов, вероятнее всего, мустьерских (то&nbsp;есть неандертальских). Выше лежат более молодые слои с&nbsp;типичными верхнепалеолитическими изделиями сапиенсов. Радиоуглеродные датировки хорошо согласуются с&nbsp;зооархеологическими (по сопутствующей фауне) и палеопротеомными (по изменениям, которые происходят со временем в&nbsp;структуре белков).</p>
+
+<p>Восемь морфологически невнятных костных обломков из слоев LRJ (по четыре из материалов старых и новых раскопок) удалось идентифицировать как человеческие с&nbsp;помощью палеопротеомики, то&nbsp;есть по аминокислотной последовательности коллагенов. Еще пять косточек из старой коллекции, из тех же слоев, были определены как человеческие по морфологии. Всего, таким образом, набралось 13&nbsp;человеческих костных фрагментов. В&nbsp;11 из них сохранилось достаточно древней ДНК, чтобы отсеквенировать митохондриальные геномы. Все они без исключения оказались сапиентными.</p>
+
+<p>Это, собственно, и есть главный результат работы. Теперь можно считать установленным, что культура LRJ была создана сапиенсами, а неандертальцы не имеют к&nbsp;ней отношения.</p>
+
+<p>Один <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%82%D0%BE%D1%85%D0%BE%D0%BD%D0%B4%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%94%D0%9D%D0%9A" target=_blank>митохондриальный геном</a> из Ильзенхёле относится к&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BF%D0%BB%D0%BE%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0_R_(%D0%BC%D1%82%D0%94%D0%9D%D0%9A)" target=_blank>гаплогруппе&nbsp;R</a> и близок к&nbsp;мт-геному раннего кроманьонца из протоориньякского слоя <a href="https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D0%BC%D0%B0%D0%BD%D0%B5" target=_blank>пещеры Фумане</a> на севере нынешней Италии, жившего около 40&nbsp;000&nbsp;лет назад (см.&nbsp;<a href="/novosti_nauki/432467/Paleogeneticheskie_dannye_podtverdili_chto_sozdatelyami_protoorinyakskoy_kultury_byli_lyudi_sovremennogo_tipa" target=_blank>Палеогенетические данные подтвердили, что создателями протоориньякской культуры были люди современного типа</a>, «Элементы», 27.04.2015). Все остальные мт-геномы из Ильзенхёле относятся к&nbsp;другой ветви <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BF%D0%BB%D0%BE%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0_N_(%D0%BC%D1%82%D0%94%D0%9D%D0%9A)" target=_blank>гаплогруппы&nbsp;N</a> и почти не отличаются от мт-генома женщины из пещеры Златы Кунь (Золотой Конь) в&nbsp;Чехии, которая жила тоже примерно 45&nbsp;000&nbsp;лет назад (см.&nbsp;<a href="https://en.wikipedia.org/wiki/Zlat%C3%BD_k%C5%AF%C5%88_woman" target=_blank>Zlatý kůň woman</a>). Правда, эта датировка основана только на палеогенетических данных и не так надежна, как датировки находок из Ильзенхёле. От женщины из пещеры Златы Кунь сохранился целый череп. К&nbsp;сожалению, он не привязан надежно к&nbsp;тому или иному комплексу каменных орудий. Зато из него недавно удалось извлечь ядерный геном (<span class="small">см.&nbsp;K.&nbsp;Prüfer et&nbsp;al., 2021. <a href="https://www.nature.com/articles/s41559-021-01443-x" target=_blank>A&nbsp;genome sequence from a&nbsp;modern human skull over 45,000&nbsp;years old from Zlatý kůň in Czechia</a></span>). Анализ генома показал, что древняя представительница европейских сапиенсов принадлежала к&nbsp;исчезнувшей популяции, которая, по-видимому, не внесла вклада в&nbsp;генофонд современного человечества.</p>
+
+<p>Таким образом, вполне возможно, что культура LRJ была создана не предками современных европейцев, а некими сапиенсами-первопроходцами, впоследствии сгинувшими без следа. Если вспомнить смелую гипотезу французского археолога Людовика Слимака о&nbsp;трех волнах миграции ближневосточных сапиенсов в&nbsp;Европу (см.&nbsp;<a href="/novosti_nauki/434106/Sapiensy_zaselili_neandertalskuyu_Evropu_s_tretey_popytki" target=_blank>Сапиенсы заселили неандертальскую Европу с&nbsp;третьей попытки</a>, «Элементы», 26.05.2023), то это могли бы быть представители второй волны. Будем надеяться, что дальнейшие исследования внесут больше ясности в&nbsp;этот вопрос.</p>
+
+<p>Еще один важный вывод состоит в том, что сапиенсы жили на севере Европы задолго до вымирания последних европейских неандертальцев. По современным данным, неандертальцы окончательно исчезли не ранее 42&nbsp;000–41&nbsp;000&nbsp;лет назад (рис.&nbsp;3). Это противоречит популярной некогда идее о&nbsp;том, что неандертальцы по какой-то причине вымерли еще до прихода сапиенсов, так что те расселялись в&nbsp;основном уже по обезлюдевшим территориям.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/homo_sapiens_in_europe_3_703.jpg" alt="Рис. 3. Датировки находок из Раниса" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 3.</b> Датировки находок из Раниса в&nbsp;сравнении с&nbsp;датировками других местонахождений с&nbsp;похожими &laquo;переходными&raquo; орудиями (<b>a</b>; <i>красным цветом</i> выделены местонахождения культуры LRJ) и с&nbsp;датированными человеческими костями сопоставимого возраста (<b>b</b>; <i>красным цветом</i> выделены 10&nbsp;индивидов из Раниса). Рисунок показывает, что сапиенсы из Раниса жили одновременно с&nbsp;поздними европейскими неандертальцами. Изображение из обсуждаемой статьи в&nbsp;<i>Nature</i></p></div>
+
+
+</div>
+
+<p>В двух дополнительных статьях, опубликованных в&nbsp;журнале <i>Nature Ecology&nbsp;& Evolution</i>, исследователи описали сопутствующую фауну, результаты изотопного анализа эмали лошадиных зубов и другие данные, позволяющие реконструировать условия, в&nbsp;которых жили древнейшие североевропейские сапиенсы. Помимо человеческих костей, в&nbsp;слоях LRJ в&nbsp;Ранисе есть кости типичных обитателей холодной <a href="https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B4%D1%80%D0%BE%D1%81%D1%82%D0%B5%D0%BF%D1%8C" target=_blank>тундростепи</a>: северных оленей (их больше всего), шерстистых носорогов, мамонтов, <a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BF%D0%BD%D0%BE%D0%B9_%D0%B7%D1%83%D0%B1%D1%80" target=_blank>степных бизонов</a>, туров, благородных оленей, лошадей. Из хищников преобладают пещерные медведи, есть также гиены и волки.</p>
+
+<p>По-видимому, носители культуры LRJ не жили в&nbsp;пещере подолгу. Небольшие группы первопроходцев-сапиенсов лишь изредка забредали в&nbsp;Ильзенхёле. Большую часть времени пещера была логовом медведей и гиен, которые в&nbsp;основном и натащили туда кости копытных и хоботных. С&nbsp;этим согласуются и результаты анализа ДНК из пещерного грунта, и относительно небольшое количество каменных орудий, и тот факт, что следы зубов хищников встречаются на костях травоядных намного чаще, чем царапины от каменных орудий или следы воздействия огня. Похожая картина наблюдается и в&nbsp;других местонахождениях LRJ. Впрочем, это не было уникальной особенностью именно данной культуры. Носители мустьерской и шательперонской культур тоже имели обыкновение ютиться, как временные жильцы, в&nbsp;логовах хищников. Настоящими «хозяевами природы» люди станут позже.</p>
+
+<p>Судя по соотношению стабильных изотопов углерода (<i>δ</i><sup>13</sup>C) и азота (<i>δ</i><sup>15</sup>N) в&nbsp;коллагене костей, древние сапиенсы из Раниса питались в&nbsp;основном мясом крупных млекопитающих, таких как олени, носороги и лошади. Похожей диеты придерживались в то время и европейские неандертальцы, и пещерные медведи.</p>
+
+<p>В течение всего периода формирования слоев LRJ климат в&nbsp;этом районе нынешней Германии был намного холоднее, чем сегодня. К&nbsp;концу периода, 45&nbsp;000–43&nbsp;000&nbsp;лет назад, стало особенно холодно, средняя температура была на 7–15°C ниже нынешней. Но даже в&nbsp;это время пещеру иногда посещали сапиенсы. Это говорит об их высокой приспособляемости, тем более, если их предки действительно не так давно пришли с&nbsp;Ближнего Востока.</p>
+
+<p>В целом новые данные хорошо согласуются с&nbsp;идеей о&nbsp;многократных проникновениях сапиенсов в&nbsp;неандертальскую Европу. Задолго до того, как технически продвинутые сапиенсы (носители ранних версий ориньякской культуры) полностью колонизировали Европу, не оставив неандертальцам места под солнцем, небольшие популяции сапиенсов-первопроходцев уже скитались в&nbsp;поисках добычи по холодным европейским просторам.</p>
+
+<p class="small"><b>Источники:</b><br>
+1) Dorothea Mylopotamitaki, Marcel Weiss, Helen Fewlass, Elena Irene Zavala, Hélène Rougier, Arev Pelin Sümer, Mateja Hajdinjak, Geoff&nbsp;M. Smith, Karen Ruebens, Virginie Sinet-Mathiot, Sarah Pederzani, Elena Essel, Florian&nbsp;S. Harking, Huan Xia, Jakob Hansen, André Kirchner, Tobias Lauer, Mareike Stahlschmidt, Michael Hein, Sahra Talamo, Lukas Wacker, Harald Meller, Holger Dietl, Jörg Orschiedt, Jesper&nbsp;V. Olsen, Hugo Zeberg, Kay Prüfer, Johannes Krause, Matthias Meyer, Frido Welker, Shannon&nbsp;P. McPherron, Tim Schüler & Jean-Jacques Hublin. <a href="https://www.nature.com/articles/s41586-023-06923-7" target=_blank><i>Homo sapiens</i> reached the higher latitudes of Europe by 45,000&nbsp;years ago</a>&nbsp;// <i>Nature</i>. 2024. DOI:&nbsp;10.1038/s41586-023-06923-7.<br>
+2) Geoff&nbsp;M. Smith, Karen Ruebens, Elena Irene Zavala, Virginie Sinet-Mathiot, Helen Fewlass, Sarah Pederzani, Klervia Jaouen, Dorothea Mylopotamitaki, Kate Britton, Hélène Rougier, Mareike Stahlschmidt, Matthias Meyer, Harald Meller, Holger Dietl, Jörg Orschiedt, Johannes Krause, Tim Schüler, Shannon&nbsp;P. McPherron, Marcel Weiss, Jean-Jacques Hublin & Frido Welker. <a href="https://www.nature.com/articles/s41559-023-02303-6" target=_blank>The ecology, subsistence and diet of ~45,000-year-old <i>Homo sapiens</i> at Ilsenhöhle in Ranis, Germany</a>&nbsp;// <i>Nature Ecology & Evolution</i>. 2024. DOI:&nbsp;10.1038/s41559-023-02303-6.<br>
+3) Sarah Pederzani, Kate Britton, Manuel Trost, Helen Fewlass, Nicolas Bourgon, Jeremy McCormack, Klervia Jaouen, Holger Dietl, Hans-Jürgen Döhle, André Kirchner, Tobias Lauer, Mael Le&nbsp;Corre, Shannon&nbsp;P. McPherron, Harald Meller, Dorothea Mylopotamitaki, Jörg Orschiedt, Hélène Rougier, Karen Ruebens, Tim Schüler, Virginie Sinet-Mathiot, Geoff&nbsp;M. Smith, Sahra Talamo, Thomas Tütken, Frido Welker, Elena&nbsp;I. Zavala, Marcel Weiss & Jean-Jacques Hublin. <a href="https://www.nature.com/articles/s41559-023-02318-z" target=_blank>Stable isotopes show <i>Homo sapiens</i> dispersed into cold steppes ~45,000 years ago at Ilsenhöhle in Ranis, Germany</a>&nbsp;// <i>Nature Ecology & Evolution</i>. 2024. DOI:&nbsp;10.1038/s41559-023-02318-z.</p>
+
+<p class="small"><b>См. также:</b><br>
+1) <a href="/novosti_nauki/434106/Sapiensy_zaselili_neandertalskuyu_Evropu_s_tretey_popytki" target=_blank>Сапиенсы заселили неандертальскую Европу с&nbsp;третьей попытки</a>, «Элементы», 26.05.2023.<br>
+2) <a href="/novosti_nauki/433937/Sapiensy_nachali_zaselenie_Evropy_55_tysyach_let_nazad" target=_blank>Сапиенсы начали заселение Европы 55&nbsp;тысяч лет назад</a>, «Элементы», 15.02.2022.<br>
+3) <a href="/novosti_nauki/432467/Paleogeneticheskie_dannye_podtverdili_chto_sozdatelyami_protoorinyakskoy_kultury_byli_lyudi_sovremennogo_tipa" target=_blank>Палеогенетические данные подтвердили, что создателями протоориньякской культуры были люди современного типа</a>, «Элементы», 27.04.2015.<br>
+4) <a href="/novosti_nauki/430147/Utochnenie_radiouglerodnykh_datirovok_zastavlyaet_peresmotret_istoriyu_okkupatsii_Evropy_lyudmi_sovremennogo_tipa" target=_blank>Уточнение радиоуглеродных датировок заставляет пересмотреть историю оккупации Европы людьми современного типа</a>, «Элементы», 05.03.2006.</p>
+
+
+
+
+<p><i><a href="http://evol-biol.ru" target=_blank>Александр Марков</a></i></p>
+
+
+    
+</div>
+
+<div class='cl'></div>
+<hr>
+<div class='toggle'>
+
+<div class='forum_topctrl '>
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter="" id="forum_socnets_share"></div><div class='forum_icon' onclick='toggleClick(this)' title='Комментарии'><span class='fmicon'></span><span class='fmcounter'>37</span></div>
+  
+     <div class='goto toggle_hide'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this)'><span class='hide_other'>Показать </span>комментарии (37)</span></div>
+     <div class='goto toggle_body'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this); socnetsFly();'><span class='hide_other'>Свернуть </span>комментарии <span class='hide_main'>(37)</span></span></div>
+  
+
+</div>
+
+<div class='forum toggle_body' id='forum_block'>
+<hr>
+<ul class="level0"><li class="level0 parent" id='forum_node_5352558'>
+   <div class='fmnode'>
+   <a name='fm5352558'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352558'>19.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>08:41
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Спасибо за короткий исторический экскурс, но осталось непонятно кто жил в те далекие времена на территории Сибири.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5352559'>
+   <div class='fmnode'>
+   <a name='fm5352559'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Александр Марков</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352559'>19.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>09:04
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>см. здесь новость про человека из Усть Ишима.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5352560'>
+   <div class='fmnode'>
+   <a name='fm5352560'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Александр Марков</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352560'>19.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>09:15
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>новость про человека из Усть Ишима</blockquote>Коллагеновый азот в усть-ишимской кости изотопно аномально тяжёлый — 13,49—14,47 ‰. Этот результат расценивается как признак преимущественно мясной диеты усть-ишимского человека. Близкие значения ранее были выявлены у людей начала позднего палеолита. Только у охотников на морского зверя изотопные коэффициенты коллагенового азота достигают больших значений — 18—20 ‰. В костном детрите людей со стоянок Мальта́ и Сунгирь второй половины позднего палеолита значения изотопных коэффициентов коллагенового азота ниже — 11,3—12,2 ‰. Коллагеновый углерод в усть-ишимской кости является относительно изотопно тяжёлым в сравнении с данными по наземным животным. Это обусловлено не только мясной, но и растительной пищей.<blockquote>Судя по соотношению стабильных изотопов углерода (δ13C) и азота (δ15N) в коллагене костей, древние сапиенсы из Раниса питались в основном мясом крупных млекопитающих, таких как олени, носороги и лошади. Похожей диеты придерживались в то время и европейские неандертальцы, и пещерные медведи.</blockquote>А какая была альтернативная диета в то время, когда земледелие еще не был изобретено?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul><li class="level0 parent" id='forum_node_5352561'>
+   <div class='fmnode'>
+   <a name='fm5352561'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>OSAO</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352561'>19.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>17:07
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>...смелую гипотезу французского археолога о трех волнах миграции...<br>Она не то, чтобы смелая, она наиболее естественная, что-ли. А что три, то не три, тут главное, что несколько, ибо иначе придется предположить, что миграция шла по плану.<br><br>...носители культуры LRJ не жили в пещере подолгу...<br>Медведь может отдыхать в любом месте своей территории, и подведомственная добыча просто никогда не знает, где он в данный момент. А тут суперхищник обозначает костром своё логово, и довольно быстро наступает время, когда потенциальная добыча начинает обходить это место за многие километры. За 100 верст киселя хлебать - это ещё тогда сказано было...</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5352563'>
+   <div class='fmnode'>
+   <a name='fm5352563'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Наукообраз</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>OSAO</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352563'>19.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>22:05
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>А тут суперхищник обозначает костром своё логово</blockquote>Чем доставлял большое удовольствие пещерному медведю или льву, избавляя тех от охоты: дождался, когда люди притащат добытого оленя или бизона, без труда отогнал их и пообедал, при случае закусив зазевавшимся человечком...<br>Люди во все времена были суперхвастунами! Добьет дряхлого от старости немейского льва, и объявляет себя древнегреческим героем! ))</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5352564'>
+   <div class='fmnode'>
+   <a name='fm5352564'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Artemo</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Наукообраз</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352564'>20.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>05:13
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Была новость, что пещерный медведь был ещё более растительноядным, чем современный бурый. Возможно, людей он отгонял не так уж и часто. А если дело было зимой, и медведь в это время спал без задних ног, то всё вероятно было наоборот, и люди неплохо кушали, дополняя свой коллаген аномально тяжелым азотом мяса верхушки пищевой цепи</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level1 parent" id='forum_node_5352587'>
+   <div class='fmnode'>
+   <a name='fm5352587'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>demosua_</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>OSAO</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352587'>23.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>15:06
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>А какая была альтернативная диета в то время, когда земледелие еще не был изобретено?</blockquote>Альтернативная диета - это собирательство. Конечно и неандертальцы и кроманьонцы того времени, будучи по природе всеядными, отдавали предпочтение мясной пищи. Как, видимо и современные люди...</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2 parent" id='forum_node_5352591'>
+   <div class='fmnode'>
+   <a name='fm5352591'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>demosua_</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352591'>24.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>06:20
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Альтернати́ва (фр. alternative, от лат. alternatus — другой) — необходимость выбора одной из двух или более исключающих друг друга возможностей.<br>То-есть альтернатива мясу это без мяса.<br><br>Давайте перейдем к конкретики, чтобы сбить с вас спесь. Составьте мне рацион человека каменного века без мяса, чтобы соответствовал по калорийности энергетическим расходам на тяжелую физическую работу и был сбалансирован по содержанию белков, жиров и углеводов, что важно в первую очередь для детского растущего организма.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3" id='forum_node_5352603'>
+   <div class='fmnode'>
+   <a name='fm5352603'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Artemo</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352603'>26.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>09:11
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>От региона зависит. В тропиках-субтропиках собирательство дает большую часть калорий. В умеренных широтах и выше растительная пища стала обильной, только когда ее начали выращивать.<br>А так рацион койкой и сан сбалансирован по белкам, жирам и калориям. Мясо у них нечасто в большом количестве (и за это их раньше и истребляли) как правило это птички, крыски, много насекомых. Калорий там хватает для их климата, хотя разжиреть сложно. На севере вариантов нет, зимой по крайней мере: так много калорийной растительной пищи среди дикоросов толком и нет, насекомых тоже в снегу не найдёшь, потребность в калориях огромная</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level2" id='forum_node_5352604'>
+   <div class='fmnode'>
+   <a name='fm5352604'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Artemo</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>demosua_</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352604'>26.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>09:14
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Смотря где современные люди. Есть регионы, где мяса едят очень мало (правда, от бедности, но и охотники-собиратели тут не вполне свободны в выборе - такие люди как правило едят все, что съедобно</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul><li class="level0 parent" id='forum_node_5352566'>
+   <div class='fmnode'>
+   <a name='fm5352566'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Юрий Фёдоров</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352566'>20.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>14:34
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Странно мне кажется, что люди оставляли свои &quot;морфологически невнятные кости&quot; прямо по месту жительства. Вот в доме моих предков - дедушка с отцом своим строили лет сто с хвостиком назад, там поколения жили и сейчас живут люди - я могу гарантировать: ни одного кусочка людских костей нет. Думаете надо подождать тысячу лет? Сомневаюсь, что что-то изменится. И вообще мне кажется, что наличие костей как раз говорит не о тех, кто жил там, а скорее о рационе хозяев)<br>И вот ещё, по-моему, о чем говорят находки: женщин там не было! Во всяком случае если бы там были такие, что в моей семье виданы - выметали бы все объедки и обломки подчистую, да подальше от дома где-то в помойную яму высыпали! И искать-плутать бы археологам по окрестностям. Так что либо плохая хозяйка - мать археологии, либо в те времена такие пещеры и служили свалкой.)</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5352568'>
+   <div class='fmnode'>
+   <a name='fm5352568'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Artemo</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Юрий Фёдоров</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352568'>20.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>17:47
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Вот тут хорошая хозяйка, прибрала<br>https://superomsk.ru/news/63973-sojitel_omichki_vkopal_v_ogo<wbr>rode_svoego_predshestv/<br>Так что отсутствие кусочков человеческих костей возле дома даже сейчас, в 21 веке гарантировать нельзя</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5352631'>
+   <div class='fmnode'>
+   <a name='fm5352631'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Юрий Фёдоров</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Artemo</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352631'>29.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>11:08
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Уважаемый Артемо, зачем так далеко - в Омск - ходить?<br>У англичан это столь давняя традиция, что и не требует следственных органов, они прямо говорят: &quot;Виэв олл гот скелитин ин зе капбэрд&quot;.<br>))</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level1 parent" id='forum_node_5352570'>
+   <div class='fmnode'>
+   <a name='fm5352570'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Юрий Фёдоров</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352570'>21.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>03:40
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Вот в доме моих предков - дедушка с отцом своим строили лет сто с хвостиком назад, там поколения жили и сейчас живут люди - я могу гарантировать: ни одного кусочка людских костей нет.</blockquote>Пещера по площади намного превосходит ту хибарку, которую построили ваши предки, пещеру можно сравнить со средневековым замком включая хозяйственные постройки.<br>В пещере были отдельные места для проживания, изготовления оружия и одежды, приготовления пищи, так же место для склепа и поминание умерших тоже существовало.<blockquote>Так что либо плохая хозяйка - мать археологии, либо в те времена такие пещеры и служили свалкой.)</blockquote>Не нужно с высоты вашей малометражной хибарки рассматривать быт пещерных людей:<br><br>Наш ковер - цветочная поляна<br>Наши стены - сосны-великаны<br>Наша крыша - небо голубое<br>Наше счастье - жить такой судьбою<br>Наше счастье - жить такой судьбою<br>Ла ла ла ла ла ла<br>Ла ла ла ла ла<br>Ла ла ла ла ла ла ла ла<br>Ла ла ла ла ла<br>Ла ла ла ла ла ла ла ла<br>Ла ла ла ла ла<br>Ла ла ла ей ей ей ей ей</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5352630'>
+   <div class='fmnode'>
+   <a name='fm5352630'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Юрий Фёдоров</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352630'>29.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>10:53
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Уважаемый Кбоб!<br>Если б Вы были правы во всем Вами сказанном, то:<br>1) Будь описываемая пещера такой, как Вы описали - со склепом - &quot;кусочки&quot; найденных костей были бы вполне вразумительными.<br>2) Будь ковер, крыша и стены такими - ла-ла-ла и ой ей ей - копания археологов в пещере были бы ни секунды не более результативны, чем на просторах полей и рек.<br>))<br><br>А таки маленькие, невразумительные кусочки костей разве не более подходят к ситуации, что чела, дружно сидя возле костра, съели, а потом наводили порядок и не все кости вынесли на помойку?) Ну, или в остальном они пошли на изготовление стрел и прочих безделиц...</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level1" id='forum_node_5352619'>
+   <div class='fmnode'>
+   <a name='fm5352619'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Роман Пехов</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Юрий Фёдоров</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352619'>27.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>03:51
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Хорошая идея!   Представители культуры LRJ имели манеру сапиенсов есть иногда, а были ли они сапиенсами сами, неизвестно.<br><br>По-видимому, в археологии самой распространённой является ситуация, когда всё население изучаемого региона и периода относилось к одному виду людей.   Тогда и в самом деле нет особой разницы, принадлежит ли втоптанная в пол пещеры кость её обитателю или же съеденному соседу.   Но в редкой ситуации, когда соседствали разные виды, таковое различие приобретает значение.<br><br>Жаль, что нам не поясняют, рассмотрели ли исследователи вариант «сапиенсы были добычей для LRJ», и если рассмотрели, то почему отбросили.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level0 parent" id='forum_node_5352571'>
+   <div class='fmnode'>
+   <a name='fm5352571'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>UG-15</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352571'>21.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>08:39
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Если сапиенсы жили уже 45 000 лет назад - то почему они, например, 35 000 лет назад не строили пирамиды, железные дороги, не изготавливали телефонов на андроиде?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5352572'>
+   <div class='fmnode'>
+   <a name='fm5352572'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>UG-15</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352572'>21.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>10:14
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>У них не было демократически избранных президентов и вообще демократии.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2 parent" id='forum_node_5352573'>
+   <div class='fmnode'>
+   <a name='fm5352573'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>UG-15</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>kbob</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352573'>21.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>10:49
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Фараоны, обходясь без выборов, строили же пирамиды.<br>А при царском режиме - даже железные дороги</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3" id='forum_node_5352578'>
+   <div class='fmnode'>
+   <a name='fm5352578'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>UG-15</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352578'>21.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>13:53
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>А при царском режиме - даже железные дороги</blockquote>Но &quot;телефонов на андроиде&quot; при царском режиме не было. да и железные дороги при царском режиме начали строить на 50 лет позже демократических режимов.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level3" id='forum_node_5352582'>
+   <div class='fmnode'>
+   <a name='fm5352582'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Наукообраз</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>UG-15</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352582'>21.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>21:26
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Фараоны, обходясь без выборов, строили же пирамиды.</blockquote>Во-первых, строили пирамиды не фараоны, а, во-вторых, были бы умными, то предпочли бы строить демократическое общество без фараонов... ))</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul><li class="level1 parent" id='forum_node_5352575'>
+   <div class='fmnode'>
+   <a name='fm5352575'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Андрей Быстрицкий</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>UG-15</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352575'>21.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>11:18
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Почему же нынешние сапиенсы не строят пирамид?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2" id='forum_node_5352577'>
+   <div class='fmnode'>
+   <a name='fm5352577'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>UG-15</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Андрей Быстрицкий</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352577'>21.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>11:26
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Про всех сапиенсов не скажу.<br>Но лично у меня - денег нет</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level2" id='forum_node_5352579'>
+   <div class='fmnode'>
+   <a name='fm5352579'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Андрей Быстрицкий</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352579'>21.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>13:53
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Строят из коричневого материала.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level2" id='forum_node_5352583'>
+   <div class='fmnode'>
+   <a name='fm5352583'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Наукообраз</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Андрей Быстрицкий</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352583'>21.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>21:27
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Так поумнели же! Но не везде -- вот в СА и ОАЭ до сих пор строят совершенно безумные здания... Да и в РФ стараются вернуться к традиционным ценностям: ХХС построили, ГХВС РФ отгрохали... Чем не капища?! )) Испанцы тоже стараются достроить шедевр Гауди (ну, он хотя бы имеет большую художественную ценность).</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level1" id='forum_node_5352584'>
+   <div class='fmnode'>
+   <a name='fm5352584'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>nal</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>UG-15</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352584'>22.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>00:15
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Выживали они за счет охоты и собирательства дикоросов, непрестанно кочуя из одного места в другое. Жили небольшими группами в несколько десятков-первые стони человек. Не до архитектуры и инженерии с электроникой им было. Не обладали они свободным временем, которое появилось с сельским хозяйством. Не обладали багажом накопленных знаний предыдущих поколений (не имели письменности, науки и учеб. заведений) и тем более будущих.<br>Вы, надо полагать, тоже не с рождения умели и знали как говорить, писать, ходить и что-то изобретать. Также и человечество когда-то было молодым, незрелым, неопытным.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level0 parent" id='forum_node_5352580'>
+   <div class='fmnode'>
+   <a name='fm5352580'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>antiximik</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352580'>21.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>16:46
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Теперь можно считать установленным, что культура LRJ была создана сапиенсами, а неандертальцы не имеют к ней отношения.</blockquote>Хммммм... А вот я соглашусь с Юрием Фёдоровым (выше), что здесь скорее человеков схарчили... :з</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1" id='forum_node_5352581'>
+   <div class='fmnode'>
+   <a name='fm5352581'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>antiximik</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352581'>21.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>17:38
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Каннибал-лектер там жил, из своих же сапиенсов.<br><br>Потому что иначе невозможно объяснить, как неандертальцы смогли так тщательно отделить мясо от костей без термообработки, что бы не испортить ДНК и не соскребая сырое мясо каменными скребками, чтобы ни разу не поцарапать кости.<br>И как они могли не закусить &quot;костным мозгом&quot; по рецепту доктора Преображенского - https://www.youtube.com/watch?v=tRsNLrpk3D0<br><br>Каннибал-лектер же своим нержавеющим скальпелем все аккуратно счистил. Он как раз жил в том каменном веке.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level0 parent" id='forum_node_5352585'>
+   <div class='fmnode'>
+   <a name='fm5352585'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Михаил 33</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352585'>22.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>14:29
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Если моделировать возможные ситуации, а не пускаться в обывательские эмоции, то нужно разобраться в главном = Это были сезонные летом походы относительно крупных отрядов. Плюс попытки перезимовки небольших групп сапиенсов.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1 parent" id='forum_node_5352586'>
+   <div class='fmnode'>
+   <a name='fm5352586'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>demosua_</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Михаил 33</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352586'>23.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>14:58
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Однако, походы (сезонные!) некоторых групп первобытных сапиенсов с Ближнего Востока на север Европы пожалуй покруче, чем многолетние походы, которые совершали всего-то лет 500 назад отряды русских в Сибирь! Просто фантастика!<br>Предположить, что сапиенсы жили там постоянно - куда проще...</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level2">
+<li class="level2 parent" id='forum_node_5352589'>
+   <div class='fmnode'>
+   <a name='fm5352589'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>OSAO</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>demosua_</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352589'>23.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>18:56
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Стоянка в Сунгире датируется, если грубо, 30 тыс.лет назад, а из Африки сапиенсы вышли около 40 тыс.лет назад. То есть, шли они неторопливо, около 10 тыс. лет понадобилось, чтобы дойти до Владимира. Быстро, медленно или вообще оседло - выбор делает доступность пищи. Люди идут за едой, то есть, за стадами травоядных. Те на север, и эти за ними, и никаких вам, понимаете, сезонных турпоходов. Да и как в них ходить, если рюкзаков ещё не было?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level3">
+<li class="level3" id='forum_node_5352590'>
+   <div class='fmnode'>
+   <a name='fm5352590'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>OSAO</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352590'>23.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>19:16
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote>Да и как в них ходить, если рюкзаков ещё не было?</blockquote>Не только рюкзаков, но и колес с лошадьми и лодок тоже. Боюсь и туристическая обувь была в дефиците.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul>
+   </li></ul><li class="level1" id='forum_node_5352588'>
+   <div class='fmnode'>
+   <a name='fm5352588'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>kbob</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Михаил 33</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352588'>23.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>18:23
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Конечно были, ведь в каменном веке ребенок уже в возрасте 3-х месяцев мог бегать на длинные дистанции, а 1 один год нести на своих плечах убитого оленя. Беременная женщина в те времена могла не только в горящую избу и коня на скаку, но и совершить пеший переход по 200 км в день.<br>В такой ситуации, конечно, глупо предположить, что сапиенсы вели оседлый образ жизни.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level0 parent" id='forum_node_5352594'>
+   <div class='fmnode'>
+   <a name='fm5352594'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Михаил 33</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352594'>25.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>13:38
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'><blockquote> Люди идут за едой, то есть, за стадами травоядных. Те на север, и эти за ними</blockquote>Предположим, сапиенсы продвигались первые годы по 5 километров за день на север за стадами травоядных. Летом за 100 дней они могли пройти 500 километров, используя только свою африканскую амуницию. Со временем, реализуя уже свой летний опыт, они могли двигаться ежедневно по 10 километров на север за стадами травоядных, а это уже 1000 километров за лето. Летние = сезонные миграции сапиенсов в африканской амуниции вполне реальны.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1" id='forum_node_5352596'>
+   <div class='fmnode'>
+   <a name='fm5352596'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Михаил 33</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Михаил 33</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352596'>25.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>16:34
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Подумайте. Преимущественное продвижение НА СЕВЕР было естественным. Как для убегавших от охотников = сапиенсов стадах травоядных, так и для наступавших с юга сапиенсов.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul><li class="level0 parent" id='forum_node_5352600'>
+   <div class='fmnode'>
+   <a name='fm5352600'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Михаил 33</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352600'>25.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>17:56
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Новейшие исследования – необходимые звенья, которые позволили, используя системный мультидисциплинарный подход, конкретно изучать и исследовать процессы возникновения и развития человеческой речи, а именно процессы формирования информационной системы распределенных сетей нейронов (РСН) мозга.<br><br>Взаимодействие и некоторая конфронтация кроманьонцев с неандертальцами способствовали развитию речи - взаимосвязи «основных факторов, учитываемых при принятии решений», с языковыми подсистемами (см. рис 2.), которые отражают необходимость и возможность обсуждения в коллективе, как вариантов принимаемых решений, так и их реализаций.<br><br>Так военные искусства и технологии приводили к расширению контактов, как между коллективами, так и внутри коллективов. Именно здесь широко проявляются факторы, способствовавшие развитию речи у человека.<br><br>Объективно.<br><br>Разведка, контакты с иноплеменниками, подготовка, обсуждение и реализация военных действий максимально способствовали возникновению и развитию речи, причем эти действия в полном объеме становятся возможны, только отвлекаясь от текущей ситуации. Таким образом, существенная особенность формирования четвертого уровня восприятия субъективного мира человека (СМЧ) - впервые появляется принципиальная возможность реализации военных действий.<br><br>Главной особенностью обработки вербальной информации соответствующей четвертому уровню восприятия СМЧ является то, что речь индивидуума начинает развиваться в процессе речевого общения, отвлеченно от конкретной ситуации. При этом речь принимает особое значение – получение и обмен новой информацией. В результате обмена новой информацией, речь отражает не только то, что уже известно индивидууму из собственного опыта, но и открывает то, что ему еще не известно, что вводит его в широкий круг новых для него фактов и событий. Теперь для индивидуума, новые совокупности подсистем нейронов позволяют реализовать все более объективную оценку окружающей среды и результатов его деятельности на основе информационной системы РСН и подсистем СМЧ. Эти системы представляют специфически человеческие образования, являющимися трансформированными единицами общественного опыта (человечества).<br><br>Четвертый уровень СМЧ уже открывает возможность достаточно в полной мере реализовать конфронтацию (противоборство) между сапиенсами и неандертальцами.<br>https://www.academia.edu/27052453/Сознание._Мир_и_разум._Сам<wbr>оорганизация_Процесс_самоорганизации</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   <ul class="level1">
+<li class="level1" id='forum_node_5352602'>
+   <div class='fmnode'>
+   <a name='fm5352602'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Михаил 33</span>
+           <span class='break'><img src="/images/eltnewdesign/path_br.png" alt="&gt;"></span> <span class='fmansto'>Михаил 33</span>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434194#fm5352602'>25.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>23:04
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Будущее человеческой культуры затрагивает интересы каждого. пожалуйста посмотрите шире и Вы увидите, коммерцию от науки и юмор положения обывателей. Пиарщики и психотехнологи широко используют понятие о субъективном мире = 7 уровней восприятия. А психологи, подыгрывая даже не знают, что это такое.<br>https://www.academia.edu/27052479/Основные_концепции_сознани<wbr>я._Психофизиология</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+
+   </li></ul></ul>
+<div class='fmctrl fl' id='forum_btm_btn'>Написать комментарий</div>
+
+
+<div class='cl'></div>
+</div>
+</div>
+
+<div class='forumctrls' style='display:none'>
+
+<div id='forum_edit_block'>
+<form action="/novosti_nauki/434194?ipcountry=NL" method=post onsubmit="return forum_checkMsgForm(this)">
+
+<input type='hidden' name='msgedit' id='forum_msg_id'>
+<div class='xform'>
+	<textarea id='forum_edit_textarea' name=memo placeholder="Комментарий"></textarea>
+	
+	<input type='submit' value='Сохранить' name='accept'> <input type=submit name=delete onclick='return confirm("Удалить сообщение?");' value="Удалить">
+        <div class='gap'></div>
+</div>
+</form>
+</div>
+
+<div id='forum_input_block' class='fmnode toggle'>
+
+        <div class='fmhead'><span class="nodepoint"></span>Вход в систему</div>
+	<div class='xform beige'>
+        <div class='smallform'>
+        
+		<form action="/novosti_nauki/434194?ipcountry=NL" method=post>
+                
+                <input type='hidden' name='answerto' id='forum_prev_id'>
+		<input type=text name=LOGIN  value="" maxlength=50 placeholder='Имя' id='forum_login'></td>
+		<input type=password name="PASSWD" value="" maxlength=50 placeholder='Пароль'></td></tr>
+                <div class="label fl"><span class="xcheckbox"><input id='rpw_chk' type="checkbox" name=PERSIST onclick="resetXCheck(this)"></span> <label for='rpw_chk'>запомнить пароль</label></div>
+                <input type="submit" class='right' name="accept_auth" value="   ok   ">
+                <div class='cl'></div>
+		</form>
+        <div class='goto fl'><a href="/reguser">Зарегистрироваться</a></div>
+        <div class='goto fr'><a href="/restore_password">Забыли пароль?</a></div><div class='cl'></div>
+	</div>
+        </div>
+        <div class='gap'></div>
+
+</div>
+
+</div>
+
+<script type='text/javascript'>
+var forum_user ="";
+var forum_mode = "simple";
+var forum_answerto = ""; 
+var forum_msgcnt = "37"; 
+
+
+var topbtn = document.getElementById('forum_topsocnet_button');
+if (topbtn) topbtn.style.display='';
+</script>
+<script type='text/javascript' src='/downloads/js/forum.js?v=1.10' charset="utf-8"></script>
+</div>
+
+<div class='crblock'>
+
+<div class='storyline important'>
+
+
+
+	<div class='hide_main hide_hpad'><hr><div class='gap'></div><h2>Сюжет</h2></div>
+ 
+
+<hr class='hide_main hide_hpad'>
+<div class='toggle'>
+<div class='subtitle hide_main hide_hpad' onclick='toggleClick(this)'><span class='toggle_button'></span><span class='toggle_label'>Неандертальцы, сапиенсы, денисовцы</span></div>
+<h2 class='hide_vpad hide_phone'><a href="/suzhet/31/Neandertaltsy_sapiensy_denisovtsy">Неандертальцы, сапиенсы, денисовцы</a></h2>
+
+<div class='phone_toggle_body vpad_toggle_body'>
+<hr class='nogap'>
+
+
+
+<ul class='storyline vtype0'>
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/434392/Otsekvenirovan_genom_rannego_denisovtsa?story=31'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/second_denisovan_genome_logo_200.jpg" alt="<b>Рис. 1.</b> Левый верхний моляр возрастом 170&ndash;200&nbsp;тысяч лет из Денисовой пещеры (Denisova&nbsp;25) и распространение денисовцев"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>12.11.2025</div>
+
+      <div class='title'>Отсеквенирован геном раннего денисовца</div>
+      <div class='sublink'>Александр Марков&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+
+</li>
+<li class='story prebreak'></li><li class='story break hr'><div><hr></div></li><li class='story prebreak'></li>
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/434328/300_tysyach_let_nazad_nashi_predki_poluchili_20_genov_ot_drugogo_vida_lyudey?story=31'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/structured_coalescent_model_reveals_logo_200.jpg" alt="Рис. 1. Упрощенная генеалогия современного человечества согласно новым данным"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>07.04.2025</div>
+
+      <div class='title'>300&nbsp;тысяч лет назад наши предки получили 20%&nbsp;генов от другого вида людей</div>
+      <div class='sublink'>Александр Марков&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/434242/Denisovtsy_prozhili_v_Tibete_bolee_sta_tysyach_let?story=31'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/denisovans_in_tibet_logo_200.jpg" alt="Восточноазиатские археологические местонахождения позднего среднего и позднего плейстоцена"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>22.07.2024</div>
+
+      <div class='title'>Денисовцы прожили в&nbsp;Тибете более ста тысяч&nbsp;лет</div>
+      <div class='sublink'>Александр Марков&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/434230/Neandertaltsy_zabotilis_o_detyakh_menshe_chem_sapiensy?story=31'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/neanderthal_child_care_logo_200.jpg" alt="Неандертальские малыши рождались ширококостными и коренастыми"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>03.06.2024</div>
+
+      <div class='title'>Неандертальцы заботились о&nbsp;детях меньше, чем сапиенсы</div>
+      <div class='sublink'>Елена Наймарк&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/434212/Rybalka_pomogla_drevnim_afrikantsam_perezhit_izverzhenie_supervulkana_Toba?story=31'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/adaptive_foraging_behaviours_during_toba_supereruption_logo_200.jpg" alt="Рис. 1. Раскопки на стоянке Шинфа-Метема 1"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>08.04.2024</div>
+
+      <div class='title'>Рыбалка помогла древним африканцам пережить извержение супервулкана Тоба</div>
+      <div class='sublink'>Александр Марков&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story current'>
+
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/homo_sapiens_in_europe_logo_200.jpg" alt="Пещера Ильзенхёле в Ранисе"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>19.02.2024</div>
+
+      <div class='title'>Сапиенсы жили на севере Европы уже 45&nbsp;000&nbsp;лет назад</div>
+      <div class='sublink'>Александр Марков&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/434178/Neandertalskie_geny_pomogli_sapiensam_vyshedshim_iz_Afriki_perenastroit_tsirkadnyy_ritm?story=31'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/archaic_introgression_shaped_human_circadian_traits_logo_200.jpg" alt="Скрещивание древних сапиенсов с неандертальцами и денисовцами"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>04.01.2024</div>
+
+      <div class='title'>Неандертальские гены помогли сапиенсам, вышедшим из&nbsp;Африки, перенастроить циркадный ритм</div>
+      <div class='sublink'>Александр Марков&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/434029/Pozdnie_altayskie_neandertaltsy_byli_malochislenny_i_patrilokalny?story=31'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/genetic_insights_into_the_social_organization_of_neanderthals_logo_200.jpg" alt="Рис. 1. Прочтенные ядерные геномы неандертальцев"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>24.10.2022</div>
+
+      <div class='title'>Поздние алтайские неандертальцы были малочисленны и&nbsp;патрилокальны</div>
+      <div class='sublink'>Александр Марков&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/novosti_nauki/434022/Nobelevskaya_premiya_po_fiziologii_i_meditsine_2022?story=31'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/news/nobel_medal_physiol_200.jpg" alt="Сванте Пэабо позирует перед камерой с копией скелета неандертальца"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>04.10.2022</div>
+
+      <div class='title'>Нобелевская премия по физиологии и медицине&nbsp;— 2022</div>
+      <div class='sublink'>Елена Наймарк&nbsp;<span class="break">•</span> Новости науки</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+<hr>
+</li>
+
+
+<li class='story'>
+<a class='nohover' href='/bookclub/book/1307/Vymershie_lyudi?story=31'>
+      
+       <div class='img_block'>
+       <div class='ib_img '><img src="images/bookclub/vymershie_lyudi_200.jpg" alt="Вымершие люди"></div>
+    
+      <div class='ib_text'>
+      <div class='sublink date'><span class='point'></span>2021</div>
+
+      <div class='title'>Вымершие люди</div>
+      <div class='sublink'>Клайв Финлейсон&nbsp;<span class="break">•</span> Книжный клуб</div>
+      </div>
+   </div> 
+</a>
+<div class='cl'></div>
+
+</li>
+<li class='story prebreak'></li><li class='story break hr'><div><hr></div></li><li class='story prebreak'></li>
+
+</ul>
+
+
+
+
+<div class='goto'><a href="/suzhet/31/Neandertaltsy_sapiensy_denisovtsy">Весь сюжет</a></div>
+
+
+
+<div class='gap2 hide_vpad hide_phone'></div>
+</div>
+</div>
+
+</div>
+
+
+
+     <h2><a href="/novosti_nauki">Последние новости</a></h2>
+     <hr class='nogap'>
+
+
+    <a href="/novosti_nauki/434407/Kukolki_zarazhennye_opasnym_parazitom_posylayut_rabochim_muravyam_signal_ubey_menya" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/altruistic-disease-signalling-in-ant-colonies_logo_200.jpg" alt="Рабочие муравьи Lasius neglectus проводят «разрушающую дезинфекцию»"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Куколки, зараженные опасным паразитом, посылают рабочим муравьям сигнал «убей меня»</div>
+    <div class="sublink"><span class="date">12.02</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434406/U_pervykh_pozvonochnykh_bylo_dve_pary_glaz" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/myllokunmingia_200.jpg" alt="У первых позвоночных было две пары глаз"></div>
+    
+    <div class='ib_text'>
+    <div class="title">У первых позвоночных было две пары глаз</div>
+    <div class="sublink"><span class="date">09.02</span>&nbsp;<span class='break'
+>•</span> Сергей Ястребов</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434405/Infrakrasnoe_izluchenie_drevneyshiy_signal_dlya_privlecheniya_opyliteley" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/infrared-radiation-is-an-ancient-pollination-signal_1_200.jpg" alt="Открытая шишка саговникового растения. (B) Тепловизионное изображение мужской шишки саговника в&nbsp;момент нагревания во&nbsp;время выброса пыльцы"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Инфракрасное излучение&nbsp;— древнейший сигнал для привлечения опылителей</div>
+    <div class="sublink"><span class="date">04.02</span>&nbsp;<span class='break'
+>•</span> Елена Устинова</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434404/Dazhe_krupnye_mozazavry_mogli_zhit_v_rekakh" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/260118_novikovskaya_mosasaurus_200.jpg" alt="Некоторые виды мозазавров могли быть пресноводными"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Даже крупные мозазавры могли жить в реках</div>
+    <div class="sublink"><span class="date">19.01</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+<div class='goto'><a href="/novosti_nauki">Все новости</a></div>
+<div class='gap2'></div>
+
+
+<!-- Здесь был блок картинки дня: KLBLOCK id="eltdpicture" page_size="1" template="dpicture_R_v2" page="" calendar="" features="v2" dpicture_title="Картинка дня" dpicture_th_title="*" gotoxrub="19"/ -->
+
+<div class='important'>
+
+
+<hr class='hide_main hide_hpad'><div class='gap hide_main hide_hpad'></div>
+<div class='rxblock eltnews'>
+<h2>См. также</h2><hr class='nogap'>
+
+
+
+<a class="nohover" href="/novosti_nauki/434106/Sapiensy_zaselili_neandertalskuyu_Evropu_s_tretey_popytki?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/three_waves_of_sapiens_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Сапиенсы заселили неандертальскую Европу с&nbsp;третьей попытки</div>
+    
+    <div class="sublink"><span class="date">26.05.2023</span>&nbsp;<span class='break'>•</span> Александр Марков&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/432467/Paleogeneticheskie_dannye_podtverdili_chto_sozdatelyami_protoorinyakskoy_kultury_byli_lyudi_sovremennogo_tipa?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/makers_of_protoaurignacian_and_implications_for_neandertal_extinction_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Палеогенетические данные подтвердили, что создателями протоориньякской культуры были люди современного типа</div>
+    
+    <div class="sublink"><span class="date">27.04.2015</span>&nbsp;<span class='break'>•</span> Александр Марков&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433937/Sapiensy_nachali_zaselenie_Evropy_55_tysyach_let_nazad?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/modern_human_incursion_into_neanderthal_territories_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Сапиенсы начали заселение Европы 55&nbsp;тысяч лет назад</div>
+    
+    <div class="sublink"><span class="date">15.02.2022</span>&nbsp;<span class='break'>•</span> Елена Наймарк&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/430147/Utochnenie_radiouglerodnykh_datirovok_zastavlyaet_peresmotret_istoriyu_okkupatsii_Evropy_lyudmi_sovremennogo_tipa?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/pictures_390.jpg" alt=""></div>
+    
+    <div class="title">Уточнение радиоуглеродных датировок заставляет пересмотреть историю оккупации Европы людьми современного типа</div>
+    
+    <div class="sublink"><span class="date">05.03.2006</span>&nbsp;<span class='break'>•</span> Александр Марков&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<div class='gap2'></div>
+
+</div>
+
+
+<div class='storyline important'>
+
+</div>
+
+</div>
+
+<div class='cl'></div>
+
+<div class='mb'>
+<div class='pager_one'>
+<hr>
+
+  <a class='nohover' href="/novosti_nauki/434193/V_Argentine_nashli_neobychno_krupnoe_mlekopitayushchee_melovogo_perioda">
+   <div class="next">
+      <div class=icon></div> 
+      <div class="suplink">16.02.2024</div>
+      <div class="pretitle"></div>
+      <div class="title">В&nbsp;Аргентине нашли необычно крупное млекопитающее мелового периода</div>
+   </div>
+  </a>
+
+
+ <a class='nohover' href="/novosti_nauki/434195/Iz_za_nekhvatki_nasekomykh_opyliteley_fialki_vsyo_chashche_pribegayut_k_samoopyleniyu">
+  <div class="prev">
+     <div class=icon></div> 
+     <div class="suplink">22.02.2024</div>
+     <div class="pretitle"></div>
+     <div class="title">Из-за нехватки насекомых-опылителей фиалки всё чаще прибегают к&nbsp;самоопылению</div>
+   </div>
+  </a>
+
+</div>
+<div class='cl'></div>
+</div>
+
+
+
+<div class='other_block'>
+<hr class='top mb'>
+<div class='mb4 other_themes'>
+ <h2>Другие новости</h2>
+ <div class="submenu hrline"><div class="sm_item">
+    <a href="/novosti_nauki/t/379113/Aleksandr_Markov">Александр Марков</a> <span class="stat">944</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/125949/Antropologiya">Антропология</a> <span class="stat">196</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/5272133/Paleogenetika">Палеогенетика</a> <span class="stat">7</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/162677/Paleontologiya">Палеонтология</a> <span class="stat">471</span>
+</div></div>
+</div>
+<div class='scroll_container'>
+<div id='newsScrBlock' class='slider-view'><div class='slider'><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434407/Kukolki_zarazhennye_opasnym_parazitom_posylayut_rabochim_muravyam_signal_ubey_menya?from=bxblock'>
+<div class='img'><span><img src='images/news/altruistic-disease-signalling-in-ant-colonies_logo_390.jpg' alt=''></span></div>
+<div class='title'>Куколки, зараженные опасным паразитом, посылают рабочим муравьям сигнал «убей меня»</div>
+<div class='sublink'><span class="date">12.02</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434406/U_pervykh_pozvonochnykh_bylo_dve_pary_glaz?from=bxblock'>
+<div class='img'><span><img src='images/news/myllokunmingia_390.jpg' alt=''></span></div>
+<div class='title'>У первых позвоночных было две пары глаз</div>
+<div class='sublink'><span class="date">09.02</span>&nbsp;<span class='break'
+>•</span> Сергей Ястребов</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434404/Dazhe_krupnye_mozazavry_mogli_zhit_v_rekakh?from=bxblock'>
+<div class='img'><span><img src='images/news/260118_novikovskaya_mosasaurus_390.jpg' alt=''></span></div>
+<div class='title'>Даже крупные мозазавры могли жить в реках</div>
+<div class='sublink'><span class="date">19.01</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434402/Ne_togo_dinozavra_nazvali_oviraptorom?from=bxblock'>
+<div class='img'><span><img src='images/news/manipulonyx_390.jpg' alt=''></span></div>
+<div class='title'>Не того динозавра назвали овираптором</div>
+<div class='sublink'><span class="date">29.12.2025</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434401/Diplodoki_byli_pyatnistymi_ili_polosatymi?from=bxblock'>
+<div class='img'><span><img src='images/news/colorful_diplodocus_logo_390.jpg' alt=''></span></div>
+<div class='title'>Диплодоки были пятнистыми или полосатыми</div>
+<div class='sublink'><span class="date">17.12.2025</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434396/Posle_smerti_trikhoplaks_mgnovenno_raspadaetsya_na_kletki?from=bxblock'>
+<div class='img'><span><img src='images/news/trichoplax_taphonomy_logo_390.jpg' alt=''></span></div>
+<div class='title'>После смерти трихоплакс мгновенно распадается на клетки</div>
+<div class='sublink'><span class="date">28.11.2025</span>&nbsp;<span class='break'
+>•</span> Елена Наймарк</div>
+</a>
+</div></div></div>
+<div class='scr_buttons_noscript' id='newsScrBlock_buttons'>
+<span class='prev_button' id='newsScrBlock_prevbtn'></span>
+<span class='next_button' id='newsScrBlock_nextbtn'></span>
+</div>
+</div>
+<div class='cl'></div>
+<hr class='mb hide_hphone'>
+<script type="text/javascript">scrollInit('newsScrBlock', { "mode": "DOM-S", "total": 1322, "pagesize": 6, "request_url": '/ajax/news', "request_params": '&features=similar&features=v2&template=news_sline_v2&news_title=Другие новости&objlink_params=from=bxblock&xpage_size=6&tnews=3371422&newsid=434194'});</script>
+</div>
+
+
+</div>
+
+<div class='blue subscribe_block'><div class='mblock'>
+<div class='subscribe'>
+<div class='mb10'>
+<FORM TARGET=_top ACTION=https://subscribe.ru/member/quick METHOD=POST>
+<INPUT TYPE=hidden NAME=action VALUE=quick>
+<INPUT TYPE=hidden NAME=grp VALUE="science.news.elementynews">
+<span class='title'>Новостная рассылка</span>
+<span class='xinput fullwidth'><INPUT TYPE=email NAME=email SIZE=25 MAXLENGTH=100 placeholder
+="ВАШ E-MAIL"
+></span>&nbsp;<INPUT TYPE=submit VALUE="ПОДПИСАТЬСЯ">
+<INPUT TYPE=hidden NAME=src VALUE="list_science.news.elementynews">
+</FORM>
+</div>
+
+<div class='mb6'>
+<span class='title'>«Элементы» в соцсетях:&nbsp; </span>
+
+<a class='icon vk' href='https://vk.com/elementy_ru' target='_blank' title='ВКонтакте'></a>
+<a class='icon twitter' href='https://twitter.com/elementy_ru' target='_blank' title='Твиттер'></a>
+<a class='icon youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank' title='Youtube'></a>
+
+<a class='icon telegram' href='https://telegram.me/elementy_ru' target='_blank' title='Telegram'></a>
+<a class='icon zen' href='https://zen.yandex.ru/elementy.ru' target='_blank' title='Яндекс.Дзен'></a>
+</div>
+</div>
+<div class='cl'></div>
+</div></div>
+ 
+      
+             <script type="text/javascript" src="/downloads/js/linkhint.js?v=1.02"></script>
+             <script type="text/javascript">linkhint_init();</script>
+       
+   
+
+</div>
+
+
+
+<div class='hfooter'>
+<div class='mblock'>
+
+<div class='mb4 i1'><img src='images/eltnewdesign/ft_logo.png' alt='Элементы'></div>
+
+
+
+<div class='mb3 rub1'><ul>
+<li><a href='/novosti_nauki'>Новости науки</a></li>
+<li><a href='/LHC'>LHC</a></li>
+<li><a href='/kartinka_dnya'>Картинка дня</a></li>
+<li><a href='/problems'>Задачи</a></li>
+<li><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a></li>
+<li><a href='/video'>Видеотека</a></li>
+<li><a href='/bookclub'>Книжный клуб</a></li>
+</ul></div>
+<div class='mb3 rub2'><ul>
+<li><a href='/events'>Научный календарь</a></li>
+<li><a href='/email'>Детские вопросы</a></li>
+<li><a href='/time'>Масштабы: времена</a></li>
+<li><a href='/posters'>Плакаты</a></li>
+<li><a href='/trefil'>200 законов мироздания</a></li>
+<li><a href='/genbio'>Журнал общей биологии</a></li>
+<li><a href='/catalog'>Наука в Рунете</a></li>
+</ul></div>
+
+<div class='mb3 socnets'>
+<ul>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>ВКонтакте</span></a></li>
+<li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Twitter</span></a></li>
+<li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'><span class='icon'></span><span class='name'>Youtube</span></a></li>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Telegram</span></a></li>
+<li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'><span class='icon'></span><span class='name'>Яндекс.Дзен</span></a></li>
+<li class='hide_main hide_hpad hide_vpad'><a class='rss' href='/rss/news' target='_blank'><span class='icon'></span><span class='name'>RSS</span></a> <span class='name'>(<a href='/rss/'  target='_blank'>все ленты</a>)</span></li>
+</ul>
+</div>
+<div class='mb3 l2 zimin'>
+<div class='msg'><a href='https://basis-foundation.ru/' target="_blank">При поддержке фонда «Базис»</a></div>
+<a href='https://basis-foundation.ru/' target="_blank"><img src='images/eltnewdesign/basis2.png' alt='Фонд поддержки фундаментальной физики Базис'></a>
+</div>
+<div class='cl'></div>
+<hr>
+<div class='mb4 l2 copy'>© 2005–2026 «Элементы»</div>
+<div class='mb3 about'><a href='/about'>О проекте</a></div>
+<div class='mb3 feedback'><a href='mailto:info@elementy.ru'>Обратная связь</a></div>
+<div class='mb3 rss hide_phone'><a href='/rss/news' target='_blank'>RSS</a> (<a href='/rss/'  target='_blank'>все ленты</a>)</div>
+<div class='mb3 subscrb'><a href='https://subscribe.ru/catalog/science.news.elementynews'>Подписаться на рассылку</a></div>
+<!--<div class='mb3 l2 design'><a href='http://charmerstudio.com' target='_blank'>Дизайн: Charmer Studio</a></div>-->
+<div class='cl gap'></div>
+
+
+<div class='mb counters'>
+<!--LiveInternet counter--><script language="JavaScript"><!--
+document.write('<img src="//counter.yadro.ru/hit?r'+escape(document.referrer)+((typeof(screen)=='undefined')?'':';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+'" width=1 height=1 alt="">')
+//-->
+</script><!--/LiveInternet-->
+<!-- Yandex.Metrika counter --><script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter31698571 = new Ya.Metrika({ id:31698571, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="https://mc.yandex.ru/watch/31698571" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+<!-- Google Analytics --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65855867-1', 'auto');
+  ga('send', 'pageview');
+</script><!-- // Google Analytics -->
+<!--begin of Rambler's Top100 code -->
+<script id="top100Counter" type="text/javascript" src="//counter.rambler.ru/top100.jcn?707804"></script>
+<noscript><a href="http://top100.rambler.ru/top100/"><img src="//counter.rambler.ru/top100.cnt?707804" alt="" width=1 height=1 border=0></a>
+</noscript>
+<!--end of Top100 code-->
+</div>
+
+
+</div>
+</div>
+
+</div>
+</body>
+</html>

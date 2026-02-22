@@ -1,0 +1,2331 @@
+<!DOCTYPE html>
+<html lang='ru' prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+<head>
+<title>Мезодерма брахиопод развивается из двух источников • Сергей Ястребов • Новости науки на «Элементах» • Биология развития, МГУ, Наука в России, Эволюция, Зоология</title>
+<noscript><meta name="viewport" content="width=device-width, initial-scale=1.0"></noscript>
+<script type='text/javascript'>if (!document.cookie.match(/\bdesktop_mode=1/)) document.write('<meta name="viewport" content="width=device-width, initial-scale=1.0">');</script>
+
+
+<META name="description" content="В последнее время шла дискуссия о том, образуется ли целомическая полость брахиопод из выпячиваний первичной кишки (энтероцельным путем) или путем расхождения клеток плотного зачатка (шизоцельным путем). Новое исследование показало, что первое предположение оказалось верным. Кроме того, целомическая мезодерма брахиопод развивается из двух источников — переднего (головного) и заднего.
+"/>
+
+
+
+<link rel="canonical" href="https://elementy.ru/novosti_nauki/434191/Mezoderma_brakhiopod_razvivaetsya_iz_dvukh_istochnikov" />
+
+
+<base href="//elementy.ru/">
+
+
+
+<meta property="og:title" content="Мезодерма брахиопод развивается из двух источников • Новости науки"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="В&nbsp;последнее время шла дискуссия о&nbsp;том, образуется ли целомическая полость брахиопод из выпячиваний первичной кишки (энтероцельным путем) или путем расхождения клеток плотного зачатка (шизоцельным путем). Новое исследование показало, что первое предположение оказалось верным. Кроме того, целомическая мезодерма брахиопод развивается из двух источников&nbsp;— переднего (головного) и заднего. "/>
+<meta property="og:url" content="https://elementy.ru/novosti_nauki/434191/Mezoderma_brakhiopod_razvivaetsya_iz_dvukh_istochnikov"/>
+<meta property="og:image" content="https://elementy.ru/images/news/two_sources_of_mesoderm_in_brachiopods_1_1450.jpg"/>
+
+<meta property="article:section" content="Наука" />
+<meta property="article:tag" content="Биология развития"/><meta property="article:tag" content="Зоология"/><meta property="article:tag" content="Эволюция"/><meta property="article:tag" content="Наука в России"/><meta property="article:tag" content="МГУ"/>
+<meta property="og:site_name" content="«Элементы»"/>
+<meta property="og:locale" content="ru_RU"/>
+
+
+<link rel="manifest" href="/downloads/js/manifest.json?v=1.02">
+
+
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo16bw.png"  sizes="16x16"/>
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo32bw.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo48bw.png" sizes="48x48" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo64bw.png" sizes="64x64" />
+<link rel="icon" type="image/png" href="/images/eltnewdesign/logo128bw.png" sizes="128x128" />
+<link rel="shortcut icon" type="image/png" href="/images/eltnewdesign/logo32bw.png"/>
+
+<meta content='Элементы' name='apple-mobile-web-app-title'>
+
+<link rel="apple-touch-icon" type="image/png" href="/images/eltnewdesign/logo128bw.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/eltnewdesign/logo57bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/eltnewdesign/logo114bw.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/eltnewdesign/logo72wb.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/eltnewdesign/logo120bw.png" />
+
+<meta name="application-name" content="Элементы"/>
+<meta name="msapplication-TileColor" content="#001034" />
+<meta name="msapplication-TileImage" content="/images/eltnewdesign/logo128bw.png" />
+
+<meta name="yandex-tableau-widget" content="logo=https://elementy.ru/images/eltnewdesign/logo128bw.png, color=#001034" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://elementy.ru/rss"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/style2.css?v=1.125"/>
+
+<noscript>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>
+</noscript>
+<script type='text/javascript'>
+if (!document.cookie.match(/\bdesktop_mode=1/))
+   document.write(
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vpad.css?v=1.26"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-phone.css?v=1.40"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-vphone.css?v=1.06"/>'+
+  '<link rel="stylesheet" type="text/css" href="/downloads/css/styles-hphone.css?v=1.06"/>');
+</script>
+
+<link rel="stylesheet" type="text/css" href="/downloads/css/styles-print.css?v=1.09"/>
+
+<script type="text/javascript" src="/download/mathjax_2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" async></script>
+<script src="//yastatic.net/share2/share.js" async></script>
+<script type="text/javascript" src='/downloads/js/menu.js?v=1.10'></script>
+<script type="text/javascript" src='/downloads/js/hor.js' async></script>
+<script type='text/javascript' src='/downloads/js/request.js' async></script>
+<script type='text/javascript' src='/downloads/js/scroll.js?v=1.03'></script>
+<script type='text/javascript' src='/downloads/js/more.js?v=1.02'></script>
+<script type='text/javascript' src='/downloads/js/ttlhover.js' async></script>
+<script type='text/javascript' src='/downloads/js/rfilters.js'></script>
+
+<script type="text/javascript">
+function pict_popup(src,title) {
+        var w = window.open(src,'','channelmode=no,toolbar=no,location=no,status=no,directories=no,menubar=no,');
+        if(navigator.appName=='Microsoft Internet Explorer') w.document.write('<title>'+title+'</title><img src="'+src+'" onLoad="i=document.images[0]; window.resizeTo(i.width+50,i.height+100)">')
+        return false
+}
+</script>
+
+
+
+
+</head>
+
+<body class="xrub-novosti_nauki xrubpage-no">
+<div class='allarea'  id='pgarea'>
+<a id="page_top"></a>
+
+<div class='mainmenublock hmenu' id='mmenubody' >
+     <div class='mbshading' id='mshading' onclick='toggleHMenu("mmenubody")'></div> 
+     <div class='hmenu'>
+      <div class='menuarea' id='mmenuarea'>
+       <a href='/' class='close' onclick='return toggleHMenu("mmenubody")'><span class='icon close'></span><span class='hint'>Закрыть</span></a>
+       <script type='text/javascript'>
+            var desktop_mode = document.cookie.match(/\bdesktop_mode=1/); 
+            if (!desktop_mode) document.write('<div class="oldlink hide_other"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div><hr class="hide_other">');
+       </script>
+       <ul class="level0"><li class="level0 selected">
+  <div><a href='/novosti_nauki'>Новости науки</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/kartinka_dnya'>Картинка дня</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/events'>Календарь событий</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/problems'>Задачи</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/email'>Детские вопросы</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/LHC'>Большой адронный коллайдер</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/LHC/novosti_BAK'>Новости LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/monitory_bolshogo_adronnogo_kollajdera'>Мониторы LHC</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/LHC/LHC_results'>Результаты LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/zagadki_lhc'>Загадки LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_s_mu_mu'>Распад b→sμμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_1'>Распад B<sup>+</sup>→K<sup>+</sup>ll</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptonnaya_universalnost_2'>Распад B→Dlν</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/b_mu_mu'>Распад B→μμ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/raspad_higgsa_na_muon_i_tau'>Распад H→μτ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/top_antitop_higgs'>Комбинация топ-антитоп-хиггс</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/zaryazhennyj_bozon_higgsa'>Заряженный бозон Хиггса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/dvuhfotonnyj_vsplesk_pri_750_gev'>Двухфотонный всплеск 750&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/leptony_odnogo_znaka_na_atlas'>Лептоны одного знака на ATLAS</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/eejj-otklonenije'>eejj-отклонение</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/sobytije_2.9tev'>Событие при 2,9 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_2_tev_atlas'>WZ-пик при 2 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/vsplesk_pri_1.8_tev_cms'>WH-пик при 1,8 ТэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_CMS'>Поиск суперсимметрии — 1</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_ATLAS'>Поиск суперсимметрии — 2</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/zagadki_lhc/poiski_supersimmetrii_iii'>Поиск суперсимметрии — 3</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_results/beyondSM'>Отклонения от Стандартной модели</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/susy_search'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/exotic_search'>Экзотические частицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_search'>Поиск бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/higgs_study'>Изучение бозона Хиггса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/top-quark'>Свойства топ-кварка</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/hadrons'>Рождение и распады адронов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/rare_decays'>Редкие распады B-мезонов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/difraction'>Адронная дифракция</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/nuclei'>Ядерные столкновения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_results/astro'>Астрофизика</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC_working'>LHC в работе</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lhc/timeline'>Хронология создания и работы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/general_schedule'>Общее расписание</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/what-to-check'>Как следить за новостями с LHC</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/general_schedule/working_cycle'>Рабочий цикл коллайдера</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/initial'>Ранние этапы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2008'>2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/incident'>Авария 19.09.2008</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009'>2009</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2009/results_2009'>Результаты работы LHC в&nbsp;2009&nbsp;году</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_1'>Сеанс LHC Run&nbsp;1</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010'>2010</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2010/results_2010'>Результаты работы LHC в&nbsp;2010&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011'>2011</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2011/results_2011'>Результаты работы LHC в&nbsp;2011&nbsp;году</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/schedule_2012'>2012</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/schedule_2015'>Техническая пауза LS1</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_2'>Сеанс LHC Run&nbsp;2</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2015'>2015</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2016'>2016</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2017'>2017</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_2/2018'>2018</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC_working/run_3'>Сеанс LHC Run&nbsp;3</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC_working/run_3/2022'>2022</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/LHC'>Устройство и задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/LHC/about'>LHC: ключевые факты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/accelerator'>Устройство LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/beams'>Протонные пучки</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnets'>Магнитная система</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/magnet_training'>Как тренируют магниты</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/accelerator/detectors'>Детекторы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ATLAS'>ATLAS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/CMS'>CMS</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/ALICE'>ALICE</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCb'>LHCb</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/TOTEM'>TOTEM</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/LHCf'>LHCf</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/accelerator/detectors/MoEDAL'>MoEDAL</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/why'>Зачем нужен LHC?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/LHC/tasks'>Задачи LHC</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/hadrons'>Свойства адронов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/spectroscopy'>Адронная спектроскопия</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/hadrons/decays'>Адронные распады</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/higgs'>Поиск бозона Хиггса</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/production_decay'>Рождение и распад</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/LHC/tasks/higgs/search_strategies'>Стратегии поиска</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/top-quark'>Топ-кварк</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/SUSY'>Поиск суперсимметрии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/exotic'>Экзотические теории</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/tasks/nuclei'>Ядерные столкновения</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/safety'>Безопасность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/estimates'>Вероятность катастрофы</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/LHC/safety/black_holes'>Микроскопические черные дыры</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/LHC/phrases'>Толковый словарик журналистских штампов</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/HEP'>Физика элементарных частиц</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/LHC/HEP/educational'>Образовательные онлайн-ресурсы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/LHC/HEP/measures'>Величины и единицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/cross-section'>Сечение процесса</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/luminosity'>Светимость</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/measures/invariant-mass'>Инвариантная масса</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/study'>Как изучают частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/detecting'>Принципы детектирования</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/study/errors'>Погрешности</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/statistical'>Статистическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/systematic'>Систематическая</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/theoretical'>Теория и моделирование</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/sigma'>Сигма</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/LHC/HEP/study/errors/subtleties'>Тонкости анализа</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/experiments'>Эксперименты на коллайдерах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/quark_model'>Классификация адронов</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/partonic_densities'>Партоны</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/hadronization'>Конфайнмент и адронизация</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/rapidity-angle_diagram'>Быстрота–угол</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/experiments/analysis_methods'>Приемы анализа</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/SM'>Стандартная модель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/problems'>Трудности</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/beyondSM'>За пределами СМ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/SM/SUSY'>Суперсимметрия</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/LHC/HEP/higgs_theory'>Хиггсовский механизм</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/explanations'>Аналогии</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/SM_Higgs'>Хиггс с&nbsp;массой 125&nbsp;ГэВ</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/LHC/HEP/higgs_theory/nonminimal'>Неминимальные варианты</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/LHC/gallery'>Галерея</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly'>В популярных журналах</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/vmirenauki'>«В мире науки»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/znanijesila'>«Знание — сила»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvant'>«Квант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kvantik'>«Квантик»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kommersant_nauka'>«Коммерсантъ Наука»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/kot_shryodingera'>«Кот Шрёдингера»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_i_zhizn'>«Наука и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/nauka_iz_pervyh_ruk'>«Наука из первых рук»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/popularnaja_mehanika'>«Популярная механика»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_himija_biologija_meditsina'>«Потенциал»: Химия. Биология. Медицина</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/potentsial_matematika_fizika_informatika'>«Потенциал»: Математика. Физика. Информатика</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda'>«Природа»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/o_zhurnale'>О журнале</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/priroda_v_internete'>«Природа» в интернете</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/priroda/kak_podpisatsya'>Как подписаться</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/gazeta_troitskiy_variant'>«Троицкий вариант»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/khimiya_i_zhizn'>«Химия и жизнь»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/chto_novogo_v_nauke_i_tekhnike'>«Что нового в науке и технике»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/zhurnaly/ecologiya_i_zhizn'>«Экология и жизнь»</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/izbrannoe'>Избранное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/lektsii_dlya_shkolnikov'>Лекции для школьников</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/interview'>Интервью</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/vystavka_vse_v_mire_otnositelno'>Выставка «Всё в мире относительно»</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/lib/exhibition/authors'>О художниках</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/lib/exhibition/about'>О выставке</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/video'>Видеотека</a>
+  </div></li>
+<li class="level0 ">
+  <div><a href='/bookclub'>Книжный клуб</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/bookclub/book'>Книги</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/author'>Авторы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/chapters'>Главы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/bookclub/chapters/knigi_opublikovannyje_polnostju'>Опубликовано полностью</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera'>Происхождение жизни</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/evolutsija_i_priroda_nauki'>Глава 1</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/svidetelstva_biologicheskoj_evolutsii'>Глава 2</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/vzglyady_kreatsionistov'>Глава 3</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/nauchno-populyarnaya_biblioteka/proishozhdenie_zhizni_nauka_i_vera/FAQ'>Заключение</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul>
+  </li></ul><li class="level1 ">
+  <div><a href='/bookclub/publisher'>Издательства</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/series'>Серии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review'>Рецензии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/bookclub/review_users'>Отзывы</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/time'>Масштабы: времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/time/estimating'>В помощь читателю</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-1.html'>Как оценивать типичные времена</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-2.html'>Как применять формулы&nbsp;— иллюстрация</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-3.html'>Тонкости и предостережения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-4.html'>Опорные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-5.html'>Колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-6.html'>Гармонические колебания и их период</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-7.html'>Волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/estimating/estimating-8.html'>Закон распада</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/milli'>Миллисекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/milli/milli-1.html'>Миллисекунды в нашей жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-2.html'>Фото вместо видео</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-3.html'>Мерцающие огоньки</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/milli/milli-4.html'>Скрытые возможности невооруженного взгляда</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/micro'>Микросекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/micro/micro-1.html'>Остановившийся мир</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-2.html'>И всё-таки он движется!</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/micro/micro-3.html'>Пределы механического затвора</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nano'>Наносекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nano/nano-1.html'>От предметов к веществу</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-2.html'>Коллективные явления</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-3.html'>Электромагнитные колебания</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nano/nano-4.html'>Информационная емкость радиоволны</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/pico'>Пикосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/pico/pico-1.html'>Атомное движение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-2.html'>Пределы звука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-3.html'>Как начинается плавление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-4.html'>Пределы электроники</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-5.html'>Электромагнитные волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/pico/pico-6.html'>Элементарные частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/femto'>Фемтосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/femto/femto-1.html'>Мир электронов и света</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-2.html'>Оптические вычислительные технологии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-3.html'>Фемтохимия</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/femto/femto-4.html'>Фемтобиология</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/atto'>Аттосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/atto/atto-1.html'>Личная жизнь атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-2.html'>Самые внутренние электроны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-3.html'>Как взрезать атом</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/atto/atto-4.html'>Электроны на службе аттофизики</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/zepto'>Зептосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-1.html'>Жизнь атомных ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/zepto/zepto-2.html'>Энергия, время и соотношение неопределенностей</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/yocto'>Йоктосекунды</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-1.html'>На границе известного</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-2.html'>Столкновение тяжелых ядер</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/yocto/yocto-3.html'>Вглубь йоктосекунды</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/year'>От секунды до года</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/year/year-1.html'>Семь с половиной порядков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-2.html'>Искусственные спутники Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-3.html'>Эхо землетрясений</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-4.html'>Астероид-убийца</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/year/year-5.html'>Как растекается тепло</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/very-long'>Астрономические времена</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-1.html'>Солнечная система</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-2.html'>Солнечная система на больших временах</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-3.html'>Глубокий космос</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-4.html'>Межгалактические отношения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-5.html'>Танец земного климата</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-6.html'>Тектоническая жизнь Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/very-long/very-long-7.html'>Сверхдолгоживущие частицы</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/sonoluminescence'>Сонолюминесценция</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-1.html'>Свечение, порожденное звуком</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-2.html'>Поведение пузырька</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/sonoluminescence/sonoluminescence-3.html'>Последние мгновения коллапса</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/biophysics'>Фолдинг белков</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-1.html'>Физическая основа жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-2.html'>Главная и боковые цепи</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-3.html'>«Жизнь» белковой молекулы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/biophysics/biophysics-folding-4.html'>Компьютерное моделирование фолдинга</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/excited'>Возбужденные атомы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-1.html'>Возбужденные атомы: кто такие и где встречаются</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-2.html'>Быстротечная жизнь возбужденных атомов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-3.html'>Миллионы безуспешных попыток</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-4.html'>Ридберговские атомы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-5.html'>Атомы-долгожители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/excited/excited-atoms-6.html'>Водородная линия 21&nbsp;см</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/nuclear'>Ядерные распады</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-1.html'>«Ядерная секунда»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-2.html'>Альфа-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-3.html'>Тяжелые элементы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-4.html'>Бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-5.html'>Двойной бета-распад</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/nuclear/nuclear-6.html'>Ядерные изомеры</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/particles'>Элементарные частицы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/particles/particles-1.html'>Законы элементарных частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-2.html'>Два руководящих принципа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-3.html'>Сильные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-4.html'>Электромагнитные распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-5.html'>Слабые распады</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-6.html'>Повышенная жизнеспособность на&nbsp;околосветовых скоростях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/particles/particles-7.html'>На переднем крае физики элементарных частиц</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/time/continents'>Движение континентов</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/time/continents/continents-1.html'>Такты тектонической жизни</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-2.html'>Возраст Гималаев</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/time/continents/continents-3.html'>Когда задышал Северный Ледовитый океан?</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/posters'>Плакаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/posters/moment'>Мгновение</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/posters/fractals'>Фракталы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/fractals/fractals'>Что такое фракталы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/geometric'>Геометрические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Koch'>Снежинка Коха</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/T-square'>Т-квадрат</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/H-fractal'>H-фрактал</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Sierpinski'>Треугольник Серпинского</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Pythagoras'>Дерево Пифагора</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Levy'>Кривая Леви</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/dragon'>Дракон</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/dynamic'>Динамические</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/fractals/Mandelbrot'>Множество Мандельброта</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Julia'>Множества Жюлиа</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Halley'>Фрактал Галлея</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/fractals/Newton'>Фрактал Ньютона</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/fractals/complex_numbers'>Комплексные числа</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/dimensions'>Фрактальные размерности</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/how_to_draw'>Как это рисовать</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/nature'>Фракталы в природе</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/fractals/about'>О плакате</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/collider'>Ускоритель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/collider/1'>Зачем нужен ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/2'>Единицы измерения расстояний, энергий и масс</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/3'>Краткая история ускорителей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/4'>Как работает ускоритель</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/5'>Детектор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/6'>Как на ускорителе изучают свойства частиц</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/7'>Природные ускорители</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/8'>Применение ускорителей и детекторов в медицине</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/collider/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/aviation'>Покорение воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/aviation/light'>Аппараты легче воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/light/balloons'>Аэростаты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/montgolfiere'>Первый аппарат легче воздуха, способный поднять человека</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/balloons/today'>Шары-монгольфьеры сегодня</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/light/dirigibles'>Дирижабли</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/france'>Типичный дирижабль конца XIX&nbsp;века рыбообразной формы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/tsiolkovsky'>Цельнометаллический бескаркасный дирижабль с&nbsp;изменением объема в&nbsp;полете и с&nbsp;подогревом газа</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/zeppelin'>Серийный дирижабль Германии времен Первой мировой войны</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/akron'>Гелиевые дирижабли США</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/hindenburg_disaster'>Гибель «Гинденбурга» 6&nbsp;мая 1937&nbsp;года</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/light/dirigibles/today'>Дирижабли сегодня</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/heavy'>Аппараты тяжелее воздуха</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level3">
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/helicopters'>Вертолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/sikorskys1'>Первый вертолет И.&nbsp;И.&nbsp;Сикорского</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/cagi_1-ea'>Первый летающий аппарат классической схемы</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/mi-26'>Тяжелый военно-транспортный вертолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/helicopters/an-64'>Ударный вертолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans'>Экранопланы</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/km'>Самый крупный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/orlenok'>Единственный российский серийный десантный экраноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/bartini'>Экраноплан Бартини</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/ekranoplans/lun'>Летающий госпиталь</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/planes'>Самолеты</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level4">
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/theory'>Теоретические основы полета аппаратов тяжелее воздуха</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mozhajskij'>Первый реализованный проект, однако достоверных сведений о полете нет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/wrights'>Первый самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ilya_muromec'>Первый «тяжелый самолет»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/newport17'>Первый самолет с «зализанными» обводами</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/ant-6'>Тяжелый бомбардировщик-моноплан</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/messerschmitt'>Самый массовый истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/yak-1'>Самый легкий и маневренный истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/supermarine_spitfire'>Лучший истребитель битвы за Британию в 1940&nbsp;г.</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mosquito'>Цельнодеревянный скоростной бомбардировщик «Мечта термита»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mitsubishi_a6m_reisen'>Истребитель&nbsp;— символ японской авиации</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/il-2'>Тяжелый штурмовик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-15'>Фронтовой истребитель, один из первых серийных реактивных самолетов</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-86_sabre'>Многоцелевой истребитель, противник МиГ-15 в корейской войне</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/mig-21'>Выдающийся сверхзвуковой истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/lockheed'>Высотный разведывательный самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_b-52'>Стратегический бомбардировщик с велосипедным шасси</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-144'>Сверхзвуковой пассажирский самолет</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/boeing_747_jumbo'>«Реактивный слон»</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/f-15_eagle'>Тактический истребитель</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/su-27'>Маневренный истребитель-перехватчик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/tu-160'>Стратегический бомбардировщик</a>
+  </div></li>
+<li class="level4 ">
+  <div><a href='/posters/aviation/heavy/planes/an-124_ruslan'>Тяжелый военно-транспортный самолет</a>
+  </div></li>
+
+  </li></ul><li class="level3 ">
+  <div><a href='/posters/aviation/heavy/terms'>Основные параметры самолетов, указанные на плакате</a>
+  </div></li>
+<li class="level3 ">
+  <div><a href='/posters/aviation/heavy/literature'>Список литературы</a>
+  </div></li>
+
+  </li></ul><li class="level2 ">
+  <div><a href='/posters/aviation/light_version'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/gravity'>Гравитация</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/gravity/1'>Парабола или прямая?</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/2'>Все дома стоят криво</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/3'>Из Москвы в&nbsp;Питер за&nbsp;полчаса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/4'>На Луну в комфортных условиях</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/5'>Скоростной спутник Земли</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/6'>Перевернутый небоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/7'>Супернебоскреб</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/8'>Запуск спутника без затрат энергии</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/9'>Раскрутим Землю</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/gravity/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/perpetuum'>Вечный двигатель</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/first'>Вечный двигатель первого рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/second'>Вечный двигатель второго рода</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/third'>Вечный двигатель «третьего рода»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/1'>Колесо и&nbsp;шары</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/2'>Цепочка шаров</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/3'>«Птичка Хоттабыча»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/4'>Цепочка поплавков</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/5'>Архимедов винт</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/6'>Машина Орфиреуса</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/7'>Магнит и желоба</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/8'>«Вечный водопровод»</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/9'>Автоматический подзавод часов</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/10'>Подъем масла по&nbsp;фитилям</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/11'>Колесо и&nbsp;грузы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/12'>Установка Потапова</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/13'>Луна и планеты</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/perpetuum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/spectrum'>Электромагнитное излучение</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/spectrum/nature'>Природа электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/wave'>Частота и длина волны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/history'>История открытия электромагнитных волн</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/union'>Великое объединение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/energy'>Энергия кванта</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/temperature'>Температура излучения</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/diapasons'>Диапазоны излучения и вещество</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/about'>Что изображено на плакате</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/units'>Соотношения и единицы</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/gamma'>Гамма-излучение</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/roentgen'>Рентген</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/ultraviolet'>Ультрафиолет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/visible'>Видимый диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/infrared'>Инфракрасный диапазон</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/radio'>Радиоизлучение и микроволны</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/other'>За пределами спектра</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/spectrum/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/posters/human'>Возможности человека</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/posters/human/muscular'>Сила</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/mind'>Мышление</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/science'>Наука</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/evolution'>Эволюционный принцип</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/factor'>Человеческий фактор</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/weight'>Поднятие тяжестей</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/flight'>Полет</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/walk'>Бег</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/swim'>Плавание</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/posters/human/light'>«Легкая версия» плаката</a>
+  </div></li>
+
+  </li></ul>
+  </li></ul><li class="level0 ">
+  <div><a href='/trefil'>200 законов мироздания</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/trefil/introduction'><i>Введение</i></a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/physics'>Физика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/astronomy'>Астрономия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/maths'>Математика</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/chemistry'>Химия</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biology'>Науки о жизни</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/geo'>Науки о Земле</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/misc'>Разное</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/rvm'>Взгляд в прошлое</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/biography'><i>Биографии</i></a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/genbio'>Журнал общей биологии</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/genbio/english'>In English</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/genbio/english/all'>All Issues</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/genbio/abstracts'>All Abstracts</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/genbio/last'>Свежий выпуск</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/all'>Все выпуски</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/resume'>Статьи</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/synopsis'>Синопсисы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about'>О журнале</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/genbio/about/rules'>Авторам</a>
+  </div></li>
+
+  </li></ul><li class="level0 ">
+  <div><a href='/law'>Наука, образование и право</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level1">
+<li class="level1 ">
+  <div><a href='/law/organ.htm'>Федеральные органы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/program.htm'>Федеральные программы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/intellectual.htm'>Интеллектуальная собственность</a><span class='toggle_button'  onclick='return toggleMenuItem(this, "LI")'></span></div><ul class="level2">
+<li class="level2 ">
+  <div><a href='/law/intellectual/international.htm'>Международное законодательство</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/russian.htm'>Законодательство РФ </a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/patent.htm'>Патентование</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/contact.htm'>Сделки и договоры</a>
+  </div></li>
+<li class="level2 ">
+  <div><a href='/law/intellectual/payment.htm'>Вознаграждение</a>
+  </div></li>
+
+  </li></ul><li class="level1 ">
+  <div><a href='/law/degree.htm'>Ученые степени</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nostr.htm'>Нострификация</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/vuz.htm'>Образование, вузы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/nii.htm'>Научные организации</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/prize.htm'>Премии</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/grant.htm'>Гранты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/work.htm'>Трудовое законодательство </a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/kodex.htm'>Конституция и кодексы</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/other.htm'>Другие нормативные акты</a>
+  </div></li>
+<li class="level1 ">
+  <div><a href='/law/all_laws.htm'>Все нормативные акты</a>
+  </div></li>
+
+  </li></ul></ul>
+       <script type='text/javascript'>
+            document.write('<hr'+(!desktop_mode?"  class='hide_main'":"")+'>');
+            document.write('<div class="oldlink hide_main"><a'+(location.href.indexOf('/video')>0?' class="inactive"':' href="'+location.href.replace(/\/\/[^\/]+/,"//"+(location.href.indexOf("//elementy")>0||location.href.indexOf("//elt.host3.elementy")>0?"old.":"")+"elementy.ru")+'" target="_blank"')+'>Эта страница в старом дизайне</a></div>');
+            if (desktop_mode )
+               document.write('<div class="chmod mob hide_main"><a href="/" onclick="return setDesktopMode(false)">Мобильная версия сайта</a></div>');
+            else
+               document.write('<div class="chmod dsk hide_main"><a href="/" onclick="return setDesktopMode(true)">Полная версия сайта</a></div>');
+       </script>
+       <hr>
+       <ul class='img'>
+        <li class='first'><a class='facebook' href='https://www.facebook.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'></a></li>
+        <li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'></a></li>
+        <li><a class='instagram' href='https://www.instagram.com/elementy.ru' target='_blank'></a></li>
+        <li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'></a></li>
+        <li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'></a></li>
+        <li><a class='rss' href='/rss/news' target='_blank'></a></li>
+       </ul>
+      </div>
+     </div>
+</div>
+
+<div class='print_logo hide_screen'><script type='text/javascript'>document.write("<img src='/images/eltnewdesign/logo_wpr.png'>");</script></div>
+
+<div class='hhead' id='pghead'>
+  <div class='hmenu'>
+    <div class='lmenu' id='hmainmenu'>
+      <a href='/' class='item' onclick='return toggleHMenu("mmenubody")'><span class='icon menu'></span><span class='hint'>Меню</span></a>
+    </div>
+    <div class='rmenu' id='rmenu'>
+       <a href='/' class='item' onclick='return toggleHMenu(this, true)'><span class='icon search'></span><span class='hint'>Поиск</span></a>
+       <a href='/' class='close' onclick='return toggleHMenu(this)'><span class='icon close2'></span><span class='hint'>Закрыть</span></a>
+       <div class='menuarea'>
+         <div class='menusearch xform'> 
+         <form action="find">
+             <input type="text" class="search" name="words" value="" placeholder="Поиск">
+             <input type="image" name="search" src="images/eltnewdesign/search_b.png">
+         </form>
+         </div> 
+       </div>
+    </div>
+    <div class='logo'><a href="/" onclick='return checkHMScroll()'><span>&nbsp;</span></a></div>
+  </div>  
+</div>
+
+
+<div class='body'  id='pgbody'>
+
+  
+   <div class='mblock chead'>
+     
+     
+<div class='rubpath'><span class='first last'><a href='/novosti_nauki'>Новости науки</a></span> </div>
+
+</div>
+   
+  
+
+   
+       <div class='mblock nogap'>
+<div class='mb itemhead newslist'><h1>Мезодерма брахиопод развивается из двух источников</h1>
+<div class="sublink"><span class="date">12.02.2024</span>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/5271901/Sergey_Yastrebov">Сергей Ястребов</a>&nbsp;<span class='break'
+>•</span> <a href="/novosti_nauki/t/5177458/Biologiya_razvitiya">Биология развития</a><span class="comma">,</span> <a href="/novosti_nauki/t/2691067/Zoologiya">Зоология</a><span class="comma">,</span> <a href="/novosti_nauki/t/2253632/Evolyutsiya">Эволюция</a><span class="comma">,</span> <a href="/novosti_nauki/t/150470/Nauka_v_Rossii">Наука в России</a><span class="comma">,</span> <a href="/novosti_nauki/t/5272126/MGU">МГУ</a>&nbsp;<span class='break'>•</span> <a href="/novosti_nauki/434191#forum" onclick="forum_goto(); return false;">2&nbsp;комментария</a></div></div>
+</div>
+
+<div class='mblock'>
+
+<div class='socnetblock'><script src="/downloads/js/snfly.js?v=1.04"></script>
+<div  id="socnets_share">
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter=""></div>
+<div id='forum_topsocnet_button' style='display:none' title='Написать комментарий'><span class='fmicon'></span><div class='counter' id='forum_topsocnet_count'></div></div>
+</div>
+</div>
+
+<div class='itemblock'><div class='memo'>
+    <!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/two_sources_of_mesoderm_in_brachiopods_1_1450.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/two_sources_of_mesoderm_in_brachiopods_1_1450.jpg','Брахиопода Coptothyris grayi на морском дне')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/two_sources_of_mesoderm_in_brachiopods_1_703.jpg" alt="Брахиопода Coptothyris grayi на морском дне" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 1.</b> Общее представление о брахиоподах. <b><i>A</i></b> — брахиопода <i>Coptothyris grayi </i>на морском дне, <b><i>Б</i></b> — строение замковой брахиоподы в продольном разрезе. Изображения с сайтов <a href="https://en.wikipedia.org/wiki/Coptothyris" target=_blank>en.wikipedia.org</a> и <a href="https://old.bigenc.ru/biology/text/3145326" target=_blank>old.bigenc.ru</a></p></div>
+
+
+</div>
+
+    <p><b>Брахиоподы&nbsp;— морские щупальцевые животные, живущие в&nbsp;ракушках, развитие которых интересует зоологов уже много лет. В&nbsp;последнее время шла дискуссия о&nbsp;том, образуется ли у&nbsp;них целомическая полость из выпячиваний первичной кишки (энтероцельным путем) или путем расхождения клеток плотного зачатка (шизоцельным путем). Новое исследование показало, что первое предположение оказалось верным. Энтероцельный способ развития целома&nbsp;— признак, общий у&nbsp;брахиопод с&nbsp;вторичноротыми и, возможно, унаследованный и теми, и другими от древнейших двусторонне-симметричных животных. Кроме того, целомическая мезодерма брахиопод развивается из двух источников&nbsp;— переднего (головного) и заднего. Этот древний признак известен у&nbsp;многих других двусторонне-симметричных животных, но у&nbsp;брахиопод он обнаружен впервые.</b></p>
+
+<p><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%BE%D0%B3%D0%B8%D0%B5" target=_blank>Брахиоподы</a> (<a href="https://en.wikipedia.org/wiki/Brachiopod" target=_blank>Brachiopoda</a>)&nbsp;— тип морских беспозвоночных, насчитывающий около 400&nbsp;современных видов. Это сидячие животные, внешне похожие на двустворчатых моллюсков (до середины XIX&nbsp;века их и считали моллюсками). Но на самом деле брахиоподы относятся не к&nbsp;моллюскам, а к&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%A9%D1%83%D0%BF%D0%B0%D0%BB%D1%8C%D1%86%D0%B5%D0%B2%D1%8B%D0%B5_(%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0)" target=_blank>щупальцевым</a> животным, главной особенностью которых является лофофор&nbsp;— круговой или подковообразный венчик щупалец, окружающий рот (но не анус). Щупальца лофофора покрыты <a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%BD%D0%B8%D1%87%D0%BA%D0%B8" target=_blank>ресничками</a> и служат аппаратом для отцеживания из воды мелких пищевых частиц. Они гидростатически поддерживаются заходящей в&nbsp;них <a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BB%D0%BE%D0%BC" target=_blank>целомической</a> полостью. Тело брахиоподы целиком, за исключением прикрепительного стебелька, заключено внутри двустворчатой раковины, которая может быть прикреплена к&nbsp;камню, заякорена с&nbsp;помощью стебелька в&nbsp;мягком осадке, а может и свободно лежать на дне. Тело животного занимает примерно треть раковины, ее передние две трети заняты лофофором, который непрерывно фильтрует воду (рис.&nbsp;1).</p>
+
+<p>Створки раковины брахиопод расположены совершенно иначе, чем у&nbsp;двустворчатых моллюсков, с&nbsp;которыми их поначалу путали. Сходство между ними&nbsp;— поверхностное: это хороший пример эволюционной <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D0%B3%D0%B5%D0%BD%D1%82%D0%BD%D0%B0%D1%8F_%D1%8D%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F" target=_blank>конвергенции</a>, вызванной похожим образом жизни. У&nbsp;двустворчатых моллюсков правая и левая створки раковины охватывают тело с&nbsp;боков. У&nbsp;брахиопод створки долгое время называли спинной и брюшной. Но датский зоолог Клаус Нильсен (<a href="https://snm.ku.dk/english/staffsnm/staff/?pure=en%2Fpersons%2Fclaus-nielsen(7972a8ad-d5e2-4202-b37e-9c205cafe8e0)%2Fcv.html" target=_blank>Claus Nielsen</a>)&nbsp;— один из лучших современных зоологов беспозвоночных, работы которого не раз обсуждались на «Элементах»,&nbsp;— показал, что на самом деле личинка брахиопод при метаморфозе буквально складывается пополам брюшной стороной внутрь (C.&nbsp;Nielsen, 1991. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.1991.tb00312.x" target=_blank>The development of the brachiopod <i>Crania (Neocrania) anomala</i> (O.&nbsp;F.&nbsp;Müller) and its phylogenetic significance</a>). При этом брюшная сторона сильно укорачивается, а на спинной стороне возникают две створки раковины&nbsp;— передняя и задняя, которые и заключают в&nbsp;себе тело животного. Никакой брюшной створки у&nbsp;брахиопод нет, они обе спинные.</p>
+
+<p>Вероятно, предки брахиопод были червями, имевшими на спине две защитные пластинки. При нападении хищника они сворачивались, подставляя врагу защищенную спину. В&nbsp;наши дни так ведут себя <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BA%D1%80%D0%B8%D1%86%D1%8B" target=_blank>мокрицы</a> (наземные ракообразные), <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D1%86%D0%B8%D1%80%D0%BD%D1%8B%D0%B5_%D0%BC%D0%BE%D0%BB%D0%BB%D1%8E%D1%81%D0%BA%D0%B8" target=_blank>хитоны</a> (примитивные моллюски) и даже некоторые млекопитающие&nbsp;— ежи, броненосцы, панголины. Со временем свернутая форма тела стала у&nbsp;этих малоподвижных существ постоянной и породила план строения животного, сложенного пополам (рис.&nbsp;2; см.&nbsp;также рис.&nbsp;5 в&nbsp;статье <a href="/novosti_nauki/432695/Drevneyshie_predki_kolchatykh_chervey_mogli_byt_pokhozhi_na_brakhiopod" target=_blank>Древнейшие предки кольчатых червей могли быть похожи на брахиопод</a>, «Элементы», 26.02.2016).</p>
+
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/two_sources_of_mesoderm_in_brachiopods_2_1400.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/two_sources_of_mesoderm_in_brachiopods_2_1400.jpg','Рис. 2. Становление плана строения брахиопод')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/two_sources_of_mesoderm_in_brachiopods_2_703.jpg" alt="Рис. 2. Становление плана строения брахиопод" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 2.</b> Становление плана строения брахиопод. Протоцель, мезоцель, метацель&nbsp;— отделы целома (см.&nbsp;ниже в&nbsp;тексте), диссепименты&nbsp;— дополнительные перегородки внутри метацеля. Остальные пояснения в&nbsp;тексте. Иллюстрация из статьи E.&nbsp;N.&nbsp;Temereva, V.&nbsp;V.&nbsp;Malakhov, 2011. <a href="https://www.researchgate.net/publication/301222761_The_evidence_of_metamery_in_adult_brachiopods_and_phoronids" target=_blank>The evidence of metamery in adult brachiopods and phoronids</a></p></div>
+
+
+</div>
+
+<p>Брахиоподы&nbsp;— группа, расцвет которой остался в&nbsp;далеком прошлом. Разнообразнее всего они были в&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D0%BE%D0%B7%D0%BE%D0%B9" target=_blank>палеозое</a>. Но и вымирать они, судя по всему, не собираются. Брахиоподы&nbsp;— одна из немногих групп животных, которые прослеживаются в&nbsp;палеонтологической летописи без перерыва на протяжении всего последнего полумиллиарда лет, от эпохи <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BC%D0%B1%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2" target=_blank>кембрийского взрыва</a> до современности. Раковины брахиопод прекрасно сохраняются, и палеонтологи очень любят их описывать.</p>
+
+<p>Брахиоподы вместе с&nbsp;другими щупальцевыми животными принадлежат к&nbsp;эволюционной ветви спиральнодробящихся, или просто <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5" target=_blank>спиралий</a> (<a href="https://en.wikipedia.org/wiki/Spiralia" target=_blank>Spiralia</a>). Главный признак этой ветви фигурирует в ее названии. Дело в&nbsp;том, что у&nbsp;многоклеточных животных есть два основных способа дробления яйца&nbsp;— радиальное и спиральное (см.&nbsp;<a href="/novosti_nauki/432320/Sushchestvovanie_evolyutsionnoy_vetvi_linyayushchikh_zhivotnykh_poluchilo_embriologicheskoe_podtverzhdenie" target=_blank>Существование эволюционной ветви линяющих животных получило эмбриологическое подтверждение</a>, «Элементы», 23.09.2014). Радиальное дробление организовано проще, в&nbsp;этом случае зародыш долго сохраняет внешнюю радиальную симметрию. При спиральном дроблении возникающие клетки совершают закономерные повороты то по часовой стрелке, то против нее, образуя спиральные фигуры (см.&nbsp;рис.&nbsp;2 в&nbsp;статье <a href="/novosti_nauki/432275/Platizoi_stavyat_pod_somnenie_proiskhozhdenie_dvustoronne_simmetrichnykh_zhivotnykh_ot_tselomicheskogo_predka" target=_blank>Платизои ставят под сомнение происхождение двусторонне-симметричных животных от целомического предка</a>, «Элементы», 23.06.2014). Спиральное дробление устроено почти одинаково у&nbsp;таких непохожих друг на друга животных, как кольчатые черви и моллюски. Но вот у&nbsp;брахиопод дробление радиальное (S.&nbsp;Santagata, 2015. <a href="https://www.researchgate.net/publication/287222457_Brachiopoda" target=_blank>Brachiopoda</a>). Или они почему-то утратили спиральность дробления, или, как считает академик <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%85%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" target=_blank>Владимир Васильевич Малахов</a>, их радиальное дробление&nbsp;— это сохранившийся архаичный признак. <i>«На самом деле этот тип эмбриогенеза&nbsp;— древняя черта всех билатерально-симметричных животных; только одни из них ее сохранили, а другие&nbsp;— нет»</i> (В.&nbsp;В.&nbsp;Малахов, 2009. <a href="https://www.researchgate.net/publication/297735440_Revolucia_v_zoologii_Novaa_sistema_bilaterij" target=_blank>Революция в&nbsp;зоологии: новая система билатерий</a>).</p>
+
+<p>Брахиоподы&nbsp;— целомические животные. Это означает, что у&nbsp;них есть вторичная, или целомическая, полость тела, образованная средним зародышевым листком&nbsp;— <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B7%D0%BE%D0%B4%D0%B5%D1%80%D0%BC%D0%B0" target=_blank>мезодермой</a>. По сути дела, целом&nbsp;— это мешок из мезодермального <a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BF%D0%B8%D1%82%D0%B5%D0%BB%D0%B8%D0%B9" target=_blank>эпителия</a>, заполненный жидкостью. Принято считать, что у&nbsp;целома четыре основных функции: распределительная (примерно как у&nbsp;кровеносной системы), выделительная (в&nbsp;целом обычно открываются выделительные трубочки&nbsp;— <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%BD%D0%B5%D1%84%D1%80%D0%B8%D0%B4%D0%B8%D0%B8" target=_blank>метанефридии</a>), половая (у&nbsp;брахиопод яйцеклетки и сперматозоиды выводятся наружу через те же метанефридии) и опорная&nbsp;— например, в&nbsp;щупальцах лофофора заходящий туда целом, как уже говорилось, служит гидростатическим скелетом. Кроме того, целом брахиопод окружает кишку и заходит в&nbsp;прикрепительный стебелек.</p>
+
+<p>У разных животных целом образуется по-разному (рис.&nbsp;3). У&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%BE%D1%80%D0%BE%D1%82%D1%8B%D0%B5" target=_blank>вторичноротых</a>&nbsp;— иглокожих, полухордовых и хордовых&nbsp;— стенка первичной кишки образует карманообразные выпячивания, которые затем отделяются от нее и становятся замкнутыми мешками. Полость внутри этих мешков и есть целом. Такой способ образования целома называется энтероцельным (от греческого <i>энтерон</i>&nbsp;— кишка). В&nbsp;этом случае целомическая полость происходит прямо от кишечной полости. Но у&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B8%D1%87%D0%BD%D0%BE%D1%80%D0%BE%D1%82%D1%8B%D0%B5" target=_blank>первичноротых</a> целом, как правило, образуется по-другому. Сначала по бокам от кишки обособляются компактные группы клеток, не имеющие никаких полостей. Только потом эти клетки расходятся, и внутри каждой их кучки появляется полость, которая становится целомом. Такой способ образования целома называется шизоцельным (или схизоцельным).</p>
+
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/two_sources_of_mesoderm_in_brachiopods_3_703.jpg" alt="Рис. 3. Личинки первичноротых и вторичноротых с разными способами образования целома" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 3.</b> Личинки первичноротых и вторичноротых с&nbsp;разными способами образования целома: <i>слева</i>&nbsp;&mdash; шизоцельный, <i>справа</i>&nbsp;&mdash; энтероцельный. У&nbsp;кольчатых червей и моллюсков целомическая мезодерма образуется всего из двух клеток&nbsp;&mdash; телобластов. Другие пояснения в&nbsp;тексте. Иллюстрация из статьи В.&nbsp;В.&nbsp;Малахов, 1996. <a href="http://www.priroda.ru/upload/iblock/738/file.pdf" target=_blank>Происхождение хордовых животных</a></p></div>
+
+
+</div>
+
+<p>Почему это важно? Карманы первичной кишки, из которых развивается целом у&nbsp;вторичноротых, очень напоминают разделенные перегородками (септами) карманы кишечника <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B0%D0%BB%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B8%D0%BF%D1%8B" target=_blank>коралловых полипов</a>. Напрашивается предположение, что именно из таких карманов и образовались целомические мешки (см.&nbsp;рис.&nbsp;4 в&nbsp;статье <a href="/novosti_nauki/434059/Problema_gomologii_konechnostey_ot_shchupalets_korallov_do_krylev_nasekomykh" target=_blank>Проблема гомологии конечностей: от&nbsp;щупалец кораллов до&nbsp;крыльев насекомых</a>, «Элементы», 23.01.2023). Тогда энтероцельный способ развития целома можно считать кратким повторением (<a href="https://www.booksite.ru/fulltext/1/001/008/096/314.htm" target=_blank>рекапитуляцией</a>) его эволюционного возникновения. Так родилась энтероцельная теория происхождения целома, которая, в&nbsp;свою очередь, очень важна для проблемы происхождения двусторонне-симметричных животных.</p>
+
+<p>Чаще всего энтероцельную теорию связывают с&nbsp;именами братьев <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D1%82%D0%B2%D0%B8%D0%B3,_%D0%9E%D1%81%D0%BA%D0%B0%D1%80" target=_blank>Оскара</a> и <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D1%82%D0%B2%D0%B8%D0%B3,_%D0%A0%D0%B8%D1%85%D0%B0%D1%80%D0%B4_%D1%84%D0%BE%D0%BD" target=_blank>Рихарда Гертвигов</a> (<a href="https://en.wikipedia.org/wiki/Oscar_Hertwig" target=_blank>Oscar Hertwig</a>, <a href="https://en.wikipedia.org/wiki/Richard_Hertwig" target=_blank>Richard Hertwig</a>), которые в&nbsp;1881&nbsp;году выпустили целую книгу «Теория целома» (O.&nbsp;Hertwig, R.&nbsp;Hertwig, 1881. <a href="https://archive.org/details/b20403033/mode/2up" target=_blank>Die Coelomtheorie</a>). Но приоритет, видимо, принадлежит британскому биологу <a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%BA%D0%B5%D1%81%D1%82%D0%B5%D1%80,_%D0%AD%D0%B4%D0%B2%D0%B8%D0%BD_%D0%A0%D0%B5%D0%B9" target=_blank>Рэю Ланкестеру</a> (<a href="https://en.wikipedia.org/wiki/Ray_Lankester" target=_blank>Edwin Ray Lankester</a>), тому самому, который был одним из прототипов конан-дойловского профессора Челленджера (E.&nbsp;R.&nbsp;Lankester, 1877. <a href="https://books.google.ru/books?hl=ru&lr=&id=pCRrWFdwG_cC&oi=fnd&pg=PA3&dq=ray+lankester+embryology+and+classification&ots=emZhobx0Jj&sig=cvN07hHy6sQt-0bVxAs4CFBmZAg&redir_esc=y#v=onepage&q=ray lankester embryology and classification&f=false" target=_blank>Notes on embryology and classification for the use of students</a>). Защитником энтероцельной теории был немецкий зоолог <a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BC%D0%B0%D0%BD%D0%B5,_%D0%90%D0%B4%D0%BE%D0%BB%D1%8C%D1%84" target=_blank>Адольф Ремане</a> (<a href="https://en.wikipedia.org/wiki/Adolf_Remane" target=_blank>Adolf Remane</a>), который суммировал аргументы за и против нее в&nbsp;обстоятельной статье (A.&nbsp;Remane, 1963. <a href="https://books.google.ru/books?hl=ru&lr=&id=rvgNd_E6C3YC&oi=fnd&pg=PA1&dq=adolf+remane+enterocelic+origin+celom&ots=47Px0NmG_z&sig=9cUpVEIyd-p9qB9IW-vBvs9iIho&redir_esc=y#v=onepage&q=adolf remane enterocelic origin celom&f=false" target=_blank>The enterocelic origin of the celom</a>). Давайте посмотрим, как эти аргументы выглядят сейчас.</p>
+
+<h2>Теория целома</h2>
+
+<p>Как мы уже знаем, развивающиеся целомические мешки некоторых двусторонне-симметричных животных сильно напоминают карманы кишечника коралловых полипов. Но при чем тут коралловые полипы? Если они близки к&nbsp;предкам двусторонне-симметричных животных, то должны быть самой древней и примитивной (базальной) группой <a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BA%D0%B0%D1%8E%D1%89%D0%B8%D0%B5" target=_blank>стрекающих</a>. А это вызывало большие сомнения. Например, американская исследовательница Либби Хайман (<a href="https://en.wikipedia.org/wiki/Libbie_Hyman" target=_blank>Libbie Henrietta Hyman</a>), прославившаяся тем, что написала в&nbsp;одиночку превосходное шеститомное руководство по зоологии беспозвоночных, считала, что базальная группа стрекающих&nbsp;— это <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%B8%D0%B4%D0%BD%D1%8B%D0%B5" target=_blank>гидроиды</a>, потому что они устроены гораздо проще, чем кораллы. Но этот аргумент Хайман учитывает только строение стадии <i>полипа</i>. Между тем у&nbsp;всех классов стрекающих, кроме кораллов, есть еще и подвижная стадия <i>медузы</i>, которая всегда устроена более-менее сложно. Если бы коралловые полипы произошли от гидроидов, они должны были бы вторично потерять стадию медузы, а такое предположение ничем не подтверждается и не добавляет гипотезе Хайман убедительности.</p>
+
+<p>Кроме того, простота далеко не всегда означает примитивность. Здесь Ремане приводит изящный ботанический пример. Трудно представить более простое цветковое растение, чем <a href="https://ru.wikipedia.org/wiki/%D0%A0%D1%8F%D1%81%D0%BA%D0%B0" target=_blank>ряска</a>. Но это вовсе не свидетельствует о&nbsp;примитивности: ряска&nbsp;— чрезвычайно сильно специализированный представитель <a href="https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%BE%D0%B8%D0%B4%D0%BD%D1%8B%D0%B5" target=_blank>ароидных</a>, которые, как правило, имеют нормальные стебли и листья, да и само семейство ароидных занимает среди цветковых далеко не базальное положение. В&nbsp;зоологии тоже много подобных случаев, и простота гидроидных полипов вполне может оказаться вторичной.</p>
+
+<p>Спор между Ремане и Хайман разрешила молекулярная филогенетика. В&nbsp;1992&nbsp;году выяснилось, что коралловые полипы&nbsp;— единственный класс стрекающих, у&nbsp;которого митохондриальная ДНК остается кольцевой (D.&nbsp;Bridge et&nbsp;al., 1992. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.89.18.8750" target=_blank>Class-level relationships in the phylum Cnidaria: evidence from mitochondrial genome structure</a>). У&nbsp;всех остальных стрекающих митохондриальная ДНК линейная. Митохондрии, как известно, произошли от <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D0%BE%D0%B1%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D0%B8#%D0%90%D0%BB%D1%8C%D1%84%D0%B0-%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D0%BE%D0%B1%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D0%B8" target=_blank>альфа-протеобактерий</a>, некогда вселившихся в&nbsp;клетку архейного предка эукариот. У&nbsp;бактерий ДНК кольцевая. У&nbsp;большинства животных она осталась кольцевой и в&nbsp;митохондриях. Переход митохондриальной ДНК в&nbsp;линейную форму&nbsp;— нечастое эволюционное новшество. Тот факт, что у&nbsp;коралловых полипов митохондриальная ДНК осталась кольцевой, свидетельствует, что они и есть базальная группа стрекающих. Дальнейшие молекулярные исследования подтвердили этот вывод (см.&nbsp;<a href="/novosti_nauki/432862/Dvustoronnyaya_simmetriya_korallov_drevnee_radialnoy" target=_blank>Двусторонняя симметрия кораллов древнее радиальной</a>, «Элементы», 26.10.2016). Линеаризация митохондриальной ДНК и появление стадии медузы&nbsp;— особенности продвинутых стрекающих, которые не были свойственны первым членам этой группы. Общий предок стрекающих и двусторонне-симметричных животных (билатерий) вполне мог быть похож на кораллового полипа.</p>
+
+<p>Свое слово сказала и эволюционная биология развития. Выяснилось, например, что ген <i>Brachyury</i>, который у&nbsp;билатерий, в&nbsp;частности, регулирует развитие осевой мезодермы (см.&nbsp;<a href="/novosti_nauki/432120/U_odnokletochnykh_organizmov_est_gen_sposobnyy_upravlyat_razvitiem_khordy" target=_blank>У&nbsp;одноклеточных организмов есть ген, способный управлять развитием хорды</a>, «Элементы», 25.10.2013), у&nbsp;коралловых полипов экспрессируется в&nbsp;септах, разделяющих кишечные карманы, то&nbsp;есть именно там, где ему и следовало бы экспрессироваться согласно энтероцельной теории (C.&nbsp;Scholtz, U.&nbsp;Technau, 2003. <a href="https://link.springer.com/article/10.1007/s00427-002-0272-x" target=_blank>The ancestral role of <i>Brachyury</i>: expression of <i>NemBra1</i> in the basal cnidarian <i>Nematostella vectensis</i> (Anthozoa)</a>). Есть и другие косвенные генетические подтверждения того, что кишечные карманы кораллов и целомические мешки билатерий могут быть гомологами (см.&nbsp;<a href="/novosti_nauki/434059/Problema_gomologii_konechnostey_ot_shchupalets_korallov_do_krylev_nasekomykh" target=_blank>Проблема гомологии конечностей: от&nbsp;щупалец кораллов до&nbsp;крыльев насекомых</a>, «Элементы», 23.01.2023).</p>
+
+<p>Другое возражение против энтероцельной теории имеет более общий характер. Дело в том, что в&nbsp;процессах формообразования (морфогенеза) животных организмов есть два главных участника: <a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BF%D0%B8%D1%82%D0%B5%D0%BB%D0%B8%D0%B9" target=_blank>эпителий</a> и <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B7%D0%B5%D0%BD%D1%85%D0%B8%D0%BC%D0%B0" target=_blank>мезенхима</a>. Эпителий&nbsp;— это плотный слой клеток, выстилающий некоторую поверхность. Клетки эпителия сидят на общей <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B7%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%BC%D0%B1%D1%80%D0%B0%D0%BD%D0%B0" target=_blank>базальной мембране</a> и связаны между собой <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%BA%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B" target=_blank>межклеточными контактами</a>. Двигаться независимо друг от друга они не могут. Мезенхима&nbsp;— это рыхлая соединительная ткань, в&nbsp;которой клетки могут более-менее свободно двигаться в&nbsp;разные стороны. Эпителий хорош тем, что может упорядоченно менять свою форму: впячиваться, выпячиваться, образовывать полости, трубки и более сложные структуры. Клетки мезенхимы перемещаются по организму гораздо более хаотично. Кроме того, эпителий и мезенхима способны превращаться друг в&nbsp;друга. Эпителий может рассыпаться в&nbsp;мезенхиму, но и мезенхима может самоорганизоваться в&nbsp;эпителий.</p>
+
+<p>Вклад эпителия и мезенхимы в&nbsp;формирование одних и тех же органов может сильно различаться у&nbsp;разных животных. Развитие целома&nbsp;— яркий тому пример. При энтероцельном способе развития целома целомический эпителий непосредственно «отпочковывается» от кишечного эпителия, а при других способах целомический эпителий самоорганизуется из мезенхимы. Какой из этих вариантов эволюционно первичен? Очень похожие вопросы возникают и при исследовании развития других органов (например, первичной кишки и <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D0%B2%D0%BD%D0%B0%D1%8F_%D1%82%D1%80%D1%83%D0%B1%D0%BA%D0%B0" target=_blank>нервной трубки</a>).</p>
+
+<p>Мнения зоологов по этим вопросам резко разошлись. Например, <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BA%D0%BB%D0%B5%D0%BC%D0%B8%D1%88%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87" target=_blank>Владимир Николаевич Беклемишев</a> считал эпителиальный морфогенез более организованным, а следовательно&nbsp;— возникшим позже. <i>«Эпителий легче проделывает все движения, ведущие к&nbsp;закладке органов... как военный отряд маневрирует легче толпы»</i> (В.&nbsp;Н.&nbsp;Беклемишев, 1925. <a href="https://herba.msu.ru/shipunov/school/books/beklemishev1925_morf_probl_zhivotn_str.djvu" target=_blank>Морфологическая проблема животных структур</a>). Гертвиги и Ремане, наоборот, считали, что у&nbsp;древнейших многоклеточных животных всё, что только можно, происходило путем выгибания, прогибания или отпочковывания эпителиальных пластов. Ремане резонно указал, что мезенхимный морфогенез на самом деле <i>сложнее</i> эпителиального. В&nbsp;нём больше этапов: клетки мезенхимы должны выселиться из исходного эпителия, мигрировать россыпью к&nbsp;месту назначения и там заново самоорганизоваться в&nbsp;эпителий. Поэтому следовало бы ожидать, что эпителиальный морфогенез окажется более примитивным.</p>
+
+<p>На сегодняшний день можно утверждать: в&nbsp;тех случаях, когда возможна проверка, факты оказываются скорее на стороне Гертвигов и Ремане. Например, среди вторичноротых больше всего примитивных признаков сохраняют <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%88%D0%B5%D1%87%D0%BD%D0%BE%D0%B4%D1%8B%D1%88%D0%B0%D1%89%D0%B8%D0%B5" target=_blank>кишечнодышащие</a>, у&nbsp;которых формообразование эпителизовано максимально сильно: животное буквально представляет собой «сверток эпителиев» (В.&nbsp;В.&nbsp;Малахов, О.&nbsp;В.&nbsp;Ежова, 2013. <a href="https://www.researchgate.net/publication/270285092_O_sakkoglossuse_zoologah_i_perevernutyh_hordovyh" target=_blank>О&nbsp;саккоглоссусе, зоологах и перевернутых хордовых</a>). Среди стрекающих, как мы знаем, базальное положение занимают кораллы, у&nbsp;которых формообразование очень сильно эпителизовано по сравнению с&nbsp;теми же гидроидами. Энтероцельная теория происхождения целома хорошо вписывается в&nbsp;эту логику.</p>
+
+<h2>Целом брахиопод</h2>
+
+<p>Как образуется целом у&nbsp;брахиопод?</p>
+
+<p>В классической зоологии было принято считать, что у&nbsp;брахиопод, в&nbsp;отличие от подавляющего большинства других первичноротых, целом образуется энтероцельным путем, то&nbsp;есть из карманов первичной кишки. Этот момент подчеркивали и Ланкестер, и Ремане; оба они рассматривали энтероцельное образование целома как очень древний признак, унаследованный от первых билатерий (см.&nbsp;ниже, рис.&nbsp;5). Однако в&nbsp;2000&nbsp;году вышла работа, в&nbsp;которой на современном уровне, с&nbsp;использованием электронного микроскопа, было показано, что у&nbsp;двух изученных видов брахиопод целом образуется не из кишечной полости, а благодаря расхождению клеток исходно плотных мезодермальных зачатков, то&nbsp;есть шизоцельно (C.&nbsp;Lüter, 2000. <a href="https://link.springer.com/article/10.1007/s004359900019" target=_blank>The origin of the coelom in Brachiopoda and its phylogenetic significance</a>). Естественно, это поставило старые представления под угрозу.</p>
+
+<p>Чтобы выяснить истину, российские исследовательницы <a href="http://invert.bio.msu.ru/ru/staff-ru/senior-researchers/44-kuzmina" target=_blank>Татьяна Валерьевна Кузьмина</a> и <a href="http://invert.bio.msu.ru/ru/staff-ru/professors/38-temereva" target=_blank>Елена Николаевна Темерева</a> изучили развитие брахиоподы <i><a href="https://www.marinespecies.org/aphia.php?p=taxdetails&id=235728" target=_blank>Coptothyris grayi</a></i>, живущей в&nbsp;Японском море. Они выводили личинок брахиоподы в&nbsp;лаборатории и детально исследовали их строение на разных стадиях с&nbsp;помощью с&nbsp;помощью конфокального лазерного сканирующего микроскопа (рис.&nbsp;4).</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<a href="https://elementy.ru/images/news/two_sources_of_mesoderm_in_brachiopods_4_1400.jpg" target=_blank onclick="return pict_popup('https://elementy.ru/images/news/two_sources_of_mesoderm_in_brachiopods_4_1400.jpg','Рис. 4. Развитие брахиоподы Coptothyris grayi')">
+<div align=center class='img'><span class='bcimg'>
+   <img src="images/news/two_sources_of_mesoderm_in_brachiopods_4_703.jpg" alt="Рис. 4. Развитие брахиоподы Coptothyris grayi" border=0 >
+   <span class='zoom'><img src="images/eltnewdesign/zoomnw2.png" alt="" border="0" width="27" height="27"></span>
+</span></div>
+</a>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 4.</b> Развитие брахиоподы <i>Coptothyris grayi</i>. <b>(a)</b>&nbsp;&mdash; ранняя гаструла, <b>(b)</b>, <b>(c)</b>&nbsp;&mdash; разрезы через переднюю <b>(b)</b> и заднюю <b>(c)</b> часть тела личинки на этапе формирования мезодермы, <b>(d)</b>&nbsp;&mdash; ранняя трехлопастная личинка, <b>(e)</b>, <b>(f)</b>&nbsp;&mdash; горизонтальные (фронтальные) срезы через тело ранней трехлопастной личинки, обработанные разными способами. Обозначения: <i>bl</i>&nbsp;&mdash; бластопор, <i>ar</i>&nbsp;&mdash; первичная кишка, <i>am</i>&nbsp;&mdash; передняя мезодерма, <i>pm</i>&nbsp;&mdash; задняя мезодерма, <i>al</i>&nbsp;&mdash; головная лопасть, <i>rml</i>&nbsp;&mdash; зачаток мантийной лопасти, <i>pl</i>&nbsp;&mdash; педальная лопасть, <i>длинные стрелки</i>&nbsp;&mdash; передняя мезодерма, <i>короткие стрелки</i>&nbsp;&mdash; задняя мезодерма. Иллюстрация из обсуждаемой статьи в&nbsp;<i>Докладах академии наук</i></p></div>
+
+
+</div>
+
+
+<p>Личинка <i>Coptothyris grayi </i>выходит из яйца на стадии поздней <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%B0%D1%81%D1%82%D1%83%D0%BB%D0%B0" target=_blank>бластулы</a>, имеющей шарообразную форму. Переход к&nbsp;стадии <a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BB%D0%B0" target=_blank>гаструлы</a> происходит путем <a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B2%D0%B0%D0%B3%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D1%8F_(%D1%8D%D0%BC%D0%B1%D1%80%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" target=_blank>инвагинации</a>, то&nbsp;есть впячивания одного из полушарий зародыша, которое, погружаясь внутрь, образует первичную кишку (рис.&nbsp;4a). Вскоре после того, как симметрия зародыша превращается из радиальной в&nbsp;двустороннюю, первичная кишка образует две пары выступающих карманов: переднюю и заднюю. Это и есть зачатки целомов. На этой стадии кишечная полость непосредственно продолжается в&nbsp;полости целомических карманов (рис.&nbsp;4b, 4c), а это означает, что способ формирования целома у&nbsp;<i>Coptothyris grayi&nbsp;—</i> энтероцельный.</p>
+
+<p>На более поздней стадии личинка брахиоподы становится трехлопастной (рис.&nbsp;4d). В&nbsp;ней выделяются головная лопасть, зачаток мантийной лопасти и педальная лопасть, из которой впоследствии развивается прикрепительный стебелек. При этом передний целомический карман становится целомом головной лопасти, а задний целомический карман делится на два целома, которые размещаются в&nbsp;мантийной и педальной лопастях (рис.&nbsp;4e, 4f). Таким образом, целомическая мезодерма <i>Coptothyris grayi </i>происходит из двух источников&nbsp;— переднего и заднего.</p>
+
+<p>Нужно добавить, что у&nbsp;брахиопод (во всяком случае, у тех, которые были объектами обсуждаемых исследований) личинки лецитотрофные: это означает, что они не питаются самостоятельно, а питаются запасенным в&nbsp;клетках желтком. Поэтому клетки у&nbsp;них большие, а свободные пространства между клетками&nbsp;— не очень. Это и может быть причиной того, что не у&nbsp;всех брахиопод удалось обнаружить зачаточные целомические полости.</p>
+
+<p>Кроме того, вполне вероятно, что в&nbsp;процессе эволюции брахиопод у&nbsp;некоторых из них энтероцельный способ закладки целома постепенно превратился в&nbsp;шизоцельный. Такие эволюционные превращения хорошо документированы (см.&nbsp;ниже). О&nbsp;брахиоподах еще Хайман писала: <i>«Итак, имеющиеся данные указывают, что у&nbsp;<a href="http://paleontologylib.ru/books/item/f00/s00/z0000029/st144.shtml" target=_blank>беззамковых</a> брахиопод целом шизоцельный, а у&nbsp;<a href="http://paleontologylib.ru/books/item/f00/s00/z0000029/st145.shtml" target=_blank>замковых</a>&nbsp;— энтероцельный»</i> (L.&nbsp;H.&nbsp;Hyman, 1959. <a href="https://archive.org/details/invertebratessma0000libb" target=_blank>The Invertebrates. Volume&nbsp;V: Smaller coelomate groups</a>). Сейчас эта классификация устарела, но <i>Coptothyris grayi </i>по ней относится как раз к&nbsp;замковым брахиоподам.</p>
+
+<h2>Два источника мезодермы</h2>
+
+<p>Кузьминой и Темеревой удалось показать, что мезодерма у&nbsp;<i>Coptothyris grayi </i>формируется из двух независимых источников&nbsp;— переднего и заднего. Для брахиопод это показано впервые. Зато два источника эмбриональной мезодермы были раньше описаны у&nbsp;многих других животных, например у&nbsp;<a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%81%D0%BA%D0%B8%D0%B5_%D1%87%D0%B5%D1%80%D0%B2%D0%B8" target=_blank>плоских червей</a>, <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BC%D0%B5%D1%80%D1%82%D0%B8%D0%BD%D1%8B" target=_blank>немертин</a>, моллюсков, ракообразных и <a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D0%B4%D1%8B" target=_blank>форонид</a>. В&nbsp;работах, посвященных форонидам, Елена Николаевна Темерева и Владимир Васильевич Малахов предполагают, что <i>«передний и задний источники мезодермы по своему положению связаны с&nbsp;ротовым и анальным отверстиями, которые согласно построениям сравнительных анатомов представляют собой продукты разделения щелевидного <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D1%80" target=_blank>бластопора</a> радиально-симметричного предка»</i> (Е.&nbsp;Н.&nbsp;Темерева, В.&nbsp;В.&nbsp;Малахов, 2007. <a href="https://kpfu.ru/portal/docs/F_650617893/149_3_est_28.pdf" target=_blank>Развитие и филогения форонид</a>; см.&nbsp;также посвященную этой теме <a href="https://www.researchgate.net/profile/Elena-Temereva/publication/270896661_Development_and_organization_of_phoronid_coelomic_system_sheds_light_on_the_coelom_evolution_in_Bilateria/links/54d1f7290cf28370d0e17b78/Development-and-organization-of-phoronid-coelomic-system-sheds-light-on-the-coelom-evolution-in-Bilateria.pdf" target=_blank>презентацию</a>). Бластопор&nbsp;— это, согласно принятой здесь интерпретации, зародышевый первичный рот. Однако здесь не все так просто, и нам стоит сделать краткий обзор имеющих отношение к&nbsp;делу фактов.</p>
+
+<p>Начнем с&nbsp;форонид. У&nbsp;этих щупальцевых животных, родственников брахиопод, личинка имеет три отдела целома: предротовой (протоцель), щупальцевый (мезоцель) и туловищный (метацель) (Е.&nbsp;Н.&nbsp;Темерева, В.&nbsp;В.&nbsp;Малахов, 2006. <a href="https://kmkjournals.com/upload/PDF/IZ/IZ Vol 03/invert3_1_001_021_Temereva.pdf" target=_blank>Ответ Томасу Бартоломеусу: Личинка форониды <i>Phoronopsis harmeri</i> Pixell, 1912 имеет тримерную организацию целома</a>). В&nbsp;терминах классической зоологии такой план строения называется архицеломатным или архимерным (рис.&nbsp;5). Многие зоологи&nbsp;— например, тот же Ремане&nbsp;— считали, что архимерное строение является исходным для всех билатерий и что форониды могут служить его образцом. Это предположение служит основой так называемой архицеломатной гипотезы происхождения билатерий (см.&nbsp;В.&nbsp;В.&nbsp;Малахов, 2004. <a href="http://vivovoco.astronet.ru/VV/JOURNAL/NATURE/06_04/BILAT.HTM" target=_blank>Новый взгляд на происхождение билатерий</a>). Мезодерма у&nbsp;изученных видов форонид происходит из двух зачатков&nbsp;— переднего и заднего. Передняя мезодерма возникает из передней стенки первичной кишки, которую она подковообразно огибает, а задняя отделяется от кишки ближе к&nbsp;анальному отверстию. Из переднего мезодермального зачатка образуется выстилка предротового и щупальцевого целомов, а из заднего&nbsp;— выстилка туловищного целома. Необходимо добавить, что у&nbsp;некоторых форонид предротовой целом (протоцель) редуцируется и целомов остается только два: щупальцевый и туловищный.</p>
+
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/two_sources_of_mesoderm_in_brachiopods_5_703.jpg" alt="Рис. 5. Общий предок билатерий, реконструированный Адольфом Ремане" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 5.</b> Общий предок билатерий, реконструированный Адольфом Ремане. Вид сверху, вид сбоку и поперечный разрез. Иллюстрация из статьи A.&nbsp;Remane, 1963. <a href="https://books.google.ru/books?hl=ru&lr=&id=rvgNd_E6C3YC&oi=fnd&pg=PA1&dq=adolf+remane+enterocelic+origin+celom&ots=47Px0NmG_z&sig=9cUpVEIyd-p9qB9IW-vBvs9iIho&redir_esc=y#v=onepage&q=adolf remane enterocelic origin celom&f=false" target=_blank>The enterocelic origin of the celom</a>, с&nbsp;изменениями</p></div>
+
+
+</div>
+
+
+<p>У брахиопод предротовой целом (протоцель) редуцирован очень сильно. Обнаружить его пока удалось только у&nbsp;беззамковой брахиоподы <i>Lingula</i> (E.&nbsp;N.&nbsp;Temereva et&nbsp;al., 2015. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0044523115000236" target=_blank>Demonstration of the preoral coelom in the brachiopod <i>Lingula anatina</i> with consideration of its phylogenetic signiﬁcance</a>). У&nbsp;подавляющего большинства брахиопод передний целомический зачаток дает начало только целому лофофора. Таким образом, у&nbsp;<i>Coptothyris grayi </i>головной целом&nbsp;— это мезоцель, а мантийный и педальный целомы&nbsp;— части разделившегося метацеля. Три целома личинки брахиоподы&nbsp;— это не те три целома, которые были у&nbsp;архимерных животных (хотя преемственность от них проследить можно). Так же, как и у&nbsp;форонид, мезоцель у&nbsp;брахиопод развивается из переднего мезодермального зачатка, а метацель&nbsp;— из заднего. Что касается разделения метацеля перегородками на дополнительные целомы, то у&nbsp;щупальцевых животных это не редкость. Остатки этих перегородок есть у&nbsp;взрослых брахиопод, они называются латеральными мезентериями (см.&nbsp;рис.&nbsp;2, на котором метацель подразделен даже на три целома, и статью E.&nbsp;N.&nbsp;Temereva, V.&nbsp;V.&nbsp;Malakhov, 2011. <a href="https://www.researchgate.net/publication/301222761_The_evidence_of_metamery_in_adult_brachiopods_and_phoronids" target=_blank>The evidence of metamery in adult brachiopods and phoronids</a>). Подразделение метацеля можно рассматривать как начальный этап формирования сегментации, примерно такой, как сегментация кольчатых червей; иное дело, что у&nbsp;щупальцевых этот процесс далеко не зашел.</p>
+
+<p>Еще одна группа животных, которой свойственно архимерное строение,&nbsp;— <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%83%D1%85%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5" target=_blank>полухордовые</a>, в&nbsp;частности уже упоминавшиеся кишечнодышащие. Это образцовые архицеломатные животные. Область протоцеля у&nbsp;них называется хоботком, область мезоцеля воротничком, а область метацеля туловищем. Никогда не подвергалось сомнению, что для кишечнодышащих в&nbsp;общем характерно энтероцельное образование целомов. Но, как известно, дьявол живет в&nbsp;деталях, а детали здесь на удивление разнообразны (рис.&nbsp;6; О.&nbsp;М.&nbsp;Иванова-Казас, 1978. <a href="https://herba.msu.ru/shipunov/school/books/ivanova-kazas1978_sr_embr_besp_iglok.djvu" target=_blank>Сравнительная эмбриология беспозвоночных животных: Иглокожие и полухордовые</a>). Есть виды кишечнодышащих, у&nbsp;которых целомы хоботка, воротничка и туловища образуются идеально правильным способом&nbsp;— как независимые друг от друга полые выпячивания стенки первичной кишки (рис.&nbsp;6А). Есть виды, у&nbsp;которых зачатки целомов сначала обособляются от первичной кишки в&nbsp;виде плотных разрастаний, а уже потом в&nbsp;них возникают полости (рис.&nbsp;6Б). В&nbsp;этом случае энтероцельный способ образования целома сменяется на шизоцельный. Есть виды, у&nbsp;которых целомы образуются из двух зачатков: переднего, дающего только хоботковый целом, и заднего, который делится на воротничковый и туловищный целомы (рис.&nbsp;6В). Есть виды, у&nbsp;которых целомы воротничка и туловища отрастают от уже обособившегося целома хоботка (рис.&nbsp;6Г). В&nbsp;этом случае источник целомической мезодермы всего один. Наконец, есть виды, у&nbsp;которых целомы самоорганизуются из мезенхимы (рис.&nbsp;6Д). Как видим, и энтероцельность/шизоцельность, и число и расположение источников целомической мезодермы&nbsp;— это признаки, которые могут довольно легко меняться в&nbsp;ходе эволюции, причем не влияя на конечный результат морфогенеза: «готовые» целомы у&nbsp;всех кишечнодышащих устроены примерно одинаково (рис.&nbsp;6Е).</p>
+
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/two_sources_of_mesoderm_in_brachiopods_6_703.jpg" alt="Рис. 6. Разные способы развития целомов у кишечнодышащих" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 6.</b> Разные способы развития целомов у&nbsp;кишечнодышащих. Пояснения в&nbsp;тексте. Иллюстрация из статьи A.&nbsp;Remane, 1963. <a href="https://books.google.ru/books?hl=ru&lr=&id=rvgNd_E6C3YC&oi=fnd&pg=PA1&dq=adolf+remane+enterocelic+origin+celom&ots=47Px0NmG_z&sig=9cUpVEIyd-p9qB9IW-vBvs9iIho&redir_esc=y#v=onepage&q=adolf remane enterocelic origin celom&f=false" target=_blank>The enterocelic origin of the celom</a>, с&nbsp;изменениями</p></div>
+
+
+</div>
+
+
+<p>Еще один пример, который приводят Кузьмина и Темерева (и академик Малахов в&nbsp;других работах), относится к&nbsp;позвоночным животным. В&nbsp;самой передней части тела у&nbsp;зародышей позвоночных находится прехордальная пластинка, которая подстилает <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BC%D0%BE%D0%B7%D0%B3" target=_blank>передний</a> и <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D0%B6%D1%83%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D0%B7%D0%B3" target=_blank>промежуточный мозг</a> и которую можно рассматривать как особый источник мезодермы. При желании это позволяет распространить теорию «двух источников» на позвоночных животных. Но и тут не все так просто. Прежде всего надо учитывать, что архимерное подразделение тела у&nbsp;позвоночных сохранилось, хотя и в&nbsp;замаскированном виде. Позвоночные&nbsp;— сегментированные, или, правильнее говоря, метамерные животные: это проявляется у&nbsp;них в&nbsp;строении осевого скелета, жаберного аппарата, мышц, нервов и некоторых других органов. Области протоцеля у&nbsp;позвоночных соответствует предчелюстной метамер, области мезоцеля&nbsp;— челюстной метамер, а области метацеля&nbsp;— все остальное тело (см.&nbsp;<a href="/novosti_nauki/433662/Izmenchivost_zmeinogo_cherepa_dokumentiruet_ego_evolyutsionnye_perestroyki" target=_blank>Изменчивость змеиного черепа документирует его эволюционные перестройки</a>, «Элементы», 03.06.2020). При этом все метамерные мезодермальные образования у&nbsp;позвоночных развиваются из осевой (параксиальной) мезодермы, в&nbsp;состав которой не входит только зачаток <a href="https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%80%D0%B4%D0%B0_(%D0%B7%D0%BE%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" target=_blank>хорды</a>: он непарный, расположен строго посредине, и метамерия его не затрагивает. Что же касается прехордальной пластинки, то она, во-первых, находится в&nbsp;зоне предчелюстного метамера, и во-вторых, является непосредственным продолжением того самого зачатка хорды (рис.&nbsp;7; H.&nbsp;C.&nbsp;Bjerring, 1971. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.1971.tb00557.x" target=_blank>The nerve supply to the second metamere basicranial muscle in osteolepiform vertebrates, with some remarks on the basic composition of the endocranium</a>). В&nbsp;эмбриологических экспериментах изолированную прехордальную пластинку тритона удавалось даже заставить дифференцироваться в&nbsp;ткань хорды (H.&nbsp;Takaya, 1953. <a href="https://www.jstage.jst.go.jp/article/pjab1945/29/7/29_7_374/_article/-char/ja/" target=_blank>On the notochord-forming potency of the prechordal plate in Triturus gastrulae</a>). Эта потенция в&nbsp;ней сохранилась. В&nbsp;норме из прехордальной пластинки, по-видимому, развиваются некоторые зародышевые хрящи мозговой коробки. А вот к&nbsp;целомическим структурам она не имеет отношения.</p>
+
+<!-- Блок иллюстрации -->
+<div  class="ill_block ins_block center_ins_block ilarge cmt">
+
+
+
+<div align=center class='img'><img src="images/news/two_sources_of_mesoderm_in_brachiopods_7_703.jpg" alt="Рис. 7. Прехордальная пластинка зародыша акулы Squalus acanthias" border=0 ></div>
+
+
+
+<div class="comment" align="left"><p><b>Рис. 7.</b> Прехордальная пластинка зародыша акулы <i>Squalus acanthias</i>. Восковая модель мозга и прехордальной пластинки, сделанная на основе сериальных срезов зародыша длиной 4,5&nbsp;мм. Вид снизу, <b>A</b>&nbsp;&mdash; с&nbsp;прехордальной пластинкой и хордой, <b>B</b>&nbsp;&mdash; без них. Иллюстрация из статьи H.&nbsp;C.&nbsp;Bjerring, 1971. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.1971.tb00557.x" target=_blank>The nerve supply to the second metamere basicranial muscle in osteolepiform vertebrates, with some remarks on the basic composition of the endocranium</a></p></div>
+
+
+</div>
+
+
+<p>К этому можно добавить, что у&nbsp;самого базального современного хордового&nbsp;— <a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D1%86%D0%B5%D1%82%D0%BD%D0%B8%D0%BA%D0%B8" target=_blank>ланцетника</a>&nbsp;— прехордальной пластинки в&nbsp;принципе не может быть: соответствующая часть мезодермы у&nbsp;него становится продолжением хорды, которая (в&nbsp;отличие от хорды позвоночных) доходит до самого переднего конца тела. Таким образом, «два источника мезодермы» у&nbsp;позвоночных&nbsp;— это скорее аналогия, чем знак преемственности с&nbsp;тем, что наблюдается у&nbsp;брахиопод и форонид. Но и аналогия может свидетельствовать о том, что за планами строения разных животных скрываются глубокие общие закономерности.</p>
+
+<p class="small"><b>Источник:</b> T.&nbsp;V.&nbsp;Kuzmina, E.&nbsp;N.&nbsp;Temereva. <a href="https://link.springer.com/article/10.1134/S0012496623700837" target=_blank>Two sources of mesoderm in brachiopods</a>&nbsp;// <i>Doklady Biological Sciences</i>. 2024. DOI:&nbsp;10.1134/S0012496623700837.</p>
+
+<p><i>Сергей Ястребов</i></p>
+
+
+
+
+
+
+    
+</div>
+
+<div class='cl'></div>
+<hr>
+<div class='toggle'>
+
+<div class='forum_topctrl '>
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,twitter,telegram" data-bare="" data-counter="" id="forum_socnets_share"></div><div class='forum_icon' onclick='toggleClick(this)' title='Комментарии'><span class='fmicon'></span><span class='fmcounter'>2</span></div>
+  
+     <div class='goto toggle_hide'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this)'><span class='hide_other'>Показать </span>комментарии (2)</span></div>
+     <div class='goto toggle_body'><span class='toggle_button' onclick='toggleClick(this)'></span><span class='toggle_label' onclick='toggleClick(this); socnetsFly();'><span class='hide_other'>Свернуть </span>комментарии <span class='hide_main'>(2)</span></span></div>
+  
+
+</div>
+
+<div class='forum toggle_body' id='forum_block'>
+<hr>
+<ul class="level0"><li class="level0" id='forum_node_5352509'>
+   <div class='fmnode'>
+   <a name='fm5352509'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>Андрей Быстрицкий</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434191#fm5352509'>12.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>13:16
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>Спасибо, Серёж, как всегда, любопытно. Темерева прёт, конечно, как бронепоезд ).<br>Но меня цепанула последняя картинка. Нейрогипофиз, оказывается, тоже исходно парный? А адено?</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+<li class="level0" id='forum_node_5352513'>
+   <div class='fmnode'>
+   <a name='fm5352513'></a>
+   <div class='fmhead'><span class='nodepoint'></span>
+           <span class='fmauthor'>shuhray</span>
+           &nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"></span>  <a href='/novosti_nauki/434191#fm5352513'>13.02.2024</a>&nbsp;<span class='break vl'><img src="/images/eltnewdesign/fhline.png" alt="|"> </span>04:37
+           
+           <span class='fmctrl onhover fmadd hide_phone'>Ответить</span>
+           
+           
+   </div>
+   
+       
+       <div class='brief'>испить целомом Дону<br>Посоветуйте какие-нибудь книжки новые, палеонтологические или про молекулярную систему всего.</div>
+   
+   <div class='fmhead hide_main hide_vpad hide_hpad'>
+           
+           
+           <span class='fmctrl onhover fmadd'>Ответить</span>
+           
+   </div>
+   </div>
+   </li>
+</ul>
+<div class='fmctrl fl' id='forum_btm_btn'>Написать комментарий</div>
+
+
+<div class='cl'></div>
+</div>
+</div>
+
+<div class='forumctrls' style='display:none'>
+
+<div id='forum_edit_block'>
+<form action="/novosti_nauki/434191?ipcountry=NL" method=post onsubmit="return forum_checkMsgForm(this)">
+
+<input type='hidden' name='msgedit' id='forum_msg_id'>
+<div class='xform'>
+	<textarea id='forum_edit_textarea' name=memo placeholder="Комментарий"></textarea>
+	
+	<input type='submit' value='Сохранить' name='accept'> <input type=submit name=delete onclick='return confirm("Удалить сообщение?");' value="Удалить">
+        <div class='gap'></div>
+</div>
+</form>
+</div>
+
+<div id='forum_input_block' class='fmnode toggle'>
+
+        <div class='fmhead'><span class="nodepoint"></span>Вход в систему</div>
+	<div class='xform beige'>
+        <div class='smallform'>
+        
+		<form action="/novosti_nauki/434191?ipcountry=NL" method=post>
+                
+                <input type='hidden' name='answerto' id='forum_prev_id'>
+		<input type=text name=LOGIN  value="" maxlength=50 placeholder='Имя' id='forum_login'></td>
+		<input type=password name="PASSWD" value="" maxlength=50 placeholder='Пароль'></td></tr>
+                <div class="label fl"><span class="xcheckbox"><input id='rpw_chk' type="checkbox" name=PERSIST onclick="resetXCheck(this)"></span> <label for='rpw_chk'>запомнить пароль</label></div>
+                <input type="submit" class='right' name="accept_auth" value="   ok   ">
+                <div class='cl'></div>
+		</form>
+        <div class='goto fl'><a href="/reguser">Зарегистрироваться</a></div>
+        <div class='goto fr'><a href="/restore_password">Забыли пароль?</a></div><div class='cl'></div>
+	</div>
+        </div>
+        <div class='gap'></div>
+
+</div>
+
+</div>
+
+<script type='text/javascript'>
+var forum_user ="";
+var forum_mode = "simple";
+var forum_answerto = ""; 
+var forum_msgcnt = "2"; 
+
+
+var topbtn = document.getElementById('forum_topsocnet_button');
+if (topbtn) topbtn.style.display='';
+</script>
+<script type='text/javascript' src='/downloads/js/forum.js?v=1.10' charset="utf-8"></script>
+</div>
+
+<div class='crblock'>
+
+<div class='storyline important'>
+
+</div>
+
+
+
+     <h2><a href="/novosti_nauki">Последние новости</a></h2>
+     <hr class='nogap'>
+
+
+    <a href="/novosti_nauki/434407/Kukolki_zarazhennye_opasnym_parazitom_posylayut_rabochim_muravyam_signal_ubey_menya" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/altruistic-disease-signalling-in-ant-colonies_logo_200.jpg" alt="Рабочие муравьи Lasius neglectus проводят «разрушающую дезинфекцию»"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Куколки, зараженные опасным паразитом, посылают рабочим муравьям сигнал «убей меня»</div>
+    <div class="sublink"><span class="date">12.02</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434406/U_pervykh_pozvonochnykh_bylo_dve_pary_glaz" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/myllokunmingia_200.jpg" alt="У первых позвоночных было две пары глаз"></div>
+    
+    <div class='ib_text'>
+    <div class="title">У первых позвоночных было две пары глаз</div>
+    <div class="sublink"><span class="date">09.02</span>&nbsp;<span class='break'
+>•</span> Сергей Ястребов</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434405/Infrakrasnoe_izluchenie_drevneyshiy_signal_dlya_privlecheniya_opyliteley" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/infrared-radiation-is-an-ancient-pollination-signal_1_200.jpg" alt="Открытая шишка саговникового растения. (B) Тепловизионное изображение мужской шишки саговника в&nbsp;момент нагревания во&nbsp;время выброса пыльцы"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Инфракрасное излучение&nbsp;— древнейший сигнал для привлечения опылителей</div>
+    <div class="sublink"><span class="date">04.02</span>&nbsp;<span class='break'
+>•</span> Елена Устинова</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+    <a href="/novosti_nauki/434404/Dazhe_krupnye_mozazavry_mogli_zhit_v_rekakh" class="nohover">
+      
+    <div class='img_block11'>
+    <div class='ib_img'><img src="images/news/260118_novikovskaya_mosasaurus_200.jpg" alt="Некоторые виды мозазавров могли быть пресноводными"></div>
+    
+    <div class='ib_text'>
+    <div class="title">Даже крупные мозазавры могли жить в реках</div>
+    <div class="sublink"><span class="date">19.01</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+    </div>
+    </div>
+    </a>
+    <div class='cl'></div>
+    <hr>
+
+<div class='goto'><a href="/novosti_nauki">Все новости</a></div>
+<div class='gap2'></div>
+
+
+<!-- Здесь был блок картинки дня: KLBLOCK id="eltdpicture" page_size="1" template="dpicture_R_v2" page="" calendar="" features="v2" dpicture_title="Картинка дня" dpicture_th_title="*" gotoxrub="19"/ -->
+
+<div class='important'>
+
+
+<hr class='hide_main hide_hpad'><div class='gap hide_main hide_hpad'></div>
+<div class='rxblock eltnews'>
+<h2>См. также</h2><hr class='nogap'>
+
+
+
+<a class="nohover" href="/novosti_nauki/432695/Drevneyshie_predki_kolchatykh_chervey_mogli_byt_pokhozhi_na_brakhiopod?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/cambrian_fossils_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Древнейшие предки кольчатых червей могли быть похожи на брахиопод</div>
+    
+    <div class="sublink"><span class="date">26.02.2016</span>&nbsp;<span class='break'>•</span> Сергей Ястребов&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/432320/Sushchestvovanie_evolyutsionnoy_vetvi_linyayushchikh_zhivotnykh_poluchilo_embriologicheskoe_podtverzhdenie?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/the_embryonic_development_of_elminius_modestus_darwin_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Существование эволюционной ветви линяющих животных получило эмбриологическое подтверждение</div>
+    
+    <div class="sublink"><span class="date">23.09.2014</span>&nbsp;<span class='break'>•</span> Сергей Ястребов&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/432275/Platizoi_stavyat_pod_somnenie_proiskhozhdenie_dvustoronne_simmetrichnykh_zhivotnykh_ot_tselomicheskogo_predka?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/platyzoan_paraphyly_1_600.jpg" alt=""></div>
+    
+    <div class="title">Платизои ставят под сомнение происхождение двусторонне-симметричных животных от целомического предка</div>
+    
+    <div class="sublink"><span class="date">23.06.2014</span>&nbsp;<span class='break'>•</span> Сергей Ястребов&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/434059/Problema_gomologii_konechnostey_ot_shchupalets_korallov_do_krylev_nasekomykh?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/evolution_of__bilaterally_symmetrical_animals_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Проблема гомологии конечностей: от&nbsp;щупалец кораллов до&nbsp;крыльев насекомых</div>
+    
+    <div class="sublink"><span class="date">23.01.2023</span>&nbsp;<span class='break'>•</span> Сергей Ястребов&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/432862/Dvustoronnyaya_simmetriya_korallov_drevnee_radialnoy?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/cnidaria_symmetry_and_tentacles_malakhov_logo_345.jpg" alt=""></div>
+    
+    <div class="title">Двусторонняя симметрия кораллов древнее радиальной</div>
+    
+    <div class="sublink"><span class="date">26.10.2016</span>&nbsp;<span class='break'>•</span> Сергей Ястребов&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/432120/U_odnokletochnykh_organizmov_est_gen_sposobnyy_upravlyat_razvitiem_khordy?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/tbox_fig1_390.jpg" alt=""></div>
+    
+    <div class="title">У одноклеточных организмов есть ген, способный управлять развитием хорды</div>
+    
+    <div class="sublink"><span class="date">25.10.2013</span>&nbsp;<span class='break'>•</span> Сергей Ястребов&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<hr>
+
+</div>
+
+<div class='important'>
+
+
+
+<div class='rxblock eltnews'>
+
+
+
+
+<a class="nohover" href="/novosti_nauki/433662/Izmenchivost_zmeinogo_cherepa_dokumentiruet_ego_evolyutsionnye_perestroyki?from=rxblock">
+    
+        <div class='img img_stretch'><img src="images/news/crista_sellaris_of_natrix_natrix_logo_390.jpg" alt=""></div>
+    
+    <div class="title">Изменчивость змеиного черепа документирует его эволюционные перестройки</div>
+    
+    <div class="sublink"><span class="date">03.06.2020</span>&nbsp;<span class='break'>•</span> Сергей Ястребов&nbsp;<span class='break'>•</span> Новости науки</div>    
+</a>
+
+
+<div class='cl'></div>
+</div>
+
+
+<div class='gap2'></div>
+
+</div>
+
+
+<div class='storyline important'>
+
+</div>
+
+</div>
+
+<div class='cl'></div>
+
+<div class='mb'>
+<div class='pager_one'>
+<hr>
+
+  <a class='nohover' href="/novosti_nauki/434190/Marsokhod_Perseverance_rasshifroval_geologicheskuyu_istoriyu_kratera_Ezero">
+   <div class="next">
+      <div class=icon></div> 
+      <div class="suplink">08.02.2024</div>
+      <div class="pretitle"></div>
+      <div class="title">Марсоход Perseverance расшифровал геологическую историю кратера Езеро</div>
+   </div>
+  </a>
+
+
+ <a class='nohover' href="/novosti_nauki/434187/Sintezirovan_aromaticheskiy_geksazin_koltso_iz_shesti_atomov_azota">
+  <div class="prev">
+     <div class=icon></div> 
+     <div class="suplink">14.02.2024</div>
+     <div class="pretitle"></div>
+     <div class="title">Синтезирован ароматический гексазин&nbsp;— кольцо из шести атомов азота</div>
+   </div>
+  </a>
+
+</div>
+<div class='cl'></div>
+</div>
+
+
+
+<div class='other_block'>
+<hr class='top mb'>
+<div class='mb4 other_themes'>
+ <h2>Другие новости</h2>
+ <div class="submenu hrline"><div class="sm_item">
+    <a href="/novosti_nauki/t/5271901/Sergey_Yastrebov">Сергей Ястребов</a> <span class="stat">97</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/5177458/Biologiya_razvitiya">Биология развития</a> <span class="stat">78</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/2691067/Zoologiya">Зоология</a> <span class="stat">559</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/2253632/Evolyutsiya">Эволюция</a> <span class="stat">803</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/150470/Nauka_v_Rossii">Наука в России</a> <span class="stat">248</span>
+</div><div class="sm_item">
+    <a href="/novosti_nauki/t/5272126/MGU">МГУ</a> <span class="stat">43</span>
+</div></div>
+</div>
+<div class='scroll_container'>
+<div id='newsScrBlock' class='slider-view'><div class='slider'><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434407/Kukolki_zarazhennye_opasnym_parazitom_posylayut_rabochim_muravyam_signal_ubey_menya?from=bxblock'>
+<div class='img'><span><img src='images/news/altruistic-disease-signalling-in-ant-colonies_logo_390.jpg' alt=''></span></div>
+<div class='title'>Куколки, зараженные опасным паразитом, посылают рабочим муравьям сигнал «убей меня»</div>
+<div class='sublink'><span class="date">12.02</span>&nbsp;<span class='break'
+>•</span> Александр Марков</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434406/U_pervykh_pozvonochnykh_bylo_dve_pary_glaz?from=bxblock'>
+<div class='img'><span><img src='images/news/myllokunmingia_390.jpg' alt=''></span></div>
+<div class='title'>У первых позвоночных было две пары глаз</div>
+<div class='sublink'><span class="date">09.02</span>&nbsp;<span class='break'
+>•</span> Сергей Ястребов</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434405/Infrakrasnoe_izluchenie_drevneyshiy_signal_dlya_privlecheniya_opyliteley?from=bxblock'>
+<div class='img'><span><img src='images/news/infrared-radiation-is-an-ancient-pollination-signal_1_390.jpg' alt=''></span></div>
+<div class='title'>Инфракрасное излучение&nbsp;— древнейший сигнал для привлечения опылителей</div>
+<div class='sublink'><span class="date">04.02</span>&nbsp;<span class='break'
+>•</span> Елена Устинова</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434399/Bobrovye_zaprudy_uvelichivayut_chislennost_mukh_zhurchalok_i_babochek?from=bxblock'>
+<div class='img'><span><img src='images/news/beavers_for_pollinators_logo_390.jpg' alt=''></span></div>
+<div class='title'>Бобровые запруды увеличивают численность мух-журчалок и&nbsp;бабочек</div>
+<div class='sublink'><span class="date">08.12.2025</span>&nbsp;<span class='break'
+>•</span> Елена Устинова</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434398/U_gelad_kormyashchie_samki_obmanyvayut_samtsov_radi_bezopasnosti_detey?from=bxblock'>
+<div class='img'><span><img src='images/news/deceptive_fertility_in_gelade_logo_390.jpg' alt=''></span></div>
+<div class='title'>У гелад кормящие самки обманывают самцов ради безопасности детей</div>
+<div class='sublink'><span class="date">04.12.2025</span>&nbsp;<span class='break'
+>•</span> Анна Новиковская</div>
+</a>
+</div><div class='mb4 img_stretch32_rs'>
+ <a class="nohover" href='/novosti_nauki/434397/Muravi_parazity_podstrekayut_k_myatezhu_protiv_chuzhoy_tsaritsy_chtoby_zanyat_ee_mesto?from=bxblock'>
+<div class='img'><span><img src='images/news/chemically_induced_queen_matricide_in_ants_logo_390.jpg' alt=''></span></div>
+<div class='title'>Муравьи-паразиты подстрекают к&nbsp;мятежу против чужой царицы, чтобы занять ее место</div>
+<div class='sublink'><span class="date">01.12.2025</span>&nbsp;<span class='break'
+>•</span> Александр Храмов</div>
+</a>
+</div></div></div>
+<div class='scr_buttons_noscript' id='newsScrBlock_buttons'>
+<span class='prev_button' id='newsScrBlock_prevbtn'></span>
+<span class='next_button' id='newsScrBlock_nextbtn'></span>
+</div>
+</div>
+<div class='cl'></div>
+<hr class='mb hide_hphone'>
+<script type="text/javascript">scrollInit('newsScrBlock', { "mode": "DOM-S", "total": 1370, "pagesize": 6, "request_url": '/ajax/news', "request_params": '&features=similar&features=v2&template=news_sline_v2&news_title=Другие новости&objlink_params=from=bxblock&xpage_size=6&tnews=3371422&newsid=434191'});</script>
+</div>
+
+
+</div>
+
+<div class='blue subscribe_block'><div class='mblock'>
+<div class='subscribe'>
+<div class='mb10'>
+<FORM TARGET=_top ACTION=https://subscribe.ru/member/quick METHOD=POST>
+<INPUT TYPE=hidden NAME=action VALUE=quick>
+<INPUT TYPE=hidden NAME=grp VALUE="science.news.elementynews">
+<span class='title'>Новостная рассылка</span>
+<span class='xinput fullwidth'><INPUT TYPE=email NAME=email SIZE=25 MAXLENGTH=100 placeholder
+="ВАШ E-MAIL"
+></span>&nbsp;<INPUT TYPE=submit VALUE="ПОДПИСАТЬСЯ">
+<INPUT TYPE=hidden NAME=src VALUE="list_science.news.elementynews">
+</FORM>
+</div>
+
+<div class='mb6'>
+<span class='title'>«Элементы» в соцсетях:&nbsp; </span>
+
+<a class='icon vk' href='https://vk.com/elementy_ru' target='_blank' title='ВКонтакте'></a>
+<a class='icon twitter' href='https://twitter.com/elementy_ru' target='_blank' title='Твиттер'></a>
+<a class='icon youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank' title='Youtube'></a>
+
+<a class='icon telegram' href='https://telegram.me/elementy_ru' target='_blank' title='Telegram'></a>
+<a class='icon zen' href='https://zen.yandex.ru/elementy.ru' target='_blank' title='Яндекс.Дзен'></a>
+</div>
+</div>
+<div class='cl'></div>
+</div></div>
+ 
+      
+             <script type="text/javascript" src="/downloads/js/linkhint.js?v=1.02"></script>
+             <script type="text/javascript">linkhint_init();</script>
+       
+   
+
+</div>
+
+
+
+<div class='hfooter'>
+<div class='mblock'>
+
+<div class='mb4 i1'><img src='images/eltnewdesign/ft_logo.png' alt='Элементы'></div>
+
+
+
+<div class='mb3 rub1'><ul>
+<li><a href='/novosti_nauki'>Новости науки</a></li>
+<li><a href='/LHC'>LHC</a></li>
+<li><a href='/kartinka_dnya'>Картинка дня</a></li>
+<li><a href='/problems'>Задачи</a></li>
+<li><a href='/nauchno-populyarnaya_biblioteka'>Библиотека</a></li>
+<li><a href='/video'>Видеотека</a></li>
+<li><a href='/bookclub'>Книжный клуб</a></li>
+</ul></div>
+<div class='mb3 rub2'><ul>
+<li><a href='/events'>Научный календарь</a></li>
+<li><a href='/email'>Детские вопросы</a></li>
+<li><a href='/time'>Масштабы: времена</a></li>
+<li><a href='/posters'>Плакаты</a></li>
+<li><a href='/trefil'>200 законов мироздания</a></li>
+<li><a href='/genbio'>Журнал общей биологии</a></li>
+<li><a href='/catalog'>Наука в Рунете</a></li>
+</ul></div>
+
+<div class='mb3 socnets'>
+<ul>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='vk' href='https://vk.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>ВКонтакте</span></a></li>
+<li><a class='twitter' href='https://twitter.com/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Twitter</span></a></li>
+<li><a class='youtube' href='https://www.youtube.com/channel/UCTkysz31rb357OusMOOeIEw' target='_blank'><span class='icon'></span><span class='name'>Youtube</span></a></li>
+<li><font color=gray>@elementy.ru</font></li>
+<li><a class='telegram' href='https://telegram.me/elementy_ru' target='_blank'><span class='icon'></span><span class='name'>Telegram</span></a></li>
+<li><a class='zen' href='https://zen.yandex.ru/elementy.ru' target='_blank'><span class='icon'></span><span class='name'>Яндекс.Дзен</span></a></li>
+<li class='hide_main hide_hpad hide_vpad'><a class='rss' href='/rss/news' target='_blank'><span class='icon'></span><span class='name'>RSS</span></a> <span class='name'>(<a href='/rss/'  target='_blank'>все ленты</a>)</span></li>
+</ul>
+</div>
+<div class='mb3 l2 zimin'>
+<div class='msg'><a href='https://basis-foundation.ru/' target="_blank">При поддержке фонда «Базис»</a></div>
+<a href='https://basis-foundation.ru/' target="_blank"><img src='images/eltnewdesign/basis2.png' alt='Фонд поддержки фундаментальной физики Базис'></a>
+</div>
+<div class='cl'></div>
+<hr>
+<div class='mb4 l2 copy'>© 2005–2026 «Элементы»</div>
+<div class='mb3 about'><a href='/about'>О проекте</a></div>
+<div class='mb3 feedback'><a href='mailto:info@elementy.ru'>Обратная связь</a></div>
+<div class='mb3 rss hide_phone'><a href='/rss/news' target='_blank'>RSS</a> (<a href='/rss/'  target='_blank'>все ленты</a>)</div>
+<div class='mb3 subscrb'><a href='https://subscribe.ru/catalog/science.news.elementynews'>Подписаться на рассылку</a></div>
+<!--<div class='mb3 l2 design'><a href='http://charmerstudio.com' target='_blank'>Дизайн: Charmer Studio</a></div>-->
+<div class='cl gap'></div>
+
+
+<div class='mb counters'>
+<!--LiveInternet counter--><script language="JavaScript"><!--
+document.write('<img src="//counter.yadro.ru/hit?r'+escape(document.referrer)+((typeof(screen)=='undefined')?'':';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+'" width=1 height=1 alt="">')
+//-->
+</script><!--/LiveInternet-->
+<!-- Yandex.Metrika counter --><script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter31698571 = new Ya.Metrika({ id:31698571, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="https://mc.yandex.ru/watch/31698571" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+<!-- Google Analytics --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65855867-1', 'auto');
+  ga('send', 'pageview');
+</script><!-- // Google Analytics -->
+<!--begin of Rambler's Top100 code -->
+<script id="top100Counter" type="text/javascript" src="//counter.rambler.ru/top100.jcn?707804"></script>
+<noscript><a href="http://top100.rambler.ru/top100/"><img src="//counter.rambler.ru/top100.cnt?707804" alt="" width=1 height=1 border=0></a>
+</noscript>
+<!--end of Top100 code-->
+</div>
+
+
+</div>
+</div>
+
+</div>
+</body>
+</html>
