@@ -46,3 +46,32 @@ for fname, (counts, total_tokens) in token_docs.items():
             f_out.write(f"{term} {idf:.6f} {tfidf:.6f}\n")
 
 print("TF-IDF для токенов вычислен и сохранен")
+
+lemmas_dict = {}
+for fname in sorted(os.listdir(LEMMAS_DIR)):
+    path = os.path.join(LEMMAS_DIR, fname)
+    with open(path, encoding="utf-8") as f:
+        tokens = [line.strip() for line in f if line.strip()]
+    counts = Counter(tokens)
+    lemma_docs[fname] = (counts, len(tokens))
+
+for lemma in lemmas_dict:
+    lemma_df[lemma] = 0
+
+for fname, (counts, total_tokens) in lemma_docs.items():
+    for lemma, forms in lemmas_dict.items():
+        if any(form in counts for form in forms):
+            lemma_df[lemma] += 1
+
+for fname, (counts, total_tokens) in lemma_docs.items():
+    out_path = os.path.join(OUTPUT_DIR, f"{fname}_lemmas.txt")
+    with open(out_path, "w", encoding="utf-8") as f_out:
+        for lemma, forms in lemmas_dict.items():
+            term_count = sum(counts.get(form, 0) for form in forms)
+            tf = term_count / total_tokens if total_tokens > 0 else 0
+            df = lemma_df.get(lemma, 0)
+            idf = math.log(N / (1 + df))
+            tfidf = tf * idf
+            f_out.write(f"{lemma} {idf:.6f} {tfidf:.6f}\n")
+
+print("TF-IDF для лемм вычислен и сохранен")
