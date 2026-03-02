@@ -81,7 +81,7 @@ for fname, (counts, total_tokens) in lemma_docs.items():
             term_count = sum(counts.get(form, 0) for form in forms)
             tf = term_count / total_tokens if total_tokens > 0 else 0
             df = lemma_df.get(lemma, 0)
-            idf = math.log(N / (1 + df))
+            idf = math.log(1 + N / (1 + df))
             tfidf = tf * idf
             f_out.write(f"{lemma} {idf:.6f} {tfidf:.6f}\n")
 
