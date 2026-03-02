@@ -1,4 +1,5 @@
 import os
+import math
 from collections import defaultdict
 from collections import Counter
 
@@ -32,3 +33,16 @@ for fname in token_files:
 
 tokens_list = sorted(all_tokens_set)
 print("TF и DF для токенов подсчитаны для всех документов. Всего терминов:", len(tokens_list))
+
+
+for fname, (counts, total_tokens) in token_docs.items():
+    out_path = os.path.join(OUTPUT_DIR, f"{fname}_terms.txt")
+    with open(out_path, "w", encoding="utf-8") as f_out:
+        for term in tokens_list:
+            tf = counts.get(term, 0) / total_tokens if total_tokens > 0 else 0
+            df = token_df.get(term, 0)
+            idf = math.log(N / (1 + df))
+            tfidf = tf * idf
+            f_out.write(f"{term} {idf:.6f} {tfidf:.6f}\n")
+
+print("TF-IDF для токенов вычислен и сохранен")
