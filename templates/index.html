@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Векторный поиск</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #f5f5f5;
+            color: #333;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 28px;
+            color: #1a1a1a;
+        }
+        .search-form {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+        }
+        .search-form input[type="text"] {
+            flex: 1;
+            padding: 12px 16px;
+            font-size: 16px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        .search-form input[type="text"]:focus {
+            border-color: #4a90d9;
+        }
+        .search-form button {
+            padding: 12px 24px;
+            font-size: 16px;
+            background: #4a90d9;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        .search-form button:hover {
+            background: #357abd;
+        }
+        .results-info {
+            margin-bottom: 16px;
+            color: #666;
+            font-size: 14px;
+        }
+        .result-item {
+            background: white;
+            border-radius: 8px;
+            padding: 16px 20px;
+            margin-bottom: 12px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .result-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 6px;
+        }
+        .result-rank {
+            font-weight: 700;
+            color: #4a90d9;
+            font-size: 18px;
+        }
+        .result-score {
+            background: #e8f0fe;
+            color: #4a90d9;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 13px;
+            font-weight: 600;
+        }
+        .result-doc {
+            font-size: 15px;
+            color: #555;
+            margin-bottom: 4px;
+        }
+        .result-link {
+            font-size: 14px;
+        }
+        .result-link a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+        .result-link a:hover {
+            text-decoration: underline;
+        }
+        .no-results {
+            text-align: center;
+            color: #999;
+            padding: 40px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Векторный поиск</h1>
+
+        <form class="search-form" method="GET" action="/">
+            <input type="text" name="q" value="{{ query }}" placeholder="Введите поисковый запрос..." autofocus>
+            <button type="submit">Найти</button>
+        </form>
+
+        {% if query %}
+            {% if results %}
+                <div class="results-info">
+                    Найдено документов: {{ results|length }} (топ-10 по релевантности)
+                </div>
+                {% for r in results %}
+                <div class="result-item">
+                    <div class="result-header">
+                        <span class="result-rank">#{{ r.rank }}</span>
+                        <span class="result-score">score: {{ r.score }}</span>
+                    </div>
+                    <div class="result-doc">{{ r.doc_id }}</div>
+                    <div class="result-link">
+                        <a href="{{ r.url }}" target="_blank">{{ r.url }}</a>
+                    </div>
+                </div>
+                {% endfor %}
+            {% else %}
+                <div class="no-results">
+                    По запросу &laquo;{{ query }}&raquo; ничего не найдено.
+                </div>
+            {% endif %}
+        {% endif %}
+    </div>
+</body>
+</html>
