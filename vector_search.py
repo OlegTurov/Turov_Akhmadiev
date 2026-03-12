@@ -7,7 +7,7 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 import pymorphy3
 
-LEMMAS_DIR = "lemmas"
+OUTPUT_DIR = "tfidf"
 MIN_SCORE = 0.5
 
 nltk.download('punkt_tab', quiet=True)
@@ -18,43 +18,30 @@ morph = pymorphy3.MorphAnalyzer()
 
 
 def load_corpus():
-    lemma_files = sorted(os.listdir(LEMMAS_DIR))
-    N = len(lemma_files)
-
     doc_vectors = {}
-    lemma_df = defaultdict(int)
-    all_lemmas = set()
+    lemma_idf = {}
 
-    doc_lemma_counts = {}
+    output_files = [f for f in sorted(os.listdir(OUTPUT_DIR)) if f.endswith("_lemmas.txt_lemmas.txt")]
+    N = len(output_files)
 
-    for fname in lemma_files:
-        doc_id = fname.replace("_lemmas.txt", "")
-        path = os.path.join(LEMMAS_DIR, fname)
-        lemma_list = []
+    for fname in output_files:
+        doc_id = fname.replace("_lemmas.txt_lemmas.txt", "")
+        path = os.path.join(OUTPUT_DIR, fname)
+        vector = {}
 
         with open(path, encoding="utf-8") as f:
             for line in f:
                 parts = line.strip().split()
-                if parts:
-                    lemma = parts[0]
-                    lemma_list.append(lemma)
-                    all_lemmas.add(lemma)
+                if len(parts) == 3:
+                    lemma, idf_val, tfidf_val = parts[0], float(parts[1]), float(parts[2])
+                    if tfidf_val > 0:
+                        vector[lemma] = tfidf_val
+                    if lemma not in lemma_idf:
+                        lemma_idf[lemma] = idf_val
 
-        counts = Counter(lemma_list)
-        doc_lemma_counts[doc_id] = (counts, len(lemma_list))
-
-        for lemma in set(lemma_list):
-            lemma_df[lemma] += 1
-
-    for doc_id, (counts, total) in doc_lemma_counts.items():
-        vector = {}
-        for lemma, count in counts.items():
-            tf = count / total if total > 0 else 0
-            idf = math.log(1 + N / (1 + lemma_df.get(lemma, 0)))
-            vector[lemma] = tf * idf
         doc_vectors[doc_id] = vector
 
-    return doc_vectors, lemma_df, N
+    return doc_vectors, lemma_idf, N
 
 
 def lemmatize_query(query):
@@ -79,14 +66,14 @@ def lemmatize_query(query):
     return lemmas
 
 
-def build_query_vector(query_lemmas, lemma_df, N):
+def build_query_vector(query_lemmas, lemma_idf, N):
     counts = Counter(query_lemmas)
     total = len(query_lemmas)
     vector = {}
 
     for lemma, count in counts.items():
         tf = count / total if total > 0 else 0
-        idf = math.log(1 + N / (1 + lemma_df.get(lemma, 0)))
+        idf = lemma_idf.get(lemma, 0)
         vector[lemma] = tf * idf
 
     return vector

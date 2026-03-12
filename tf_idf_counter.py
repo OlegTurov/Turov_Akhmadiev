@@ -4,7 +4,7 @@ from collections import defaultdict, Counter
 
 TOKENS_DIR = "tokens"
 LEMMAS_DIR = "lemmas"
-OUTPUT_DIR = "output"
+OUTPUT_DIR = "tfidf"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
