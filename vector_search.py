@@ -6,6 +6,7 @@ from collections import defaultdict, Counter
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 import pymorphy3
+import requests
 
 OUTPUT_DIR = "tfidf"
 MIN_SCORE = 0.5
@@ -17,15 +18,18 @@ russian_stopwords = set(stopwords.words('russian'))
 morph = pymorphy3.MorphAnalyzer()
 
 
+BASE_URL = "https://elementy.ru/{}"
+
 def load_corpus():
     doc_vectors = {}
     lemma_idf = {}
+    N = 0
 
     output_files = [f for f in sorted(os.listdir(OUTPUT_DIR)) if f.endswith("_lemmas.txt")]
-    N = len(output_files)
 
     for fname in output_files:
-        doc_id = fname.replace("_lemmas.txt", "")
+        doc_id = fname.replace("_lemmas.txt", "").replace("novosti_nauki_", "novosti_nauki/").replace("_tokens.txt", "")
+
         path = os.path.join(OUTPUT_DIR, fname)
         vector = {}
 
@@ -40,6 +44,7 @@ def load_corpus():
                         lemma_idf[lemma] = idf_val
 
         doc_vectors[doc_id] = vector
+        N += 1
 
     return doc_vectors, lemma_idf, N
 
