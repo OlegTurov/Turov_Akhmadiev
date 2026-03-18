@@ -21,11 +21,11 @@ def load_corpus():
     doc_vectors = {}
     lemma_idf = {}
 
-    output_files = [f for f in sorted(os.listdir(OUTPUT_DIR)) if f.endswith("_lemmas.txt_lemmas.txt")]
+    output_files = [f for f in sorted(os.listdir(OUTPUT_DIR)) if f.endswith("_lemmas.txt")]
     N = len(output_files)
 
     for fname in output_files:
-        doc_id = fname.replace("_lemmas.txt_lemmas.txt", "")
+        doc_id = fname.replace("_lemmas.txt", "")
         path = os.path.join(OUTPUT_DIR, fname)
         vector = {}
 
